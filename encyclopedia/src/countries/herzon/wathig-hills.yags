@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Wathig Hills</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="wathig-hills">Wathig Hills</subject>
+
+            <category>Hills</category>
+
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+            <topic uri="herzon">Herzon</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Wathig Hills</title>
+
+            <para>
+                The Wathig Hills mark the sourthern boundary of Herzon.
+                They are chalky, broken and generally desolate.
+            </para>
+        </sect1>
+    </body>
+</article>
