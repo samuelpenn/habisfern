@@ -142,7 +142,9 @@
             <sect2>
                 <title>Rituals</title>
                 
-                <advantages>
+                <advantages title="Rituals of the Shields of Neya"
+                            role="technique">
+
                     <advantage name="Oath of Neya" type="technique">
                         <cost points="4"/>
                         <skill name="Religion"/>

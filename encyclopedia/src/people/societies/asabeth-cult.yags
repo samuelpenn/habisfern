@@ -133,7 +133,7 @@
                     powerful rituals.
                 </para>
                 
-                <advantages title="Rituals of Asabeth">
+                <advantages title="Rituals of Asabeth" role="technique">
                     <advantage name="Blessing of Blood" type="technique">
                         <cost points="1"/>
                         <skill name="Religion (Asabeth)"/>

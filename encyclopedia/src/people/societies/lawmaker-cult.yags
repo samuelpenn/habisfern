@@ -232,7 +232,7 @@
                     also cover battle and war as well.
                 </para>
                 
-                <advantages>
+                <advantages role="technique" title="Rituals of the Lawmaker">
                     <advantage name="Aura of Authority" type="technique">
                         <cost points="3"/>
                         <skill name="Religion"/>
