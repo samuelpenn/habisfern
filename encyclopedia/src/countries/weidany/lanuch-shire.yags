@@ -33,12 +33,18 @@
         <style name="module"/>
 
         <references>
+            <see uri="cerdicsfield">Cerdicsfield</see>
         </references>
 
         <topics>
             <subject uri="lanuch-shire">Lanuch Shire</subject>
 
-            <category>None</category>
+            <category>Shire</category>
+            
+            <topic uri="lanuch-shire">Lanuch Shire</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
         </topics>
     </header>
 
@@ -52,11 +58,22 @@
                 does it have monetary wealth and political 
                 influence, it is also highly populated, due to 
                 being the oldest of the Rornic settlements in the land.
+                The shire town is <qv uri="cerdicsfield">Cerdicsfield</qv>.
             </para>
 
             <para>
-                Much of the landscape is pasture or fields, with 
-                some cultivated woodlands. Even amongst the 
+                Much of the landscape is pasture or fields, with some
+                cultivated woodlands. The fertile landscape is broken by
+                the occasional tract of marshland, for much of Lanuch is
+                quite low and flat. The few hilly regions are found in
+                the wooded areas of the shire. The
+                <qv uri="depsum-river">Depsum River</qv> cuts through the
+                shire from the southwest to the northeast, and is the
+                main trade route to the coast.
+            </para>
+            
+            <para>
+                Even amongst the 
                 general population there is a general feeling of 
                 identity as being part of the Shire of Lanuch. 
                 This latter is most worrying for the Queen, 
