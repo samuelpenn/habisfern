@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Yali, Goddess of Passion</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="yali">Yali, Goddess of Passion</subject>
+
+            <category>Religion</category>
+            <topic uri="belogan-mythology">Belogan Mythology</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Yali, Goddess of Passion</title>
+
+            <para>
+                Yali won the <qv 
+                uri="belogan-wisdoms">Wisdoms</qv> of beauty, 
+                love and passion. She is the goddess of true 
+                love, not the crude pleasure  of sex (which is 
+                enjoyed by <qv uri="koros">Koros</qv>).
+            </para>
+
+        </sect1>
+    </body>
+</article>

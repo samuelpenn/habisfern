@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Beloga</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="beloga">Beloga</subject>
+
+            <category>Religion</category>
+            <topic uri="belogan-mythology">Belogan Mythology</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Beloga</title>
+
+            <para>
+                Beloga is the Universe. Beloga is everything, at 
+                every time. Beloga existed before any of the 
+                gods, and it was Beloga that created the <qv 
+                uri="three-mothers">Three Mothers</qv>. 
+                Considered to be a conscious entity, Beloga is 
+                the god of the gods. There is no organised 
+                worship of Beloga.
+            </para>
+
+        </sect1>
+    </body>
+</article>

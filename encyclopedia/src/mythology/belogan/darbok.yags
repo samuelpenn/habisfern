@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Darbok, the North Wind</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="darbok">Darbok, the North Wind</subject>
+
+            <category>Religion</category>
+            <topic uri="belogan-mythology">Belogan Mythology</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Darbok, the North Wind</title>
+
+            <para>
+                Darbok is god of the North Wind, sometimes called 
+                <e>He Who Stands Alone</e>. He is the guardian 
+                against the north, protecting the lands of man 
+                from the worst of the Ice. When the <qv 
+                uri="belogan-wisdoms">Wisdoms</qv> were 
+                distributed to the gods, Darbok's was 
+                <e>Duty</e>. Many say that he lost, but everyone 
+                else won because of it.
+            </para>
+
+            <para>
+                Followers of Darbok take up many professions, but 
+                their ideal is always to do their duty whatever 
+                it demands of them, without complaining or trying 
+                to avoid the responsibility, whatever the consequences.
+            </para>
+
+        </sect1>
+    </body>
+</article>

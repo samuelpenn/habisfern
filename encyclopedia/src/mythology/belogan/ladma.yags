@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Ladma, Earth Mother</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="three-mothers">Three Mothers</see>
+        </references>
+
+        <topics>
+            <subject uri="ladma">Ladma, Earth Mother</subject>
+
+            <category>Religion</category>
+            <topic uri="belogan-mythology">Belogan Mythology</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Ladma, Earth Mother</title>
+
+            <para>
+                Ladma is one of the <qv uri="three-mothers">Three 
+                Mothers</qv> whom <qv uri="beloga">Beloga</qv> 
+                created in order to begin life in the universe. 
+                Ladma mated with the other Earth Mothers, and 
+                produced <qv uri="morav">Morav</qv> and <qv 
+                uri="svargi">Svargi</qv>. Together, Svargi, Ladma 
+                and <qv uri="zharva">Zharva</qv> begat the world.
+            </para>
+
+        </sect1>
+    </body>
+</article>

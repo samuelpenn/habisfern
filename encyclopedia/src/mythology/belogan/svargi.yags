@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Svargi, King of the Gods</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="svargi">Svargi, King of the Gods</subject>
+
+            <category>Religion</category>
+            <topic uri="belogan-mythology">Belogan Mythology</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Svargi, King of the Gods</title>
+
+            <para>
+                Svargi is the ruler of the gods, and the son of 
+                the <qv uri="three-mothers">Three Mothers</qv>. 
+                His grandfather is <qv uri"beloga">Beloga</qv>, 
+                the Universe.
+            </para>
+
+            <para>
+                With <qv uri="morav">Morav</qv>, Svargi created 
+                all of mankind, and also the other gods. All are 
+                descended from him, and he is considered to be 
+                the lord and protector of all mankind.
+            </para>
+
+            <para>
+                During the <qv uri="belogan-great-winter">Great 
+                Winter</qv>, it was Svargi who united the gods 
+                together in order to fight against the Ice. It 
+                was also Svargi who petitioned Beloga for the 
+                power that eventually led to the defeat of the 
+                Ice, and the binding of the gods to their current domains.
+            </para>
+
+        </sect1>
+    </body>
+</article>
