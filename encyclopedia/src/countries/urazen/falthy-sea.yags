@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Falthy Sea</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="niemstarg">Niemstarg</see>
+            <see uri="salov">Salov</see>
+            <see uri="urazen">Urazen</see>
+            <see uri="vorlov">Vorlov</see>
+        </references>
+
+        <topics>
+            <subject uri="falthy-sea">Falthy Sea</subject>
+
+            <category>Sea</category>
+
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Falthy Sea</title>
+            
+            <para>
+                Sea to the north of Euressa, its shores bordering on
+                Urazen, Salov, Niemstarg and Vorlov. It is a cold sea,
+                but rich in fish. Because of the narrow straights
+                between Niemstarg and Vorlov, the sea is relatively
+                calm and the tides are slight.
+            </para>
+        </sect1>
+    </body>
+</article>
