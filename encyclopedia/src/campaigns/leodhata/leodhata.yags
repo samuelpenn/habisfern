@@ -50,9 +50,27 @@
             <title>Leodhata</title>
 
             <para>
-                Campaign set in 1230, in Northwood Shire. Named for the
-                sword <qv uri="persecutor">Persecutor</qv>.
+                The <e>Lheodhata</e> campaign follows the story of
+                <qv uri="riahannon-aeddan">Riahannon of Aeddan</qv>,
+                <qv uri="scua-cuculer">Scua of Holeham</qv>,
+                <qv uri="osric-aeddan">Osric of Aeedan</qv>,
+                <qv uri="hengest-bard">Hengest the Bard</qv> and
+                <qv uri="ragdar">Ragdar</qv>.
             </para>
+
+            <para>
+                The campaign is named for the rune sword
+                <qv uri="persecutor">Persecutor</qv>. It started in the year
+                1229, during Haligmonath.
+            </para>
+
+            <sect2>
+                <title>Bandits</title>
+
+                <para>
+                    It is Fenyadaeg, 25th of Haligmonath 1229.
+                </para>
+            </sect2>
         </sect1>
     </body>
 </article>
