@@ -33,6 +33,9 @@
         <style name="module"/>
 
         <references>
+            <see uri="brokki">Brokki</see>
+            <see uri="pel">Pel</see>
+            <see uri="hreth">Hreth</see>
         </references>
 
         <topics>
@@ -50,9 +53,31 @@
 
             <para>
                 Giantess and wife of Brokki. She is also the mother of 
-                Hreth, by the god Pel.
+                Hreth, by the god Pel. Gruaga took Pel as a lover after
+                he had been created by <qv uri="reas">Reas</qv> and
+                <qv uri="haltan">Haltan</qv>. When Brokki discovered
+                this, Pel was forced to flee from Brokki's domain.
             </para>
-
+            
+            <para>
+                Gruaga is depicted as a giant crone who sometimes fights
+                in battle alongside her husband. When she does so, she
+                wields a giant spear which is little more than a
+                sharpened fir tree (and about the same size).
+            </para>
+            
+            <para>
+                Gruaga is said to be the mother of the first
+                <qv uri="hag">Hags</qv>, though this honour is sometimes
+                bestowed on an unnamed human woman who was raped by
+                <qv uri="meam">Meam</qv>.
+            </para>
+            
+            <para>
+                The giantess is mentioned in the Old World, where she was
+                said to infect the dreams of men, sending nightmares to
+                weaken their resolve against the Ice.
+            </para>
         </sect1>
     </body>
 </article>
