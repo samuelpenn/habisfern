@@ -328,7 +328,7 @@
                     <advantages>
                         <advantage name="Ambush"/>
                         <advantage name="Cleave"/>
-                    </advantage>
+                    </advantages>
 
                     <combat href="/usr/share/web/xml/yags/core/arms.yags">
                         <weaponlist href="/usr/share/web/xml/yags/harn/weapons.xml"/>
