@@ -18,21 +18,22 @@
         </cvsinfo>
 
         <license>
-            <year>2002</year>
+            <year>2004</year>
             <holder>Samuel Penn</holder>
             <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
             <text>
                 Permission is granted to copy, distribute and/or
                 modify this document under the terms of the GNU
-                Free Documentation License, Version 1.1 or any
-                later version published by the Free Software
-                Foundation.
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
             </text>
         </license>
 
         <style name="module"/>
 
         <references>
+            <see uri="yammath">Yammath</see>
         </references>
 
         <topics>
@@ -40,6 +41,7 @@
 
             <category>Priests</category>
 
+            <topic uri="druids">Druids</topic>
             <topic uri="danuch">Danuch</topic>
             <topic uri="cadwold">Cadwold</topic>
             <topic uri="weidany">Weidany</topic>
@@ -53,28 +55,35 @@
             <title>Druids</title>
 
             <para>
-                Druids are the priesthood of the old Weidanic 
-                culture that existed in Weidany before the Rornic 
-                migrations. They are still the central authority 
-                in Danuch, and exist to some extent in Cadwold, 
+                Druids are the priesthood of the old Weidanic culture that
+                existed in Weidany before the Rornic migrations. They are
+                still the central authority in <qv uri="danuch">Danuch</qv>,
+                and exist to some extent in <qv uri="cadwold">Cadwold</qv>,
                 but are otherwise extinct.
             </para>
 
             <para>
-                The Druids worship the earth goddess Yammath, who 
-                symbolises the life/death cycle of nature, though 
-                with a greater focus on the death aspect.
+                The Druids worship the earth goddess
+                <qv uri="yammath">Yammath</qv>, who symbolises the
+                life/death cycle of nature, though with a greater focus
+                on the death aspect than is associated by
+                <qv uri="yagma">Yagma</qv> for instance. The two goddesses,
+                Yammath and Yagma, are similar, and have similar roots. The
+                Druids acknowledge the existence of the other gods of the
+                Rornic pantheon, but believe that these gods are minor in
+                comparison to Yammath, and rarely mention them in any of
+                their rituals.
             </para>
 
             <para>
-                During the wars with the people of Rorn, the 
-                Druids also turned to worship of the Elders as a 
-                source of power. This painted them as allies of 
-                the Ice in the eyes of the Rornic invaders, and 
-                so the Druids were brutally exterminated whenever 
-                they were found.
+                During the wars with the people of Rorn, the Druids also
+                turned to worship of the <qv uri="elders">Elders</qv> as a
+                source of power. This painted them as allies of the
+                <qv uri="ice">Ice</qv> in the eyes of the Rornic invaders,
+                and so the Druids were brutally exterminated whenever
+                they were found. The fact that the Druids were organising
+                resistence to the Rornic invastion didn't help either.
             </para>
-
         </sect1>
     </body>
 </article>
