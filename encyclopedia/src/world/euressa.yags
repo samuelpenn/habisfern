@@ -57,6 +57,8 @@
                 Spine Mountains, it is mostly temperate or cold forest.
             </para>
 
+            <import-map uri="euressa" scale="0"/>
+
         </sect1>
     </body>
 </article>

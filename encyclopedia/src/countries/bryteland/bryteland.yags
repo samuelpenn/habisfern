@@ -63,6 +63,8 @@
         <sect1>
             <title>Kingdoms of Bryteland</title>
 
+            <import-map uri="bryteland" scale="2" thumb="320"/>
+
             <para>
                 The north western coast was settled soon after the
                 Betrayal by people led by the Rornic king Bryta, who
