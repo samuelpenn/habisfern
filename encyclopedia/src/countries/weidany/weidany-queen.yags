@@ -172,6 +172,13 @@
                             decided that she had the right temperment
                             to be a Queen of Weidany.
                         </para>
+                        
+                        <para>
+                            The descendents of Eadhild current make up the
+                            Cwensblood - Queen's Blood - those who are
+                            eligiable to take the crown on the current
+                            Queen's death.
+                        </para>
                     </event>
                     
                     <event title="Frythrun">
@@ -294,6 +301,10 @@
                     
                     <person name="Raedburh">
                         <born>1210</born>
+                    </person>
+                    
+                    <person name="Godhild">
+                        <born>1229</born>
                     </person>
                     
                     <person name="Hereswith">
@@ -612,22 +623,294 @@
                         </children>
                     </family>
                     
-                    <family mother="Sexrun">
+                    <person name="Cendrun the Tall">
+                        <born>1197</born>
+                        <short>
+                            Superb warrior, member of the Red Guard.
+                        </short>
+                    </person>
+                    
+                    <family mother="Sexrun Whiteheart">
                         <children>
-                            <child></child>
+                            <child>Cendrun the Tall</child>
                         </children>
                     </family>
                     
+                    <person name="Guthild">
+                        <born>1150</born>
+                        <died>1198</died>
+                    </person>
+                    
+                    <person name="Othrun">
+                        <born>1157</born>
+                        <died>1218</died>
+                    </person>
+                    
+                    <person name="Cenfloed">
+                        <born>1163</born>
+                        <died>1205</died>
+                    </person>
+                    
                     <family mother="Cyneswith">
                         <children>
-                            <child></child>
-                            <child></child>
-                            <child></child>
+                            <child>Guthild</child>
+                            <child>Othrun</child>
+                            <child>Cenfloed</child>
+                        </children>
+                    </family>
+                    
+                    <person name="Beoith">
+                        <born>1172</born>
+                    </person>
+                    
+                    <family mother="Guthild">
+                        <children>
+                            <child>Beoith</child>
+                        </children>
+                    </family>
+                    
+                    <person name="Uthild">
+                        <born>1203</born>
+                    </person>
+                    
+                    <person name="Egrun">
+                        <born>1209</born>
+                    </person>
+                    
+                    <person name="Sifloed">
+                        <born>1212</born>
+                    </person>
+                    
+                    <family mother="Beoith">
+                        <children>
+                            <child>Uthild</child>
+                            <child>Egrun</child>
+                            <child>Sifloed</child>
+                        </children>
+                    </family>
+                    
+                    <person name="Harith">
+                        <born>1223</born>
+                    </person>
+                    
+                    <person name="Plegrun">
+                        <born>1227</born>
+                    </person>
+                    
+                    <family mother="Uthild">
+                        <children>
+                            <child>Harith</child>
+                            <child>Plegrun</child>
+                        </children>
+                    </family>
+                    
+                    <person name="Aethelny">
+                        <born>1225</born>
+                    </person>
+                    
+                    <family mother="Egrun">
+                        <children>
+                            <child>Aethelny</child>
+                        </children>
+                    </family>
+                    
+                    <person name="Cendrun the Fair">
+                        <born>1202</born>
+                    </person>
+                    
+                    <person name="Tostrun">
+                        <born>1211</born>
+                    </person>
+                    
+                    <family mother="Othrun">
+                        <children>
+                            <child>Cendrun the Fair</child>
+                            <child>Tostrun</child>
+                        </children>
+                    </family>
+                    
+                    <person name="Tostny">
+                        <born>1178</born>
+                        <died>1195</died>
+                    </person>
+                    
+                    <family mother="Cenfloed">
+                        <children>
+                            <child>Tostny</child>
+                        </children>
+                    </family>
+                    
+                    <person name="Godny">
+                        <born>1194</born>
+                    </person>
+                    
+                    <family mother="Tostny">
+                        <children>
+                            <child>Godny</child>
+                        </children>
+                    </family>
+                    
+                    <person name="Oftny">
+                        <born>1208</born>
+                    </person>
+                    
+                    <person name="Eadny">
+                        <born>1213</born>
+                    </person>
+                    
+                    <family mother="Godny">
+                        <children>
+                            <child>Oftny</child>
+                            <child>Eadny</child>
+                        </children>
+                    </family>
+                    
+                    <person name="Ofrun">
+                        <born>1223</born>
+                    </person>
+                    
+                    <person name="Ofloed">
+                        <born>1226</born>
+                    </person>
+                    
+                    <family mother="Oftny">
+                        <children>
+                            <child>Ofrun</child>
+                            <child>Ofloed</child>
+                        </children>
+                    </family>
+                    
+                    <person name="Sifny">
+                        <born>1213</born>
+                    </person>
+                    
+                    <family mother="Eadny">
+                        <children>
+                            <child>Sifny</child>
+                        </children>
+                    </family>
+                    
+                    <person name="Uthny">
+                        <born>1229</born>
+                    </person>
+                    
+                    <family mother="Sifny">
+                        <children>
+                            <child>Uthny</child>
                         </children>
                     </family>
                 </familyTree>
-                
             </sect2>
+            
+            <sect2>
+                <title>Previous Royal Family</title>
+                
+                <para>
+                    The descendents of Aelthryth are not as well recorded,
+                    and there are many gaps, but those that are known are
+                    given below.
+                </para>
+                
+                <familyTree title="Descendents of King Mergood">
+                    <root>King Mergood</root>
+                    
+                    <person name="King Mergood">
+                        <male/>
+                    </person>
+                    
+                    <person name="Witgar">
+                        <male/>
+                    </person>
+                    
+                    <person name="Aethelwulf">
+                        <male/>
+                    </person>
+                    
+                    <person name="Freothlaed">
+                    </person>
+                    
+                    <person name="Queen Aelthryth">
+                        <born>982</born>
+                        <died>1039</died>
+                    </person>
+                    
+                    <person name="Queen Aelflaed">
+                        <born>998</born>
+                        <died>1059</died>
+                    </person>
+                    
+                    <person name="Hereswith">
+                        <born>1001</born>
+                        <died>1051</died>
+                    </person>
+                    
+                    <person name="Burhed">
+                        <born>1008</born>
+                        <died>1017</died>
+                    </person>
+                    
+                    <person name="Queen Eadhild">
+                        <born>1015</born>
+                        <died>1069</died>
+                    </person>
+                    
+                    <person name="Cuthburh">
+                        <born>1021</born>
+                        <died>1044</died>
+                    </person>
+                    
+                    <person name="Raedburh">
+                        <born>1015</born>
+                        <died>1055</died>
+                    </person>
+                    
+                    <person name="Aelgifu">
+                        <born>1020</born>
+                        <died>1028</died>
+                    </person>
+                    
+                    <person name="Queen Sexburh">
+                        <born>1032</born>
+                        <died>1084</died>
+                    </person>
+                    
+                    <person name="Queen Eadgifu">
+                        <born>1057</born>
+                        <died>1102</died>
+                    </person>
+                    
+                    <person name="Eadgyth">
+                        <born>1060</born>
+                        <died>1072</died>
+                    </person>
+                    
+                    <person name="Ealhred">
+                        <born>1065</born>
+                        <died>1115</died>
+                    </person>
+                    
+                    <person name="Werdrun">
+                        <born>1073</born>
+                        <died>1116</died>
+                    </person>
+                    
+                    <person name="Aeldith">
+                        <born>1075</born>
+                        <died>1135</died>
+                    </person>
+                    
+                    <person name="Queen Godhild">
+                        <born>1083</born>
+                        <died>1130</died>
+                    </person>
+                    
+                    <person name="Hereswith Lesraed">
+                        <born>1088</born>
+                        <died>1142</died>
+                        <short>Known as Hereswith False Council.</short>
+                    </person>
+                     
+                </familyTree>
         </sect1>
     </body>
 </article>
