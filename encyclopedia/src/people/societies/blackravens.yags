@@ -66,34 +66,34 @@
             </para>
 
             <para>
-                The Black Raven is not the only cult of the 
-                Raven, and neither is it the most common, but it 
+                The Black Raven is not the only cult of the
+                Raven, and neither is it the most common, but it
                 is probably the most famous.
             </para>
 
             <para>
-                The cult practises magic, and often pose as 
-                (indeed, are) bards. It is said that all 
-                knowledge is passed back to their temple 
-                somewhere in the Scaedwen Forest. For the most 
-                part though, they work for secular lords, spying 
+                The cult practises magic, and often pose as
+                (indeed, are) bards. It is said that all
+                knowledge is passed back to their temple
+                somewhere in the Scaedwen Forest. For the most
+                part though, they work for secular lords, spying
                 and scouting for them.
             </para>
 
             <para>
-                The Queen of Rorn is known to employ the Black 
-                Ravens on a regular basis, and even has a sub 
-                cult (the Golden Ravens) based at Stowell, in the 
+                The Queen of Rorn is known to employ the Black
+                Ravens on a regular basis, and even has a sub
+                cult (the Golden Ravens) based at Stowell, in the
                 royal castle.
             </para>
         </sect1>
-        
+
         <sect1>
             <title>Membership</title>
-            
+
             <sect2>
                 <title>Skills</title>
-            
+
                 <skill-list>
                     <skill name="Religion (Black Ravens)" type="knowledge">
                         <description>
@@ -105,15 +105,54 @@
                     </skill>
                 </skill-list>
             </sect2>
-            
+
             <sect2>
                 <title>Rituals</title>
-                
+
                 <advantages>
-                    <advantage name="Words of Secrecy" type="technique">
+                    <advantage name="Mark of the Raven" type="technique">
+                        <cost points="2"/>
+                        <skill name="Religion"/>
+
+                        <description>
+                            <para>
+                                Knowledge of marks and signs which may be
+                                used to communicate with other <e>Ravens</e>
+                                without the knowledge of others. Marks take
+                                the form of non-descript carvings, or
+                                objects arranged in certain patterns.
+                            </para>
+
+                            <para>
+                                Only very simple messages can be
+                                communicated, normally warnings or
+                                directions, or marking of safe territory.
+                            </para>
+                        </description>
+                    </advantage>
+
+                    <advantage name="Secret Words" type="technique">
+                        <cost points="2"/>
+                        <skill name="Religion"/>
+                        <prerequisite>Mark of the Raven</prerequisite>
+
+                        <description>
+                            <para>
+                                With <e>Secret Words</e>, a Raven can
+                                communicate with another Raven using
+                                coded speech and signs whilst carrying
+                                on another conversation about an entirely
+                                seperate (and normally unimportant)
+                                matters. Secret communication is limited
+                                to basic ideas and concepts.
+                            </para>
+                        </description>
+                    </advantage>
+
+                    <advantage name="Hidden Memory" type="technique">
                         <cost points="3"/>
                         <skill name="Religion"/>
-                        
+
                         <description>
                             <para>
                                 Messages taken under oath of secrecy can
