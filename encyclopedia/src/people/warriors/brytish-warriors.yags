@@ -73,13 +73,13 @@
                     warrior.
                 </para>
 
-                <character name="Young Warrior">
+                <character name="Freeman">
                     <description>
                         <race>Human</race>
-                        <age>16</age>
+                        <age>30</age>
                         <short>
-                            A young warrior, typical for someone out on
-                            their first raid.
+                            A freeman farmer, who knows how to defend his
+                            home but is not a professional warrior.
                         </short>
                     </description>
 
@@ -104,12 +104,12 @@
                     <skills>
                         <group name="Talents" type="talents" >
                             <skill name="Athletics" score="2"/>
-                            <skill name="Awareness" score="3"/>
-                            <skill name="Brawl" score="3"/>
+                            <skill name="Awareness" score="2"/>
+                            <skill name="Brawl" score="2"/>
                             <skill name="Charm" score="2"/>
                             <skill name="Guile" score="2"/>
                             <skill name="Sleight" score="2"/>
-                            <skill name="Stealth" score="3"/>
+                            <skill name="Stealth" score="2"/>
                             <skill name="Throw" score="2"/>
                         </group>
 
@@ -119,19 +119,20 @@
 
                         <group name="Knowledges" type="skills" >
                             <skill name="Area lore (Bryteland)" score="4"/>
-                            <skill name="Folk lore" score="2"/>
+                        </group>
+
+                        <group name="Profession" type="skills">
+                            <skill name="Carpentry" score="2"/>
+                            <skill name="Farm" score="4"/>
                         </group>
 
                         <group name="Misc" type="skills" >
-                            <skill name="Boating" score="2"/>
-                            <skill name="Swim" score="2"/>
-                            <skill name="Survival" score="1"/>
-                            <skill name="First aid" score="2"/>
+                            <skill name="Survival" score="2"/>
                         </group>
 
                         <group name="Combat" type="skills" >
-                            <skill name="Weapon and shield" score="4"/>
-                            <skill name="Bow" score="2"/>
+                            <skill name="Weapon and shield" score="2"/>
+                            <skill name="Bow" score="3"/>
                         </group>
                     </skills>
 
@@ -149,8 +150,8 @@
                             <damage type="wound"/>
                         </combatstyle>
 
-                        <combatstyle style="Axe, round shield" skill="Weapon and shield">
-                            <primary>Axe</primary>
+                        <combatstyle style="Spear, shield" skill="Weapon and shield">
+                            <primary>Spear</primary>
                             <shield>Round shield</shield>
                             <initiative attribute="agility"/>
                             <attack attribute="dexterity"/>
