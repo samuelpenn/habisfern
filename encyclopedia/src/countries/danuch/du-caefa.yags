@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Du Caefa</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>The Black Fortress</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="du-caefa">Du Caefa</subject>
+
+            <category>City</category>
+
+            <topic uri="danuch">Danuch</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Du Caefa</title>
+
+            <para>
+                Du Caefa is the royal seat of power in the Kingdom of Danuch.
+                The name means <e>Black Fortress</e> and refers to the
+                fortified citadel built into the cliff overlooking the
+                city. The citadel's walls are made from black stone, and
+                there is little light to be found within its halls.
+            </para>
+
+            <para>
+                The city itself has a population of about nine thousand,
+                most of them employed directly or indirectly by the
+                citadel. The atmosphere in the city is dark and grim.
+                Those who speak out against the rulers often vanish
+                at night, never to be seen again. No lights are
+                permitted in the city after dark, except by the city
+                guards, and harbouring light is punishable by death
+                at worst, a beating and public punishment at best.
+            </para>
+
+            <para>
+                Beyond the city walls are the mines, which bring up
+                iron ore for the smiths within the city. Currently this
+                is being turned into weapons and armour for the war
+                against Weidany in Cadwold.
+            </para>
+            
+            <sect2>
+                <title>Law and Government</title>
+
+                <para>
+                    The king sits dead in the halls of the citadel, and
+                    has done for two hundred years. The Druids rule the
+                    city and the country, and none dare to contest their
+                    power. All commands come from the Arch Druid,
+                    through the First Circle. Most of them are more
+                    interested in the governing of the country as a
+                    whole rather than the city. It is to one of the
+                    First Circle that responsibility for the city is
+                    given. He is known as the High Lord, and he is the
+                    visible face of the Druids in Du Caefa.
+                </para>
+
+                <para>
+                    Compliance with the laws of the city is enforced by
+                    the city guard, who are generally well paid and
+                    loyal to the current regime.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>

@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Glas Caer</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>The grey wall</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="glas-caer">Glas Caer</subject>
+
+            <category>Hills</category>
+
+            <topic uri="danuch">Danuch</topic>
+            <topic uri="tanwall">Tanwall</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Glas Gaer</title>
+
+            <para>
+                The border between <qv uri="tanwall">Tanwall</qv>
+                and <qv uri="canuch">Canuch</qv> is defined by the
+                ridge of hills known as Doraida. The hills run
+                south of Canuch along the western border of
+                <qv uri="danuch">Danuch</qv>, and here they are
+                called Glas Caer, the Grey Wall.
+            </para>
+
+            <para>
+                A mixture of heathland and rocky foothills, they are
+                often shrouded in mist, especially in the early 
+                morning. Though the northern hills are home to
+                Wyrvern and similar beasts, Glas Caer is noted for
+                a very different form of danger.
+            </para>
+
+            <para>
+                Powers walk the hills of Glas Caer, Powers which
+                are affiliated with the <qv uri="ice">Ice</qv>.
+                They are nameless, and thought bound to stay near
+                ancient sites of Elder construction. Those who
+                die in the hills though are commanded to rise and
+                do the bidding of these Powers. The dead keep to
+                the hills, stalking travellers who try to cross
+                their domain. It is thought that they protect
+                some ancient artifact of great importance to the
+                Ice, but no-one has found out what it is.
+            </para>
+
+            <para>
+                The Ice claimed dead are commanded by the Bright 
+                Lords, ancient heroes who have themselves been
+                claimed by the Ice. They wear armour of silver
+                and white cloaks, carrying shining swords or
+                spears. They are beautiful and terrible in
+                their perfection, everything that is to be
+                expected from a servent of the Ice.
+            </para>
+        </sect1>
+    </body>
+</article>

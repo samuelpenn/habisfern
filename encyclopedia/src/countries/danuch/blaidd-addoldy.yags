@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Blaidd Addoldy</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>City of Wolves</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="blaidd-addoldy">Blaidd Addoldy</subject>
+
+            <category>City</category>
+
+            <topic uri="danuch">Danuch</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Blaidd Addoldy</title>
+
+            <para>
+                The city is known as the Place of Wolves, and is ruled
+                by the Bitch Queen Angorra. She is seen as
+                <qv uri="walgi">Walgi</qv> taken human form by her
+                followers, and she acts as the high priestess of
+                that cult. The Druids tolerate her, or at least they
+                have made no direct move against her. The worship
+                of Yammath is also common within the city, and several
+                sculptures depict Walgi the wolf alongside Yammath,
+                acting as her obedient servent.
+            </para>
+
+            <para>
+                The city is walled with stone, and has half a dozen
+                large watchtowers spaced around the circumference.
+                The great gates, flanked by wolf carvings, lead
+                onto the central street which runs to the heart of
+                the city, circling the central park which is open
+                only to the priests and priestess of the Queen.
+            </para>
+
+            <para>
+                The city is quite open, with wide streets and large
+                housing. The exception is in the northwest quarter,
+                known as the Dens, where housing is poorer, and some
+                of the streets are multilayered with wooden walkways
+                cutting off light from the lower streets. It is here
+                that the Queen's pack is sometimes allowed to roam,
+                hunting for fresh meat.
+            </para>
+
+            <sect2>
+                <title>The People</title>
+
+                <para>
+                    The people of Blaidd Addoldy are generally well
+                    off, free and healthy. The surrounding rural
+                    lands supply the city with the best of the crop,
+                    and so the city eats well. The wolf cult generally
+                    keeps out of everyday affairs, and people are
+                    left to do as they please. Of course, the Queen
+                    also does as she pleases, and can sometimes be
+                    brutal and bloody for no apparent reason. There
+                    is fear of her and her pack, but it is a fear
+                    that can be forgotton during the light of day.
+                </para>
+
+                <para>
+                    The city welcomes anyone into its embrace, even
+                    those who are hunted by the Druids. So far it
+                    would seem that outlaws from the Druids are 
+                    safe within the city walls.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
