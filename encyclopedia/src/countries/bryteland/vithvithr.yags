@@ -2,10 +2,10 @@
 
 <article>
     <header>
-        <title>Toatstath</title>
+        <title>Vithvithr</title>
         <tagline>Habisfern</tagline>
 
-        <slugline/>
+        <slugline>The White Woods</slugline>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license>
-            <year>2002</year>
+            <year>2003</year>
             <holder>Samuel Penn</holder>
             <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
             <text>
@@ -36,12 +36,13 @@
         <style name="module"/>
 
         <references>
+            <see uri="trolls">Trolls</see>
         </references>
 
         <topics>
-            <subject uri="toatstath">Toatstath</subject>
+            <subject uri="vithvithr">Vithvithr</subject>
 
-            <category>Town</category>
+            <category>Wood</category>
 
             <topic uri="vitrgifing">Vitrgifing</topic>
             <topic uri="bryteland">Bryteland</topic>
@@ -52,14 +53,12 @@
 
     <body>
         <sect1>
-            <title>Toatstath</title>
+            <title>Vithvithr</title>
 
             <para>
-                A small coastal town in Bryteland, in the Kingdom of
-                <qv uri="vitrgifing">Vitrgifing</qv>, with a population
-                of about 600. It is heavily fortified, mostly because its
-                inhabitents have a healthy respect for anything which may
-                come out of the <qv uri="vithvithr">Vithvithr</qv>.
+                The White Woods, they cover the northern coastline of
+                Bryteland, and make up most of the Kingdom of Vitrgifing.
+                They are so named since the White Trolls once dwelt here.
             </para>
         </sect1>
 

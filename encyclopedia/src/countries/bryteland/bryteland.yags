@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license>
-            <year>2002</year>
+            <year>2003</year>
             <holder>Samuel Penn</holder>
             <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
             <text>
@@ -118,16 +118,16 @@
 
             <para>
                 The mainland consists of
-                <see uri="nethvollr">Nethvollor</see>,
-                <see uri="sonodalr">Sonodalr</see>,
-                <see uri="harholt">Harholt</see>,
-                <see uri="bjornstathr">Bjorstathr</see> and
-                <see uri="vitrgifing">Vitrgifing</see>. The three major
+                <qv uri="nethvollr">Nethvollor</qv>,
+                <qv uri="sonodalr">Sonodalr</qv>,
+                <qv uri="harholt">Harholt</qv>,
+                <qv uri="bjornstathr">Bjorstathr</qv> and
+                <qv uri="vitrgifing">Vitrgifing</qv>. The three major
                 islands which are considered part of Bryteland are
                 considered Kingdoms in their own right, with these being
-                <see uri="jarneyland">Jarneyland</see>,
-                <see uri="oforley">Oforley</see> and
-                <see uri="erding">Erding Island</see>.
+                <qv uri="jarneyland">Jarneyland</qv>,
+                <qv uri="oforley">Oforley</qv> and
+                <qv uri="erding">Erding Island</qv>.
             </para>
 
             <para>
