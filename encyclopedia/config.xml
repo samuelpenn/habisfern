@@ -15,7 +15,7 @@
 
     <stylesheets>
         <stylesheet name="entry" 
-                    location="/usr/share/xml/yagsbook/article/xslt/html"/>
+                    location="/usr/share/xml/yagsbook/article/xslt/html/encyclopedia.xsl"/>
     </stylesheets>
 
     <categories>
