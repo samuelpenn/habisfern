@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Persecutor</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>A rune sword</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <references>
+            <see uri="rune-magic">Rune Magic</see>
+        </references>
+
+        <topics>
+            <subject uri="persecutor">Persecutor</subject>
+
+            <category>Swords</category>
+
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Persecutor</title>
+
+            <para>
+                Persecutor is a long sword crafted by Caradoc Longbeard
+                in the mid 11th century. It was first used by the thegn
+                Cuthwulf against the Druids, and was part of a set which
+                included a chain hauberk, a helm, a cloak and a shield.
+            </para>
+
+            <para>
+                Fighting for the glory of Haltan, Cuthwulf was slain in
+                1061 at the Battle of the Three Lakes. The arms and armour
+                were taken by the Druids, though the sword and shield were
+                retaken by Sihrith, a warrior priestess of Asabeth some
+                seven years later. She and her two sisters had many exploits
+                in Scarondy and Danuch, causing much grief to the Druids.
+                Persecutor was even used to slay a small wyrm, but all three
+                eventually died battling wizards.
+            </para>
+
+            <para>
+                In 1131, Uwain of the House of Aeddan had possession of the
+                sword. Fighting hopeless odds against the Brytish, he slew
+                himself rather than be captured. Before the eyes of the
+                Brytish, he was reborn fully healed. Taking it as a sign
+                from Voltan, the Brytish spared everyone and left. Uwain of
+                course believed that it was a sign from Haltan, and it has
+                been held by the House of Aeddan ever since, being seen as
+                a minor holy item.
+            </para>
+        </sect1>
+
+    </body>
+
+</article>
