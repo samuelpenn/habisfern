@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Agmi</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="agmi">Agmi</subject>
+
+            <category>Religion</category>
+            <topic uri="haltic-mythology">Haltic Mythology</topic>
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Agmi</title>
+
+            <para>
+                Agmi is the Earth Mother, and wife of <qv 
+                uri="haltic">Haltic</qv>. She was one of the original 
+                creator gods, and together with <qv uri="uir">Uir</qv> 
+                forged the middle world for humans.
+            </para>
+
+            <para>
+                She is a steadfast foe of the Ice, and keeper of nature 
+                and the wild lands.
+            </para>
+
+        </sect1>
+    </body>
+</article>
