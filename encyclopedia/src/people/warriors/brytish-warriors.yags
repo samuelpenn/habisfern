@@ -138,10 +138,7 @@
 
                     <advantages/>
 
-                    <combat href="/usr/share/web/xml/yags/core/arms.yags">
-                        <weaponlist href="/usr/share/web/xml/yags/harn/weapons.xml"/>
-                        <armourlist href="/usr/share/web/xml/yags/harn/armour.xml"/>
-
+                    <combat href="/usr/share/xml/yags/core/arms.yags">
                         <combatstyle style="Dagger" skill="Brawl">
                             <primary>Dagger</primary>
                             <initiative attribute="agility"/>
@@ -237,10 +234,7 @@
 
                     <advantages/>
 
-                    <combat href="/usr/share/web/xml/yags/core/arms.yags">
-                        <weaponlist href="/usr/share/web/xml/yags/harn/weapons.xml"/>
-                        <armourlist href="/usr/share/web/xml/yags/harn/armour.xml"/>
-
+                    <combat href="/usr/share/xml/yags/core/arms.yags">
                         <combatstyle style="Dagger" skill="Brawl">
                             <primary>Dagger</primary>
                             <initiative attribute="agility"/>
@@ -330,10 +324,7 @@
                         <advantage name="Cleave"/>
                     </advantages>
 
-                    <combat href="/usr/share/web/xml/yags/core/arms.yags">
-                        <weaponlist href="/usr/share/web/xml/yags/harn/weapons.xml"/>
-                        <armourlist href="/usr/share/web/xml/yags/harn/armour.xml"/>
-
+                    <combat href="/usr/share/xml/yags/core/arms.yags">
                         <combatstyle style="Dagger" skill="Brawl">
                             <primary>Dagger</primary>
                             <initiative attribute="agility"/>
