@@ -77,7 +77,14 @@
                     <detail units="metric">
                         <height>190</height>
                         <weight>95</weight>
-                        <hair>blond</hair>
+
+                        <hair>
+                            <colour>blond</colour>
+                            <length>long</length>
+                            <beard>short</beard>
+                        </hair>
+
+                        <build>medium</build>
                     </detail>
                     
                     <physical>
@@ -248,12 +255,15 @@
                 
                 <properties>
                     <exceptional/>
-                    <rune name="True blow" value="2"/>
-                    <rune name="Bite" value="2"/>
-                    <rune name="Glimmer"/>
-                    <rune name="Sharpness"/>
-                    <rune name="Spirit"/>
-                    <rune name="Binding" value="1"/>
+                    <rune name="rune-attack" value="2">
+                        <link>Shield Thing</link>
+                    </rune>
+                    <rune name="rune-damage" value="2"/>
+                    <rune name="rune-light"/>
+                    <rune name="rune-sharpness"/>
+                    <rune name="rune-ghosts">
+                        <link>Helm of Light</link>
+                    </rune>
                 </properties>
             </weapon>
         </sect1>

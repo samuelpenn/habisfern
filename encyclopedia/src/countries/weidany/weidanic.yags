@@ -38,7 +38,7 @@
         <topics>
             <subject uri="weidany">Weidany</subject>
 
-            <category>Country</category>
+            <category>People</category>
 
             <topic uri="weidany">Weidany</topic>
             <topic uri="euressa">Euressa</topic>
@@ -68,38 +68,27 @@
                         <height>98+Str*4+Size*10+1d20</height>
                         <weight>55+1d20</weight>
                         <hair>
-                            <typical>
-                                <colour>Sandy</colour>
-                                <colour>Corn blond</colour>
-                            </typical>
-                            
-                            <common>
-                                <colour>Light brown</colour>
-                                <colour>Mid brown</colour>
-                                <colour>Strawberry blond</colour>
-                            </common>
-                            
-                            <uncommon>
-                                <colour>Dark brown</colour>
-                                <colour>Red</colour>
-                                <colour>Light blond</colour>
-                            </uncommon>
-                            
-                            <rare>
-                                <colour>Black</colour>
-                                <colour>Red</colour>
-                                <colour>Ash blond</colour>
-                            </rare>
-                            
-                            <veryrare>
-                                <colour>White</colour>
-                            </veryrare>
+                            <colour>
+                                <value weight="1">Black</value>
+                                <value weight="3">Dark brown</value>
+                                <value weight="9">Mid brown</value>
+                                <value weight="27">Light brown</value>
+                                <value weight="27">Sandy</value>
+                                <value weight="9">Corn blond</value>
+                                <value weight="9">Strawberry blond</value>
+                                <value weight="3">Light blond</value>
+                                <value weight="3">Red</value>
+                                <value weight="1">Ash blond</value>
+                                <value weight="1">White</value>
+                            </colour>
                         </hair>
                         
                         <skin>
-                            <typical>
-                                <colour>White</colour>
-                            </typical>
+                            <colour>
+                                <value weight="3">Tanned</value>
+                                <value weight="27">White</value>
+                                <value weight="1">Pale</value>
+                            </colour>
                         </skin>
                     </description>
                     
@@ -282,7 +271,7 @@
                             </short>
                         </description>
 
-                        <statistics xmlns="http://yagsbook.sourceforge.net/xslt/yags">
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>
@@ -330,7 +319,7 @@
                             </short>
                         </description>
 
-                        <statistics xmlns="http://yagsbook.sourceforge.net/xslt/yags">
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>
@@ -375,7 +364,7 @@
                             </short>
                         </description>
 
-                        <statistics xmlns="http://yagsbook.sourceforge.net/xslt/yags">
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>
@@ -423,7 +412,7 @@
                             </short>
                         </description>
                 
-                        <statistics xmlns="http://yagsbook.sourceforge.net/xslt/yags">
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>
@@ -468,7 +457,7 @@
                             </short>
                         </description>
                 
-                        <statistics xmlns="http://yagsbook.sourceforge.net/xslt/yags">
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>
@@ -515,7 +504,7 @@
                             </short>
                         </description>
                 
-                        <statistics xmlns="http://yagsbook.sourceforge.net/xslt/yags">
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>
@@ -563,7 +552,7 @@
                             </short>
                         </description>
                 
-                        <statistics xmlns="http://yagsbook.sourceforge.net/xslt/yags">
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>
@@ -614,7 +603,7 @@
                             </short>
                         </description>
 
-                        <statistics xmlns="http://yagsbook.sourceforge.net/xslt/yags">
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="3"/>

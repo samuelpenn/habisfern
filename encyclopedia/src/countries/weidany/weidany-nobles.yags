@@ -81,7 +81,7 @@
                             </short>
                         </description>
                 
-                        <statistics xmlns="http://yagsbook.sourceforge.net/xslt/yags">
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>
@@ -131,7 +131,7 @@
                             </short>
                         </description>
                 
-                        <statistics xmlns="http://yagsbook.sourceforge.net/xslt/yags">
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>
@@ -178,7 +178,7 @@
                             </short>
                         </description>
                 
-                        <statistics xmlns="http://yagsbook.sourceforge.net/xslt/yags">
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>
@@ -220,7 +220,7 @@
                             </short>
                         </description>
                 
-                        <statistics xmlns="http://yagsbook.sourceforge.net/xslt/yags">
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>
@@ -270,7 +270,7 @@
                             </short>
                         </description>
                 
-                        <statistics xmlns="http://yagsbook.sourceforge.net/xslt/yags">
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>

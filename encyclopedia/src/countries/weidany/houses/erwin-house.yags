@@ -96,6 +96,10 @@
                     <description>
                         <gender>Male</gender>
                         <age>53</age>
+                        <hair>
+                            <colour>Grey</colour>
+                            <length>Short</length>
+                        </hair>
                         <short>A short greying man who is quite handsome</short>
 
                         <physical>
