@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Thorthda Hardradason</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Brytish warrior</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="thengeld-hardradason">Thengeld</see>
+        </references>
+
+        <topics>
+            <subject uri="thorthda-hardradason">Thorthda</subject>
+
+            <category>Warrior</category>
+
+            <topic uri="leodhata">Leodhata</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Thorthda Hardradason</title>
+
+            <para>
+                A Brytish warrior who lives in <qv uri="alstoth">
+                Alstoth</qv>. He is brother to Thengeld.
+            </para>
+        </sect1>
+    </body>
+</article>

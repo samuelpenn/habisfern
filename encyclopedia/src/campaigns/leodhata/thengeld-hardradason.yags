@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Thengeld Hardradason</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Brytish warrior</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="thengeld-hardradason">Thengeld</subject>
+
+            <category>Warrior</category>
+
+            <topic uri="leodhata">Leodhata</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Thengeld Hardradason</title>
+
+            <para>
+                A Brytish warrior, and leader of a
+                <qv uri="vikingelag">Vikinge-lag</qv> near
+                the Tanwall border in <qv uri="harholt">Harholt</qv>.
+                It is said that he is an able command, and skilled swordsman
+                as well as having a brutal reputation.
+            </para>
+
+            <para>
+                He is responsible for the deaths of Riahnnon's brothers.
+            </para>
+
+            <para>
+                He has a brother named <qv uri="thorthda-hardradason">
+                Thorthda</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>

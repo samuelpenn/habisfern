@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Vikinge-lag</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="vikingelag">Vikinge-lag</subject>
+
+            <category>Societies</category>
+
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Vikinge-lag</title>
+
+            <para>
+                The <e>Vikinge-lag</e> are free companies of warriors found
+                in Bryteland. They do not seek their own lands, but instead
+                hire themselves out to others for pay. They live by their
+                own strict codes of conduct, which tend to vary from
+                company to company.
+            </para>
+        </sect1>
+    </body>
+</article>
