@@ -164,11 +164,11 @@
             <sect2>
                 <title>Rituals</title>
                 
-                <advantages role="techniques">
+                <advantages role="technique" title="Rituals of Estror">
                     <advantage name="Blessing of Conception"
                                type="technique">
                         <cost points="2"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Estror)"/>
                         
                         <description>
                             A blessing which may be asked for by a woman
@@ -181,7 +181,7 @@
                     
                     <advantage name="Caring hands" type="technique">
                         <cost points="2"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Estror)"/>
                         
                         <description>
                             <para>

@@ -235,7 +235,7 @@
                 <advantages role="technique" title="Rituals of the Lawmaker">
                     <advantage name="Aura of Authority" type="technique">
                         <cost points="3"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Haltan)"/>
                         
                         <description>
                             <para>
@@ -250,7 +250,7 @@
                     
                     <advantage name="Trial of Combat" type="technique">
                         <cost points="5"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Haltan)"/>
                         <prerequisite>Aura of Authority</prerequisite>
                         
                         <description>
@@ -274,7 +274,7 @@
                     
                     <advantage name="Warrior's Blessing" type="technique">
                         <cost points="5"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Haltan)"/>
                         <prerequisite>Aura of Authority</prerequisite>
                         
                         <description>
@@ -295,7 +295,7 @@
                     
                     <advantage name="Blessing of War" type="technique">
                         <cost points="7"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Haltan)"/>
                         <prerequisite>Warrior's Blessing</prerequisite>
                         
                         <description>

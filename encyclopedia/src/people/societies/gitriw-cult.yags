@@ -84,10 +84,10 @@
             <sect2>
                 <title>Rituals</title>
                 
-                <advantages>
+                <advantages role="technique" title="Rituals of Gitriw">
                     <advantage name="Oath of Truth" type="technique">
                         <cost points="2"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Gitriw)"/>
                         
                         <description>
                             <para>
@@ -119,7 +119,7 @@
                     
                     <advantage name="Trial of Combat" type="technique">
                         <cost points="4"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Gitriw)"/>
                         <prerequisite>Oath of Truth</prerequisite>
                         
                         <description>
@@ -143,7 +143,7 @@
                     
                     <advantage name="Truth sight" type="technique">
                         <cost points="6"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Gitriw)"/>
                         <prerequisite>Oath of Truth</prerequisite>
                         
                         <description>
@@ -165,7 +165,7 @@
                     
                     <advantage name="Sight of Gitriw" type="technique">
                         <cost points="9"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Gitriw)"/>
                         <prerequisite>Truth sight</prerequisite>
                         <luck temporary="1"/>
                         

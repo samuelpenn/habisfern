@@ -307,7 +307,16 @@
                     of progression is flexible.
                 </para>
 
-                <advantages title="Rituals of Thot">
+                <advantages title="Rituals of Thot" role="technique">
+                    <description>
+                        <para>
+                            These rituals are taught by the Cult of the
+                            Black Raven, to those who follow Thot. Unlike
+                            many other cults, teaching is unstructured, and
+                            the path of progression is flexible.
+                        </para>
+                    </description>
+                    
                     <advantage name="Signs of the Raven" type="technique">
                         <cost points="2"/>
                         <skill name="Religion (Thot)"/>

@@ -182,7 +182,7 @@
                 <advantages role="techniques">
                     <advantage name="Befriend animals" type="technique">
                         <cost points="2"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Walgi)"/>
                         
                         <description>
                             <para>

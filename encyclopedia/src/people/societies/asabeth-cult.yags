@@ -134,6 +134,15 @@
                 </para>
                 
                 <advantages title="Rituals of Asabeth" role="technique">
+                    <description>
+                        <para>
+                            The rituals of Asabeth represent her aspects
+                            as Goddess of Death and Chaos. They are bloody
+                            and barbaric and are one reason for her cult's
+                            disfavour in current times.
+                        </para>
+                    </description>
+                    
                     <advantage name="Blessing of Blood" type="technique">
                         <cost points="1"/>
                         <skill name="Religion (Asabeth)"/>

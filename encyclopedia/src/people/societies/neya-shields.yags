@@ -147,7 +147,7 @@
 
                     <advantage name="Oath of Neya" type="technique">
                         <cost points="4"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Neya)"/>
                         
                         <description>
                             <para>
@@ -177,7 +177,7 @@
                     
                     <advantage name="Aura of Authority" type="technique">
                         <cost points="4"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Neya)"/>
                         
                         <description>
                             <para>
@@ -191,7 +191,7 @@
                     
                     <advantage name="Sisters in Arms" type="technique">
                         <cost points="4"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Neya)"/>
                         
                         <description>
                             <para>
@@ -207,7 +207,7 @@
                     
                     <advantage name="Strength of the Goddess" type="technique">
                         <cost points="8"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Neya)"/>
                         <prerequisite>Sisters in Arms</prerequisite>
                         
                         <description>
@@ -222,7 +222,7 @@
                     
                     <advantage name="Shield of the Goddess" type="technique">
                         <cost points="12"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Neya)"/>
                         <prerequisite>Strength of the Goddess</prerequisite>
                         
                         <description>

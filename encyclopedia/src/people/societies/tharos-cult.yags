@@ -230,7 +230,7 @@
             <sect2>
                 <title>Rituals</title>
 
-                <advantages>
+                <advantages role="technique" title="Rituals of Tharos">
                     <advantage name="Heightened Reflexes" type="technique">
                         <cost points="3"/>
                         <skill name="Religion (Tharos)"/>
