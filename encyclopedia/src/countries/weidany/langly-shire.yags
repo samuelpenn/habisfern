@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Langly Shire</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>A shire of Weidany</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="langly-shire">Langly Shire</subject>
+
+            <category>Shire</category>
+
+            <topic uri="Langly-shire">Langly Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Shire of Langly</title>
+                        
+            <para>
+                A shire in Weidany. The shire town is <qv uri="milbry">
+                Milbry</qv>.
+            </para>
+        </sect1>
+    </body>
+
+</article>

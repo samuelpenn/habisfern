@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Cenicsdyke Shire</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>A shire of Weidany</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="cenicsdyke-shire">Cenicsdyke Shire</subject>
+
+            <category>Shire</category>
+
+            <topic uri="cenicsdyke-shire">Cenicsdyke Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Shire of Cenicsdyke</title>
+                        
+            <para>
+                Cenicsdyke is the newest of the shires, having been
+                officially named only in 1207. Its lands were awarded to
+                the <qv uri="cenic-house">House of Cenic</qv>, which was
+                created at the same time to protect the border of the
+                Kingdom from <qv uri="nailand">Nailand</qv>.
+            </para>
+            
+            <para>
+                The shire's two major towns are the castle of
+                <qv uri="fenborough">Fenborough</qv> and the keep of
+                <qv uri="denithborough">Denithborough</qv>, both heavily
+                fortified and designed as bases against the short folk.
+            </para>
+            
+            <para>
+                The military might of Cenicsdyke is strong numerically,
+                but the shire lacks the political stability necessary to
+                form a unified front for defence.
+            </para>
+            
+            <para>
+                The eastern borders of the shire are marked by a great
+                earthern wall which is still not fully constructed.
+                Manning the wall is turning out to be a huge financial
+                headache for the shire.
+            </para>
+        </sect1>
+    </body>
+
+</article>

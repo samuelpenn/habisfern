@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Northmarch Shire</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>A shire of Weidany</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="northmarch-shire">Northmarch Shire</subject>
+
+            <category>Shire</category>
+
+            <topic uri="northmarch-shire">Northmarch Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Shire of Northmarch</title>
+                        
+            <para>
+                Northmarch shire borders onto both <qv uri="cadwold">
+                Cadwold</qv> and <qv uri="aidan-shire">Aidan</qv>. The
+                Kingdom is at war with the first, and the latter suffers
+                from unrest and political instability. These two factors
+                cause major problems for the shire, trying to keep its
+                borders stable. The presence of the Queen's armies in
+                Northmarch to aid in the border defence against Cadwold
+                helps, but also adds to supply problems, and ensuring
+                soldiers do not cause trouble while not on duty.
+            </para>
+            
+            <para>
+                The shire capital is <qv uri="chenfeld">Chenfeld</qv>,
+                which is the largest town in the north.
+                <qv uri="northgate">Northgate</qv> is almost as large,
+                and the valley between the two is fertile enough to
+                provide Northmarch with a substantial excess of crops
+                for sale outside its borders.
+            </para>
+        </sect1>
+    </body>
+
+</article>
