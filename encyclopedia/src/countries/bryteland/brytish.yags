@@ -116,6 +116,11 @@
                         <description>
                             <para>
                                 Knowledge of the Brytish pantheon of gods.
+                                The principle god is Voltan, and all nearly
+                                all worship is directed at him. Knowledge of
+                                the skill gives knowledge of the ceremonies
+                                of the Cult of Voltan, as well as general
+                                knowledge of the other gods of the Pantheon.
                             </para>
                         </description>
                     </skill>
@@ -143,7 +148,7 @@
                     </advantage>
                     
                     <advantage name="Resistent to magic" type="edge">
-                        <cost points="4"/>
+                        <cost points="3"/>
                         <description>
                             <para>
                                 Gain a +1 bonus to will when resisting any
@@ -153,10 +158,32 @@
                     </advantage>
                     
                     <advantage name="Berserker" type="advantage">
-                        <cost points="5"/>
+                        <cost points="4"/>
                         <description>
                             <para>
-                                Character is a berserker.
+                                The character is a berserker. For the
+                                Brytish, this is an inherited trait.
+                            </para>
+                        </description>
+                    </advantage>
+
+                    <advantage name="Hatred (shapechangers)" type="advantage">
+                        <cost points="-2"/>
+                        <description>
+                            <para>
+                                All Brytish have a strong dislike of
+                                shapechangers, especially those who follow
+                                the Animal Powers. Some have a particularly
+                                strong hatred which drives them into a fury
+                                against their foe.
+                            </para>
+
+                            <para>
+                                Those with this advantage get a -2 to Will
+                                if rolling against Restraint passions when
+                                shapechangers are involved. When acting
+                                against a shapechanger, they get a +1 bonus
+                                to Will and Stamina when making checks.
                             </para>
                         </description>
                     </advantage>
