@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Talmoth Hills</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="talmoth-hills">Talmoth Hills</subject>
+
+            <category>Hills</category>
+            <topic uri="talmoth-shire">Talmoth Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Talmoth Hills</title>
+
+            <para>
+                The hills of Talmoth are six or more leagues of rolling 
+                upland, lightly wooded and densely populated with many 
+                small hamlets nestled amongst the valleys of the region.
+            </para>
+
+            <para>
+                The hills consist of a plug of hard rocks pushing up 
+                through the chalky surroundings.
+            </para>
+
+            <para>
+                Iron ore used to be mined here, but the reserves are 
+                almost exhausted, and what is left is difficult to 
+                reach. Old mine shafts can still be found in many places 
+                in the hills however.
+            </para>
+
+            <para>
+                The biggest export has always been tin though, and it is 
+                still mined in significant quantities.
+            </para>
+
+        </sect1>
+    </body>
+</article>
