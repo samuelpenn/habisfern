@@ -34,6 +34,25 @@
 
         <references>
             <see uri="noble-houses-weidany">Noble Houses</see>
+            
+            <see uri="aidan-shire">Shire of Aidan</see>
+            <see uri="angsly-shire">Shire of Angsly</see>
+            <see uri="cenicsdyke-shire">Shire of Cenicsdyke</see>
+            <see uri="emrend-shire">Shire of Emrend</see>
+            <see uri="estwed-shire">Shire of Estwed</see>
+            <see uri="hain-shire">Shire of Hain</see>
+            <see uri="halecester-shire">Shire of Halecester</see>
+            <see uri="langly-shire">Shire of Langly</see>
+            <see uri="lanuch-shire">Shire of Lanuch</see>
+            <see uri="merkia-shire">Shire of Merkia</see>
+            <see uri="merrik-shire">Shire of Merrik</see>
+            <see uri="northmarch-shire">Shire of Northmarch</see>
+            <see uri="northwood-shire">Shire of Northwood</see>
+            <see uri="ornwold-shire">Shire of Ornwold</see>
+            <see uri="scarondy-shire">Shire of Scarondy</see>
+            <see uri="strathby-shire">Shire of Strathby</see>
+            <see uri="talmoth-shire">Shire of Talmoth</see>
+            <see uri="westland-shire">Shire of Westland</see>
         </references>
 
         <topics>
@@ -65,10 +84,10 @@
 
             <para>
                 The succession of Queens has always been ensured by the
-                <qv uri="neya">Cult of Neya</qv>, the Keeper of Oaths. The
-                Kingdom was forged out of bloodshed and betrayel, and the
-                goddess lay down a prophecy, that the Kingdom would be
-                doomed if a king was crowned.
+                <qv uri="neya-daughters">Cult of Neya</qv>, the Keeper
+                of Oaths. The Kingdom was forged out of bloodshed and
+                betrayal, and the goddess lay down a prophecy, that the
+                Kingdom would be doomed if a king was crowned.
             </para>
 
             <para>
@@ -113,8 +132,177 @@
                     known as eoldormen, and are amongst the most powerful
                     people in the kingdom.
                 </para>
+                
+                <para>
+                    The eoldormen are also heads of the powerful
+                    <qv uri="noble-houses-weidany">Noble Houses</qv>, which
+                    make up the most influential factions within the
+                    Kingdom. Officially, the Noble Houses have no actual
+                    power, but they represent a large number of land owners
+                    who are able to work together to push through their own
+                    plans and ambitions.
+                </para>
+            </sect2>
+            
+            <sect2>
+                <title>Trade</title>
+                
+                <para>
+                    Trade makes up a large part of the Kingdom's revenues,
+                    mostly indirectly through taxation. A few monopolies
+                    have been granted by the Queen, and there are countless
+                    more unofficial monopolies enforced by practicalities,
+                    networks of friends and simple violence against those
+                    who try to break them.
+                </para>
+                
+                <para>
+                    External trade is mostly up the coast with
+                    <qv uri="bryteland">Bryteland</qv>,
+                    <qv uri="taneith">Taneith</qv> and
+                    <qv uri="tanwall">Tanwall</qv>, or down the coast with
+                    <qv uri="midlaen">Midlaen</qv>. Trade with the
+                    <qv uri="northern-kingdoms">Northern Kingdoms</qv> is
+                    rare because of the difficulties involved.
+                </para>
             </sect2>
 
+            <sect2>
+                <title>Borders</title>
+                
+                <para>
+                    The Kingdom borders onto six other countries, and is
+                    at war with all but two.
+                </para>
+                
+                <sect3>
+                    <title>The Kingdoms of Bryteland</title>
+                    
+                    <para>
+                        <qv uri="bryteland">Bryteland</qv> is viewed as a
+                        barbaric land, full of warrior lords and little
+                        else. The truth is that Bryteland is just as
+                        civilised as Weidany, though does differ in some
+                        respects.
+                    </para>
+                    
+                    <para>
+                        Trade with Bryteland is quite common, however
+                        the Brytish often raid down the coast of Weidany
+                        whenever they think they can get away with it, and
+                        the situation on the land border is tense at best,
+                        openly hostile at worst.
+                    </para>
+                    
+                    <para>
+                        The truth is that warriors of both kingdoms are
+                        itching for a fight, though neither the Queen nor
+                        the Kings of Bryteland particularly want one, and
+                        merchants in both countries would rather trade than
+                        see blood spilt.
+                    </para>
+                    
+                    <para>
+                        The situation seems content to remain at the level
+                        of bickering and the occasional raid or border
+                        incident, without there really being much chance of
+                        outright war.
+                    </para>
+                </sect3>
+                
+                <sect3>
+                    <title>Tanwall</title>
+                    
+                    <para>
+                        In culture, <qv uri="tanwall">Tanwall</qv> is much
+                        like Bryteland, however its people's worship of the
+                        Animal Powers makes it darker and more reclusive
+                        than its western neighbour.
+                    </para>
+                    
+                    <para>
+                        Neither Weidany nor Tanwall have much interest in
+                        the other. Tanwall is engaged in fighting Bryteland
+                        (with somewhat more enthusiasm than Weidany is),
+                        and doesn't want a war on two fronts.
+                    </para>
+                </sect3>
+                
+                <sect3>
+                    <title>Danuch</title>
+                    
+                    <para>
+                        Relationships between <qv uri="danuch">Danuch</qv>
+                        and Weidany are cold at best. The Kingdom is very
+                        interested in seeing the last homeland of the
+                        Druids conquered, and their power shattered, but
+                        does not currently have the resources to do this.
+                        A proxy war is being fought in Cadwold, and once
+                        that is completed, then the Kingdom's attention will
+                        probably shift to Danuch.
+                    </para>
+                </sect3>
+                
+                <sect3>
+                    <title>Cadwold</title>
+                    
+                    <para>
+                        <qv uri="cadwold">Cadwold</qv> used to be part of
+                        Weidany, and was once part of Danuch as well. It is
+                        currently fighting for independence from both. Its
+                        war with Weidany is not going well however, and it
+                        is becoming more likely to see aid from Danuch
+                        rather than be conquered by the Kingdom.
+                    </para>
+                    
+                    <para>
+                        Weidany currently has several armies positioned on
+                        the border with Cadwold, and several full scale
+                        battles have been fought in the previous year.
+                    </para>
+                </sect3>
+                
+                <sect3>
+                    <title>Nailand</title>
+                    
+                    <para>
+                        The great wilderness of <qv uri="nailand">Nailand</qv>
+                        is home to the <qv uri="shortfolk">Short Folk</qv>
+                        who do not care for the civlisation of Weidany, and
+                        fear that it has desires on their homeland.
+                    </para>
+                    
+                    <para>
+                        Nailand is the second border where outright war is
+                        being fought, though the Short Folk have the
+                        advantage of space to retreat into, and it is
+                        difficult for the Kingdom to keep supply lines open
+                        if they try to advance much beyond their current
+                        borders. Fighting consists of occasional skirmishes,
+                        raids and the odd ambush.
+                    </para>
+                </sect3>
+                
+                <sect3>
+                    <title>Midlean</title>
+                    
+                    <para>
+                        <qv uri="midlaen">Midlaen</qv> was a shire of
+                        Weidany when it was settled in 1148. In 1193
+                        however it claimed independence, and after a short
+                        war pretty much got what it wanted. The distance
+                        between the Kingdom and the main towns was too
+                        great to enforce control over.
+                    </para>
+                    
+                    <para>
+                        Currently, both Midlaen and Weidany are happy to
+                        trade with each other, and there is no sign of an
+                        attempt to reclaim the old shire being desired by
+                        the Kingdom in the near future.
+                    </para>
+                </sect3>
+            </sect2>
         </sect1>
     </body>
 </article>
