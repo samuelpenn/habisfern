@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Cairn Hills</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <topic>Geography</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Cairn Hills</title>
+
+            <para>
+                Politically, the Cairn Hills are part of the Shire of
+                Northwood, and have no significance as far as borders
+                and ownership is concerned. Several hundreds border
+                onto the region, but due to the low population found
+                actually within the hills, little effort is made to
+                police the area.
+            </para>
+            
+            <para>
+                Geographically, the region is more notable. The hills
+                rise up from the plains to the east, and can be seen
+                from most of the trade routes that link the north and
+                the south. The western parts are covered in thick
+                woodland, and the south descends into the tangled
+                darkness of Meam's Wood, which officially has a
+                population of zero, though unofficially is home to
+                various outlaw bands and numerous fell beasts.
+            </para>
+            
+            <para>
+                The hills are chalk, with an average height of two                         to three hundred metres. The tallest hills are in the
+                northwest, where the occasional 400m peak can be found.
+            </para>
+            
+            <para>
+                The most notable features of the hills are manmade.
+                These are the <qv uri="cairns">cairns</qv>, and
+                <qv uri="asheks-tower">Ashek's Tower</qv>.
+            <para>
+
+            <sect2>
+                <title>Folk lore</title>
+
+                <para>
+                    The Cairn Hills are well renowed in folk lore for
+                    being a place of unnatural happenings. To the early
+                    tribes, these lands were sacred, and still sometimes
+                    host religious ceremonies held by small cults.
+                </para>
+                
+                <sect3>
+                    <title>The Riders</title>
+                    
+                    <para>
+                        One of the most common legends about the hills
+                        is that of the    Riders - warrior horsemen who,
+                        it is said, are doomed to ride eternally, never
+                        setting foot on land. When the lands were ruled
+                        by barbarians, there was a king called Enstig
+                        Longhair, who ruled the lands around the Cairn
+                        Hills.
+                    </para>
+                    
+                    <para>
+                        Legend has it that he married a woman of the                             otherlands, a fey beauty who spirited him and
+                        his huscarls off to her home to live for
+                        eternity. Every now and again, he and his men
+                        return to patrol their original kingdom. If they
+                        ever set a foot on the earth, then    the years
+                        they have cheated will catch up with them, and
+                        they will die.
+                    </para>
+                    
+                    <para>
+                        The Riders are reported about every 10 years.
+                    </para>
+                </sect3>
+                
+                <sect3>
+                    <title>The Last Elder</title>
+                    
+                    <para>
+                        It is generally thought that the Cairn Hills
+                        were considered sacred by the Druidic tribes
+                        who lived here before the coming of the people
+                        of Rorn, and that many secrets of the Elders
+                        are buried beneath some of the hills.
+                    </para>
+                    
+                    <para>
+                        The most common story about the Elders is that
+                        the last of them was killed here in the final
+                        years of the war against the Druids. The Elder
+                        was slain above his temple, which was burnt
+                        and buried to keep its dark secrets from preying
+                        eyes. Many people have looked for it, though
+                        none have conclusively found it. Some say that
+                        it is beneath Ashek's Tower, whilst others
+                        think that it is a different place.
+                    </para>
+                    
+                    <para>
+                        The truth may never be known, especially since
+                        the people of the Cairn Hills are not the only
+                        ones to claim that the last of the Elders was
+                        slain near their home.
+                    </para>
+                </sect3>
+            </sect2>
+        </sect1>
+    </body>
+
+</article>

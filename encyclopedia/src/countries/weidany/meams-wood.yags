@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Meam's Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <topic>Forest</topic>
+            <topic>Geography</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Meam's Wood</title>
+            
+            <para>
+                To the south of the Cairn Hills, lays an area of thick
+                wood and marsh known as Meam's Wood. It is a place that
+                is avoided by common folk, since the place has a
+                reputation that exceeds that of the Cairns in
+                unpleasentness.
+            </para>
+            
+            <para>
+                It is believed that Meam sought refuge here after he
+                had been driven out by his father, and that the place
+                picked up on his poisonous, hate filled thoughts and made
+                them real. Most of the stories of strange beasts that
+                dwell here now are just stories, but not all of them.
+                The occasional beast is caught or killed on the edge of
+                the region, but darker things are said to dwell in the
+                deepest parts.
+            </para>
+            
+            <sect2>
+                <title>Geography</title>
+                
+                <para>
+                    There is little in the way of a definite border to
+                    the north. The Cairn Hills become wooded in their
+                    southernmost extremities, and gradually drop down
+                    towards the marshes. At some point, the woods
+                    thicken enough for the fell beasts to be found
+                    hunting, but the exact point changes from year to
+                    year.
+                </para>
+                
+                <para>
+                    The marshland is not particularly deep or
+                    unpleseant - there are worse marshes to be found.
+                    They are however quite extensive, and the addition
+                    of the creatures that dwell there is what makes
+                    them notable. Most the the marshland is also wooded,
+                    though the woods are somewhat lighter than in the
+                    dryer parts of Meam's Wood.
+                </para>
+            </sect2>
+            
+            <sect2>
+                <title>Men of the Wood</title>
+                
+                <para>
+                    Despite the hardships to be had living here, for
+                    those with disagreements with the Queen's Justice,
+                    it can be a better home than elsewhere. It is
+                    an accepted fact that anyone who dwells here is
+                    beyond the reach of the law, since few are willing
+                    to persue far into the place.
+                </para>
+                
+                <para>
+                    Because of this, there are a number of outlaw bands
+                    who have made a home here. They survive by hunting,
+                    raiding surrounding villages and caravans, or
+                    stealing from each other. There is little in the way
+                    of cooperation between any of the groups.
+                </para>
+            </sect2>
+        </sect1>
+
+    </body>
+
+</article>

@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Ents</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Giants of the woods</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see>ent-stone</see>
+        </references>
+
+        <topics>
+            <topic>Bestiary</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Ents</title>
+
+            <para>
+                Ents, or giants as they are often called, are a giant
+                race of men who have their own culture and society
+                apart from that of true humans. An adult male is can be
+                up to two and a half metres in height, with a build
+                to match.
+            </para>
+            
+            <para>
+                If given a cause to fight, they are fearsome warriors,
+                and took part in the wars between the fledgling Kingdom
+                of Weidany and Aidan, on the side of Aidan. They lost
+                many of their people during this time, and relations
+                between the Kingdom and the Ents has been very cool
+                since then.
+            </para>
+            
+            <para>
+                Most consider them to be untrustworthy and dangerous, and
+                they have been known to raid human villages when the
+                opportunity presents itself.
+            </para>
+        </sect1>
+    </body>
+
+</article>

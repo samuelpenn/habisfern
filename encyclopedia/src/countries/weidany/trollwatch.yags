@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Troll Watch</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+        
+        <campaign>
+            <date>731, Spring</date>
+        </campaign>
+
+        <references>
+        </references>
+
+        <topics>
+            <topic>Forest</topic>
+            <topic>Geography</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Troll Watch</title>
+
+            <para>
+                Stretched along the eastern side of the shire of Merkia
+                is a region of thick woodland known as the Troll Watch.
+                It is said by some that the place is named so, since any
+                who travel within it must always watch for trolls. Others
+                say that it is the trolls that watch mankind, reporting
+                back to a king of trolls deep in the woods.
+            </para>
+            
+            <para>
+                In any case, trolls are common. They occasionaly raid
+                beyond the woods, but for the most part prefere the
+                darkness of the woods. Several forays into the woods to
+                hunt down and wipe out the trolls have been made, but
+                all have met with disaster. It may be that there is a 
+                controlling mind behind the actions of the trolls, for
+                if seriously threatened, they begin to act together
+                for the defence of their home.
+            </para>
+            
+            <para>
+                The most common trolls here are the hairy kind.
+            </para>
+        </sect1>
+    </body>
+
+</article>

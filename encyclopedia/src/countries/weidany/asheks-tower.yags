@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Ashek's Tower</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <partof>cairnhills</partof>
+        </references>
+
+        <topics>
+            <topic>Geography</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Ashek's Tower</title>
+
+            <para>
+                The strangest feature of the hills is that of Ashek's
+                Tower. It rises 25m above ground level as a steep hill,
+                the top of which opens into a rocky shaft which drops
+                about 50m almost straight down to a small, subterranean
+                lake.
+            </para>
+        </sect1>
+    </body>
+
+</article>

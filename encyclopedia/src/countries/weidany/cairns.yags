@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Cairns</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <partof>cairnhills</partof>
+        </references>
+
+        <topics>
+            <topic>Geography</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+
+        <sect1>
+            <title>The Cairns</title>
+
+            <para>
+                Spread across the southern hills in a rough east - west
+                line are the cairns. There are about four dozen in all,
+                though legend has it that their true number cannot be
+                accurately counted. There are six major cairns, which
+                each have extensive crypts beneath them. The rest are
+                single caves, or simple mounds containing no more than
+                one or two bodies.
+            </para>
+
+            <sect2>
+                <title>The Great Six</title>
+
+                <sect3>
+                    <title>The Round Chamber</title>
+
+                    <para>
+                        A tunnel goes directly into a steep hillside -
+                        getting to it can be difficult. There is a large
+                        round chamber within, with some smaller chambers
+                        off from the main one.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Ecbrit's Cairn</title>
+
+                    <para>
+                        The Ecbrit in question was a recent thegn who
+                        had himself buried here along with the other
+                        warriors. His tormented ghost is often seen near
+                        to the site. It is a simple mound, but has the
+                        most extensive tunnel system of any of the                                 cairns.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>The White Man</title>
+
+                    <para>
+                        A chalk man with spear is carved into the top of
+                        this hill. There is an entrance beneath the
+                        man's feet.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Stone Shield Hill</title>
+
+                    <para>
+                        A mound fifteen metres long, six metres wide and
+                        some three metres tall. It's sides are ringed                             with flat, circular stones, and there is a stone
+                        archway leading into a narrow chamber at the                             east end.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Corpse Hill</title>
+
+                    <para>
+                        A very large artificial hill.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Four Barrows</title>
+
+                    <para>
+                        Four barrows aligned facing towards each other.
+                    </para>
+                </sect3>
+            </sect2>
+        </sect1>
+    </body>
+
+</article>
