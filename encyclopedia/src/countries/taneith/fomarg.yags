@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Fomarg</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="ents">Ents</see>
+        </references>
+
+        <topics>
+            <subject uri="fomarg">Fomarg</subject>
+
+            <category>Race</category>
+
+            <topic uri="taneith">Taneith</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Fomarg</title>
+
+            <para>
+                It is thought that the fomarg lived on the isle 
+                before men came to it, though records from this 
+                time are unclear. They are a race of giants, 
+                standing about three metres tall. They live in 
+                small (or large, depending on your point of view) 
+                villages in some of the forested regions of the 
+                isle. Despite their size, they are excellent 
+                hunters, and many stories tell of their skill 
+                with their great bows, which even the strongest 
+                of men cannot hope to draw.
+            </para>
+
+            <para>
+                The fomarg are cool towards men, especially 
+                towards those that trespass on their land. They 
+                can be treacherous and cowardly.
+            </para>
+
+        </sect1>
+    </body>
+</article>

@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Taneith, Language</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="taneith-language">Taneith</subject>
+
+            <category>Language</category>
+
+            <topic uri="taneith">Taneith</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Taneith, Language</title>
+
+            <para>
+                The principal language of the Isle is Taneith, a 
+                language not found on the continent, but which 
+                has similar roots to Canchak. The written word is 
+                rare on the isle, and many of those who can read 
+                and write, tend to prefer committing things to 
+                memory, rather than to writing.
+            </para>
+
+        </sect1>
+    </body>
+</article>

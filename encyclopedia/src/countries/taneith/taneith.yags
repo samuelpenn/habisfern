@@ -5,7 +5,7 @@
         <title>Taneith</title>
         <tagline>Habisfern</tagline>
 
-        <slugline/>
+        <slugline>Isle of the Goddess</slugline>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -51,18 +51,288 @@
             <title>Taneith</title>
 
             <para>
-                An island to the northwest of Euressa, often 
-                claimed to be magical. Hils and thick forests 
-                hide much of the isle, though there is a strong 
-                human presence in the coastal regions.
+                The northwestern parts of the continent of
+                Euressa are generally considered to be the most
+                barbaric and uncivilised of the explored lands.
+                Since the Isle of Taneith lays off the
+                northwestern cost of the continent, then it
+                surely follows that Taneith is a barbaric land indeed.
             </para>
 
             <para>
-                A small number of Ents have a colony here. Trade 
-                is mostly with the mainland kingdoms of Bryteland 
-                and Cancha.
+                From the point of view of the more southerly
+                lands, with their feudal lords and well marked
+                boundaries, this can be said to be very true.
+                Taneith though has a civilised culture of its
+                own, and civilisation here is not lacking, merely different.
             </para>
 
+            <para>
+                Taneith is a land of tradition and heroes.
+                Possibly the last of the centres of fey power, it
+                can be a dangerous and unforgiving land. To those
+                who know its customs and are aware of its dangers
+                though, it is a magical and enchanting isle, full
+                of raw beauty and serenity.
+            </para>
+
+            <sect2>
+                <title>Geography</title>
+
+                <para>
+                    At its closest point, the isle is about 25km from
+                    the mainland, surrounded by many smaller islands.
+                    There are two highland regions in the east and
+                    west of Taneith, principally made up of granite
+                    rocks. Though some parts of these highlands reach
+                    heights of over 1250m, there are no real peaks to
+                    be able to class them as true mountains - they
+                    are merely regions of high hills broken by the
+                    odd rocky crag or steep river valley. The rest of
+                    the land around the coastal regions is relatively
+                    flat, gently sloping towards the sea. Much of the
+                    actual coastline is cliffs, though there are
+                    plenty of sandy beaches and coves to make landing
+                    reasonably easy.
+                </para>
+
+                <para>
+                    The lower regions are made up of peat bogs and
+                    fertile grassland. Not surprisingly, the greatest
+                    concentration of human settlements can be found
+                    in these regions, so much of this has been taken
+                    over by farmland.
+                </para>
+
+                <sect3>
+                    <title>Inner Highlands</title>
+
+                    <para>
+                        The highland regions of the isle are split into
+                        two main regions - the Cullen Hills in the west,
+                        and the far more irregular Hiskany Hills in the
+                        east. The latter are also the highest, being
+                        about 1350m above sea level at their highest.
+                    </para>
+
+                    <para>
+                        Apart from two ridges in the Hiskany Hills,
+                        neither highland region is mountainous, instead
+                        being made up of hills piled on top of more
+                        hills. River valleys cut through these hills with
+                        regular abandon, and though they are almost
+                        without exception fast flowing, there are few
+                        rapids or waterfalls.
+                    </para>
+
+                    <para>
+                        The two highest parts of the Hiskany Hills
+                        feature sheer rock faces and bare peaks, though
+                        finding ways across such ridges rarely involves
+                        little more than a detour of a couple of hundred
+                        metres for those not inclined towards climbing.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Special Terrain Features</title>
+
+                    <para>
+                        Up in the Hiskany Hills can be found many
+                        remnants of the original people who dwelt here -
+                        the Cannadd. The most common are the stone Cairns
+                        which can be found atop some of the most
+                        prominent hills. Few have been disturbed, since
+                        stories about curses laid on such places are all
+                        too common.
+                    </para>
+
+                    <para>
+                        The most frequent design for these Cairns is a
+                        pile of perfectly cut stone cubes, arranged in a
+                        pyramid fashion and then covered with a light
+                        covering of earth. The largest of these pyramids
+                        are about ten metres tall, though most are around
+                        two to three metres in height.
+                    </para>
+                </sect3>
+            </sect2>
+
+            <sect2>
+                <title>Weather and Climate</title>
+
+                <para>
+                    Taneith is wet all year round, though more so on
+                    the southern side of the isle than on the north.
+                    The same winds and ocean currents which warm the
+                    west coast of Euressa also reach this far,
+                    keeping the southern shores warm. Snow is rare in
+                    the south of the isle, even during the depths of winter.
+                </para>
+
+                <para>
+                    The northern coast is not so favoured though, for
+                    northern winds blow straight down from the arctic
+                    ice sheets, bringing with them snow. Where the
+                    two air currents meet somewhere over the
+                    highlands, there is much fog and mist, which
+                    rolls down to cover the whole isle for much of
+                    the year.
+                </para>
+
+                <sect3>
+                    <title>Spring</title>
+
+                    <para>
+                        Spring is cool and wet in the south, and cold and
+                        somewhat dryer in the north. Fog tends to be
+                        uncommon at this time, and though all arts of the
+                        isle are windy, the highlands tend to suffer
+                        under the last throes of the winter storms at
+                        this time.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Summer</title>
+
+                    <para>
+                        Southern summers are warm and wet, while northern
+                        are cool and wet. Mist and fog is common.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Autumn</title>
+
+                    <para>
+                        Autumns are cold, wet and windy, with the western
+                        coast being subject to frequent storms, making
+                        travel by sea treacherous at best, and suicidal
+                        when conditions are worsened by thick fog - an
+                        all too frequent event.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Winter</title>
+
+                    <para>
+                        Winters are cold all across the island, though
+                        not drastically so. Snow is common up in the
+                        highlands, though is rarely seen on the lower,
+                        southern, parts of the island. Storms are
+                        frequent and violent, though both rain and fog
+                        tend to be rare during the winter months.
+                    </para>
+                </sect3>
+            </sect2>
+
+            <sect2>
+                <title>Fauna and Flora</title>
+
+                <para>
+                    Much of the landscape is covered by thick
+                    deciduous forests, mostly made up of oak, elm and
+                    birch. The colder northern regions are mostly
+                    coniferous, especially in the northeast. Though
+                    only about half of the map is marked as being
+                    forest, the rest of the landscape is a mixture of
+                    light woodland and wild moorland.
+                </para>
+
+                <para>
+                    There is a multitude of wild life common to the
+                    island, most of it native before the arrival of
+                    man. Rabbits, hares, badgers and squirrels are
+                    amongst the most common of the smaller animals,
+                    with larger game being comprised of deer, and the
+                    much larger elk.
+                </para>
+
+                <sect3>
+                    <title>Predators</title>
+
+                    <para>
+                        The only large predators are wolves and bears,
+                        though both have learned to avoid men wherever
+                        possible. The exception is the huge dire wolf,
+                        which can grow to lengths of almost three metres
+                        from head to tail. A dire wolf considers a lone
+                        man to be easy prey, though there are few of them
+                        left except in the thickest of forests.
+                    </para>
+                </sect3>
+            </sect2>
+
+            <sect2>
+                <title>People</title>
+
+                <para>
+                    The original inhabitants of Taneith were the
+                    Cannadd, a race of short, hairy savages who dwelt
+                    mainly in the Hiskany Hills. Many monuments of
+                    theirs can still be found, but as a race they no
+                    longer exist.
+                </para>
+
+                <para>
+                    About 700 years ago, the hero Taneith crossed the
+                    Sea of Mists with a hundred of his followers,
+                    settling at what is now known as Leanneac. They
+                    spread westward, driving the Cannath before them,
+                    and finally wiping them out entirely. Eventually,
+                    they populated the entire island, though many of
+                    the larger forests are unexplored.
+                </para>
+
+                <para>
+                    The current inhabitants of the isle are the
+                    descendants of the first hundred. Now numbering
+                    about three hundred thousand, they live in
+                    scattered fines, quite different to the dense
+                    villages common on the continent.
+                </para>
+
+                <sect3>
+                    <title>Raths and Fines</title>
+
+                    <para>
+                        A rath is the name given to a homestead, normally
+                        fortified. Within it, lives a family, normally
+                        consisting of parents and children, and sometimes
+                        grandparents as well. Surrounding the rath will
+                        be the lands owned by the family, consisting of
+                        farmland and pasture.
+                    </para>
+
+                    <para>
+                        Unlike on the continent, there are no villages to
+                        be found on Taneith. Each rath stands more or
+                        less alone, though those of the same fine are
+                        more or less within sight of each other -
+                        generally being half a dozen kilometres distant.
+                        A fine includes all members of a single family,
+                        over six generations, and though they generally
+                        do not interfere in each other's affairs, they do
+                        unite behind each other when danger threatens.
+                    </para>
+
+                    <para>
+                        The fine is <e>ruled</e> by a taoiseach, who only has
+                        as much power as he has respect from the other
+                        members of his fine. Except in cases of dispute
+                        between family members, he rarely interferes in
+                        the day to day affairs of the fine.
+                    </para>
+
+                    <para>
+                        The average size of a rath is about five people,
+                        and there are normally between fifteen to thirty
+                        raths within a single fine.
+                    </para>
+                </sect3>
+            </sect2>
         </sect1>
     </body>
 </article>
