@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Dryad</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="elf">Elf</see>
+            <see uri="faerie">Faerie</see>
+        </references>
+
+        <topics>
+            <subject uri="dryad">Dryad</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Dryads</title>
+
+            <para>
+                Dryads are a form of female wilderness spirit, similar to
+                an elf queen. Often, the difference is academic, and some
+                argue that there is no real difference.
+            </para>
+
+            <beast name="Dryad">
+                <information>
+                    <type>Elemental</type>
+                    <demeanor>Selfish</demeanor>
+        
+                    <habitat climate="Warm" terrain="Forest"
+                             frequency="Very rare"/>
+        
+                    <organisation group="Solitary" number="1"/>
+        
+                    <origin>Habisfern</origin>
+                    <genre>Fantasy</genre>
+                </information>
+        
+                <description>
+                    <short>
+                        Beautiful female woodland spirits.
+                    </short>
+        
+                    <physical>
+                        <para>
+                            Very pretty.
+                        </para>
+                    </physical>
+                </description>
+        
+                <attributes size="5" soak="12">
+                    <attribute name="strength" score="4"/>
+                    <attribute name="stamina" score="5"/>
+                    <attribute name="agility" score="5"/>
+                    <attribute name="dexterity" score="5"/>
+                    <attribute name="perception" score="5"/>
+                    <attribute name="intelligence" score="3"/>
+                    <attribute name="charisma" score="5"/>
+                    <attribute name="will" score="5"/>
+                </attributes>
+        
+                <skills>
+                    <group name="Talents" type="talents">
+                        <skill name="Athletics" score="4"/>
+                        <skill name="Awareness" score="9"/>
+                        <skill name="Brawl" score="3"/>
+                        <skill name="Charm" score="9"/>
+                        <skill name="Guile" score="9"/>
+                        <skill name="Sleight" score="7"/>
+                        <skill name="Stealth" score="9"/>
+                        <skill name="Throw" score="3"/>
+                    </group>
+        
+                    <group name="Misc" type="skills">
+                        <skill name="Herb lore" score="6"/>
+                        <skill name="Beast lore" score="6"/>
+                        <skill name="Seduction" score="9"/>
+                    </group>
+                </skills>
+        
+                <passions>
+                    <passion name="Bravery" score="4"/>
+                    <passion name="Ego" score="6"/>
+                    <passion name="Restraint" score="4"/>
+                    <passion name="Temperence" score="3"/>
+                </passions>
+        
+                <advantages>
+                    <advantage name="Beautiful" score="+3"/>
+                </advantages>
+            </beast>
+        </sect1>
+    </body>
+</article>

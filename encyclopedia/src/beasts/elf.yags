@@ -33,6 +33,9 @@
         <style name="module"/>
 
         <references>
+            <see uri="dryad">Dryad</see>
+            <see uri="faerie">Faerie</see>
+            <see uri="goblin">Goblin</see>
         </references>
 
         <topics>
