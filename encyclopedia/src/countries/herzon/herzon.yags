@@ -33,7 +33,7 @@
         <style name="module"/>
 
         <references>
-            <see uri="urazen">Niemstarg</see>
+            <see uri="niemstarg">Niemstarg</see>
             <see uri="swords-vihri">Swords of Vihri</see>
         </references>
 
@@ -44,6 +44,7 @@
 
             <topic uri="euressa">Euressa</topic>
             <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+            <topic uri="herzon">Herzon</topic>
         </topics>
     </header>
 
