@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Attercop Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="attercop-wood">Attercop Wood</subject>
+
+            <category>Wood</category>
+            <topic uri="northwood-shire">Northwood Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Attercop Wood</title>
+
+            <para>
+                On the northwestern border of Weidany lays Attercop 
+                Wood. It is  a useful  guardian  against Bryteland, for 
+                few dare to travel its paths. The wood is thick and 
+                dense, having suffered little exploration by men. This 
+                brings with it the usual dangers, but they are 
+                compounded by the main hunters of  the region.
+            </para>
+
+            <para>
+                The woods are the hunting groups of a species of giant 
+                spider. Up to a metre across, they are tree dwellers, 
+                hunting by laying in wait for prey and  pouncing from 
+                above when they get within range. The spiders do not use 
+                webs, but do make use of a virulent poison that rapidly 
+                incapasitates prey.
+            </para>
+
+            <para>
+                The typical tactic is to bite, then retreat and wait for 
+                the poison to take effect. The spiders fear fire, and 
+                tend to be wary of anything that puts up a fight.
+            </para>
+
+            <para>
+                The western end of the wood, which is bordered by the 
+                sea, is relatively free of spiders. Much of the area 
+                consists of salt water marshes, together with mud or 
+                sandy stretches of ground hiding quicksand deep pools. 
+                Nevertheless, there are a number of human settlements 
+                along the coast - mostly fishing villages.
+            </para>
+
+        </sect1>
+    </body>
+</article>

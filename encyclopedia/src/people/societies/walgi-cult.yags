@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Cult of Walgi</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="walgi">Walgi</subject>
+
+            <category>Cult</category>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Cult of Walgi</title>
+
+            <para>
+                The Mother of Wolves is a goddess of beasts and wild 
+                places, and few humans have an interest in her, beyond a 
+                desire to avoid her attentions. When sheep are taken by 
+                wolves, or a child is lost in the woods, then it is 
+                Walgi who is cursed.
+            </para>
+
+            <para>
+                However, there are a few who know her ways. She is a 
+                huntress as well as guardian of beasts, and she knows 
+                well the laws of the wild. Men who hunt with respect are 
+                shown respect in return, and the followers of the Cult 
+                of the She Wolf teach and practise these ways.
+            </para>
+
+            <sect2>
+                <title>The Grey Hunters</title>
+
+                <para>
+                    The Grey Hunters are followers of Walgi in her hunting 
+                    aspect. They are woodsmen who wish the protection of the 
+                    beast goddess whilst learning her secrets. They normally 
+                    form small cults made up of huntsmen from several villages.
+                </para>
+    
+                <para>
+                    Caves are used as shrines by the Huntsman, with 
+                    offerings of livestock when sacrifices are made. Mostly 
+                    they seek protection of their homes from the wild.
+                </para>
+            </sect2>
+            
+            <sect2>
+                <title>The Red Hunters</title>
+            
+                <para>
+                    The cult of Walgi is two faced. Whilst the Grey Hunters 
+                    are the repectable side, there is a second, darker path 
+                    which a few followers of the cult sometimes take.
+                </para>
+    
+                <para>
+                    Walgi the Beast Goddess leads her followers away from 
+                    civilisation, towards the bestial side of their nature, 
+                    slowly stripping their humanity from them.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>

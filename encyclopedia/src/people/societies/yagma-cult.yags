@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Cult of Yagma</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="yagma">Yagma</subject>
+
+            <category>Cult</category>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Cult of Yagma</title>
+
+            <para>
+                Yagma is the Earth Mother, goddess of nature, life and 
+                death. The cult of Yagma is closely related to that of 
+                <qv uri="estror-dawn-cult">Estror</qv>.
+            </para>
+
+            <para>
+                Priests of Yagma tend to be both male and female. They 
+                play an important role in the agricultural activities of 
+                society, and are far more common in rural areas than in towns.
+            </para>
+
+            <para>
+                Priests of Yagma preside at funerals, acting in the name 
+                of Rim.
+            </para>
+
+            <para>
+                //Shrines and Holy Places
+            </para>
+
+            <para>
+                Ceremonies to Yagma are normally performed at a sacred 
+                tree, which is ideally oak. A stone table is used to 
+                burn sacrifices on, which normally consist of crops or animals.
+            </para>
+
+            <para>
+                Other sacred places include groves, pools and caves. 
+                These are reserved for special ceremonies, normally 
+                those private to the cult.
+            </para>
+
+        </sect1>
+    </body>
+</article>

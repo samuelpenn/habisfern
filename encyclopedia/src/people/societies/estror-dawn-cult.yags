@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Cult of the Dawn</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="estror">Estror</subject>
+
+            <category>Cult</category>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Cult of the Dawn</title>
+
+            <para>
+                The Cult of the Dawn is a loosely knit group of 
+                priestesses who follow the Dawn Goddess. They are 
+                healers and midwives, taking vows to never bring harm to anyone.
+            </para>
+
+            <para>
+                Members of the Cult are common, being found in most 
+                villages across the Kingdom of Weidany. Most members are 
+                relatively low level, being spinsters or widows. There 
+                is no requirement for cult members to be women, though 
+                by far the majority are.
+            </para>
+
+        </sect1>
+    </body>
+</article>
