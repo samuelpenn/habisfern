@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Age of Balance</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="rornic-before-time">Time Before Time</see>
+            <see uri="rornic-dawn-time">The Dawn Time</see>
+            <see uri="rornic-summer-age">Age of Summer</see>
+            <see uri="rornic-winter-age">Age of Winter</see>
+        </references>
+
+        <topics>
+            <subject uri="rornic-mythology">Rornic Mythology</subject>
+
+            <category>Religion</category>
+
+            <topic uri="rornic-mythology">Rornic Mythology</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Age of Balance</title>
+
+            <para>
+                The current Age in Rornic Mythology. It is a time when the
+                powers of the <qv uri="ice">Ice</qv>, and the gods of man,
+                are in balance.
+            </para>
+        </sect1>
+    </body>
+</article>
