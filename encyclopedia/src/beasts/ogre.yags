@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Ogre</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="meam">Meam</see>
+            <see uri="hag">Hag</see>
+        </references>
+
+        <topics>
+            <subject uri="ogre">Ogre</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Ogre</title>
+
+            <para>
+                Ogres are mutant crossbreads of men and beasts. 
+                They are also known as the Children of Meam.
+            </para>
+
+            <para>
+                Ogres tend to be large and strong, more so than 
+                Trolls in some cases. However, they are slow 
+                witted, violent and ugly. Unlike Trolls, they can 
+                understand and speak the languages of man.
+            </para>
+
+            <para>
+                Their actual appearance can vary greatly, from an 
+                oversized and misshapen human, to a gorilla like
+                beast the size of a shire horse.
+            </para>
+
+        </sect1>
+    </body>
+</article>

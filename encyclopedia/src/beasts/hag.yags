@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Hag</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="meam">Meam</see>
+            <see uri="ogre">Ogre</see>
+        </references>
+
+        <topics>
+            <subject uri="hag">Hag</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Hag</title>
+
+            <para>
+                The female equivalent of ogres, hags are deformed 
+                parodies of women. They appear as old women, 
+                though can vary in size as much as ogres. Unlike 
+                ogres, they are often cunning, and capable of magic.
+            </para>
+
+        </sect1>
+    </body>
+</article>
