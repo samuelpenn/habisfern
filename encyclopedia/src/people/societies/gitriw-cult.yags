@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Cult of Gitriw</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="gitriw">Gitriw</subject>
+
+            <category>Cult</category>
+
+            <topic uri="rornic-mythology">Rornic Mythology</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Cult of Gitriw</title>
+
+            <para>
+                The Cult of Gitriw the Truth Speaker is dedicated to the
+                goddess of truth. They are few in number, but are given
+                great respect, for their life is a difficult one. On
+                joining, they must take a vow to always speak the truth,
+                and to never lie, either by omission or comission.
+            </para>
+        </sect1>
+        
+        <sect1>
+            <title>Membership</title>
+            
+            <para>
+                Cultists are taught the following skills and techniques.
+            </para>
+            
+            <sect2>
+                <title>Skills</title>
+            
+                <skill-list>
+                    <skill name="Religion (Cult of Gitriw)" type="knowledge">
+                        <description>
+                            <para>
+                                Gives knowledge of the ideals, mythology and
+                                rituals of the Cult of Gitriw.
+                            </para>
+                        </description>
+                    </skill>
+                </skill-list>
+            </sect2>
+            
+            <sect2>
+                <title>Rituals</title>
+                
+                <advantages>
+                    <advantage name="Oath of Truth" type="technique">
+                        <cost points="2"/>
+                        <skill name="Religion"/>
+                        
+                        <description>
+                            <para>
+                                This ritual is a two edged sword, for it
+                                both gives power to those who invoke it and
+                                has power over them as well. When used,
+                                prayers are said in honour of Gitriw, and
+                                all involved wash their hands and faces in
+                                holy water.
+                            </para>
+                            
+                            <para>
+                                Once invoked, all who are part of it will
+                                know if another within the ritual speaks a
+                                lie. All who are part of the ritual must
+                                know the ritual, so it is not a universal
+                                answer to finding the truth, but it does
+                                ensure that a Priest of Gitriw speaks the
+                                truth.
+                            </para>
+                            
+                            <para>
+                                A religion roll is made with charisma, and
+                                this adds to guile when detecting lies and
+                                subtracts when telling a lie.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Trial of Combat" type="technique">
+                        <cost points="4"/>
+                        <skill name="Religion"/>
+                        <prerequisite>Oath of Truth</prerequisite>
+                        
+                        <description>
+                            <para>
+                                Trial by combat is reserved for the nobility,
+                                others must find a different path. The ritual
+                                is performed on two warriors who fight to
+                                the death, the winner was in the right.
+                            </para>
+                            
+                            <para>
+                                Both warriors must accept the performance of
+                                ritual. The one which is seen to be in the
+                                right according to the Laws of Haltan gains
+                                a number of temporary luck points equal to
+                                the <e>religion</e> of the priest, which may
+                                be used only in the combat.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Truth sight" type="technique">
+                        <cost points="6"/>
+                        <skill name="Religion"/>
+                        <prerequisite>Oath of Truth</prerequisite>
+                        
+                        <description>
+                            <para>
+                                A ceremony to Gitriw is performed, and all
+                                those who swear on the priest's holy staff
+                                are less capable of telling believable lies.
+                            </para>
+                            
+                            <para>
+                                Any who so swears to tell the truth, for the
+                                duration of the ceremony, opens themselves to
+                                the priest, and he gains a bonus to any guile
+                                rolls to perceive lies equal to one half a
+                                charisma x religion roll.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Sight of Gitriw" type="technique">
+                        <cost points="9"/>
+                        <skill name="Religion"/>
+                        <prerequisite>Truth sight</prerequisite>
+                        <luck temporary="1"/>
+                        
+                        <description>
+                            <para>
+                                As <e>Truth sight</e>, but the priest also
+                                has a vision which points towards the truth,
+                                and gives some indication of how, and why,
+                                the target is lying.
+                            </para>
+                        </description>
+                    </advantage>
+                </advantages>
+            </sect2>
+        </sect1>
+    </body>
+</article>
