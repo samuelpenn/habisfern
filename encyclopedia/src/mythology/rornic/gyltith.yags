@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Gyltith</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>The Sorrowful</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+            <partof>daegian</partof>
+        </references>
+
+        <topics>
+            <topic>God</topic>
+            <topic>Religion</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Gyltith the Sorrowful</title>
+
+            <para>
+                Gyltith was born of <gv uri="rorn">Rorn</qv> and
+                <qv uri="estror">Estror</qv>, and like her sister
+                <qv uri="hreth">Hreth</qv>, fate did not turn out
+                well for her. At first she sought knowledge of the
+                world, and aimed to write down all that had
+                happened in it.
+            </para>
+            
+            <para>
+                Finding herself continuously behind in all that
+                happened, she tried to find a way to predict the
+                future, such that she could write it down before
+                it happened. She believed that the future of the
+                world was foretold in the <qv uri="dreams-of-iss">
+                Dreams of Iss</qv>, and when <qv uri="rim">Rim</qv>
+                and <qv uri="yagma">Yagma</qv> refused to tell her
+                of them, she travelled to the far northm to the
+                great castle of the <qv uri="brokki">Frost Giant
+                Brokki</qv>, which was crafted form the skull
+                of <qv uri="iss">Iss</qv>.
+            </para>
+            
+            <para>
+                She starved herself, and sat in meditation for
+                many days. On the twelth day, she was rewarded
+                with a glimpse of the mind of Iss, and a vision
+                of the future. Since that time, she has refused to
+                speak of what she saw, saying only that there is
+                a great darkness in the future from which it is
+                impossible to escape.
+            </para>
+
+            <sect2>
+                <title>Interests and Worshippers</title>
+
+                <para>
+                    Gyltith is the prophet, who is cursed only to
+                    see the futures she does not wish to see. She is
+                    the goddess of sorrow and remorse, of fear and
+                    emotional suffering.
+                </para>
+
+                <para>
+                    No-one wants the eyes of Gyltith to pass over
+                    them, for if they do, then they suffer a
+                    foreshadowing of their own misfortune. Warriors
+                    who know that they go to their deaths often
+                    drunk to Gyltith, for she understands what they
+                    face.
+                </para>
+            </sect2>
+        </sect1>
+
+    </body>
+
+</article>
+
