@@ -2,10 +2,10 @@
 
 <article>
     <header>
-        <title>Abbyton</title>
+        <title>Langton</title>
         <tagline>Habisfern</tagline>
 
-        <slugline>Shire capital of Merrik</slugline>
+        <slugline/>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -40,7 +40,7 @@
         </references>
 
         <topics>
-            <subject uri="abbyton">Abbyton</subject>
+            <subject uri="langton">Langton</subject>
 
             <category>Town</category>
 
@@ -54,30 +54,11 @@
 
     <body>
         <sect1>
-            <title>Abbyton</title>
+            <title>Langton</title>
 
             <para>
-                Abbyton is the shire capital of Merrik Shire, in the
-                Kingdom of Weidany. It is a walled town, overlooking the
-                <qv uri="depsum">Depsum marshes</qv> to the northeast.
-                It has a population of about five thousand.
+                Langton is a town in Merrik Shire.
             </para>
-
-            <sect2>
-                <title>Politics</title>
-
-                <para>
-                    The city is governed by the thegn Madog, son of
-                    Cadwallon the previous thegn. Madog is a capable ruler,
-                    though he is not a warrior, and it is his brother
-                    Cadthar who leads the huscurls. There is some tension
-                    between the two, for Cadthar believes that it is a
-                    warriors place to lead, not a merchants. Madog has
-                    much support amongst the common people, and what
-                    support Cadthar may have amongst the huscurls is not
-                    enough to overcome their loyalty to their lord.
-                </para>
-            </sect2>
         </sect1>
 
     </body>
