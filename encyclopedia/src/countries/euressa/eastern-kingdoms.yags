@@ -60,6 +60,140 @@
                 Most of the cultures here share a belief in the concept of
                 <qv uri="belogan-mythology">Beloga</qv>.
             </para>
+
+            <sect2>
+                <title>History</title>
+
+                <para>
+                    The Eastern Kingdoms were settled sometime after the
+                    Ice had retreated from Euressa. The initial settlers of
+                    the continent had been constrained to the central
+                    regions whilst the Ice had been present, then moved
+                    westwards with the retreat of the Ice.
+                </para>
+
+                <events dating="AE">
+                    <event title="First settlers">
+                        <startdate year="510"/>
+                        <para>
+                            First wave of eastern settlers land at
+                            Chibiversk. There are people here already,
+                            though they are few in number, and are easily
+                            subdued.
+                        </para>
+                    </event>
+
+                    <event title="Empire of Chibiverskia">
+                        <startdate year="724"/>
+                        <enddate year="975"/>
+                        <para>
+                            The Empire of Chibiverskia becomes the first of
+                            the large nation states to arise in the east.
+                            It lasts for little over two hundred years, but
+                            eventually collapses, partly from within, partly
+                            due to barbarian incursions from the west.
+                        </para>
+                    </ebent>
+
+                    <event title="Chezok founded">
+                        <startdate year="1003"/>
+                        <para>
+                            City of Chezok declares a Kingdom.
+                        </para>
+                    </event>
+
+                    <event title="Kingdom of Chibiversk">
+                        <startdate year="1092"/>
+                        <para>
+                            Chibiversk reforms as a small kingdom. A large
+                            temple to Svargi is built.
+                        </para>
+                    </event>
+
+                    <event>
+                        <startdate year="1117"/>
+                        <para>
+                            Temple of Svargi at Chibiversk is recognised as
+                            centre of the religion. This gives the kingdom a
+                            lot more influence than it would otherwise have.
+                        </para>
+                    </event>
+
+                    <event>
+                        <startdate year="1121"/>
+                        <para>
+                            Chezok swears fealty to Chibiversk.
+                        </para>
+                    </event>
+
+                    <event title="Ice wars in Kurbia">
+                        <startdate year="1140"/>
+                        <enddate year="1160"/>
+                        <para>
+                            Wars in Western Kurbia, against various Ice
+                            Cults. Many wizards are involved in the fighting
+                            and there is much chaos.
+                        </para>
+                    </event>
+
+                    <event title="Levas League">
+                        <startdate year="1162"/>
+                        <para>
+                            The Levas League is formed, and there is peace
+                            with Chibiversk of a sorts. Inquisition founded
+                            to hunt out followers of the Ice. All the
+                            Inquisitors are powerful wizards.
+                        </para>
+                    </event>
+
+                    <event>
+                        <startdate year="1169"/>
+                        <para>
+                            Levas League official becomes part of the Kingdom
+                            of Kurbia, with Chibiversk as capital.
+                        </para>
+                    </event>
+
+                    <event title="Crusades">
+                        <startdate year="1175"/>
+                        <para>
+                            The Inquisition begins a crusade against the Ice
+                            and anyone suspected of having sympathies with
+                            it. Wizards who are not part of the Inquisition
+                            are declared guilty, hunted down, and killed.
+                        </para>
+                     </event>
+
+                     <event title="2nd Crusades">
+                        <startdate year="1192"/>
+                        <para>
+                            The 2nd Crusade is even bloodier than the first.
+                            War against people who have fled to the False
+                            Mountains.
+                        </para>
+                    </event>
+
+                    <event title="The Long Night">
+                        <startdate year="1207"/>
+                        <para>
+                            The Inquisition leaders are massacred after
+                            rumours of a 3rd Crusade being planned. The coup
+                            is managed by many Wizards who had survived the
+                            witch hunts, plus also some Inquisitors
+                            themselves. The Inquisition is disbanded, and
+                            the libraries are opened up to everyone.
+                        </para>
+                    </event>
+
+                    <event title="Guild of Wizardry">
+                        <startdate year="1215"/>
+                        <para>
+                            The Guild of Wizardry is formed, and the
+                            libraries are closed to non members.
+                        </para>
+                    </event>
+                </events>
+            </sect2>
         </sect1>
     </body>
 </article>
