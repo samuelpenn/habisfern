@@ -63,6 +63,16 @@
                 ancestral home lands of <qv uri="merrik-shire">Merrik</qv>.
             </para>
 
+            <para>
+                The Ealdorman of the House is Madog son of Cadwallon. He
+                is a capable merchant and politician, though not a warrior,
+                and there is some friction in the house between him and
+                those who would prefer a more warrior orientated leadership.
+                His brother Cadthar is the focus of this other group.
+                Cadthar is a hero of the Cadwold wars, and greatly
+                respected by the House's warriors.
+            </para>
+
             <sect2>
                 <title>Nobles of House Erwin</title>
 
@@ -72,6 +82,32 @@
                     They like the status quo, and will generally try not to
                     get involved unless doing so is absolutely necessary.
                 </para>
+
+                <para>
+                    There is a small but growing faction within the House
+                    that believes it is a warrior's job to rule, and
+                    would prefer to drop the politics and concentrate
+                    on the military strength of the House. Since there
+                    isn't actually an enemy to fight, they are having
+                    a hard time convincing the rest of the House.
+                </para>
+
+                <character name="Ealdorman Madog">
+                    <description>
+                        <gender>Male</gender>
+                        <age>53</age>
+                        <short>A short greying man who is quite handsome</short>
+
+                        <physical>
+                            <para>
+                                Madog is a short man with grey hair. He
+                                is always well dressed, and is charming
+                                and sociable. He is of average build but
+                                not very fit.
+                            </para>
+                        </physical>
+                    </description>
+                </character>
             </sect2>
         </sect1>
         

@@ -33,6 +33,7 @@
         <style name="module"/>
 
         <references>
+            <see uri="perrin-kingdom">Kingdom of Perin</see>
         </references>
 
         <topics>
@@ -50,11 +51,42 @@
     <body>
         <sect1>
             <title>The Shire of Langly</title>
-                        
+
             <para>
-                A shire in Weidany. The shire town is <qv uri="milbry">
-                Milbry</qv>.
+                The shire of Langly lays south and east of the
+                <qv uri="langly-river">Langly River</qv> in a relatively
+                flat and fertile part of the Kingdom. Some parts of
+                the shire are marshy, though there are no single
+                marsh of particular note.
             </para>
+
+            <para>
+                The administrative capital of the shire is the town
+                of <qv uri="milbry">Milbry</qv>. There is litle else
+                of great note in the shire, and there are no impressive
+                fortifications or noteworthy places of legend. Langly
+                is reputed to be a place of underachievers and
+                simpletons, though its folk consider themselves
+                to be straightforward and practical.
+            </para>
+
+            <sect2>
+                <title>Government</title>
+
+                <para>
+                    The shire reeve is Raedoc Redson, a tall fair
+                    man in his early fifties who considers the post a
+                    cushy job, made all the easier if he doesn't rock
+                    the boat and upset anyone. This suits the shirefolk
+                    greatly, but his laxness has been noted, especially
+                    in the area of tax collection. A member of the
+                    royal court has been sent to investigate the
+                    situation, and she has not been well received.
+                    She is Erikka of Erwin, also a priestess of
+                    Neya. She is currently staying at the Hall in
+                    Milbry whilst she prepares her report.
+                </para>
+            </sect2>
         </sect1>
     </body>
 
