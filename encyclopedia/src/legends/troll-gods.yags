@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Troll Gods</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>A sword and shield of virtue</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <references>
+            <see uri="trolls">Trolls</see>
+        </references>
+
+        <topics>
+            <subject uri="troll-gods">Troll Gods</subject>
+
+            <category>Legends</category>
+
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="tanwall">Tanwall</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Troll Gods</title>
+
+            <para>
+                The Troll Gods are mythical uber-trolls who are said to
+                dwell in the heavily forested northern lands of
+                Bryteland and Tanwall.
+            </para>
+
+            <para>
+                It is believed that they may be a form of White Troll,
+                though the more outlandish stories make them out to be
+                actual Powers. Little is known of the religion which
+                surrounds them, or even if the trolls are capable of having
+                a religion.
+            </para>
+        </sect1>
+
+    </body>
+
+</article>
