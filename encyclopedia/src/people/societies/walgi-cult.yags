@@ -97,5 +97,53 @@
                 </para>
             </sect2>
         </sect1>
+        
+        <sect1>
+            <title>Membership</title>
+            
+            <sect2>
+                <title>Skills</title>
+            
+                <skill-list>
+                    <skill name="Religion (Walgi)" type="knowledge">
+                        <description>
+                            <para>
+                                Gives knowledge of the ideals, mythology and
+                                rituals of the cult of Walgi.
+                            </para>
+                        </description>
+                    </skill>
+                </skill-list>
+                
+                <sect3>
+                    <title>Suggested skills</title>
+                    
+                    <para>
+                        Members of the cult will often have <e>beast lore</e>
+                        and <e>animal care</e> skills, as well as having some
+                        knowledge of <e>survival</e>.
+                    </para>
+                </sect3>
+            </sect2>
+            
+            <sect2>
+                <title>Rituals</title>
+                
+                <advantages>
+                    <advantage name="Befriend animals" type="technique">
+                        <cost points="3"/>
+                        <skill name="Religion"/>
+                        
+                        <description>
+                            <para>
+                                Animals are friendly.
+                            </para>
+                        </description>
+                    </advantage>
+                </advantages>
+                
+            </sect2>
+                
+        </sect1>
     </body>
 </article>
