@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Daughters of Rim</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Angels of Death</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1;
+                with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="rim-brytish">Rim</subject>
+
+            <category>Religion</category>
+
+            <topic uri="brytish-mythology">Brytish Mythology</topic>
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Daughters of Rim</title>
+
+            <para>
+                The daughters of Rim are godesses of Death, who claim
+                the souls of men on the battlefield. They are skeletal
+                in appearance, with black cloaks and ride white
+                horses. They all carry the sword Eternal Silence,
+                of which there are many manifestations. Eternal
+                Silence will break any blade it encounters, and cuts
+                through any armour.
+            </para>
+        </sect1>
+    </body>
+</article>
+
