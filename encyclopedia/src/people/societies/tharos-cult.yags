@@ -140,5 +140,183 @@
                 </para>
             </sect2>
         </sect1>
+        
+        <sect1>
+            <title>Membership</title>
+            
+            <para>
+                Cultists are taught the following skills and techniques.
+            </para>
+            
+            <sect2>
+                <title>Skills</title>
+                
+                <skill-list>
+                    <skill name="Religion (Cult of Tharos)" type="knowledge">
+                        <description>
+                            <para>
+                                Gives knowledge of the ideals, mythology and
+                                rituals of the Cult of Tharos. Also provides
+                                knowledge of the philosophy of Gebetan.
+                            </para>
+                        </description>
+                    </skill>
+                </skill-list>
+            </sect2>
+            
+            <sect2>
+                <title>Rituals</title>
+                
+                <advantages>
+                    <advantage name="Heightened Reflexes" type="technique">
+                        <cost points="3"/>
+                        <skill name="Religion"/>
+                        <prerequisite>Quickdraw</prerequisite>
+                        
+                        <description>
+                            <para>
+                                When using the defensive stance, those with
+                                <e>Heightened Reflexes</e> gain an automatic
+                                +1 bonus to agility and dexterity roles.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Lightning Reflexes" type="technique">
+                        <cost points="9"/>
+                        <skill name="Religion"/>
+                        <prerequisite>Heightened Reflexes</prerequisite>
+                        
+                        <description>
+                            <para>
+                                If surprised or unaware of an attack, the
+                                character gains a half dodge defense (roll
+                                dodge, then halve the total) against the
+                                attack. This defense is gained against all
+                                attacks the character is not otherwise
+                                defending against, even in combat.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Beyond Limits" type="technique">
+                        <cost points="6"/>
+                        <skill name="Religion"/>
+                        <prerequisite>Perfection of Body</prerequisite>
+                        
+                        <description>
+                            <para>
+                                Those with an understanding of Gebetan know
+                                how to push their body beyond its normal
+                                limits. At the start of any round, the
+                                character can choose to use this technique
+                                (which is otherwise automatic), gaining a +1
+                                bonus to strength, agility and dexterity for
+                                all actions that round.
+                            </para>
+                            
+                            <para>
+                                At the end of the round, one level of short
+                                term fatigue is gained.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="No Limits" type="technique">
+                        <cost points="12"/>
+                        <skill name="Religion"/>
+                        <prerequisite>Beyond Limits</prerequisite>
+                        
+                        <description>
+                            <para>
+                                As for <e>Beyond Limits</e>, but the cultist
+                                can choose to spend as many fatigue points
+                                as they like, each giving +1 to strength,
+                                agility and dexterity.
+                            </para>
+                            
+                            <para>
+                                If at the end of the round, fatigue is
+                                gained beyond the <e>exhausted</e> level,
+                                then a number of wounds are gained equal
+                                to the <e>total number</e> of fatigue
+                                gained (not the excess). If this takes the
+                                character to fatal level or beyond, then a
+                                stamina check must be made to remain alive.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Cloak of Shadows" type="technique">
+                        <cost points="4"/>
+                        <skill name="Religion"/>
+                        
+                        <description>
+                            <para>
+                                Tharos may help hide those of his followers
+                                who do not wish to be seen. Those who wear
+                                the dark hooded cloak of his priesthood may
+                                gain a bonus to stealth rolls equal to their
+                                religion score.
+                            </para>
+                            
+                            <para>
+                                Such cloaks are blessed in rituals to Tharos
+                                and have his symbol inscribed on the hem.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Perfection of Body" type="technique">
+                        <cost points="6"/>
+                        <skill name="Religion"/>
+                        
+                        <description>
+                            <para>
+                                An automatic technique which grants a +1
+                                bonus to agility for all athletic skill
+                                checks.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Face of Friendship" type="technique">
+                        <cost points="9"/>
+                        <skill name="Religion"/>
+                        <prerequisite>Cloak of Shadows</prerequisite>
+                        
+                        <description>
+                            <para>
+                                The cultist is able to disguise themselves
+                                to look like another, using the will of
+                                Tharos to mask their true appearance.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Out of Sight" type="technique">
+                        <cost points="15"/>
+                        <skill name="Religion"/>
+                        <prerequisite>Face of Friendship</prerequisite>
+                        
+                        <description>
+                            <para>
+                                A cultist who has mastered <e>Out of
+                                Sight</e> is able to stay hidden from view
+                                as long as they do not move, and as long as
+                                none were watching him when he chose to
+                                hide.
+                            </para>
+                            
+                            <para>
+                                It takes a whole round to prepare this
+                                ritual, but once used, the cultist is
+                                hidden from normal sight.
+                            </para>
+                        </description>
+                    </advantage>
+                </advantages>
+            </sect2>
+        </sect1>
     </body>
 </article>
