@@ -81,39 +81,41 @@
                             </short>
                         </description>
                 
-                        <skills>
-                            <group name="Talents" type="talents">
-                                <skill name="Athletics" score="2"/>
-                                <skill name="Awareness" score="2"/>
-                                <skill name="Brawl" score="2"/>
-                                <skill name="Charm" score="3"/>
-                                <skill name="Guile" score="3"/>
-                                <skill name="Sleight" score="2"/>
-                                <skill name="Stealth" score="2"/>
-                                <skill name="Throw" score="2"/>
-                            </group>
-                
-                            <group name="Knowledges" type="knowledges">
-                                <skill name="Speak own" score="4"/>
-                                <skill name="Area lore" score="4"/>
-                                <skill name="Law" score="2"/>
-                                <skill name="Heraldry" score="3"/>
-                            </group>
-                
-                            <group name="Profession" type="skills">
-                                <skill name="Farming" score="2"/>
-                                <skill name="Trade" score="2"/>
-                                <skill name="Seneschal" score="4"/>
-                            </group>
-                
-                            <group name="Other" type="skills">
-                                <skill name="Weapon and shield" score="3"/>
-                                <skill name="Great weapon" score="2"/>
-                                <skill name="Ride" score="2"/>
-                                <skill name="Etiquette" score="3"/>
-                                <skill name="Battle" score="2"/>
-                            </group>
-                        </skills>
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xslt/yags">
+                            <skills>
+                                <group name="Talents" type="talents">
+                                    <skill name="Athletics" score="2"/>
+                                    <skill name="Awareness" score="2"/>
+                                    <skill name="Brawl" score="2"/>
+                                    <skill name="Charm" score="3"/>
+                                    <skill name="Guile" score="3"/>
+                                    <skill name="Sleight" score="2"/>
+                                    <skill name="Stealth" score="2"/>
+                                    <skill name="Throw" score="2"/>
+                                </group>
+                    
+                                <group name="Knowledges" type="knowledges">
+                                    <skill name="Speak own" score="4"/>
+                                    <skill name="Area lore" score="4"/>
+                                    <skill name="Law" score="2"/>
+                                    <skill name="Heraldry" score="3"/>
+                                </group>
+                    
+                                <group name="Profession" type="skills">
+                                    <skill name="Farming" score="2"/>
+                                    <skill name="Trade" score="2"/>
+                                    <skill name="Seneschal" score="4"/>
+                                </group>
+                    
+                                <group name="Other" type="skills">
+                                    <skill name="Weapon and shield" score="3"/>
+                                    <skill name="Great weapon" score="2"/>
+                                    <skill name="Ride" score="2"/>
+                                    <skill name="Etiquette" score="3"/>
+                                    <skill name="Battle" score="2"/>
+                                </group>
+                            </skills>
+                        </statistics>
                     </character>
                 
                     <character name="Warrior">
@@ -129,35 +131,37 @@
                             </short>
                         </description>
                 
-                        <skills>
-                            <group name="Talents" type="talents">
-                                <skill name="Athletics" score="2"/>
-                                <skill name="Awareness" score="2"/>
-                                <skill name="Brawl" score="3"/>
-                                <skill name="Charm" score="2"/>
-                                <skill name="Guile" score="2"/>
-                                <skill name="Sleight" score="2"/>
-                                <skill name="Stealth" score="2"/>
-                                <skill name="Throw" score="3"/>
-                            </group>
-                
-                            <group name="Knowledges" type="knowledges">
-                                <skill name="Speak own" score="4"/>
-                                <skill name="Area lore" score="4"/>
-                                <skill name="Law" score="1"/>
-                                <skill name="Heraldry" score="2"/>
-                            </group>
-                
-                            <group name="Other" type="skills">
-                                <skill name="Longshaft weapon" score="2"/>
-                                <skill name="Weapon and shield" score="4"/>
-                                <skill name="Single weapon" score="2"/>
-                                <skill name="Great weapon" score="2"/>
-                                <skill name="Ride" score="2"/>
-                                <skill name="Etiquette" score="2"/>
-                                <skill name="Battle" score="2"/>
-                            </group>
-                        </skills>
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xslt/yags">
+                            <skills>
+                                <group name="Talents" type="talents">
+                                    <skill name="Athletics" score="2"/>
+                                    <skill name="Awareness" score="2"/>
+                                    <skill name="Brawl" score="3"/>
+                                    <skill name="Charm" score="2"/>
+                                    <skill name="Guile" score="2"/>
+                                    <skill name="Sleight" score="2"/>
+                                    <skill name="Stealth" score="2"/>
+                                    <skill name="Throw" score="3"/>
+                                </group>
+                    
+                                <group name="Knowledges" type="knowledges">
+                                    <skill name="Speak own" score="4"/>
+                                    <skill name="Area lore" score="4"/>
+                                    <skill name="Law" score="1"/>
+                                    <skill name="Heraldry" score="2"/>
+                                </group>
+                    
+                                <group name="Other" type="skills">
+                                    <skill name="Longshaft weapon" score="2"/>
+                                    <skill name="Weapon and shield" score="4"/>
+                                    <skill name="Single weapon" score="2"/>
+                                    <skill name="Great weapon" score="2"/>
+                                    <skill name="Ride" score="2"/>
+                                    <skill name="Etiquette" score="2"/>
+                                    <skill name="Battle" score="2"/>
+                                </group>
+                            </skills>
+                        </statistics>
                     </character>
                 
                     <character name="Mercenary">
@@ -174,33 +178,35 @@
                             </short>
                         </description>
                 
-                        <skills>
-                            <group name="Talents" type="talents">
-                                <skill name="Athletics" score="2"/>
-                                <skill name="Awareness" score="2"/>
-                                <skill name="Brawl" score="4"/>
-                                <skill name="Charm" score="2"/>
-                                <skill name="Guile" score="2"/>
-                                <skill name="Sleight" score="2"/>
-                                <skill name="Stealth" score="2"/>
-                                <skill name="Throw" score="3"/>
-                            </group>
-                
-                            <group name="Knowledges" type="knowledges">
-                                <skill name="Speak own" score="4"/>
-                                <skill name="Area lore" score="4"/>
-                                <skill name="Heraldry" score="2"/>
-                            </group>
-                
-                            <group name="Other" type="skills">
-                                <skill name="Weapon and shield" score="4"/>
-                                <skill name="Single weapon" score="2"/>
-                                <skill name="Great weapon" score="2"/>
-                                <skill name="Ride" score="2"/>
-                                <skill name="Etiquette" score="1"/>
-                                <skill name="Battle" score="2"/>
-                            </group>
-                        </skills>
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xslt/yags">
+                            <skills>
+                                <group name="Talents" type="talents">
+                                    <skill name="Athletics" score="2"/>
+                                    <skill name="Awareness" score="2"/>
+                                    <skill name="Brawl" score="4"/>
+                                    <skill name="Charm" score="2"/>
+                                    <skill name="Guile" score="2"/>
+                                    <skill name="Sleight" score="2"/>
+                                    <skill name="Stealth" score="2"/>
+                                    <skill name="Throw" score="3"/>
+                                </group>
+                    
+                                <group name="Knowledges" type="knowledges">
+                                    <skill name="Speak own" score="4"/>
+                                    <skill name="Area lore" score="4"/>
+                                    <skill name="Heraldry" score="2"/>
+                                </group>
+                    
+                                <group name="Other" type="skills">
+                                    <skill name="Weapon and shield" score="4"/>
+                                    <skill name="Single weapon" score="2"/>
+                                    <skill name="Great weapon" score="2"/>
+                                    <skill name="Ride" score="2"/>
+                                    <skill name="Etiquette" score="1"/>
+                                    <skill name="Battle" score="2"/>
+                                </group>
+                            </skills>
+                        </statistics>
                     </character>
                 
                     <character name="Courtier">
@@ -214,35 +220,37 @@
                             </short>
                         </description>
                 
-                        <skills>
-                            <group name="Talents" type="talents">
-                                <skill name="Athletics" score="2"/>
-                                <skill name="Awareness" score="2"/>
-                                <skill name="Brawl" score="2"/>
-                                <skill name="Charm" score="3"/>
-                                <skill name="Guile" score="3"/>
-                                <skill name="Sleight" score="2"/>
-                                <skill name="Stealth" score="2"/>
-                                <skill name="Throw" score="2"/>
-                            </group>
-                
-                            <group name="Knowledges" type="knowledges">
-                                <skill name="Speak own" score="4"/>
-                                <skill name="Area lore" score="4"/>
-                                <skill name="Heraldry" score="3"/>
-                            </group>
-                
-                            <group name="Profession" type="skills">
-                                <skill name="Seneschal" score="3"/>
-                            </group>
-                
-                            <group name="Other" type="skills">
-                                <skill name="Single weapon" score="2"/>
-                                <skill name="Ride" score="2"/>
-                                <skill name="Etiquette" score="4"/>
-                                <skill name="Intrigue" score="3"/>
-                            </group>
-                        </skills>
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xslt/yags">
+                            <skills>
+                                <group name="Talents" type="talents">
+                                    <skill name="Athletics" score="2"/>
+                                    <skill name="Awareness" score="2"/>
+                                    <skill name="Brawl" score="2"/>
+                                    <skill name="Charm" score="3"/>
+                                    <skill name="Guile" score="3"/>
+                                    <skill name="Sleight" score="2"/>
+                                    <skill name="Stealth" score="2"/>
+                                    <skill name="Throw" score="2"/>
+                                </group>
+                    
+                                <group name="Knowledges" type="knowledges">
+                                    <skill name="Speak own" score="4"/>
+                                    <skill name="Area lore" score="4"/>
+                                    <skill name="Heraldry" score="3"/>
+                                </group>
+                    
+                                <group name="Profession" type="skills">
+                                    <skill name="Seneschal" score="3"/>
+                                </group>
+                    
+                                <group name="Other" type="skills">
+                                    <skill name="Single weapon" score="2"/>
+                                    <skill name="Ride" score="2"/>
+                                    <skill name="Etiquette" score="4"/>
+                                    <skill name="Intrigue" score="3"/>
+                                </group>
+                            </skills>
+                        </statistics>
                     </character>
                 
                 
@@ -262,39 +270,40 @@
                             </short>
                         </description>
                 
-                        <skills>
-                            <group name="Talents" type="talents">
-                                <skill name="Athletics" score="2"/>
-                                <skill name="Awareness" score="3"/>
-                                <skill name="Brawl" score="2"/>
-                                <skill name="Charm" score="4"/>
-                                <skill name="Guile" score="3"/>
-                                <skill name="Sleight" score="2"/>
-                                <skill name="Stealth" score="2"/>
-                                <skill name="Throw" score="2"/>
-                            </group>
-                
-                            <group name="Knowledges" type="knowledges">
-                                <skill name="Speak own" score="4"/>
-                                <skill name="Area lore" score="4"/>
-                                <skill name="Law" score="1"/>
-                                <skill name="Heraldry" score="2"/>
-                            </group>
-                
-                            <group name="Profession" type="skills">
-                                <skill name="Handicraft" score="4"/>
-                                <skill name="Seneschal" score="3"/>
-                            </group>
-                
-                            <group name="Other" type="skills">
-                                <skill name="Ride" score="2"/>
-                                <skill name="Etiquette" score="3"/>
-                                <skill name="Perform" score="1"/>
-                                <skill name="Intrigue" score="3"/>
-                            </group>
-                        </skills>
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xslt/yags">
+                            <skills>
+                                <group name="Talents" type="talents">
+                                    <skill name="Athletics" score="2"/>
+                                    <skill name="Awareness" score="3"/>
+                                    <skill name="Brawl" score="2"/>
+                                    <skill name="Charm" score="4"/>
+                                    <skill name="Guile" score="3"/>
+                                    <skill name="Sleight" score="2"/>
+                                    <skill name="Stealth" score="2"/>
+                                    <skill name="Throw" score="2"/>
+                                </group>
+                    
+                                <group name="Knowledges" type="knowledges">
+                                    <skill name="Speak own" score="4"/>
+                                    <skill name="Area lore" score="4"/>
+                                    <skill name="Law" score="1"/>
+                                    <skill name="Heraldry" score="2"/>
+                                </group>
+                    
+                                <group name="Profession" type="skills">
+                                    <skill name="Handicraft" score="4"/>
+                                    <skill name="Seneschal" score="3"/>
+                                </group>
+                    
+                                <group name="Other" type="skills">
+                                    <skill name="Ride" score="2"/>
+                                    <skill name="Etiquette" score="3"/>
+                                    <skill name="Perform" score="1"/>
+                                    <skill name="Intrigue" score="3"/>
+                                </group>
+                            </skills>
+                        </statistics>
                     </character>
-
                 </characters>
             </sect2>
         </sect1>                
