@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Inling River</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="inling-river">Inling River</subject>
+
+            <category>River</category>
+
+            <topic uri="langly-shire">Langly Shire</topic>
+            <topic uri="westland-shire">Westland Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>River Inling</title>
+
+            <para>
+                The River Inling begins in the
+                <qv uri="storwood-hills">Storwood Hills</qv> in central
+                <qv uri="langly-shire">Langly</qv> and runs southwards
+                down into <qv uri="westland-shire">Westland</qv> until
+                it meets the <qv uri="hemmy-river">Hemmy River</qv>.
+            </para>
+            
+            <para>
+                Once it has left the Storwood Hills, it is generally
+                slow and shallow, with fords being common along much
+                of its length.
+            </para>
+        </sect1>
+    </body>
+</article>

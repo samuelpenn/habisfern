@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Battle of Milbry</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="milbry">Milbry</subject>
+
+            <category>Battle</category>
+
+            <topic uri="langly-shire">Langly</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+
+    </header>
+
+    <body>
+        <sect1>
+            <title>Battle of Milbry</title>
+
+            <para>
+                In 1041, <qv uri="aelflaed-queen">Queen Aelflaed</qv>,
+                the second Queen of Weidany, fought a great battle
+                against an army of the Merkians. The site of the battle
+                is about half a league downstream of
+                <qv uri="milbry">Milbry</qv> on the
+                <qv uri="inling-river">Inling River</qv>. A small stone
+                shrine stands there now to the
+                <qv uri="asabeth">Red Goddess</qv>. It was the last
+                time that a Queen of Weidany rode into battle under
+                Her banner.
+            </para>
+            
+            <para>
+                Many tribesmen from Merkia had been ravaging the
+                countryside for the last three years, but the Queen
+                had been distracted by other, internal, concerns. With
+                her Kingdom safe from civil war, she led her army from
+                <qv uri="holbury">Holbury</qv> to outside of Milbry,
+                in the direct path of the tribesmen.
+            </para>
+            
+            <para>
+                The tribesmen were mostly naked barbarians, and though
+                the Rornic army was initially confident, when battle
+                commened the barbarians fought as well as the
+                armoured Rornish.
+            </para>
+            
+            <para>
+                On the second day of battle Aelflaed leads
+                her Red Guard into battle dressed in the
+                blood of their foes. For a time, the fury
+                of their Lady of Death is enough to turn
+                the tribesmen back in fear, but a great
+                fire is summoned which burns the flesh of
+                the Queen and her women, and they are
+                driven back, and the battle is lost.
+            </para>
+        </sect1>
+
+    </body>
+
+</article>
+
