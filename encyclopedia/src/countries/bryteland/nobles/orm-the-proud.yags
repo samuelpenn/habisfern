@@ -39,7 +39,7 @@
             <subject uri="orm-the-proud">Orm the Proud</subject>
 
             <category>Nobles</category>
-            <topic uri="erding-island">Erding Island</topic>
+            <topic uri="erding">Erding Island</topic>
             <topic uri="bryteland">Bryteland</topic>
             <topic uri="habisfern">Habisfern</topic>
             <topic uri="euressa">Euressa</topic>
@@ -68,7 +68,8 @@
             <para>
                 In the years since, the most consistent stories tell 
                 that the Black Swan returned crewed by the dead, and 
-                that the dead jarl slew his brother and most of his supporters.
+                that the dead jarl slew his brother and most of his
+                supporters.
             </para>
 
             <para>
