@@ -161,9 +161,94 @@
                         <cost points="4"/>
                         <description>
                             <para>
-                                The character is a berserker. For the
-                                Brytish, this is an inherited trait.
+                                For the Brytish, the Berserker has a special
+                                status in society. They are considered to be
+                                gifted by the god Voltan, and though their
+                                lives may be short, they are considered the
+                                stuff of legends. A person is born with the
+                                Berserker trait, and cannot gain it after
+                                birth.
                             </para>
+                            
+                            <para>
+                                A berserker can choose to go berserk at any
+                                time when there is blood to be spilt. No
+                                roll is required, it is automatic. While
+                                berserk, the character can only use the
+                                aggressive stance, and is limited to only
+                                one defence roll. They must always attack
+                                the nearest foe, though can choose to fight
+                                towards a hero or leader of the enemy.
+                            </para>
+                            
+                            <para>
+                                The berserker gets a bonus to certain rolls
+                                equal to their Brawl score. The rolls
+                                effected depends on the total of the
+                                Berserker's restraint and temperence
+                                passions. All bonuses are cumulative.
+                            </para>
+                            
+                            <targetlist targetFirst="true">
+                                <targetLabel>Total</targetLabel>
+                                <valueLabel>Bonus to...</valueLabel>
+                                
+                                <item target="9+" value="No bonuses."/>
+                                
+                                <item target="8" value="Bravery."/>
+                                <item target="7" value="Ego.">
+                                    Reduce all wound, stun and fatigue
+                                    penalties by one level.
+                                </item>
+                                
+                                <item target="6" value="Initiative.">
+                                    Reduce penalties by two levels.
+                                </item>
+                                
+                                <item target="5" value="Attack.">
+                                    Reduce penalties by three levels.
+                                </item>
+                                
+                                <item target="4" value="Damage.">
+                                    Reduce penalties by four levels.
+                                </item>
+                                
+                                <item target="3" value="Defence.">
+                                    Ignore all wound, stun and fatigue
+                                    penalties.
+                                </item>
+                                
+                                <item target="2" value="Death checks.">
+                                    Ignore unconsciousness results.
+                                </item>
+                            </targetlist>
+                            
+                            <para>
+                                In order to leave the berserk state, a
+                                will x restraint check is required at the
+                                following difficulties.
+                            </para>
+                            
+                            <targetlist targetFirst="true">
+                                <targetLabel>Target</targetLabel>
+                                <valueLabel>Circumstances</valueLabel>
+                                
+                                <item target="10" value="No one in sight."/>
+                                <item target="15" value="No enemies."/>
+                                <item target="20" value="Good reason.">
+                                    The battle is almost over, and there is
+                                    a very good reason to leave the fight
+                                    (such as needing to save someone
+                                    important, or an important mission to
+                                    accomplish).
+                                </item>
+                                
+                                <item target="25" value="Moderate reason.">
+                                    Either the battle is almost over or
+                                    there is a good reason.
+                                </item>
+                                <item target="30" value=""/>
+                            </targetlist>
                         </description>
                     </advantage>
 
