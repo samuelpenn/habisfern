@@ -50,6 +50,10 @@
         <sect1>
             <title>Theocracy of Herzon</title>
 
+            <import-map uri="euressa" scale="2" thumb="240">
+                <area name="Herzon" margin="4"/>
+            </import-map>
+
             <para>
                 Herzon is a nation ruled by the bloody assassin cult the
                 <qv uri="swords-vihri">Swords of Vihri</qv>. Two hundred

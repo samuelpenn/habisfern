@@ -53,6 +53,10 @@
         <sect1>
             <title>Kingdom of Niemstarg</title>
 
+            <import-map uri="euressa" scale="2" thumb="240">
+                <area name="Niemstarg" margin="2"/>
+            </import-map>
+
             <para>
                 The Kingdom of Niemstarg is a rich nation on the northern
                 coast of Euresssa. Under the rule of King Steffan III,

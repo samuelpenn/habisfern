@@ -50,6 +50,10 @@
         <sect1>
             <title>Danuch</title>
 
+            <import-map uri="euressa" scale="3" thumb="240">
+                <area name="Danuch" margin="2"/>
+            </import-map>
+
             <para>
                 Once much of what is now Weidany was ruled by the 
                 Druids, a cult which drew much of its power from 
