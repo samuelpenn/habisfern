@@ -20,7 +20,7 @@
         <license>
             <year>2002</year>
             <holder>Samuel Penn</holder>
-            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <url>http://www.glendale.org.uk/yags/fdl.html</url>
             <text>
                 Permission is granted to copy, distribute and/or
                 modify this document under the terms of the GNU
@@ -92,6 +92,28 @@
                 <para>
                     They prefer physical prowess over politics.
                 </para>
+            </sect2>
+        </sect1>
+        
+        <sect1>
+            <title>Characters</title>
+            
+            <sect2>
+                <title>Advantages</title>
+                
+                <advantages role="background" title="House of Hrulgar">
+                
+                    <advantage name="House of Hrulgar" type="background">
+                        <cost points="5"/>
+                        
+                        <description>
+                            <para>
+                                The character is a member of the House of
+                                Hrulgar.
+                            </para>
+                        </description>
+                    </advantage>
+                </advantages>
             </sect2>
         </sect1>
     </body>

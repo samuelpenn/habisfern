@@ -94,7 +94,7 @@
 
                 <advantages role="background" title="House of Aeddan">
                     <advantage name="House of Aeddan" type="background">
-                        <cost points="2"/>
+                        <cost points="5"/>
     
                         <description>
                             <para>

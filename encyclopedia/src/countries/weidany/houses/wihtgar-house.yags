@@ -63,5 +63,26 @@
                 house, dreaming of days gone by.
             </para>
         </sect1>
+        
+        <sect1>
+            <title>Characters</title>
+            
+            <sect2>
+                <title>Advantages</title>
+                
+                <advantages role="background" title="House of Wihtgar">
+                    <advantage name="House of Wihtgar" type="background">
+                        <cost points="5"/>
+                        
+                        <description>
+                            <para>
+                                The character is a member of the minor
+                                noble House of Wihtgar.
+                            </para>
+                        </description>
+                    </advantage>
+                </advantages>
+            </sect2>
+        </sect1>
     </body>
 </article>

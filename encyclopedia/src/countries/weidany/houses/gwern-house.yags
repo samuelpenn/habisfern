@@ -20,7 +20,7 @@
         <license>
             <year>2002</year>
             <holder>Samuel Penn</holder>
-            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <url>http://www.glendale.org.uk/yags/fdl.html</url>
             <text>
                 Permission is granted to copy, distribute and/or
                 modify this document under the terms of the GNU
@@ -85,6 +85,34 @@
                 halfway to madness and spends much of his time with his
                 harem of slave girls.
             </para>
+        </sect1>
+        
+        <sect1>
+            <title>Characters</title>
+            
+            <para>
+                Characters of the House of Gwern often have a goal of
+                proving themselves and regaining some of their family
+                wealth and power. How they achieve this is rarely
+                considered important.
+            </para>
+            
+            <sect2>
+                <title>Advantages</title>
+                
+                <advantages role="background" title="House of Gwern">
+                    <advantage name="House of Gwern" type="background">
+                        <cost points="5"/>
+                        
+                        <description>
+                            <para>
+                                Character is a member of the House of
+                                Gwern.
+                            </para>
+                        </description>
+                    </advantage>
+                </advantages>
+            </sect2>
         </sect1>
     </body>
 </article>

@@ -60,8 +60,35 @@
                 The House of the old kings of Estwed, it is today fairly
                 neutral in its relationships with the royal House, and
                 is more concerned with expanding its domains eastward
-                into Nailand.
+                into Nailand. Though most of this expansion comes through
+                military aggression, the House has made alliances with
+                some of the eastern tribes, and rumours persist of some
+                house members having 'gone native'.
             </para>
+        </sect1>
+        
+        <sect1>
+            <title>Characters</title>
+            
+            <sect2>
+                <title>Advantages</title>
+                
+                <advantages role="background" title="House of Peada">
+                    <advantage name="House of Peada" type="background">
+                        <cost points="5"/>
+                        
+                        <description>
+                            <para>
+                                The character is a member of the House of
+                                Peada. This is a minor House, but the
+                                character can still expect to be treated
+                                with respect and honour by other nobles in
+                                the Kingdom.
+                            </para>
+                        </description>
+                    </advantage>
+                </advantages>
+            </sect2>
         </sect1>
     </body>
 </article>
