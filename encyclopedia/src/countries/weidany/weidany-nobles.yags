@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Nobles of Weidany</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="noble-houses-weidany">Noble Houses</see>
+        </references>
+
+        <topics>
+            <subject uri="weidany">Weidany</subject>
+
+            <category>Nobles</category>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Nobles of the Kingdom of Weidany</title>
+
+            <para>
+                The nobles of Weidany are the most powerful people in the
+                Kingdom. In theory, they make up a single class which sits
+                between the freemen and the Queen, but in practise there
+                is a hugh range in power from the landless knight up to
+                the great Ealdormen who head the Noble Houses.
+            </para>
+        </sect1>
+        
+        <sect1>
+            <title>Characters</title>
+            
+            <sect2>
+                <title>Packages</title>
+                
+                <characters role="packages" title="Weidanic Nobles">
+                    <character name="Thegn">
+                        <description>
+                            <socialClass level="+4">Thegn</socialClass>
+                            <short>
+                                A thegn is the ruler of a manor. They have
+                                knowledge of both warcraft and statecraft.
+                                Technically, they are the warrior lord of
+                                their estate, though the requirements of
+                                bureacracy often means that their martial
+                                training suffers.
+                            </short>
+                        </description>
+                
+                        <skills>
+                            <group name="Talents" type="talents">
+                                <skill name="Athletics" score="2"/>
+                                <skill name="Awareness" score="2"/>
+                                <skill name="Brawl" score="2"/>
+                                <skill name="Charm" score="3"/>
+                                <skill name="Guile" score="3"/>
+                                <skill name="Sleight" score="2"/>
+                                <skill name="Stealth" score="2"/>
+                                <skill name="Throw" score="2"/>
+                            </group>
+                
+                            <group name="Knowledges" type="knowledges">
+                                <skill name="Speak own" score="4"/>
+                                <skill name="Area lore" score="4"/>
+                                <skill name="Law" score="2"/>
+                                <skill name="Heraldry" score="3"/>
+                            </group>
+                
+                            <group name="Profession" type="skills">
+                                <skill name="Farming" score="2"/>
+                                <skill name="Trade" score="2"/>
+                                <skill name="Seneschal" score="4"/>
+                            </group>
+                
+                            <group name="Other" type="skills">
+                                <skill name="Weapon and shield" score="3"/>
+                                <skill name="Great weapon" score="2"/>
+                                <skill name="Ride" score="2"/>
+                                <skill name="Etiquette" score="3"/>
+                                <skill name="Battle" score="2"/>
+                            </group>
+                        </skills>
+                    </character>
+                </characters>
+            </sect2>
+        </sect1>                
+    </body>
+</article>
