@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Trinity of Powers</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="namahain">Namahain</subject>
+
+            <category>Religion</category>
+
+            <topic uri="namahain">Namahain</topic>
+            <topic uri="taneith">Taneith</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Trinity of Powers</title>
+
+            <para>
+                After the Dark Time, the Darkness was defeated by the coming
+                of Light, and the <qv uri="namahain">Namahain</qv> were
+                overthrown, but not destroyed. At the very end, Darkness
+                struck a final blow against Light, and it was shattered
+                into three beings - the Trinity of Powers.
+            </para>
+
+            <para>
+                The final sundering reshaped the world. The three aspects of
+                light were the Goddess, the Horned One and one other. It was
+                the Goddess that created the Children, the Aoris. The Horned
+                One taught mankind to unlock their powers, but was horrified
+                when Man used those powers to build up civilisation, for he
+                was a god of the wilderness.
+            </para>
+
+            <sect2>
+                <title>The Gods</title>
+
+                <sect3>
+                    <title>Goddess</title>
+
+                    <para>
+                        The Goddess is the most commonly worshipped entity
+                        in <qv uri="taneith">Taneith</qv>, almost to the
+                        exclusion of any of the other powers.
+                    </para>
+
+                    <para>
+                        Her sacred animal is the Owl.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>The Horned One</title>
+
+                    <para>
+                        The Horned One predicts the time he calls the
+                        Unending Night, when the sun will never rise, and
+                        seas will freeze. Man will not die though, but will
+                        destroy everything else in the quest for survival.
+                        He is a fatalist, and sees no point in anyone trying
+                        to escape this fate.
+                    </para>
+
+                    <para>
+                        The Night though is not entirely without end, since
+                        Man will rise up a new sun for themselves, but it
+                        will shine over a very different world. The sooner
+                        the Night occurs, the quicker it will end, so the
+                        Horned God seeks the coming of Night in order to
+                        reduce the damage it does.
+                    </para>
+                </sect3>
+            </sect2>
+        </sect1>
+    </body>
+</article>
