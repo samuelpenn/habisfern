@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Noble Houses of Weidany</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <campaign>
+            <date>731, Spring</date>
+        </campaign>
+
+        <references>
+        </references>
+
+        <topics>
+            <topic>Society</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Noble Houses of Weidany</title>
+
+            <para>
+                Originally, Weidany was ruled by many Kings, whose
+                kingdoms warred with one another, until the weaker
+                kingdoms were absorbed into the stronger, and the
+                current state of a single Kingdom was reached.
+            </para>
+            
+            <para>
+                The blood lines of these old royal families still
+                exist, and many have a great deal of political power
+                within the Kingdom. As before, there are rivalries,
+                alliances and outright hatred between these lines.
+                Today, they are known as the Noble Houses. Any
+                ealdorman (a noble with a thousand hides or more of
+                hereditary lands) can consider himself to be part of
+                a noble House. Any noble related to such a person
+                within six generations can also consider themselves
+                to be part of that House.
+            </para>
+
+            <sect2>
+                <title>Feuding</title>
+                
+                <para>
+                    Feuds between various houses are quite common, though
+                    most of the time relationships are kept to the odd
+                    border skirmish or political manouevering at court.
+                    It is not unheard of for one House to send a small
+                    band of warriors half way across the Kingdom to cause
+                    trouble on the lands of another however.
+                </para>
+            </sect2>
+            
+            <sect2>
+                <title>Bloodline</title>
+                
+                <para>
+                    A House consists of its Ealdorman, plus his relatives.
+                    Quite how close a relative has to be tends to vary,
+                    and a favoured distant cousin can sometimes be given
+                    higher status than a sibling or child. Generally,
+                    anyone within two generations (descended from the
+                    ealdorman's grandfather) will be considered a proper
+                    member of the House, and anyone within four
+                    generations can be almost certain to claim membership.
+                    Geneaology is measured always through the male side of
+                    the family.
+                </para>
+            </sect2>
+        </sect1>
+
+    </body>
+
+</article>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Aeddan, Noble House</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <campaign>
+            <date>731, Spring</date>
+        </campaign>
+
+        <references>
+            <partof>noble-houses-weidany</partof>
+        </references>
+
+        <topics>
+            <topic>Society</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>House of Aeddan</title>
+
+            <para>
+                This was once one of the most powerful of the Weidanic
+                blood lines, but now there are few who claim membership
+                of it. It was magically strong, and had connections to
+                the Elder Races, but now owns little land, and has even
+                less political power.
+            </para>
+            
+            <para>
+                Members of the House have a tradition of choosing
+                Weidanic names, rather than Rornic, though this isn't
+                always observed.
+            </para>
+            
+            <para>
+                It is allied with the House of Oswald, though this is
+                thought more to be for reasons of survival, than genuine
+                friendship.
+            </para>
+            
+            <para>
+                Ealdorman Uwain is lord of this House.
+            </para>
+
+        </sect1>
+
+    </body>
+
+</article>

@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Merin, Noble House</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <campaign>
+            <date>731, Spring</date>
+        </campaign>
+
+        <references>
+            <partof>noble-houses-weidany</partof>
+        </references>
+
+        <topics>
+            <topic>Society</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>House of Merin</title>
+
+            <para>
+                A minor House that is based in the shire of Talmoth. It
+                is closely allied with the House of Caewlin, though out
+                of fear more than anything else. It tries its best to
+                take the most conservative decision, to stay out of the
+                notice of everyone.
+            </para>
+        </sect1>
+    </body>
+</article>

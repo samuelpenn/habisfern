@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Oswald, Noble House</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <campaign>
+            <date>731, Spring</date>
+        </campaign>
+
+        <references>
+            <partof>noble-houses-weidany</partof>
+        </references>
+
+        <topics>
+            <topic>Society</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>House of Oswald</title>
+
+            <para>
+                 Most of the lands of this House are found in Angsly,
+                 around the old Kingdom of Aeddan. This House has much
+                 magical might, and some rumours say that it has ties
+                 to the House of Aeddan.
+            </para>
+            
+            <para>
+                Its central family is quite secretive in its ambitions,
+                goals and actions, and tends to stay away from a lot of
+                the political manoeuvring in the royal court. The head
+                of the House, Ealdorman Eadric is reputed to be a wizard,
+                as well as a capable warrior and noble.
+            </para>
+        </sect1>
+    </body>
+</article>
