@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Trollund</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="urazen">Urazen</see>
+            <see uri="hruul">Hruul Forest</see>
+            <see uri="white-spine-mountains">White Spine Mountains</see>
+            <see uri="troll-gods">Troll Gods</see>
+        </references>
+
+        <topics>
+            <subject uri="trollund">Trollund</subject>
+
+            <category>Country</category>
+
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+            <topic uri="trollund">Trollund</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Trollund</title>
+
+            <para>
+                Trollund is a region of desolate wasteland south of
+                <qv uri="urazen">Urazen</qv>. It is mostly moorland, marsh
+                and tangled woodland. To the south and east, the land rises
+                into the White Spine mountains, whilst to the west, it is
+                absorbed into the Hruul forest.
+            </para>
+
+            <para>
+                The land is home to many tribes of Trolls. It is 
+                thought that some Troll Gods dwell here, since 
+                the Trolls are of unusual intelligence and organisation.
+                In the southern parts of the country, where the trolls are
+                at their most intelligent, white trolls have been seen.
+            </para>
+
+            <para>
+                Several attempts have been made by Urazen to conquer the
+                region, or at least to tame the border. They have generally
+                failed, and now Urazen contents itself with a border
+                presence to keep the Trolls away.
+            </para>
+        </sect1>
+    </body>
+</article>
