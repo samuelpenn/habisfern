@@ -82,7 +82,7 @@
         </sect1>
 
         <sect1>
-            <title>Nobles of the House of Aeddan</title>
+            <title>Characters</title>
 
             <para>
                 Those who are of the bloodline of the House have access
@@ -101,6 +101,12 @@
                                 Character is of the House of Aeddan. This
                                 advantage is required before any of the other
                                 advantages of this house can be obtained.
+                            </para>
+                            
+                            <para>
+                                The House of Aeddan is a minor House, but
+                                the character still has access to friends
+                                and influence they would not otherwise have.
                             </para>
                         </description>
                     </advantage>

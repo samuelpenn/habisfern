@@ -164,7 +164,7 @@
             <sect2>
                 <title>Rituals</title>
                 
-                <advantages>
+                <advantages role="techniques">
                     <advantage name="Blessing of Conception"
                                type="technique">
                         <cost points="2"/>

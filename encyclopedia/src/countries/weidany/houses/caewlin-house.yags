@@ -32,10 +32,6 @@
 
         <style name="module"/>
 
-        <campaign>
-            <date>731, Spring</date>
-        </campaign>
-
         <references>
             <see uri="noble-houses-weidany">Noble Houses of Weidany</see>
         </references>
@@ -75,6 +71,53 @@
                     highly.
                 </para>
             </sect2>
+        </sect1>
+        
+        <sect1>
+            <title>Characters</title>
+            
+            <advantages role="background" title="House of Caewlin">
+                <advantage name="House of Caewlin" type="background">
+                    <cost points="5"/>
+                    
+                    <description>
+                        <para>
+                            The character is a member of the House of
+                            Caewlin, one of the most powerful of the noble
+                            Houses of the Kingdom.
+                        </para>
+                    </description>
+                </advantage>
+                
+                <advantage name="Blackmail" type="background">
+                    <cost points="3"/>
+                    
+                    <description>
+                        <para>
+                            The character has knowledge of information
+                            that another noble would not want to be made
+                            public knowledge. This gives the character
+                            some leverage when requiring favours.
+                        </para>
+                    </description>
+                </advantage>
+                
+                <advantage name="Quality equipment" type="background">
+                    <cost points="2"/>
+                    
+                    <description>
+                        <para>
+                            The character's starting equipment is of high
+                            quality. It isn't actually any better in a
+                            practical sense, but it looks (and is) more
+                            expensive, is well decorated, clean and new.
+                            This may give a reaction bonus as others
+                            assume the character is more important than
+                            they actually are.
+                        </para>
+                    </description>
+                </advantage>
+            </advantages>
         </sect1>
     </body>
 </article>

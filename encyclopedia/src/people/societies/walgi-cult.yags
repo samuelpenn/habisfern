@@ -179,14 +179,16 @@
             <sect2>
                 <title>Rituals</title>
                 
-                <advantages>
+                <advantages role="techniques">
                     <advantage name="Befriend animals" type="technique">
-                        <cost points="3"/>
+                        <cost points="2"/>
                         <skill name="Religion"/>
                         
                         <description>
                             <para>
-                                Animals are friendly.
+                                Animals are friendly towards the character,
+                                always having a one level better reaction
+                                result.
                             </para>
                         </description>
                     </advantage>
