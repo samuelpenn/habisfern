@@ -2,7 +2,7 @@
 
 <article>
     <header>
-        <title>Rim</title>
+        <title>Rim the Watcher</title>
         <tagline>Habisfern</tagline>
 
         <slugline>Brytish watcher god</slugline>
@@ -24,9 +24,8 @@
             <text>
                 Permission is granted to copy, distribute and/or
                 modify this document under the terms of the GNU
-                Free Documentation License, Version 1.1 or any
-                later version published by the Free Software
-                Foundation; with no invariant sections, with no
+                Free Documentation License, Version 1.1;
+                with no invariant sections, with no
                 Front-Cover Texts, and with no Back-Cover Texts.
                 A copy of the license is included in the section
                 entitled "GNU Free Documentation License".
@@ -53,14 +52,68 @@
 
     <body>
         <sect1>
-            <title>Rim</title>
+            <title>Rim the Watcher</title>
 
             <para>
                 Rim watches over men, both those which are living, and
-                those which are dead.
+                those which are dead. He is the god of guardians and
+                doorways, and also of the dead. When a hero dies, the
+                <qv uri="rim-daughters">Daughters of Rim</qv> come
+                to claim their soul, taking them to the Hall of the
+                Dead where Rim determines their fate. Those who have
+                died heroically in battle are sent on to the great
+                feasting halls of Voltan, whilst those who died in
+                shame are sent to the City of the Dead, to spend their
+                time in squalor.
             </para>
+
+            <para>
+                People who do not die in battle have to make their own
+                way to the Hall of the Dead. It is a long and
+                difficult path, but there are many opportunities for
+                the soul to prove its worth.
+            </para>
+
+            <para>
+                Rim is depicted as either a gaunt warrior or a 
+                faceless figure in black robes. Visions of him are
+                said to herald an untimely death, for though he does
+                not revel in slaughter or battle in the same way that
+                Voltan might, he is very keen on claiming those who
+                have been marked out for death.
+            </para>
+            
+            <para>
+                As the guardian and watcher he stands at the gates to
+                the Halls of the Dead, ensuring that only the dead may
+                pass them, and that none who have passed through them
+                ever return except by his will. He is venerated by
+                watchmen and guardsmen, who seek his patience and
+                keen sight for the night ahead.
+            </para>
+
+            <sect2>
+                <title>Cults and Worshippers</title>
+
+                <para>
+                    There are two cults of Rim, the Watchmen who pledge
+                    themselves to guard against the Ice and the Animal
+                    Powers, and the Ebony Horsemen who are a death
+                    cult not popular in Bryteland.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Rim of the Rornish</title>
+
+                <para>
+                    Though they share a name and the guardianship of
+                    the dead, there is little shared about how the
+                    Brytish and Rornish worship their god. The Brytish
+                    Rim shares many characteristics of Rorn.
+                </para>
+            </sect2>
         </sect1>
     </body>
-
 </article>
 

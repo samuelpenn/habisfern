@@ -135,23 +135,48 @@
                 
                 <advantages title="Rituals of Asabeth">
                     <advantage name="Blessing of Blood" type="technique">
-                        <cost points="2"/>
+                        <cost points="1"/>
                         <skill name="Religion (Asabeth)"/>
                         
                         <description>
                             <para>
-                                Painting their face with either their own
-                                blood, or that of their enemies, a cultist
-                                gains a bonus to initiative and bravery
-                                checks equal to their religion score.
+                                Painting their exposed body with blood,a cultist
+                                gains the life force of the Goddess, giving
+                                them a bonus to initiative, bravery and ego
+                                checks equal to their religion score. A
+                                priestess may use her own blood, but the
+                                blood of another, especially a sacrificed
+                                enemy is most desired.
+                            </para>
+                            
+                            <para>
+                                Any ritual which has Blessing of Blood as
+                                a (directly, or indirectly) prerequisite
+                                also requires the painting of blood.
+                            </para>
+                        </description>
+                    </advantage>
+
+                    <advantage name="Rage of the Goddess" type="technique">
+                        <cost points="3"/>
+                        <skill name="Religion (Asabeth)"/>
+                        <prerequisite>Blessing of Blood</prerequisite>
+
+                        <description>
+                            <para>
+                                When in battle and adorned with blood, the
+                                strength of the goddess fills the warrior
+                                with bloodthirsty glee. All wound, stun
+                                and fatigue penalties are reduced by the
+                                religion score of the goddess.
                             </para>
                         </description>
                     </advantage>
                     
                     <advantage name="Berserker" type="technique">
-                        <cost points="4"/>
+                        <cost points="5"/>
                         <skill name="Religion (Asabeth)"/>
-                        <prerequisite>Blessing of Blood</prerequisite>
+                        <prerequisite>Rage of the Goddess</prerequisite>
                         
                         <description>
                             <para>
@@ -162,19 +187,19 @@
                             </para>
                             
                             <para>
-                                The berserk bonus is equal to religion score
-                                minus their restraint passion. This bonus adds
-                                to all rolls made in combat except soak. It
-                                replaces and does not stack with
+                                This ritual is similar to the Brytish Berserker
+                                advantage, except the bonus is equal to the
+                                priestesses religion score rather than brawl.
+                                Berserker does not stack with 
                                 <e>Blessing of Blood</e>.
                             </para>
                         </description>
                     </advantage>
                     
                     <advantage name="Armour of Blood" type="technique">
-                        <cost points="4"/>
+                        <cost points="3"/>
                         <skill name="Religion (Asabeth)"/>
-                        <prerequisite>Berserker</prerequisite>
+                        <prerequisite>Blessing of Blood</prerequisite>
                         
                         <description>
                             <para>
@@ -191,6 +216,8 @@
                                 sacrificed enemy. The ritual infuses the
                                 priestess with the strength of her goddess,
                                 providing protection against physical harm.
+                                A priestess may use her own blood if none
+                                other is at hand.
                             </para>
                             
                             <para>
@@ -215,8 +242,9 @@
                     </advantage>
                     
                     <advantage name="Sisters in Arms" type="technique">
-                        <cost points="4"/>
+                        <cost points="5"/>
                         <skill name="Religion (Asabeth)"/>
+                        <prerequisite>Blessing of Blood</prerequisite>
                         
                         <description>
                             <para>
@@ -231,7 +259,7 @@
                     </advantage>
                     
                     <advantage name="Strength of the Goddess" type="technique">
-                        <cost points="8"/>
+                        <cost points="7"/>
                         <skill name="Religion (Asabeth)"/>
                         <prerequisite>Sisters in Arms</prerequisite>
                         
@@ -246,7 +274,7 @@
                     </advantage>
                     
                     <advantage name="Shield of the Goddess" type="technique">
-                        <cost points="12"/>
+                        <cost points="9"/>
                         <skill name="Religion (Asabeth)"/>
                         <prerequisite>Strength of the Goddess</prerequisite>
                         
