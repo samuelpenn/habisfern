@@ -115,6 +115,54 @@
                 <title>Skills</title>
                 
             </sect2>
+
+            <sect2>
+                <title>Characters</title>
+                
+                <characters role="package" title="Bards">            
+                    <character name="Bard">
+                        <description>
+                            <short>
+                            Bards are much more than entertainers. They are lore masters
+                            and keepers of tradition as well. They are protected from
+                            harm by tradition (and is considered unlucky to harm a bard),
+                            respected and welcomed by commoner and noble alike, though
+                            fathers may lock away their daughters when a Bard is about.
+                            </short>
+                        </description>
+                
+                        <skills>
+                            <group name="Talents" type="talents">
+                                <skill name="Athletics" score="2"/>
+                                <skill name="Awareness" score="2"/>
+                                <skill name="Brawl" score="2"/>
+                                <skill name="Charm" score="3"/>
+                                <skill name="Guile" score="2"/>
+                                <skill name="Sleight" score="2"/>
+                                <skill name="Stealth" score="2"/>
+                                <skill name="Throw" score="2"/>
+                            </group>
+                
+                            <group name="Knowledges" type="knowledges">
+                                <skill name="Speak own" score="4"/>
+                                <skill name="Area lore" score="4"/>
+                                <skill name="Law" score="2"/>
+                                <skill name="Heraldry" score="3"/>
+                                <skill name="Legend lore" score="2"/>
+                                <skill name="Faerie lore" score="2"/>
+                                <skill name="Religion" score="2"/>
+                            </group>
+                
+                            <group name="Other" type="skills">
+                                <skill name="Ride" score="2"/>
+                                <skill name="Etiquette" score="2"/>
+                                <skill name="Perform" score="4"/>
+                                <skill name="Play (type)" score="3"/>
+                            </group>
+                        </skills>
+                    </character>
+                </characters>
+            </sect2>
             
             <sect2>
                 <title>Bardic Techniques</title>

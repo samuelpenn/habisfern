@@ -84,5 +84,56 @@
                 </para>
             </sect2>
         </sect1>
+        
+        <sect1>
+            <title>Characters</title>
+            
+            <sect2>
+                <title>Packages</title>
+                
+                <characters role="package" title="Cult of Yagma">
+                    <character name="Child of Yagma">
+                        <description>
+                            <short>
+                                The Cult of Yagma the Earth Mother venerates all of nature.
+                                She is the goddess of life and death, of growing things
+                                and decay. The cult is central to the agriculture of
+                                society, for without the blessing of Yagma crops would
+                                fail and people would starve.
+                            </short>
+                        </description>
+                
+                        <skills>
+                            <group name="Talents" type="talents">
+                                <skill name="Athletics" score="2"/>
+                                <skill name="Awareness" score="2"/>
+                                <skill name="Brawl" score="2"/>
+                                <skill name="Charm" score="2"/>
+                                <skill name="Guile" score="2"/>
+                                <skill name="Sleight" score="2"/>
+                                <skill name="Stealth" score="2"/>
+                                <skill name="Throw" score="2"/>
+                            </group>
+                
+                            <group name="Knowledges" type="knowledges">
+                                <skill name="Speak own" score="4"/>
+                                <skill name="Area lore" score="4"/>
+                                <skill name="Religion (Yagma)" score="4"/>
+                                <skill name="Farming" score="3"/>
+                                <skill name="Animal care" score="2"/>
+                                <skill name="First aid" score="3"/>
+                                <skill name="Midwifery" score="2"/>
+                                <skill name="Herb lore" score="3"/>
+                            </group>
+                        </skills>
+                
+                        <equipment>
+                            <item name="Good clothes"/>
+                            <item name="Staff"/>
+                        </equipment>
+                    </character>
+                </characters>
+            </sect2>
+        </sect1>                
     </body>
 </article>

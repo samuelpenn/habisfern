@@ -99,7 +99,7 @@
         </sect1>
         
         <sect1>
-            <title>Membership</title>
+            <title>Character</title>
             
             <sect2>
                 <title>Skills</title>
@@ -124,6 +124,56 @@
                         knowledge of <e>survival</e>.
                     </para>
                 </sect3>
+            </sect2>
+            
+            <sect2>
+                <title>Packages</title>
+                
+                <characters role="package" title="Cult of Walgi">
+                    <character name="Grey Hunter">
+                        <description>
+                            <short>
+                                The Grey Hunters follow the Cult of Walgi the wolf goddess.
+                                They are often woodsmen who wish the protection of the
+                                beast goddess, and maybe a small part of her power.
+                            </short>
+                        </description>
+                
+                        <skills>
+                            <group name="Talents" type="talents">
+                                <skill name="Athletics" score="3"/>
+                                <skill name="Awareness" score="3"/>
+                                <skill name="Brawl" score="2"/>
+                                <skill name="Charm" score="2"/>
+                                <skill name="Guile" score="2"/>
+                                <skill name="Sleight" score="2"/>
+                                <skill name="Stealth" score="4"/>
+                                <skill name="Throw" score="3"/>
+                            </group>
+                
+                            <group name="Knowledges" type="knowledges">
+                                <skill name="Speak own" score="4"/>
+                                <skill name="Area lore" score="4"/>
+                                <skill name="Religion (Walgi)" score="3"/>
+                                <skill name="Beast lore" score="3"/>
+                                <skill name="Animal care" score="3"/>
+                            </group>
+                
+                            <group name="Other" type="skills">
+                                <skill name="Survival" score="4"/>
+                                <skill name="Longshaft weapon" score="2"/>
+                                <skill name="Bow" score="3"/>
+                            </group>
+                        </skills>
+                
+                        <equipment>
+                            <item name="Woodsman clothes"/>
+                            <item name="Dagger"/>
+                            <item name="Spear"/>
+                            <item name="Long bow"/>
+                        </equipment>
+                    </character>
+                </characters>
             </sect2>
             
             <sect2>

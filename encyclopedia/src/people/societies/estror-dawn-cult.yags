@@ -119,6 +119,49 @@
             </sect2>
             
             <sect2>
+                <title>Packages</title>
+                
+                <characters role="package" title="Cult of Estror">
+                    <character name="Daughter of the Dawn">
+                        <description>
+                            <short>
+                                Daughters of the Dawn are the priestesses of Estror. They
+                                are healers and midwives, taking vows never to harm
+                                anybody.
+                            </short>
+                        </description>
+                
+                        <skills>
+                            <group name="Talents" type="talents">
+                                <skill name="Athletics" score="2"/>
+                                <skill name="Awareness" score="2"/>
+                                <skill name="Brawl" score="2"/>
+                                <skill name="Charm" score="3"/>
+                                <skill name="Guile" score="2"/>
+                                <skill name="Sleight" score="2"/>
+                                <skill name="Stealth" score="2"/>
+                                <skill name="Throw" score="2"/>
+                            </group>
+                
+                            <group name="Knowledges" type="knowledges">
+                                <skill name="Speak own" score="4"/>
+                                <skill name="Area lore" score="4"/>
+                                <skill name="Religion (Estror)" score="4"/>
+                                <skill name="First aid" score="4"/>
+                                <skill name="Midwifery" score="4"/>
+                                <skill name="Herb lore" score="3"/>
+                            </group>
+                        </skills>
+                
+                        <equipment>
+                            <item name="Clean white robes"/>
+                            <item name="Staff"/>
+                        </equipment>
+                    </character>
+                </characters>
+            </sect2>                
+            
+            <sect2>
                 <title>Rituals</title>
                 
                 <advantages>

@@ -141,5 +141,58 @@
                 </para>
             </sect2>
         </sect1>
+        
+        <sect1>
+            <title>Characters</title>
+            
+            <sect2>
+                <title>Packages</title>
+                
+                <characters role="package" title="Cult of Neya">
+                    <character name="Daughter of Neya">
+                        <description>
+                            <short>
+                            The Daughters of Neya are a religious cult who follow Neya,
+                            the Keeper of Oaths. Twinned with the Swords of Neya, the
+                            Daughters are the legal side of the cult, acting as judges,
+                            lawmasters and, occassionally, enforcers.
+                            </short>
+                        </description>
+                
+                        <skills>
+                            <group name="Talents" type="talents">
+                                <skill name="Athletics" score="2"/>
+                                <skill name="Awareness" score="3"/>
+                                <skill name="Brawl" score="2"/>
+                                <skill name="Charm" score="3"/>
+                                <skill name="Guile" score="4"/>
+                                <skill name="Sleight" score="2"/>
+                                <skill name="Stealth" score="2"/>
+                                <skill name="Throw" score="2"/>
+                            </group>
+                
+                            <group name="Knowledges" type="knowledges">
+                                <skill name="Speak own" score="4"/>
+                                <skill name="Area lore" score="4"/>
+                                <skill name="Law" score="4"/>
+                                <skill name="Heraldry" score="2"/>
+                                <skill name="Religion (Neya)" score="4"/>
+                            </group>
+                
+                            <group name="Other" type="skills">
+                                <skill name="Etiquette" score="3"/>
+                                <skill name="Intimidation" score="3"/>
+                                <skill name="Longshaft weapon" score="2"/>
+                            </group>
+                        </skills>
+                
+                        <equipment>
+                            <item name="Good clothes"/>
+                            <item name="Staff"/>
+                        </equipment>
+                    </character>
+                </characters>
+            </sect2>
+        </sect1>
     </body>
 </article>
