@@ -104,7 +104,7 @@
                     </background>
                 </description>
                 
-                <statistics xmlns="http://yagsbook.sourceforge.net/xslt/yags">
+                <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                     <attributes size="5" soak="12" luck="4">
                         <attribute name="strength" score="5"/>
                         <attribute name="stamina" score="4"/>
@@ -204,7 +204,7 @@
                     </equipment>
                 </statistics>
 
-                <statistics xmlns="http://yagsbook.sourceforge.net/xslt/d20">
+                <statistics xmlns="http://yagsbook.sourceforge.net/xml/d20">
                     <classes xp="80000" level="13">
                         <class name="fighter" level="5"/>
                         <class name="barbarian" level="8"/>
