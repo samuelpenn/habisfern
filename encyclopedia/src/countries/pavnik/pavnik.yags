@@ -38,10 +38,10 @@
         <topics>
             <subject uri="pavnik">Pavnik</subject>
 
-            <category>None</category>
+            <category>Kingdom</category>
             <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
             <topic uri="pavnik">Pavnik</topic>
-            <topic uri="eu">ressa Euressa</topic>
+            <topic uri="euressa">Euressa</topic>
         </topics>
     </header>
 
