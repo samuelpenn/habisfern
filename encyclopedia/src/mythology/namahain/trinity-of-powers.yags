@@ -36,7 +36,7 @@
         </references>
 
         <topics>
-            <subject uri="namahain">Namahain</subject>
+            <subject uri="trinity-of-powers">Trinity of Powers</subject>
 
             <category>Religion</category>
 
@@ -76,7 +76,12 @@
                     <para>
                         The Goddess is the most commonly worshipped entity
                         in <qv uri="taneith">Taneith</qv>, almost to the
-                        exclusion of any of the other powers.
+                        exclusion of any of the other powers. She is the
+                        goddess of warmth and summer, of growth and life.
+                        Her priestesses (for all who wear her white robes
+                        and declare themselves to be her servants are
+                        female) have knowledge of healing and health,
+                        and act as seers of the future.
                     </para>
 
                     <para>
@@ -103,6 +108,16 @@
                         the Night occurs, the quicker it will end, so the
                         Horned God seeks the coming of Night in order to
                         reduce the damage it does.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>The Unnamed One</title>
+
+                    <para>
+                        The Light was shattered into three, but only two of
+                        its fragments have made themselves known to man.
+                        There is a third Power that is as yet unknown.
                     </para>
                 </sect3>
             </sect2>

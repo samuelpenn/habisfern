@@ -33,6 +33,7 @@
         <style name="module"/>
 
         <references>
+            <see uri="trinity-of-powers">Trinity of Powers</see>
         </references>
 
         <topics>
@@ -64,6 +65,14 @@
                 a few cults still left who worship them.
             </para>
 
+            <para>
+                Today, the Namahain are considered to have been slaves of
+                the Ice. Though they did protect mankind, they refused to
+                let mankind escape from the law of the Ice. They were
+                gaolers, though mostly benevolent ones except when
+                someone tried to break free of their rule.
+            </para>
+
             <sect2>
                 <title>The Gods</title>
 
@@ -81,7 +90,7 @@
                     <title>Moth</title>
 
                     <para>
-                        Moth was the Lord of Beasts, and of snimal instincts
+                        Moth was the Lord of Beasts, and of animal instincts
                         in men. He was selfish, barbaric and unreliable. But
                         he was never violent for violence sake, and never
                         fought but for self defence or food.
@@ -93,7 +102,9 @@
 
                     <para>
                         Fonnas was the Sky God, lord of Storms and raw
-                        strength.
+                        strength. It was Fonnas who laid out the boundaries
+                        of mankind, and set a sea around their land with
+                        a veil of mists which could not be penetrated.
                     </para>
                 </sect3>
 
@@ -102,7 +113,7 @@
 
                     <para>
                         She is the sheltering goddess. Her form is the
-                        eagle, who shleters fer followers beneath her wings.
+                        eagle, who shleters her followers beneath her wings.
                         She is the goddess of the common folk.
                     </para>
                 </sect3>
@@ -117,6 +128,53 @@
                         known as the White Worm.
                     </para>
                 </sect3>
+            </sect2>
+
+            <sect2>
+                <title>Defeat and Banishment</title>
+
+                <para>
+                    Long ago, the Namahain ruled over the men of the Isle,
+                    demanding worship and sacrifice. Even Yulir sought out
+                    the weakest of a family and took them each winter in
+                    order to nourish herself. This was a time when the
+                    world was in perpetual winter. Frost covered the land
+                    all year, and few crops would grow except in some
+                    valleys which flowed with the heat of the gods.
+                </para>
+
+                <para>
+                    Then came the Light, with promises of freedom and a
+                    new summer. Fonnas met with the Light, which claimed
+                    to be a god of the Sun, and demanded that it returned
+                    to the outer skies from where it had come. But the
+                    Light refused, and from it rode gleaming warriors of
+                    silver ready to do battle against the Namahain.
+                </para>
+
+                <para>
+                    So Fonnas encircled the lands of men with a great sea,
+                    and hid the Isle in mists to confuse the enemy. But
+                    the Light saw through the mists, and its silver Lords
+                    rode across the sea and slew Fonnas, casting his
+                    body into the sea.
+                </para>
+
+                <para>
+                    Battle was joined with the other gods, and all were
+                    eventually defeated and bound, except Ursa. In a last
+                    act of defiance, Ursa smote the Light, and shattered
+                    it into three. Before it could recover, Ursa hid
+                    far from the sight of the gods of Light, and remains
+                    the only free Namahain to this day.
+                </para>
+
+                <para>
+                    The Goddess and the Horned God were two fragments of
+                    the Light which had been shattered. They imprisoned
+                    the rest of the Namahain deep beneath the earth,
+                    and laid claim to the lands of men.
+                </para>
             </sect2>
         </sect1>
     </body>
