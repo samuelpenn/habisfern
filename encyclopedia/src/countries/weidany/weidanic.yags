@@ -61,6 +61,207 @@
             <title>Characters</title>
             
             <sect2>
+                <title>Racial Characteristics</title>
+                
+                <character-info name="Rornic" gender="Male">
+                    <description>
+                        <height>98+Str*4+Size*10+1d20</height>
+                        <weight>55+1d20</weight>
+                        <hair>
+                            <typical>
+                                <colour>Sandy</colour>
+                                <colour>Corn blond</colour>
+                            </typical>
+                            
+                            <common>
+                                <colour>Light brown</colour>
+                                <colour>Mid brown</colour>
+                                <colour>Strawberry blond</colour>
+                            </common>
+                            
+                            <uncommon>
+                                <colour>Dark brown</colour>
+                                <colour>Red</colour>
+                                <colour>Light blond</colour>
+                            </uncommon>
+                            
+                            <rare>
+                                <colour>Black</colour>
+                                <colour>Red</colour>
+                                <colour>Ash blond</colour>
+                            </rare>
+                            
+                            <veryrare>
+                                <colour>White</colour>
+                            </veryrare>
+                        </hair>
+                        
+                        <skin>
+                            <typical>
+                                <colour>White</colour>
+                            </typical>
+                        </skin>
+                    </description>
+                    
+                    <names>
+                        <name>Aelfric</name>
+                        <name>Aelli</name>
+                        <name>Aelfuini</name>
+                        <name>Aescwine</name>
+                        <name>Aethelwulf</name>
+                        <name>Alchfrid</name>
+                        <name>Aldfrid</name>
+                        <name>Aldhelm</name>
+                        <name>Alduini</name>
+                        <name>Alric</name>
+                        <name>Andun</name>
+                        <name>Bassa</name>
+                        <name>Beorhtric</name>
+                        <name>Bertwald</name>
+                        <name>Caedwalla</name>
+                        <name>Caewlin</name>
+                        <name>Centwine</name>
+                        <name>Cerdic</name>
+                        <name>Coelred</name>
+                        <name>Coelric</name>
+                        <name>Coelwulf</name>
+                        <name>Coenrad</name>
+                        <name>Coenwalch</name>
+                        <name>Coenwulf</name>
+                        <name>Cuthbert</name>
+                        <name>Cuthwulf</name>
+                        <name>Cyneagils</name>
+                        <name>Cynewulf</name>
+                        <name>Cynric</name>
+                        <name>Eadberht</name>
+                        <name>Eadric</name>
+                        <name>Eafa</name>
+                        <name>Eardwulf</name>
+                        <name>Edgert</name>
+                        <name>Egric</name>
+                        <name>Ethelheard</name>
+                        <name>Ethelwald</name>
+                        <name>Ethelwulf</name>
+                        <name>Ethilfrith</name>
+                        <name>Hengest</name>
+                        <name>Hereric</name>
+                        <name>Horsa</name>
+                        <name>Hunwald</name>
+                        <name>Immin</name>
+                        <name>Irminric</name>
+                        <name>Mergood</name>
+                        <name>Octa</name>
+                        <name>Oeric</name>
+                        <name>Offa</name>
+                        <name>Osric</name>
+                        <name>Oswald</name>
+                        <name>Oswine</name>
+                        <name>Oswulf</name>
+                        <name>Otmund</name>
+                        <name>Otwold</name>
+                        <name>Peada</name>
+                        <name>Penda</name>
+                        <name>Raegenhere</name>
+                        <name>Redwald</name>
+                        <name>Sabert</name>
+                        <name>Sebbi</name>
+                        <name>Sigbert</name>
+                        <name>Sigebryht</name>
+                        <name>Sighere</name>
+                        <name>Swefred</name>
+                        <name>Swidhelm</name>
+                        <name>Thrydwulf</name>
+                        <name>Tondhere</name>
+                        <name>Wictred</name>
+                        <name>Wihtred</name>
+                        <name>Witgar</name>
+                    </names>
+                </character-info>
+                
+                
+                <character-info name="Rornic" gender="Female">
+                    <description>
+                        <height>95+Str*4+Size*10+1d20</height>
+                        <weight>52+1d20</weight>
+                        <hair>
+                            <typical>
+                                <colour>Sandy</colour>
+                                <colour>Corn blond</colour>
+                            </typical>
+                            
+                            <common>
+                                <colour>Light brown</colour>
+                                <colour>Mid brown</colour>
+                                <colour>Strawberry blond</colour>
+                            </common>
+                            
+                            <uncommon>
+                                <colour>Dark brown</colour>
+                                <colour>Red</colour>
+                                <colour>Light blond</colour>
+                            </uncommon>
+                            
+                            <rare>
+                                <colour>Black</colour>
+                                <colour>Red</colour>
+                                <colour>Ash blond</colour>
+                            </rare>
+                            
+                            <veryrare>
+                                <colour>White</colour>
+                            </veryrare>
+                        </hair>
+                        
+                        <skin>
+                            <typical>
+                                <colour>White</colour>
+                            </typical>
+                        </skin>
+                    </description>
+                    
+                    <names>
+                        <name>Aeldith</name>
+                        <name>Aelflaed</name>
+                        <name>Aelgifu</name>
+                        <name>Aelthryth</name>
+                        <name>Behrith</name>
+                        <name>Beohild</name>
+                        <name>Bresqith</name>
+                        <name>Burhred</name>
+                        <name>Cuthburh</name>
+                        <name>Cyneburh</name>
+                        <name>Cyneswise</name>
+                        <name>Cyneswith</name>
+                        <name>Eadgyth</name>
+                        <name>Eadhild</name>
+                        <name>Ealhred</name>
+                        <name>Eanaed</name>
+                        <name>Eormenburh</name>
+                        <name>Ercongota</name>
+                        <name>Frythegith</name>
+                        <name>Frythrun</name>
+                        <name>Godrun</name>
+                        <name>Hereswith</name>
+                        <name>Osny</name>
+                        <name>Osrun</name>
+                        <name>Sexburh</name>
+                        <name>Sihrith</name>
+                        <name>Werdrun</name>
+                        <name>Wihtburh</name>
+                        <name>Acha</name>
+                        <name>Aethelred</name>
+                        <name>Coenberg</name>
+                        <name>Eadgifu</name>
+                        <name>Eodhild</name>
+                        <name>Godhild</name>
+                        <name>Raedburh</name>
+                        <name>Wilith</name>
+                    </names>
+                </character-info>
+                
+            </sect2>
+            
+            <sect2>
                 <title>Common folk</title>
                 
                 <para>
@@ -110,6 +311,52 @@
                                 <skill name="Ride" score="1"/>
                                 <skill name="Etiquette" score="1"/>
                                 <skill name="Bow" score="2"/>
+                            </group>
+                        </skills>
+                    </character>
+                    
+                    <character name="Free woman">
+                        <description>
+                            <short>
+                                Women are often tied to their husbands or
+                                family, but the occasionly free spirited
+                                woman can make a name for herself. This is
+                                normally done by commerce (running an inn
+                                is common), or just being able to know
+                                things (and turn them to her advantage)
+                                before the men find out.
+                            </short>
+                        </description>
+
+                        <skills>
+                            <group name="Talents" type="talents">
+                                <skill name="Athletics" score="2"/>
+                                <skill name="Awareness" score="3"/>
+                                <skill name="Brawl" score="2"/>
+                                <skill name="Charm" score="4"/>
+                                <skill name="Guile" score="4"/>
+                                <skill name="Sleight" score="2"/>
+                                <skill name="Stealth" score="2"/>
+                                <skill name="Throw" score="2"/>
+                            </group>
+                
+                            <group name="Knowledges" type="knowledges">
+                                <skill name="Speak own" score="4"/>
+                                <skill name="Area lore" score="4"/>
+                            </group>
+
+                            <group name="Profession" type="skills">
+                                <skill name="Farming" score="2"/>
+                                <skill name="Trade" score="3"/>
+                                <skill name="Handicraft" score="2"/>
+                            </group>
+
+                            <group name="Other" type="skills">
+                                <skill name="Single weapon" score="2"/>
+                                <skill name="Ride" score="1"/>
+                                <skill name="Etiquette" score="1"/>
+                                <skill name="Bow" score="2"/>
+                                <skill name="Intrigue" score="2"/>
                             </group>
                         </skills>
                     </character>
