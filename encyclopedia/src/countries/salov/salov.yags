@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Salov</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="vorlov">Vorlov</see>
+            <see uri="urazen">Urazen</see>
+            <see uri="falthy-sea">Falthy Sea</see>
+        </references>
+
+        <topics>
+            <subject uri="salov">Salov</subject>
+
+            <category>Country</category>
+
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+            <topic uri="salov">Salov</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Salov</title>
+
+            <import-map uri="euressa" scale="2" thumb="240">
+                <area name="Salov" margin="4"/>
+            </import-map>
+
+            <para>
+                Salov is the most eastern region of the <e>civilised</e>
+                north. To the north and northeast, the land rises up
+                into the Vorlovian Mountains, but that area is lightly
+                populated, and even then only by barbarians and outlaws.
+            </para>
+            
+            <para>
+                Sarlov is not really a single kingdom itself, though its
+                people identify themselves as <e>Sarlovians</e>, and
+                share a singular culture. The country is ruled by many
+                petty warlords, magicians and warrior priests, a situation
+                which is hardly stable.                
+            </para>
+
+            <para>
+                Though Sarlov is no wealthier than <qv uri="urazen">
+                Urazen</qv>, the people are less aware of their hardships,
+                and almost enjoy the problems they face. They are a
+                generous people, even in the midst of war to their
+                enemies.
+            </para>
+            
+            <sect2>
+                <title>Geography</title>
+                
+                <para>
+                    The north of the land is bordered by the
+                    <qv uri="burning-cliffs">Burning Cliffs</qv>, a region
+                    of active volcanism stretching for about 150km.
+                </para>
+                
+                <para>
+                    To the northwest is the <qv uri="grey-forest">Grey
+                    Forest</qv>, a region sometimes included within the
+                    borders of Salov, and sometimes not. It is a sickly
+                    place, with half grown trees and ash strewn wastleands,
+                    polluted by the fall out from the Burning Cliffs.
+                </para>
+                
+                <para>
+                    The rest of Sarlov ranges from hilly to mountainous,
+                    and most settlements are bounded by valleys or ridges
+                    of some description.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
