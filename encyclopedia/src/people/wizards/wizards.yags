@@ -33,6 +33,7 @@
         <style name="module"/>
 
         <references>
+            <see uri="waezgerat">Waezgerat</see>
         </references>
 
         <topics>
