@@ -106,117 +106,33 @@
         <sect1>
             <title>The Kingdoms</title>
 
-            <sect2>
-                <title>Nethvollr</title>
+            <para>
+                The Kingdoms of Bryteland have always been flexible in the
+                definition of their borders. However, over the past hundred
+                years things have been stable enough for people to start
+                referring to equate the kingdoms with the more permanent
+                regional areas they co-exist with.
+            </para>
 
-                <para>
-                    Harald is King of the south eastern Kingdom, which
-                    borders onto <see uri="weidany">Weidany</see>.
-                    He is 18, violent and strong. When he isn't leading
-                    his men on a raid to bash in someone's skull, he
-                    can actually be quite charming, though these times
-                    are rare.
-                </para>
+            <para>
+                The mainland consists of
+                <see uri="nethvollr">Nethvollor</see>,
+                <see uri="sonodalr">Sonodalr</see>,
+                <see uri="harholt">Harholt</see>,
+                <see uri="bjornstathr">Bjorstathr</see> and
+                <see uri="vitrgifing">Vitrgifing</see>. The three major
+                islands which are considered part of Bryteland are
+                considered Kingdoms in their own right, with these being
+                <see uri="jarneyland">Jarneyland</see>,
+                <see uri="oforley">Oforley</see> and
+                <see uri="erding">Erding Island</see>.
+            </para>
 
-                <para>
-                    He was fostered with Osric Edgarson, and the two get
-                    on quite well, though they have had no dealings with
-                    each other since they both became kings. He is
-                    cousin to Osric, and nephew to Edgar.
-                </para>
-
-                <para>
-                    His kingdom has a lot of forts along the borders with
-                    Weidany and Tanwall. He has about 3000 hides under
-                    his control, and can call on about 600 fully trained
-                    warriors when required. Personally, he has 30 huscurls
-                    who act as his bodyguards and personal raiding party.
-                </para>
-            </sect2>
-
-            <sect2>
-                <title>Sonodalr</title>
-
-                <para>
-                    King Edgar is King of Sonodalr, which covers the middle
-                    coastal regions of Bryteland.
-                </para>
-            </sect2>
-
-            <sect2>
-                <title>Harholt</title>
-
-                <para>
-                    This is a landlocked kingdom which sits on the border
-                    with Tanwall. King Ethelred Haraldson has been fighting
-                    border wars
-                    with Tanwall for the last twenty years, though few
-                    battles have ever involved more than a dozen men or
-                    so. He gains concessions from the other Kingdoms to
-                    aid in the defence against Tanwall, however there
-                    are rumours that he is keeping the fighting going,
-                    and making it sound worse than it is, in order to
-                    keep the monatory donations flowing.
-                </para>
-
-                <para>
-                    Ethelred is 42, a tall thin man, though quick both of
-                    foot and mind, with a keen sense of politics.
-                </para>
-
-                <para>
-                    A year ago, Harald stopped providing Ethelred with
-                    aid, and tensions between the two kingdoms have
-                    started to rise.
-                </para>
-            </sect2>
-
-            <sect2>
-                <title>Bjornstathr</title>
-
-                <para>
-                    Ruled by Osric the Bastard, A 55 year old man who rules
-                    the middle north coast.
-                </para>
-            </sect2>
-
-            <sect2>
-                <title>Vitrgifing</title>
-
-                <para>
-                    The heavily forested northern kingdom is ruled by King
-                    Osric Edgarson, and is known as the Land of the White
-                    Trolls.
-                </para>
-            </sect2>
-
-            <sect2>
-                <title>Jarneyland</title>
-
-                <para>
-                    Island of Iron. Northern island off the coast of
-                    Bryteland, it is about 175km long and 150m wide.
-                </para>
-            </sect2>
-
-            <sect2>
-                <title>Oforley</title>
-
-                <para>
-                    The southernmost of the two western islands off the
-                    Brytish coast.
-                </para>
-            </sect2>
-
-            <sect2>
-                <title>Erding Island</title>
-
-                <para>
-                    A small island off the south west coast of Bryteland,
-                    it is theorectically part of the Sonodalr, though has
-                    paid no tribute in the last seven years.
-                </para>
-            </sect2>
+            <para>
+                Erding Island is technically part of Sonodalr, however it
+                has unofficially become independent, and King Edgar does not
+                seem to be making any major moves to claim it back.
+            </para>
         </sect1>
 
     </body>
