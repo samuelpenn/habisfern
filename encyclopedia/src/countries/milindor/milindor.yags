@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Milindor</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="hruul-forest">Hruul Forest</see>
+        </references>
+
+        <topics>
+            <subject uri="milindor">Milindor</subject>
+
+            <category>Kingdom</category>
+
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Milindor</title>
+
+            <para>
+                Milindor was a powerful kingdom that stood in the region now
+                known as the <qv uri="hruul-forest">Hruul Forest</qv>. It
+                was a Mageocracy, following the triple gods of
+                <qv uri="haltic">Haltic</qv>, <qv uri="asabeth">Asabeth</qv>
+                and <qv uri="tharos">Tharos</qv>. It had collapsed by the
+                7th century, and little exists of it.
+            </para>
+        </sect1>
+    </body>
+</article>
