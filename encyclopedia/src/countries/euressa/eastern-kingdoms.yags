@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Eastern Kingdoms</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="eastern-kingdoms">Eastern Kingdoms</subject>
+
+            <category>Region</category>
+
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Eastern Kingdoms</title>
+
+            <para>
+                The <e>Eastern Kingdoms</e> includes the region east of
+                the <qv uri="white-spine-mountains">White Spine
+                Mountains</qv>. Most of it is relatively low population,
+                though the coastal regions are made up of large city states.
+            </para>
+
+            <para>
+                Most of the cultures here share a belief in the concept of
+                <qv uri="belogan-mythology">Beloga</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
