@@ -196,33 +196,35 @@
                             </background>
                         </description>
                         
-                        <skills>
-                            <group name="Talents" type="talents">
-                                <skill name="Athletics" score="4"/>
-                                <skill name="Awareness" score="4"/>
-                                <skill name="Brawl" score="4"/>
-                                <skill name="Charm" score="2"/>
-                                <skill name="Guile" score="2"/>
-                                <skill name="Sleight" score="2"/>
-                                <skill name="Stealth" score="4"/>
-                                <skill name="Throw" score="2"/>
-                            </group>
-                
-                            <group name="Knowledges" type="knowledges">
-                                <skill name="Speak own" score="4"/>
-                                <skill name="Area lore" score="4"/>
-                                <skill name="Religion (Tharos)" score="4"/>
-                            </group>
-                            
-                            <group name="Combat" type="skills">
-                                <skill name="Single weapon" score="4"/>
-                            </group>
-                        </skills>
-                
-                        <equipment>
-                            <item name="Dark clothes"/>
-                            <item name="Long knife"/>
-                        </equipment>
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                            <skills>
+                                <group name="Talents" type="talents">
+                                    <skill name="Athletics" score="4"/>
+                                    <skill name="Awareness" score="4"/>
+                                    <skill name="Brawl" score="4"/>
+                                    <skill name="Charm" score="2"/>
+                                    <skill name="Guile" score="2"/>
+                                    <skill name="Sleight" score="2"/>
+                                    <skill name="Stealth" score="4"/>
+                                    <skill name="Throw" score="2"/>
+                                </group>
+                    
+                                <group name="Knowledges" type="knowledges">
+                                    <skill name="Speak own" score="4"/>
+                                    <skill name="Area lore" score="4"/>
+                                    <skill name="Religion (Tharos)" score="4"/>
+                                </group>
+                                
+                                <group name="Combat" type="skills">
+                                    <skill name="Single weapon" score="4"/>
+                                </group>
+                            </skills>
+                    
+                            <equipment>
+                                <item name="Dark clothes"/>
+                                <item name="Long knife"/>
+                            </equipment>
+                        </statistics>
                     </character>
                 </characters>
             </sect2>

@@ -103,34 +103,36 @@
                             </short>
                         </description>
                 
-                        <skills>
-                            <group name="Talents" type="talents">
-                                <skill name="Athletics" score="2"/>
-                                <skill name="Awareness" score="2"/>
-                                <skill name="Brawl" score="2"/>
-                                <skill name="Charm" score="2"/>
-                                <skill name="Guile" score="2"/>
-                                <skill name="Sleight" score="2"/>
-                                <skill name="Stealth" score="2"/>
-                                <skill name="Throw" score="2"/>
-                            </group>
-                
-                            <group name="Knowledges" type="knowledges">
-                                <skill name="Speak own" score="4"/>
-                                <skill name="Area lore" score="4"/>
-                                <skill name="Religion (Yagma)" score="4"/>
-                                <skill name="Farming" score="3"/>
-                                <skill name="Animal care" score="2"/>
-                                <skill name="First aid" score="3"/>
-                                <skill name="Midwifery" score="2"/>
-                                <skill name="Herb lore" score="3"/>
-                            </group>
-                        </skills>
-                
-                        <equipment>
-                            <item name="Good clothes"/>
-                            <item name="Staff"/>
-                        </equipment>
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                            <skills>
+                                <group name="Talents" type="talents">
+                                    <skill name="Athletics" score="2"/>
+                                    <skill name="Awareness" score="2"/>
+                                    <skill name="Brawl" score="2"/>
+                                    <skill name="Charm" score="2"/>
+                                    <skill name="Guile" score="2"/>
+                                    <skill name="Sleight" score="2"/>
+                                    <skill name="Stealth" score="2"/>
+                                    <skill name="Throw" score="2"/>
+                                </group>
+                    
+                                <group name="Knowledges" type="knowledges">
+                                    <skill name="Speak own" score="4"/>
+                                    <skill name="Area lore" score="4"/>
+                                    <skill name="Religion (Yagma)" score="4"/>
+                                    <skill name="Farming" score="3"/>
+                                    <skill name="Animal care" score="2"/>
+                                    <skill name="First aid" score="3"/>
+                                    <skill name="Midwifery" score="2"/>
+                                    <skill name="Herb lore" score="3"/>
+                                </group>
+                            </skills>
+                    
+                            <equipment>
+                                <item name="Good clothes"/>
+                                <item name="Staff"/>
+                            </equipment>
+                        </statistics>
                     </character>
                 </characters>
             </sect2>

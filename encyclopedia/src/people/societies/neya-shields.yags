@@ -59,6 +59,14 @@
                 all purposes, they are considered to be a branch of the
                 Daughters of Neya, and never act alone.
             </para>
+            
+            <para>
+                The Shields will generally live seperate from the Temple,
+                and have their own training grounds, kitchens and a shrine.
+                The garrison is normally next to or opposite the main
+                Temple where the Daughters are housed, often with a shared
+                open courtyard between them.
+            </para>
         </sect1>
         
         <sect1>
@@ -91,7 +99,7 @@
                 <title>Packages</title>
                 
                 <characters role="package" title="Cult of Neya">
-                    <character name="Shields of Neya">
+                    <character name="Shield of Neya">
                         <description>
                             <short>
                             The Daughters of Neya are a religious cult who follow Neya,
@@ -101,40 +109,42 @@
                             </short>
                         </description>
                 
-                        <skills>
-                            <group name="Talents" type="talents">
-                                <skill name="Athletics" score="2"/>
-                                <skill name="Awareness" score="3"/>
-                                <skill name="Brawl" score="2"/>
-                                <skill name="Charm" score="2"/>
-                                <skill name="Guile" score="3"/>
-                                <skill name="Sleight" score="2"/>
-                                <skill name="Stealth" score="2"/>
-                                <skill name="Throw" score="2"/>
-                            </group>
-                
-                            <group name="Knowledges" type="knowledges">
-                                <skill name="Speak own" score="4"/>
-                                <skill name="Area lore" score="4"/>
-                                <skill name="Law" score="2"/>
-                                <skill name="Religion (Neya)" score="4"/>
-                            </group>
-                
-                            <group name="Other" type="skills">
-                                <skill name="Etiquette" score="2"/>
-                                <skill name="Intimidation" score="4"/>
-                                <skill name="Weapon and shield" score="4"/>
-                            </group>
-                        </skills>
-                
-                        <equipment>
-                            <item name="Good clothes"/>
-                            <item name="Battle sword"/>
-                            <item name="Round shield"/>
-                            <item name="Soft leather jacket"/>
-                            <item name="Soft leather trousers"/>
-                            <item name="Chain hauberk"/>
-                        </equipment>
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                            <skills>
+                                <group name="Talents" type="talents">
+                                    <skill name="Athletics" score="2"/>
+                                    <skill name="Awareness" score="3"/>
+                                    <skill name="Brawl" score="2"/>
+                                    <skill name="Charm" score="2"/>
+                                    <skill name="Guile" score="3"/>
+                                    <skill name="Sleight" score="2"/>
+                                    <skill name="Stealth" score="2"/>
+                                    <skill name="Throw" score="2"/>
+                                </group>
+                    
+                                <group name="Knowledges" type="knowledges">
+                                    <skill name="Speak own" score="4"/>
+                                    <skill name="Area lore" score="4"/>
+                                    <skill name="Law" score="2"/>
+                                    <skill name="Religion (Neya)" score="4"/>
+                                </group>
+                    
+                                <group name="Other" type="skills">
+                                    <skill name="Etiquette" score="2"/>
+                                    <skill name="Intimidation" score="4"/>
+                                    <skill name="Weapon and shield" score="4"/>
+                                </group>
+                            </skills>
+                    
+                            <equipment>
+                                <item name="Good clothes"/>
+                                <item name="Battle sword"/>
+                                <item name="Round shield"/>
+                                <item name="Soft leather jacket"/>
+                                <item name="Soft leather trousers"/>
+                                <item name="Chain hauberk"/>
+                            </equipment>
+                        </statistics>
                     </character>
                 </characters>
             </sect2>

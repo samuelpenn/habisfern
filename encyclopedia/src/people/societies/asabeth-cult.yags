@@ -124,6 +124,58 @@
             </sect2>
             
             <sect2>
+                <title>Characters</title>
+                
+                <para>
+                    Priestesses of Asabeth are always female.
+                </para>
+                
+                <characters role="package" title="Asabeth Cultists">
+                    <character name="Warrior Priestess">
+                        <description>
+                            <short>
+                                Priestesses of Asabeth are always female, and
+                                at least 21 years old. They are feared warriors,
+                                mostly for their unpredictability and bloodlust.
+                            </short>
+                        </description>
+                    
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                            <skills>
+                                <group name="Talents" type="talents">
+                                    <skill name="Athletics" score="3"/>
+                                    <skill name="Awareness" score="2"/>
+                                    <skill name="Brawl" score="4"/>
+                                    <skill name="Charm" score="2"/>
+                                    <skill name="Guile" score="2"/>
+                                    <skill name="Sleight" score="2"/>
+                                    <skill name="Stealth" score="2"/>
+                                    <skill name="Throw" score="3"/>
+                                </group>
+                    
+                                <group name="Knowledges" type="knowledges">
+                                    <skill name="Speak own" score="4"/>
+                                    <skill name="Area lore" score="4"/>
+                                    <skill name="Religion (Asabeth)" score="4"/>
+                                </group>
+                    
+                                <group name="Combat" type="skills">
+                                    <skill name="Weapon and shield" score="4"/>
+                                    <skill name="Single weapon" score="3"/>
+                                    <skill name="Great weapon" score="3"/>
+                                </group>
+                            </skills>
+                            
+                            <advantages>
+                                <advantage name="Blessing of Blood"/>
+                                <advantage name="Rage of the Goddess"/>
+                            </advantages>
+                        </statistics>
+                    </character>                    
+                </characters>
+            </sect2>
+            
+            <sect2>
                 <title>Rituals</title>
                 
                 <para>
