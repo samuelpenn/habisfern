@@ -11,7 +11,8 @@
     </topicset>
 
     <topicset name="Topics by Campaign">
-        <topic uri="babisfern">Habisfern</topic>
+        <topic uri="habisfern">Habisfern</topic>
+        <topic uri="leodhata">Leodhata</topic>
     </topicset>
 
     <topicset name="Topics by Religion">
