@@ -163,8 +163,48 @@
                             
                             <para>
                                 The berserk bonus is equal to religion score
-                                minus the restraint passion. This bonus adds
+                                minus their restraint passion. This bonus adds
                                 to all rolls made in combat except soak.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Armour of Blood" type="technique">
+                        <cost points="4"/>
+                        <skill name="Religion"/>
+                        <prerequisite>Berserker</prerequisite>
+                        
+                        <description>
+                            <para>
+                                In her aspect of dread war goddess, Asabeth
+                                can be fearsome to behold. When her followers
+                                also take on that aspect, then they give up
+                                some of their humanity, giving in to their
+                                animal side of fury and rage.
+                            </para>
+                            
+                            <para>
+                                <e>Armour of Blood</e> involves the painting
+                                the body in human blood - normally that of a
+                                sacrificed enemy. The ritual infuses the
+                                priestess with the strength of her goddess,
+                                providing protection against physical harm.
+                            </para>
+                            
+                            <para>
+                                If the priestess puts all her faith in her
+                                goddess, and wears nothing but the blood of
+                                her enemy, then she gains a soak bonus equal
+                                to her religion score. If she wears some
+                                clothing which leaves her arms, legs and
+                                face bare, then she gets half this. Any more
+                                clothing and all bonuses are lost.
+                            </para>
+                            
+                            <para>
+                                In any case, the priestess always gains the
+                                bonus given by <e>Blessing of Blood</e>, if
+                                it is known.
                             </para>
                         </description>
                     </advantage>
@@ -175,7 +215,7 @@
                         
                         <description>
                             <para>
-                                When two or more priestesses who know tis
+                                When two or more priestesses who know this
                                 ritual are fighting side by side, then any
                                 of them can give a bonus equal to their
                                 weapon skill to one other. Who the bonus is
@@ -185,7 +225,7 @@
                         </description>
                     </advantage>
                     
-                    <advantage name="Strength of Woman" type="technique">
+                    <advantage name="Strength of the Goddess" type="technique">
                         <cost points="8"/>
                         <skill name="Religion"/>
                         <prerequisite>Sisters in Arms</prerequisite>
@@ -200,10 +240,10 @@
                         </description>
                     </advantage>
                     
-                    <advantage name="Agility of Woman" type="technique">
+                    <advantage name="Shield of the Goddess" type="technique">
                         <cost points="12"/>
                         <skill name="Religion"/>
-                        <prerequisite>Strength of Woman</prerequisite>
+                        <prerequisite>Strength of the Goddess</prerequisite>
                         
                         <description>
                             <para>
