@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Iss</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>The First God</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="iss-brytish">The Brytish Iss</see>
+            <see uri="dreams-of-iss">Dreams of Iss</see>
+            <see uri="ice">Ice</see>
+        </references>
+
+        <topics>
+            <subject uri="iss">Iss</subject>
+
+            <category>Religion</category>
+
+            <topic uri="daegian">Daegian</topic>
+            <topic uri="rornic-mythology">Rornic Mythology</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Iss</title>
+
+            <para>
+                Iss was the universe before his own <qv uri="dreams-of-iss">
+                Dreams</qv> created the gods of the <qv uri="daegian">
+                Daegian</qv>. He slept in the age before time, and dreamt
+                dreams of power. He was the embodiment of law and stasis.
+                The body of Iss lay across the world as a great sheet of
+                ice, smothering it in endless death.
+            </para>
+
+            <para>
+                With the waking of the gods, Iss was destroyed, and his body
+                was used to forge the world and sky into its current form.
+                His legacy, the great glaciers which cover the north of the
+                world, lives on however. And the powers of the
+                <qv uri="ice">Ice</qv> are an echo of his dreams.
+            </para>
+        </sect1>
+    </body>
+</article>
