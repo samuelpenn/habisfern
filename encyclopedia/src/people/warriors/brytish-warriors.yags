@@ -56,10 +56,13 @@
             </para>
 
             <para>
-                The favoured weapon is the broad axe, a heavy two handed
-                weapon with a single blade. Their armour consists normally
-                of a chain shirt, a metal helm, with leather covering the
-                arms and legs.
+                The favoured weapon is a long two edged sword, or sometimes
+                a broad axe (a heavy two handed weapon with a single blade)
+                or the great sword. Huscurls tend to wear a chain shirt,
+                a metal helm and leather covering the arms and legs. The
+                majority of warriors however wear only quilted or padded
+                armour, with leather leggings, and carry an axe and round
+                shield with a metal rim.
             </para>
 
             <sect2>
@@ -70,7 +73,107 @@
                     warrior.
                 </para>
 
+                <character name="Young Warrior">
+                    <description>
+                        <race>Human</race>
+                        <age>16</age>
+                        <short>
+                            A young warrior, typical for someone out on
+                            their first raid.
+                        </short>
+                    </description>
 
+                    <attributes size="5" soak="12">
+                        <attribute name="strength" score="3"/>
+                        <attribute name="stamina" score="3"/>
+                        <attribute name="agility" score="3"/>
+                        <attribute name="dexterity" score="3"/>
+                        <attribute name="perception" score="3"/>
+                        <attribute name="intelligence" score="3"/>
+                        <attribute name="charisma" score="3"/>
+                        <attribute name="will" score="3"/>
+                    </attributes>
+
+                    <passions>
+                        <passion name="Bravery" score="4"/>
+                        <passion name="Ego" score="4"/>
+                        <passion name="Restraint" score="4"/>
+                        <passion name="Temperence" score="4"/>
+                    </passions>
+
+                    <skills>
+                        <group name="Talents" type="talents" >
+                            <skill name="Athletics" score="2"/>
+                            <skill name="Awareness" score="3"/>
+                            <skill name="Brawl" score="3"/>
+                            <skill name="Charm" score="2"/>
+                            <skill name="Guile" score="2"/>
+                            <skill name="Sleight" score="2"/>
+                            <skill name="Stealth" score="3"/>
+                            <skill name="Throw" score="2"/>
+                        </group>
+
+                        <group name="Languages" type="languages" >
+                            <skill name="Speak Brytish" score="4"/>
+                        </group>
+
+                        <group name="Knowledges" type="skills" >
+                            <skill name="Area lore (Bryteland)" score="4"/>
+                            <skill name="Folk lore" score="2"/>
+                        </group>
+
+                        <group name="Misc" type="skills" >
+                            <skill name="Boating" score="2"/>
+                            <skill name="Swim" score="2"/>
+                            <skill name="Survival" score="1"/>
+                            <skill name="First aid" score="2"/>
+                        </group>
+
+                        <group name="Combat" type="skills" >
+                            <skill name="Weapon and shield" score="4"/>
+                            <skill name="Bow" score="2"/>
+                        </group>
+                    </skills>
+
+                    <advantages/>
+
+                    <combat>
+                        <weaponlist href="/usr/share/web/xml/yags/harn/weapons.xml"/>
+                        <armourlist href="/usr/share/web/xml/yags/harn/armour.xml"/>
+
+                        <combatstyle style="Dagger" skill="Brawl">
+                            <primary>Dagger</primary>
+                            <initiative attribute="agility"/>
+                            <attack attribute="agility"/>
+                            <defence attribute="agility"/>
+                            <damage type="wound"/>
+                        </combatstyle>
+
+                        <combatstyle style="Axe, round shield" skill="Weapon and shield">
+                            <primary>Axe</primary>
+                            <shield>Round shield</shield>
+                            <initiative attribute="agility"/>
+                            <attack attribute="dexterity"/>
+                            <defence attribute="dexterity"/>
+                            <damage type="wound"/>
+                        </combatstyle>
+
+                        <combatstyle style="Thrown spear" skill="Throw">
+                            <primary>Thrown spear</primary>
+                            <initiative attribute="agility"/>
+                            <attack attribute="perception"/>
+                            <defence attribute="dexterity"/>
+                            <damage type="wound"/>
+                        </combatstyle>
+
+                        <armourstyle style="Light armour">
+                            <armour name="Quilted jacket"/>
+                            <armour name="Soft leather trousers"/>
+                            <armour name="Metal helm"/>
+                        </armourstyle>
+                    </combat>
+
+                </character>
             </sect2>
         </sect1>
 
