@@ -84,6 +84,76 @@
                     would receive that kingdom on his fathers death.
                     In 1225 however, he obtained the northern kingdom.
                 </para>
+                
+                <familyTree title="Family of Osric Edgarson">
+                    <root>King Edgar Raedsson</root>
+
+                    <person name="King Osric Edgarson">
+                        <male/>
+                        <born>1207</born>
+                    </person>
+                    
+                    <person name="King Edgar Raedsson">
+                        <male/>
+                        <born>1186</born>
+                    </person>
+                    
+                    <person name="Cwenburg Vitsjarna">
+                        <born>1189</born>
+                        <died>1220</died>
+                    </person>
+                    
+                    <person name="Caewlin">
+                        <male/>
+                        <born>1206</born>
+                    </person>
+                    
+                    <person name="Wulfstan">
+                        <male/>
+                        <born>1220</born>
+                    </person>
+                    
+                    <person name="Aethwin">
+                        <born>1203</born>
+                    </person>
+                    
+                    <person name="Aethild">
+                        <born>1225</born>
+                    </person>
+                    
+                    <family parent="King Edgar Raedsson">
+                        <children parent="Cwenburg Vitsjarna">
+                            <child>Caewlin</child>
+                            <child>King Osric Edgarson</child>
+                            <child>Wulfstan</child>
+                        </children>
+                        
+                        <children parent="Aethwin">
+                            <child>Aethild</child>
+                        </children>
+                    </family>
+                    
+                    <family parent="King Osric Edgarson">
+                        <children parent="A">
+                            <child></child>
+                            <child></child>
+                        </children>
+                        
+                        <children parent="B">
+                            <child></child>
+                        </children>
+                        
+                        <children parent="C">
+                            <child></child>
+                            <child></child>
+                            <child></child>
+                        </children>
+                        
+                        <children parent="D">
+                            <child></child>
+                        </children>
+                    </family>
+                </familyTree>
             </sect2>
 
         </sect1>
