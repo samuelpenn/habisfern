@@ -18,21 +18,17 @@
         </cvsinfo>
 
         <license>
-            <year>2002</year>
+            <year>2004</year>
             <holder>Samuel Penn</holder>
             <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
             <text>
                 Permission is granted to copy, distribute and/or
                 modify this document under the terms of the GNU
-                Free Documentation License, Version 1.1 or any
-                later version published by the Free Software
-                Foundation; with no invariant sections, with no
-                Front-Cover Texts, and with no Back-Cover Texts.
-                A copy of the license is included in the section
-                entitled "GNU Free Documentation License".
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
             </text>
         </license>
-
 
         <style name="module"/>
 
@@ -78,9 +74,24 @@
                     their way is the most efficient.
                 </para>
             </sect2>
+
+            <sect2>
+                <title>Myths and Legends</title>
+
+                <para>
+                    The Mad God came down amongst Men and showed them the
+                    ways of true magic. For seven years of darkness did the
+                    God walk amongst Men, and no crops grew, and no children
+                    nor animals were born.
+                </para>
+
+                <para>
+                    It was soon after this time that the forces of Merkia
+                    were unleashed on Weidany, and the teachings of Ashek
+                    became known to the world.
+                </para>
+            </sect2>
         </sect1>
-
     </body>
-
 </article>
 
