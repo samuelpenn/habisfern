@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Renbric the Slayer</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Slayer of the White Wyrm</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="renbric-slayer">Renbric the Slayer</subject>
+
+            <category>Warriors</category>
+
+            <topic uri="dragons">Dragons</topic>
+            <topic uri="legends">Legends</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Renbric the Slayer</title>
+
+            <para>
+                Renbric, slayer of the White Wyrm of Abbington, is mostly
+                known for the event for which he is named. In 1182 he
+                slew a giant wyrm that had been terrorising people in the
+                area. Armed with the newly forged sword  Silver Tongue,
+                and the shield Silver Heart, he met the wyrm in its lair
+                and defeated it.
+            </para>
+
+            <para>
+                Renbric was slain by the Necromancer Halgorn at
+                <qv uri="rorns-value">Rorn's Vale</qv>. Halgorn was in the
+                employ of Renbric, but he betrayed him and stole his money,
+                later returning with an undead army in order to wipe out
+                evidence of his crimes. Halgorn was initially defeated by
+                Renbric's son, Guthred, but later the entire family was
+                murdered, and the bodies of Guthred and his sister Gute
+                were never found.
+            </para>
+        </sect1>
+    </body>
+</article>
