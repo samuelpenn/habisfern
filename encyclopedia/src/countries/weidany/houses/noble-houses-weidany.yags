@@ -37,6 +37,18 @@
         </campaign>
 
         <references>
+            <see uri="aeddan-house">House of Aeddan</see>
+            <see uri="aethlfryth-house">House of Aethlfryth</see>
+            <see uri="caewlin-house">House of Caewlin</see>
+            <see uri="cenic-house">House of Cenic</see>
+            <see uri="eanwulf-house">House of Eanwulf</see>
+            <see uri="erwin-house">House of Erwin</see>
+            <see uri="gwern-house">House of Gwern</see>
+            <see uri="hrulgar-house">House of Hrulgar</see>
+            <see uri="merin-house">House of Merin</see>
+            <see uri="oswald-house">House of Oswald</see>
+            <see uri="peada-house">House of Peada</see>
+            <see uri="wihtgar-house">House of Wihtgar</see>
         </references>
 
         <topics>
