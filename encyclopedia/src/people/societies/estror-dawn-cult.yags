@@ -51,7 +51,8 @@
             <para>
                 The Cult of the Dawn is a loosely knit group of 
                 priestesses who follow the Dawn Goddess. They are 
-                healers and midwives, taking vows to never bring harm to anyone.
+                healers and midwives, taking vows to never bring harm to
+                anyone.
             </para>
 
             <para>
@@ -61,7 +62,95 @@
                 is no requirement for cult members to be women, though 
                 by far the majority are.
             </para>
-
+            
+            <para>
+                Many cult members will also be members of the
+                <qv uri="yagma-cult">Cult of Yagma</qv>, with priestesses
+                training in both cults. Sometimes ceremonies are dual
+                dedicated to both goddesses, though this is never done
+                on a Cult's holy day.
+            </para>
+            
+            <sect2>
+                <title>Clothing and Symbolism</title>
+                
+                <para>
+                    During ceremonies, cultists will generally wear clean
+                    white robes, after purifying themselves in clean water.
+                    The robes are simple one peice garments, leaving the
+                    arms and neck bare.
+                </para>
+                
+                <para>
+                    The symbol of Estror is the egg, and an egg is often
+                    used during ceremonies. For richer cult members, a
+                    solid silver or solid gold egg is used. In either case,
+                    the metal egg must be solid and pure - a gold plated
+                    egg is considered worse than a simple hen's egg.
+                </para>
+                
+                <para>
+                    The sacred animal is the rabbit, which is sometimes
+                    sacrificed during the ceremony.
+                </para>
+            </sect2>
+        </sect1>
+        
+        <sect1>
+            <title>Membership</title>
+            
+            <para>
+                Cultists are taught the following skills and techniques.
+            </para>
+            
+            <sect2>
+                <title>Skills</title>
+            
+                <skill-list>
+                    <skill name="Religion (Cult of Estror)" type="knowledge">
+                        <description>
+                            <para>
+                                Gives knowledge of the ideals, mythology and
+                                rituals of the Cult of Estror.
+                            </para>
+                        </description>
+                    </skill>
+                </skill-list>
+            </sect2>
+            
+            <sect2>
+                <title>Rituals</title>
+                
+                <advantages>
+                    <advantage name="Blessing of Conception"
+                               type="technique">
+                        <cost points="2"/>
+                        <skill name="Religion"/>
+                        
+                        <description>
+                            A blessing which may be asked for by a woman
+                            in order to increase or reduce the chance of
+                            conception during intercourse. The blessing is
+                            bestowed during the new moon, and lasts until
+                            the next new moon.
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Caring hands" type="technique">
+                        <cost points="2"/>
+                        <skill name="Religion"/>
+                        
+                        <description>
+                            <para>
+                                When making a first aid roll, get a bonus
+                                equal to religion score if prayers are said
+                                to Estror over the wounds and they are
+                                cleansed with holy water.
+                            </para>
+                        </description>
+                    </advantage>
+                </advantages>
+            </sect2>
         </sect1>
     </body>
 </article>
