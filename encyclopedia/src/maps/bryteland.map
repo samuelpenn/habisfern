@@ -4238,14 +4238,14 @@
         <area id="11" name="Vorlov"/>
         <area id="12" name="Urazen"/>
         <area id="13" name="Nailand"/>
-        <area id="14" name="Nethvollr"/>
-        <area id="15" name="Sonodalr"/>
-        <area id="16" name="Harholt"/>
-        <area id="17" name="Bjornstathr"/>
-        <area id="18" name="Vitrgifing"/>
-        <area id="19" name="Jarneyland"/>
-        <area id="20" name="Oforley"/>
-        <area id="21" name="Erding"/>
+        <area id="14" name="Nethvollr" parent="2"/>
+        <area id="15" name="Sonodalr" parent="2"/>
+        <area id="16" name="Harholt" parent="2"/>
+        <area id="17" name="Bjornstathr" parent="2"/>
+        <area id="18" name="Vitrgifing" parent="2"/>
+        <area id="19" name="Jarneyland" parent="2"/>
+        <area id="20" name="Oforley" parent="2"/>
+        <area id="21" name="Erding" parent="2"/>
     </areas>
     <rivers>
         <river name="River 1">
