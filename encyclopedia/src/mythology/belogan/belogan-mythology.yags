@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Belogan Mythology</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="beloga">Beloga, the Universe</see>
+            <see uri="ladma">Ladma, Earth mother</see>
+            <see uri="zharva">Zharva, Earth mother</see>
+            <see uri="dalvi">Dalvi, Earth mother</see>
+            <see uri="svargi">Svargi, King of the Gods</see>
+            <see uri="morav">Morav, Death</see>
+
+            <see uri="darbok">Darbok, the North Wind</see>
+            <see uri="dviri">Dviri, Rain God</see>
+            <see uri="habrog">Habrog, Fire</see>
+            <see uri="ilia">Ilia, the Judge</see>
+            <see uri="koros">Koros, Summer</see>
+            <see uri="savath">Savath, War</see>
+            <see uri="semorgo">Semorgo, the Smith</see>
+            <see uri="vihri">Vihri, the Dark Swordsman</see>
+            <see uri="yali">Yali, Passion</see>
+
+            <see uri="fartha">Fartha, the Dragon God</see>
+            <see uri="koschrim">Koschrim, Destruction</see>
+            <see uri="makosh">Makosh, Fate</see>
+            <see uri="navok">Navok, Night</see>
+</references>
+
+        <topics>
+            <subject uri="belogan-mythology">Belogan Mythology</subject>
+
+            <category>Religion</category>
+
+            <topic uri="belogan-mythology">Belogan Mythology</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Belogan Mythology</title>
+
+            <para>
+                <qv uri="beloga">Beloga</qv>, the Universe is considered a
+                conscious being by the people of Eastern Euressa.
+            </para>
+
+            <sect2>
+                <title>The Birth of the Gods</title>
+
+                <para>
+                    There was the universe, and it was called Beloga.
+                    The universe created the <qv uri="three-mothers">Three
+                    Mothers</qv>, who were Ladma, Zharva and Dalvi. They
+                    mated with themselves, and produced Morav, who was
+                    Death, and Svargi who was to be the Father. Svargi mated
+                    with Ladma and Zharva, and together they begat the
+                    Earth. Svargi then mated with Morav, and so were born
+                    the first humans. Some of these rose to become gods,
+                    while others stayed in the world.
+                </para>
+
+                <para>
+                    Soon after this, there was much war amongst the gods.
+                    They bickered over the mortals and each claimed as many
+                    as they could as woshippers. Each god wanted domain over
+                    the Earth, so there was much fighting. Many gods died,
+                    most of whom are now forgotton.
+                </para>
+
+                <para>
+                    Then there was the great war against the Ice, when the
+                    Great Winter settled upon the Earth, and most upon it
+                    died. Only after Svargi united the remaining gods
+                    against it was it defeated. Shortly after the defeat of
+                    the Ice, there was peace amongst the gods, but Svargi
+                    could see that the peace was a fragile thing that could
+                    not last.
+                </para>
+
+                <para>
+                    So Svargi went to Beloga, and after many quests gained
+                    wisdom from the universe. Makosh was created, who was
+                    Fate. She gave to Svargi the Secret Wisdoms, and told
+                    him to distribute them amongst the gods, for the Wisdoms
+                    would bind the gods to a particular aspect of the
+                    Universe, and they would have control over that aspect
+                    and none other. That way the gods would be restricted
+                    from fighting over the same things, and peace would be
+                    possible.
+                </para>
+
+                <para>
+                    The gods were persuaded into accepting this idea, mainly
+                    because Svargi held all the Wisdom, which gave him
+                    ultimate power. The gods gamed for the Secret Wisdoms,
+                    and it was dealt out as they won it.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
