@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Namahain</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="namahain">Namahain</subject>
+
+            <category>Religion</category>
+
+            <topic uri="namahain">Namahain</topic>
+            <topic uri="taneith">Taneith</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Namahain</title>
+
+            <para>
+                During the Dark Times, before the coming of the Goddess and
+                the rest of the Aoris, the world was a dark and cold place,
+                under the influence of the Shadow Lands.
+            </para>
+
+            <para>
+                The gods of this time were the Namahain. They were generally
+                beneficial to humanity, though were the gods of Night and
+                Winter. With the coming of the Aoris,  the Namahain were
+                fought and driven back to the Shadow Lands. There are only
+                a few cults still left who worship them.
+            </para>
+
+            <sect2>
+                <title>The Gods</title>
+
+                <sect3>
+                    <title>Cionna</title>
+
+                    <para>
+                        She was the goddess of battle. She demanded
+                        sacrifice of those captured in war. She was dark
+                        and terrible to behold, full of lust and anger.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Moth</title>
+
+                    <para>
+                        Moth was the Lord of Beasts, and of snimal instincts
+                        in men. He was selfish, barbaric and unreliable. But
+                        he was never violent for violence sake, and never
+                        fought but for self defence or food.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Fonnas</title>
+
+                    <para>
+                        Fonnas was the Sky God, lord of Storms and raw
+                        strength.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Yulir</title>
+
+                    <para>
+                        She is the sheltering goddess. Her form is the
+                        eagle, who shleters fer followers beneath her wings.
+                        She is the goddess of the common folk.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Ursa</title>
+
+                    <para>
+                        The Crawler Below. The Wyrm God. Worshipped by the
+                        Grey Monks, he is an evil god, of pain and torment.
+                        He is also the god of survival and purity. Also
+                        known as the White Worm.
+                    </para>
+                </sect3>
+            </sect2>
+        </sect1>
+    </body>
+</article>
