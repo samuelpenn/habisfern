@@ -18,32 +18,28 @@
         </cvsinfo>
 
         <license>
-            <year>2002</year>
+            <year>2004</year>
             <holder>Samuel Penn</holder>
             <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
             <text>
                 Permission is granted to copy, distribute and/or
                 modify this document under the terms of the GNU
-                Free Documentation License, Version 1.1 or any
-                later version published by the Free Software
-                Foundation; with no invariant sections, with no
-                Front-Cover Texts, and with no Back-Cover Texts.
-                A copy of the license is included in the section
-                entitled "GNU Free Documentation License".
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
             </text>
         </license>
-
 
         <style name="module"/>
 
         <references>
+            <see uri="uvangar">Uvangar</see>
         </references>
 
         <topics>
             <subject uri="igia">Igia</subject>
 
             <category>Religion</category>
-
             <topic uri="brytish-mythology">Brytish Mythology</topic>
             <topic uri="bryteland">Bryteland</topic>
             <topic uri="habisfern">Habisfern</topic>
@@ -56,10 +52,38 @@
             <title>Igia</title>
 
             <para>
-                Goddess the sea.
+                Igia is the goddess of the sea and sailing. She is the 
+                wife of Uvangar, who is Lord of the Deep Ocean. He 
+                allows her free reign over the upper seas whilst he 
+                dwells in the depths.
             </para>
+
+            <para>
+                Unknown to her husband, she has a lover called Moern, 
+                who is the Rornic sea god. The Brytish consider Moern to 
+                be a minor god, giving him domain of the fish and other 
+                sea creatures except for dolphins which are considered 
+                sacred to Igia.
+            </para>
+
+            <para>
+                Igia is depicted as a mature woman, sometimes with legs 
+                and sometimes half fish. She rules from a submerged 
+                island named Mortheana which is built from coral and 
+                shells. After heavy storms it is said to rise above the 
+                waves somewhere southwest of Jarnyland.
+            </para>
+
+            <para>
+                Those who worship Igia are those whose lives depend on 
+                the sea. Fishermen, sailors and vikings all pay her 
+                homage in a desire for safe passage. The sea is a harsh 
+                mistress, and those who sail upon her are a 
+                superstitious lot. They will treat her priests with 
+                respect, and consider it bad luck not to give one free 
+                passage when it is asked for.
+            </para>
+
         </sect1>
     </body>
-
 </article>
-
