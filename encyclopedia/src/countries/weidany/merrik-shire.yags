@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Merrik Shire</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+            <see uri="abbyton">Abbyton</see>
+        </references>
+
+        <topics>
+            <subject uri="merrik-shire">Merrik Shire</subject>
+
+            <category>Shire</category>
+
+            <topic uri="merrik-shire">Merrik Shire</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+
+    </header>
+
+    <body>
+        <sect1>
+            <title>Merrik Shire</title>
+
+            <para>
+                Merrik is a shire in the <qv uri="weidany">Kingdom of
+                Weidany</qv>. The shire takes its name from the old
+                Kingdom of Merrik, which dates back to the 8th century.
+                It was the rape of Seaxburh, the daughter of the King of
+                Merrik in 726 which led to the bloody feud between the
+                three kingdoms of Merrik, Angsley and Perrin which
+                finally led to the formation of the Kingdom of Weidany.
+            </para>
+
+            <para>
+                The shire capital is <qv uri="abbyton">Abbyton</qv>, which
+                is the seat of power of Ealdorman Madog, head of the
+                <qv uri="erwin-house">House of Erwin</qv>. The House is
+                descended from the old Kings of Merrik, and nobles of
+                this blood line are well represented within the shire.
+            </para>
+
+            <para>
+                The shire lands are bordered by <qv uri="tuffin-wood">
+                Tuffin Wood</qv> to the north, which is a haunt for
+                a <qv uri="rangers">band of outlaws</qv>, which require
+                some man power to keep a check on.
+            </para>
+
+            <para>
+                The central highlands are fertile and well populated,
+                with small farms and hamlets being the norm. Manors
+                tend to be distributed across many settlements, and
+                friction caused by disagreements over which manor a
+                particular farmstead belongs to are not uncommon,
+                though are rarely serious.
+            </para>
+        </sect1>
+
+    </body>
+
+</article>
+
