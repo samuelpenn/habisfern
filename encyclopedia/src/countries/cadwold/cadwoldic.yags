@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Cadwoldic People</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="cadwold">Cadwold</subject>
+
+            <category>People</category>
+
+            <topic uri="cadwold">Cadwold</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Cadwoldic People</title>
+
+            <para>
+                The Cadwoldic people are the last of those who inhabited
+                Weidany before the coming of the People of Rorn. They are
+                free spirited and value their independence highly.
+            </para>
+            
+            <sect2>
+                <title>Racial Characteristics</title>
+                
+                <character-info name="Cadwoldic" gender="Male">
+                    <names>
+                        <name>Addonwy</name>
+                        <name>Aeddan</name>
+                        <name>Aeron</name>
+                        <name>Afan</name>
+                        <name>Amig</name>
+                        <name>Amlyn</name>
+                        <name>Aneirin</name>
+                        <name>Arddur</name>
+                        <name>Athrwys</name>
+                        <name>Blaen</name>
+                        <name>Bleddig</name>
+                        <name>Bledri</name>
+                        <name>Bradwen</name>
+                        <name>Brugyn</name>
+                        <name>Buddfannan</name>
+                        <name>Cadfael</name>
+                        <name>Cadfannan</name>
+                        <name>Cadlew</name>
+                        <name>Cadwallon</name>
+                        <name>Caradoc</name>
+                        <name>Ceredig</name>
+                        <name>Cibno</name>
+                        <name>Cilydd</name>
+                        <name>Clydno</name>
+                        <name>Cunvelyn</name>
+                        <name>Cyfulch</name>
+                        <name>Cynfan</name>
+                        <name>Cynhafal</name>
+                        <name>Cynon</name>
+                        <name>Cynrain</name>
+                        <name>Cynwal</name>
+                        <name>Dafydd</name>
+                        <name>Defi</name>
+                        <name>Dwyai</name>
+                        <name>Edar</name>
+                        <name>Edern</name>
+                        <name>Eiddef</name>
+                        <name>Elad</name>
+                        <name>Elffin</name>
+                        <name>Erthgi</name>
+                        <name>Eudaf</name>
+                        <name>Geriant</name>
+                        <name>Gorthyn</name>
+                        <name>Graid</name>
+                        <name>Gwaednerth</name>
+                        <name>Gwair</name>
+                        <name>Gwanon</name>
+                        <name>Gwarddur</name>
+                        <name>Gwefrfawr</name>
+                        <name>Gwegon</name>
+                        <name>Gwenabwy</name>
+                        <name>Gwengad</name>
+                        <name>Gwern</name>
+                        <name>Gwion</name>
+                        <name>Gwraid</name>
+                        <name>Gwrfelling</name>
+                        <name>Gwrien</name>
+                        <name>Gwyleged</name>
+                        <name>Gwyn</name>
+                        <name>Hyfaidd</name>
+                        <name>Hywel</name>
+                        <name>Ieuan</name>
+                        <name>Llywel</name>
+                        <name>Madog</name>
+                        <name>Marchlew</name>
+                        <name>Merin</name>
+                        <name>Morial</name>
+                        <name>Moried</name>
+                        <name>Morien</name>
+                        <name>Mynyddog</name>
+                        <name>Nai</name>
+                        <name>Neddig</name>
+                        <name>Neilyn</name>
+                        <name>Nerthaid</name>
+                        <name>Nidian</name>
+                        <name>Nwython</name>
+                        <name>Owain</name>
+                        <name>Padern</name>
+                        <name>Pedrog</name>
+                        <name>Rhodri</name>
+                        <name>Rhufon</name>
+                        <name>Rhun</name>
+                        <name>Ricerch</name>
+                        <name>Sawel</name>
+                        <name>Seriol</name>
+                        <name>Sywno</name>
+                        <name>Tathal</name>
+                        <name>Tathan</name>
+                        <name>Tudwlch</name>
+                        <name>Tyngyr</name>
+                        <name>Uren</name>
+                        <name>Uwain</name>
+                        <name>Ysgarran</name>
+                    </names>
+                </character-info>
+                
+                <character-info name="Cadwoldic" gender="Female">
+                    <names>
+                        <name>Adwen</name>
+                        <name>Angarad</name>
+                        <name>Annest</name>
+                        <name>Arianwen</name>
+                        <name>Briant</name>
+                        <name>Collwen</name>
+                        <name>Duddug</name>
+                        <name>Dwynwen</name>
+                        <name>Eleri</name>
+                        <name>Ffraid</name>
+                        <name>Glesig</name>
+                        <name>Glesni</name>
+                        <name>Gwen</name>
+                        <name>Heledd</name>
+                        <name>Indeg</name>
+                        <name>Lero</name>
+                        <name>Lleucu</name>
+                        <name>Llio</name>
+                        <name>Melangell</name>
+                        <name>Meleri</name>
+                        <name>Nest</name>
+                        <name>Nia</name>
+                        <name>Tydfil</name>
+                    </names>
+                </character-info>
+            </sect2>
+        </sect1>
+    </body>
+</article>
