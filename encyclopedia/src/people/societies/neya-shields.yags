@@ -2,7 +2,7 @@
 
 <article>
     <header>
-        <title>Daughters of Neya</title>
+        <title>Shields of Neya</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -33,7 +33,7 @@
         <style name="module"/>
 
         <references>
-            <see uri="neya-shields">Shields of Neya</see>
+            <see uri="neya-daughters">Daughters of Neya</see>
             <see uri="weidany-queen">Queen of Weidany</see>
             <see uri="red-guard">Red Guard</see>
         </references>
@@ -51,37 +51,14 @@
 
     <body>
         <sect1>
-            <title>Daughters of Neya</title>
+            <title>Shields of Neya</title>
 
             <para>
-                The Daughters of Neya are a religious cult 
-                focused on the worship of Neya in her aspect of Oathkeeper.
+                The name given to the martial arm of the Temples of Neya.
+                They protect the temples, and the Daughters of Neya. For
+                all purposes, they are considered to be a branch of the
+                Daughters of Neya, and never act alone.
             </para>
-
-            <para>
-                The cult consists of both political and martial 
-                branches, and both are tied in closely with the 
-                Queen of Weidany. This closeness is disliked by 
-                some, who say that the Daughters cannot be 
-                trusted not to side with the Queen. However, few 
-                wish to tempt the wrath of the goddess openly.
-            </para>
-
-            <para>
-                Daughters are used as witnesses to agreements 
-                between untrusted parties. The will of the 
-                goddess is said to enforce any agreement made 
-                (for a small donation), and to curse anyone who 
-                does break it.
-            </para>
-
-            <para>
-                More reliably, the Daughters will have a trusted 
-                record of the agreement. According to Weidanic 
-                law, anything witnessed by the Daughters trumps 
-                all else.
-            </para>
-
         </sect1>
     </body>
 </article>
