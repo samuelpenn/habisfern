@@ -2,7 +2,7 @@
 
 <article>
     <header>
-        <title>Weidanic</title>
+        <title>Weidanic Commoners</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -270,7 +270,7 @@
                     PCs. There are of course many other types of
                     characters, but not all are so useful.
                 </para>
-                                
+
                 <characters role="package" title="Weidanic Commoners">
                     <character name="Ceorl">
                         <description>
@@ -580,8 +580,53 @@
                             </group>
                         </skills>
                     </character>
-                    
-                    
+                </characters>
+            </sect2>
+            
+            <sect2>
+                <title>Warriors</title>
+                <characters role="package" title="Weidanic Rogues">
+                    <character name="Rogue">
+                        <description>
+                            <short>
+                                A rural outlaw or vagrant living on the edge
+                                of the law. Most rural villages are too small
+                                to support someone like this, so they move
+                                around, stealing or conning food and wealth
+                                out of people. Their wide range of skills are
+                                actually sometimes useful, and they may find
+                                themselves in actual employed work.
+                            </short>
+                        </description>
+
+                        <skills>
+                            <group name="Talents" type="talents">
+                                <skill name="Athletics" score="3"/>
+                                <skill name="Awareness" score="4"/>
+                                <skill name="Brawl" score="3"/>
+                                <skill name="Charm" score="3"/>
+                                <skill name="Guile" score="4"/>
+                                <skill name="Sleight" score="3"/>
+                                <skill name="Stealth" score="4"/>
+                                <skill name="Throw" score="2"/>
+                            </group>
+                
+                            <group name="Knowledges" type="knowledges">
+                                <skill name="Speak own" score="4"/>
+                                <skill name="Area lore" score="4"/>
+                            </group>
+
+                            <group name="Profession" type="skills">
+                                <skill name="Trade" score="2"/>
+                            </group>
+
+                            <group name="Other" type="skills">
+                                <skill name="Game (any)" score="3"/>
+                                <skill name="Survival" score="2"/>
+                                <skill name="Bow" score="2"/>
+                            </group>
+                        </skills>
+                    </character>
                 </characters>
             </sect2>
         </sect1>
