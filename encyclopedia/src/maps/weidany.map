@@ -14,6 +14,7 @@
         <imagedir>hexagonal/standard</imagedir>
         <format>0.1.0</format>
     </header>
+
     <!-- Standard terrain set -->
     <terrainset id="basic" path=".">
         <terrain id="0">
@@ -21,68 +22,80 @@
             <description>Unchartable</description>
             <image>blank.png</image>
             <solid value="false"/>
+            <attributes water="false" woods="0" quality="0"/>
         </terrain>
         <terrain id="1">
             <name>water.sea</name>
             <description>Sea</description>
             <image>water.png</image>
             <solid value="false"/>
+            <attributes water="true" woods="0" quality="0"/>
         </terrain>
         <terrain id="10">
             <name>clear.cropland</name>
             <description>Cropland</description>
             <image>cropland.png</image>
             <solid value="false"/>
+            <attributes water="false" woods="10" quality="100"/>
         </terrain>
         <terrain id="11">
             <name>woods.light</name>
             <description>Light Woodland</description>
             <image>woodland.png</image>
             <solid value="false"/>
+            <attributes water="false" woods="25" quality="100"/>
         </terrain>
         <terrain id="12">
             <name>woods.medium</name>
             <description>Medium Woods</description>
             <image>forest.png</image>
             <solid value="false"/>
+            <attributes water="false" woods="50" quality="100"/>
         </terrain>
         <terrain id="13">
             <name>woods.thick</name>
             <description>Thick woods</description>
             <image>thick-forest.png</image>
             <solid value="false"/>
+            <attributes water="false" woods="75" quality="100"/>
         </terrain>
         <terrain id="20">
             <name>wild.heath</name>
             <description>Heath</description>
             <image>heath.png</image>
             <solid value="false"/>
+            <attributes water="false" woods="0" quality="50"/>
         </terrain>
         <terrain id="21">
             <name>wild.moor</name>
             <description>Moor</description>
             <image>moor.png</image>
             <solid value="false"/>
+            <attributes water="false" woods="0" quality="25"/>
         </terrain>
         <terrain id="22">
             <name>wild.marsh</name>
             <description>Marsh</description>
             <image>marsh.png</image>
             <solid value="false"/>
+            <attributes water="false" woods="0" quality="5"/>
         </terrain>
         <terrain id="30">
             <name>cold.snow</name>
             <description>Snow or rock</description>
             <image>snow.png</image>
             <solid value="false"/>
+            <attributes water="false" woods="0" quality="0"/>
         </terrain>
         <terrain id="31">
             <name>cold.alpine</name>
             <description>Alpine forest</description>
             <image>alpine.png</image>
             <solid value="false"/>
+            <attributes water="false" woods="50" quality="10"/>
         </terrain>
     </terrainset>
+
     <!-- Things -->
     <terrainset id="things" path="things">
         <terrain id="0">
@@ -592,7 +605,7 @@
                 ABAAAAACAA ABAAAAACAA ABAAAAACAA ABAAAAAAAA ABAAAAAAAA 
                 ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA 
                 ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAaAA ABAAAAAaAA 
-                ANAAAAAaAA ANAAAAAaAA ANAAAAAaAA ANAAAAAaAA ANAAAAAaAA 
+                ANAAAAAaAA ANAAAAAaAA ABAAAAAaAA ANAAAAAaAA ANAAAAAaAA 
                 ABAAAAAaAA ABAAAAAaAA ABAAAAAaAA ABAAAAAaAA ABAAAAAAAA 
                 ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA 
                 ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA 
@@ -623,7 +636,7 @@
                 ABAAAAACAA ABAAAAACAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA 
                 ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA 
                 ABAAAAAAAA ABAAAAAaAA ABAAAAAaAA ABAAAAAaAA ABAAAAAaAA 
-                ANAAAAAaAA ANAAAAAaAA ANAAAAAaAA ANAAAAAaAA ANAAAAAaAA 
+                ANAAAAAaAA ANAAAAAaAA ABAAAAAaAA ANAAAAAaAA ANAAAAAaAA 
                 ANAAAAAaAA ABAAAAAaAA ABAAAAAaAA ABAAAAAaAA ABAAAAAaAA 
                 ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA 
                 ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA 
@@ -903,7 +916,7 @@
                 ABAAAAACAA ABAAAAACAA ABAAAAACAA ABAAAAAaAA ABAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA ANAAAAAaAA ANAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA ANAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
-                AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA ANAAAAAaAA 
+                AMAAAAAaAA AMAAAAAaAA ANAAAAAaAA AMAAAAAaAA ANAAAAAaAA 
                 ANAAAAAaAA ABAAAAAaAA ABAAAAAaAA ABAAAAAXAA ABAAAAAXAA 
                 ABAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
@@ -934,7 +947,7 @@
                 ABAAAAACAA ABAAAAACAA ABAAAAACAA ABAAAAAaAA ABAAAAAaAA 
                 AMAAAAAaAA ANAAAAAaAA ANAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA ANAAAAAaAA 
-                AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
+                ANAAAAAaAA ANAAAAAaAA ANAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 ABAAAAAaAA ABAAAAAaAA ABAAAAAaAA ABAAAAAXAA ABAAAAAXAA 
                 ABAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
@@ -965,9 +978,9 @@
                 ABAAAAACAA ABAAAAACAA ABAAAAACAA ABAAAAAaAA ABAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
-                ANAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
+                ANAAAAAaAA ANAAAAAaAA ANAAAAAaAA AMAAAAAaAA AMAAAGAaAA 
                 ABAAAAAaAA ABAAAAAaAA ABAAAAAaAA ABAAAAAaAA ABAAAAAXAA 
-                ABAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAAXAA 
+                ABAAAAAXAA AMAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA ANAAAAAXAA ANAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA ABAAAAAXAA ABAAAAAXAA AMAAAAAXAA 
                 AMAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAABAA 
@@ -996,12 +1009,12 @@
                 AMAAAAACAA AMAAAAACAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA ANAAAAAaAA 
-                ANAAAAAaAA ANAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
-                AMAAAAAaAA ABAAAAAaAA ABAAAAAaAA ABAAAAAXAA ABAAAAAXAA 
+                ANAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAGAaAA 
+                AMAAAGAaAA ABAAAAAaAA ABAAAAAaAA ABAAAAAXAA ABAAAAAXAA 
                 AMAAAAAXAA ABAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA ANAAAAAXAA ANAAAAAXAA AMAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
-                AMAAAAAXAA AMAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAABAA 
+                AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA ABAAAAAXAA ABAAAAABAA 
                 ABAAAAABAA ABAAAAABAA AMAAAAABAA AMAAAAABAA AMAAAAABAA 
                 AMAAAAABAA AMAAAAABAA AMAAAAABAA ABAAAAABAA ABAAAAABAA 
                 AMAAAAABAA AMAAAAABAA ABAAAAABAA ABAAAAABAA ABAAAAABAA 
@@ -1026,7 +1039,7 @@
                 AMAAAAACAA AMAAAAACAA AMAAAAACAA AMAAAAACAA AMAAAAACAA 
                 AMAAAAACAA AMAAAAACAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
-                ALAAAAAaAA ALAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
+                ALAAAAAaAA ALAAAAAaAA AMAAAAAaAA AMAAAAAaAA ANAAAAAaAA 
                 ANAAAAAaAA ANAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA ABAAAAAaAA ABAAAAAaAA AMAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
@@ -1057,8 +1070,8 @@
                 AMAAAAACAA AMAAAAACAA AMAAAAACAA AMAAAAACAA AMAAAAACAA 
                 AMAAAAACAA AMAAAAACAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
-                ALAAAAAaAA ALAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
-                AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
+                ALAAAAAaAA ALAAAAAaAA AMAAAAAaAA ANAAAAAaAA ANAAAAAaAA 
+                ANAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAXAA AMAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
@@ -1089,9 +1102,9 @@
                 AMAAAAACAA AMAAAAACAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 ALAAAAAaAA ALAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
-                AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
+                AMAAAAAaAA ANAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAXAA 
-                AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
+                AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA ANAAAAAXAA ANAAAAAXAA 
                 ANAAAAAXAA ANAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
                 AMAAAAAXAA ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA AMAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAABAA 
@@ -1122,7 +1135,7 @@
                 ALAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAXAA AMAAAAAXAA 
-                AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA ANAAAAAXAA 
+                AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA ANAAAAAXAA ANAAAAAXAA 
                 ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA ANAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
                 AMAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAABAA 
@@ -1150,11 +1163,11 @@
                 AKAAAAACAA AKAAAAACAA AKAAAAACAA AKAAAAACAA AKAAAAACAA 
                 AKAAAAAaAA AKAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
-                AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
+                ALAAAAAaAA ALAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAXAA ALAAAAAXAA 
                 ALAAAAAXAA ALAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
-                ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA 
+                ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA AMAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA ANAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
                 ABAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAABAA 
                 ABAAAAABAA AMAAAAABAA AMAAAAABAA AMAAAAABAA AMAAAAABAA 
@@ -1181,11 +1194,11 @@
                 AKAAAAACAA AKAAAAACAA AKAAAAACAA AKAAAAACAA AKAAAAACAA 
                 AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA 
                 ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
-                AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
+                ALAAAAAaAA ALAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA ALAAAAAXAA ALAAAAAXAA ALAAAAAXAA 
                 ALAAAAAXAA ALAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
-                ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA 
+                ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
                 ABAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAABAA ABAAAAABAA 
                 AMAAAAABAA AMAAAAABAA AMAAAAABAA AMAAAAABAA AMAAAAABAA 
@@ -1212,11 +1225,11 @@
                 AKAAAAACAA AKAAAAACAA AKAAAAACAA AKAAAAACAA AKAAAAACAA 
                 AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA 
                 ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
-                AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
+                ALAAAAAaAA ALAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA ALAAAAAaAA ALAAAAAXAA ALAAAAAXAA ALAAAAAXAA 
                 ALAAAAAXAA ALAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
-                ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA 
+                ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA AMAAAAAXAA ANAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
                 ABAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAABAA ABAAAAABAA 
                 AMAAAAABAA AMAAAAABAA AMAAAAABAA AMAAAAABAA AMAAAAABAA 
@@ -1243,12 +1256,12 @@
                 AKAAAAACAA AKAAAAACAA AKAAAAACAA AKAAAAACAA AKAAAAAaAA 
                 AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA 
                 ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
-                AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
+                ALAAAAAaAA ALAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 ALAAAAAaAA ALAAAAAXAA ALAAAAAXAA ALAAAAAXAA ALAAAAAXAA 
                 ALAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
                 ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA 
-                AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA ABAAAAAXAA 
+                AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
                 ABAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAABAA ABAAAAABAA 
                 AMAAAAABAA AMAAAAABAA AMAAAAABAA AMAAAAABAA AMAAAAABAA 
                 AMAAAAABAA AMAAAAABAA AMAAAAABAA AMAAAAABAA AMAAAAABAA 
@@ -1274,13 +1287,13 @@
                 AKAAAAACAA AKAAAAACAA AKAAAAACAA AKAAAAACAA AKAAAAAaAA 
                 AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA 
                 AKAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
-                AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
+                ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 ALAAAAAaAA ALAAAAAaAA ALAAAAAXAA ALAAAAAXAA ALAAAAAXAA 
                 ALAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
                 ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
-                ABAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAABAA ABAAAAABAA 
+                AMAAAAAXAA AMAAAAAXAA ABAAAAAXAA ABAAAAABAA ABAAAAABAA 
                 ABAAAAABAA ABAAAAABAA AMAAAAABAA AMAAAAABAA ABAAAAABAA 
                 ABAAAAABAA AMAAAAABAA AMAAAAABAA AMAAAAABAA AMAAAAABAA 
                 ABAAAAABAA ABAAAAABAA ABAAAAABAA ABAAAAABAA ABAAAAABAA 
@@ -1305,12 +1318,12 @@
                 AKAAAAACAA AKAAAAACAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA 
                 AKAAAAAaAA AKAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
-                ALAAAAAaAA ALAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
+                ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA AMAAAAAaAA 
                 ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 ALAAAAAaAA ALAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA ANAAAAAXAA AMAAAAAXAA 
                 AMAAAAAXAA ANAAAAAXAA ANAAAAAXAA ANAAAAAXAA AMAAAAAXAA 
-                AMAAAAAXAA AMAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAAXAA 
+                AMAAAAAXAA AMAAAAAXAA ABAAAAAXAA ABAAAAAXAA AMAAAAAXAA 
                 ABAAAAAXAA ABAAAAAXAA ABAAAAABAA ABAAAAABAA ABAAAAABAA 
                 ABAAAAABAA ABAAAAABAA ABAAAAABAA ABAAAAABAA ABAAAAABAA 
                 AMAAAAABAA AMAAAAABAA AMAAAAABAA AMAAAAABAA AMAAAAABAA 
@@ -1336,7 +1349,7 @@
                 AKAAAAACAA AKAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 ALAAAAAaAA AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA 
                 AKAAAAAaAA AKAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
-                ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA AMAAAAAaAA 
+                ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 ALAAAAAaAA ALAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA ANAAAAAXAA ANAAAAAXAA AMAAAAAXAA 
@@ -1367,7 +1380,7 @@
                 AKAAAAAaAA AKAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 ALAAAAAaAA ALAAAAAaAA AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA 
                 AKAAAAAaAA AKAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
-                ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
+                AMAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 ALAAAAAaAA ALAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
                 AMAAAAAXAA ANAAAAAXAA ANAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
@@ -1397,8 +1410,8 @@
                 AKAAAAACAA AKAAAAACAA AKAAAAACAA AKAAAAAaAA AKAAAAAaAA 
                 AKAAAAAaAA AKAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 ALAAAAAaAA ALAAAAAaAA AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA 
-                AKAAAAAaAA AKAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
-                ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
+                AKAAAAAaAA AKAAAAAaAA ALAAAAAaAA ALAAAAAaAA AMAAAAAaAA 
+                AMAAAAAaAA AMAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 ALAAAAAaAA ALAAAAAaAA AMAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 ALAAAAAaAA ALAAAAAXAA ALAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
@@ -1428,8 +1441,8 @@
                 AKAAAAACAA AKAAAAACAA AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA 
                 AKAAAAAaAA AKAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 ALAAAAAaAA ALAAAAAaAA AKAAAAAaAA AKAAAAAaAA AKAAAAAaAA 
-                AKAAAAAaAA AKAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
-                ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
+                AKAAAAAaAA AKAAAAAaAA ALAAAAAaAA ALAAAAAaAA AMAAAAAaAA 
+                AMAAAAAaAA AMAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA ALAAAAAaAA 
                 ALAAAAAaAA ALAAAAAXAA ALAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
@@ -1553,7 +1566,7 @@
                 ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
-                AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA ANAAAAAaAA 
+                AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA ANAAAAAaAA AMAAAAAaAA AMAAAAAaAA AMAAAAAaAA 
                 AMAAAAAaAA ALAAAAAXAA ALAAAAAXAA ALAAAAAXAA ALAAAAAXAA 
                 ALAAAAAXAA ALAAAAAXAA ALAAAAAXAA ALAAAAAXAA ALAAAAAXAA 
@@ -1616,7 +1629,7 @@
                 ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 ALAAAAAaAA ALAAAAAaAA ALAAAAAYAA AMAAAAAYAA AMAAAAAYAA 
-                AMAAAAAYAA AMAAAAAYAA ANAAAAAYAA ANAAAAAYAA ANAAAAAaAA 
+                AMAAAAAYAA AMAAAAAYAA AMAAAAAYAA ANAAAAAYAA AMAAAAAaAA 
                 AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA ALAAAAAXAA ALAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA ALAAAAAXAA ALAAAAAXAA ALAAAAAXAA 
                 ALAAAAAXAA ALAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
@@ -1647,8 +1660,8 @@
                 ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 ALAAAAAYAA ALAAAAAYAA ALAAAAAYAA ALAAAAAYAA ALAAAAAYAA 
-                AMAAAAAYAA AMAAAAAYAA AMAAAAAYAA ANAAAAAYAA ANAAAAAXAA 
-                ANAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
+                AMAAAAAYAA AMAAAAAYAA AMAAAAAYAA ANAAAAAYAA AMAAAAAXAA 
+                AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA ALAAAAAXAA ALAAAAAXAA ALAAAAAXAA 
                 ALAAAAAXAA ALAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
                 ANAAAAAXAA AMAAAAAXAA AMAAAAAXAA ABAAAAAXAA ABAAAAAXAA 
@@ -1678,8 +1691,8 @@
                 AMAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA 
                 ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAaAA ALAAAAAYAA 
                 ALAAAAAYAA ALAAAAAYAA ALAAAAAYAA ALAAAAAYAA ALAAAAAYAA 
-                AMAAAAAYAA AMAAAAAYAA AMAAAAAYAA ANAAAAAYAA AMAAAAAXAA 
-                ANAAAAAXAA ANAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
+                AMAAAAAYAA AMAAAAAYAA AMAAAAAYAA AMAAAAAYAA AMAAAAAXAA 
+                AMAAAAAXAA ANAAAAAXAA AMAAAAAXAA AMAAAAAXAA AMAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA ALAAAAAXAA ALAAAAAXAA ALAAAAAXAA 
                 ALAAAAAXAA ALAAAAAXAA AMAAAAAXAA AMAAAAAXAA ANAAAAAXAA 
                 AMAAAAAXAA AMAAAAAXAA ABAAAAAXAA ABAAAAAXAA ABAAAAAXAA 
@@ -2919,7 +2932,7 @@
                 AMAAAAAHAA AMAAAAAHAA AMAAAAAPAA ALAAAAAPAA ALAAAAAPAA 
                 ALAAAAAPAA ALAAAAAPAA AKAAAAAPAA AKAAAAAPAA AKAAAAAPAA 
                 AKAAAAAPAA AKAAAAAPAA ALAAAAAPAA ALAAAAAPAA ALAAAAAPAA 
-                ALAAAAAPAA AMAAAAAPAA AMAAAAAPAA AMAAAAABAA AMAAAAAeAA 
+                ALAAAAAPAA AMAAAAAPAA AMAAAAAPAA AMAAAAAPAA AMAAAAAeAA 
                 AMAAAAAeAA AMAAAAAeAA ALAAAAAeAA ALAAAAAeAA ALAAAAAeAA 
                 ALAAAAAeAA ALAAAAAeAA ALAAAAAeAA AKAAAAAeAA AKAAAAAeAA 
                 AKAAAAAeAA AKAAAAAeAA AKAAAAAeAA AKAAAAAeAA AKAAAAAeAA 
@@ -5701,6 +5714,36 @@
             <font>2</font>
             <importance>2</importance>
         </thing>
+        <thing type="2" x="3254" y="5532">
+            <name>Ashmond</name>
+            <description>Unknown</description>
+            <font>2</font>
+            <importance>2</importance>
+        </thing>
+        <thing type="7" x="2433" y="4642">
+            <name>Meam's Wood</name>
+            <description>Unknown</description>
+            <font>2</font>
+            <importance>2</importance>
+        </thing>
+        <thing type="7" x="3058" y="6235">
+            <name>Wyrms Wood</name>
+            <description>Unknown</description>
+            <font>2</font>
+            <importance>2</importance>
+        </thing>
+        <thing type="7" x="4925" y="5364">
+            <name>Ent Wood</name>
+            <description>Unknown</description>
+            <font>2</font>
+            <importance>2</importance>
+        </thing>
+        <thing type="7" x="4250" y="4678">
+            <name>Troll Watch</name>
+            <description>Unknown</description>
+            <font>2</font>
+            <importance>2</importance>
+        </thing>
     </things>
     <areas>
         <area id="1" name="Weidany"/>
@@ -5716,24 +5759,24 @@
         <area id="11" name="Vorlov"/>
         <area id="12" name="Urazen"/>
         <area id="13" name="Nailand"/>
-        <area id="14" name="Aidan"/>
-        <area id="15" name="Angsly"/>
-        <area id="16" name="Cenicsdyke"/>
-        <area id="17" name="Emrend"/>
-        <area id="18" name="Estwed"/>
-        <area id="19" name="Hain"/>
-        <area id="20" name="Halecester"/>
-        <area id="21" name="Langly"/>
-        <area id="22" name="Lanuch"/>
-        <area id="23" name="Merkia"/>
-        <area id="24" name="Merrik"/>
-        <area id="25" name="Northmarch"/>
-        <area id="26" name="Northwood"/>
-        <area id="27" name="Ornwold"/>
-        <area id="28" name="Scarondy"/>
-        <area id="29" name="Strathby"/>
-        <area id="30" name="Talmoth"/>
-        <area id="31" name="Westland"/>
+        <area id="14" name="Aidan" parent="1"/>
+        <area id="15" name="Angsly" parent="1"/>
+        <area id="16" name="Cenicsdyke" parent="1"/>
+        <area id="17" name="Emrend" parent="1"/>
+        <area id="18" name="Estwed" parent="1"/>
+        <area id="19" name="Hain" parent="1"/>
+        <area id="20" name="Halecester" parent="1"/>
+        <area id="21" name="Langly" parent="1"/>
+        <area id="22" name="Lanuch" parent="1"/>
+        <area id="23" name="Merkia" parent="1"/>
+        <area id="24" name="Merrik" parent="1"/>
+        <area id="25" name="Northmarch" parent="1"/>
+        <area id="26" name="Northwood" parent="1"/>
+        <area id="27" name="Ornwold" parent="1"/>
+        <area id="28" name="Scarondy" parent="1"/>
+        <area id="29" name="Strathby" parent="1"/>
+        <area id="30" name="Talmoth" parent="1"/>
+        <area id="31" name="Westland" parent="1"/>
     </areas>
     <rivers>
         <river name="River 1">
@@ -5978,6 +6021,73 @@
             <path x="8030" y="1820" width="3"/>
             <path x="7985" y="1730" width="3"/>
             <end x="7840" y="1585" width="3"/>
+        </river>
+
+        <river name="River 6">
+            <start x="4425" y="4785" width="3"/>
+            <path x="4483" y="4835" width="3"/>
+            <path x="4533" y="4885" width="3"/>
+            <path x="4666" y="4900" width="3"/>
+            <path x="4750" y="4964" width="3"/>
+            <path x="4858" y="5042" width="3"/>
+            <path x="4958" y="5085" width="3"/>
+            <path x="5033" y="5078" width="3"/>
+            <path x="5158" y="5157" width="3"/>
+            <path x="5208" y="5221" width="3"/>
+            <path x="5291" y="5250" width="3"/>
+            <path x="5350" y="5264" width="3"/>
+            <path x="5450" y="5264" width="3"/>
+            <path x="5633" y="5221" width="3"/>
+            <path x="5733" y="5235" width="3"/>
+            <path x="5900" y="5257" width="3"/>
+            <path x="5975" y="5285" width="3"/>
+            <path x="6050" y="5264" width="3"/>
+            <path x="6100" y="5228" width="3"/>
+            <path x="6166" y="5178" width="3"/>
+            <path x="6358" y="5157" width="3"/>
+            <path x="6491" y="5164" width="3"/>
+            <path x="6616" y="5121" width="3"/>
+            <path x="6808" y="5107" width="3"/>
+            <path x="6933" y="5064" width="3"/>
+            <path x="6983" y="4992" width="3"/>
+            <path x="7066" y="4928" width="3"/>
+            <path x="7133" y="4864" width="3"/>
+            <path x="7283" y="4835" width="3"/>
+            <path x="7333" y="4857" width="3"/>
+            <path x="7458" y="4800" width="3"/>
+            <path x="7533" y="4778" width="3"/>
+            <path x="7733" y="4857" width="3"/>
+            <path x="7783" y="4935" width="3"/>
+            <path x="7891" y="5035" width="3"/>
+            <path x="8008" y="5085" width="3"/>
+            <path x="8116" y="5121" width="3"/>
+            <path x="8125" y="5228" width="3"/>
+            <path x="8216" y="5328" width="3"/>
+            <path x="8275" y="5392" width="3"/>
+            <path x="8408" y="5414" width="3"/>
+            <path x="8558" y="5392" width="3"/>
+            <path x="8691" y="5414" width="3"/>
+            <path x="8816" y="5435" width="3"/>
+            <path x="8941" y="5407" width="3"/>
+            <path x="9008" y="5357" width="3"/>
+            <path x="9116" y="5350" width="3"/>
+            <path x="9291" y="5285" width="3"/>
+            <path x="9441" y="5292" width="3"/>
+            <path x="9525" y="5235" width="3"/>
+            <path x="9591" y="5121" width="3"/>
+            <path x="9625" y="5000" width="3"/>
+            <path x="9733" y="4971" width="3"/>
+            <path x="9825" y="4921" width="3"/>
+            <path x="9825" y="4850" width="3"/>
+            <path x="9833" y="4728" width="3"/>
+            <path x="9966" y="4607" width="3"/>
+            <path x="9950" y="4464" width="3"/>
+            <path x="9950" y="4357" width="3"/>
+            <path x="9891" y="4228" width="3"/>
+            <path x="9766" y="4157" width="3"/>
+            <path x="9666" y="4078" width="3"/>
+            <path x="9550" y="3964" width="3"/>
+            <end x="9508" y="3850" width="3"/>
         </river>
 
     </rivers>
