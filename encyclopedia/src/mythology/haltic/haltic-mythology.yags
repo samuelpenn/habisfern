@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Haltic Mythology</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="agmi">Agmi, Earth Mother</see>
+            <see uri="haltic">Haltic, Sky god</see>
+            <see uri="uir">Uir, Death</see>
+            <see uri="ennia">Ennia, Goddess of Lust</see>
+            <see uri="retha">Retha, Ice Maiden</see>
+            <see uri="kugmar">Kugmar, Troll God</see>
+            <see uri="ort">Ort, the thief</see>
+            <see uri="fartha">Fartha, Dragon god</see>
+            <see uri="shuras">Shuras, Navigator goddess</see>
+            <see uri="vihri">Vihri, God of murder</see>
+        </references>
+
+        <topics>
+            <subject uri="haltic-mythology">Haltic Mythology</subject>
+
+            <category>Religion</category>
+
+            <topic uri="haltic-mythology">Haltic Mythology</topic>
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Haltic Mythology</title>
+
+            <para>
+                The people of the <qv uri="northern-kingdoms">Northern
+                Kingdoms</qv> follow a set of gods not entirely dissimilar
+                to those of <qv uri="rornic-mythology">Rorn</qv>. The people
+                are of Rornic descent, though they split from those who
+                settled <qv uri="weidany">Weidany</qv> well before the
+                Betrayel which devastated
+                <qv uri="tarvallah">Tarvallah</qv>.
+            </para>
+
+            <para>
+                Their principal god is <qv uri="haltic">Haltic</qv>,
+                equivalent to the Rornic <qv uri="haltan">Haltan</qv>,
+                though somewhat bloodier in nature. Much of their
+                mythology has come from the culture of <qv uri="milindor">
+                Milindor</qv>, which was a magocracy based in what is now
+                the <qv uri="hruul-forest">Hruul Forest</qv>. It collapsed
+                during the 7th century, though vanished from the view of
+                outsiders some time before this. Though wizards were the
+                ruling elite, they shared their power base to some extent
+                with the warrior cults of Haltan, who had a reputation
+                more like those of <qv uri="asabeth">Asabeth</qv> than the
+                Haltan of Rornic stories.
+            </para>
+
+            <para>
+                Two gods, <qv uri="vihri">Vihri</qv> and <qv uri="kugmar">
+                Kugmar</qv>, came from the east. Vihri was borrowed from
+                the <qv uri="belogan-mythology">Belogan pantheon</qv>, and
+                Kugmar from <qv uri="trollund">Trollund</qv>. The dragon god
+                <qv uri="fartha">Fartha</qv>, who is similar to the Rornic
+                <qv uri="farfthi">Farfthi<qv>, plays a prominent role, being
+                worshipped by several cults.
+            </para>
+
+            <para>
+                Those of the Northern Kingdoms have always lived closer to
+                the <qv uri="ice">Ice</qv> than their neighbours, and their
+                gods reflect this. They are more active, passionate and
+                powerful than those of Rorn.
+            </para>
+        </sect1>
+    </body>
+</article>
