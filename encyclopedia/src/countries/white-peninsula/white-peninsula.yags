@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>White Peninsula</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="white-peninsula">White Peninsula</subject>
+
+            <category>Country</category>
+
+            <topic uri="white-peninsula">White Peninsula</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>White Peninsula</title>
+
+            <para>
+                Named for its tall chalk cliffs, the White 
+                Peninsula is on the northern coast of Euressa. 
+                Hilly and heavily wooded, it is only lightly 
+                populated. There is no overall ruler of this 
+                area, just a few small tribal groups.
+            </para>
+
+        </sect1>
+    </body>
+</article>
