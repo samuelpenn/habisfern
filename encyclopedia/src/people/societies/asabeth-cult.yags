@@ -95,7 +95,7 @@
 
             <para>
                 There is currently only one temple of the cult, 
-                in northern Scarondy.
+                in <qv uri="red-goddess-house">northern Scarondy</qv>.
             </para>
         </sect1>
         
@@ -133,7 +133,7 @@
                     powerful rituals.
                 </para>
                 
-                <advantages>
+                <advantages howPresent="skills">
                     <advantage name="Blessing of Blood" type="technique">
                         <cost points="2"/>
                         <skill name="Religion"/>
@@ -164,7 +164,9 @@
                             <para>
                                 The berserk bonus is equal to religion score
                                 minus their restraint passion. This bonus adds
-                                to all rolls made in combat except soak.
+                                to all rolls made in combat except soak. It
+                                replaces and does not stack with
+                                <e>Blessing of Blood</e>.
                             </para>
                         </description>
                     </advantage>
@@ -204,7 +206,10 @@
                             <para>
                                 In any case, the priestess always gains the
                                 bonus given by <e>Blessing of Blood</e>, if
-                                it is known.
+                                it is known. Priestesses clad only in blood
+                                also add their religion score to the
+                                difficulty of any bravery checks made by
+                                foes.
                             </para>
                         </description>
                     </advantage>

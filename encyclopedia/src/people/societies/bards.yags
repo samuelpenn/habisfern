@@ -106,7 +106,193 @@
                 are considered to have waived their special 
                 rights to protection from harm.
             </para>
-
+        </sect1>
+        
+        <sect1>
+            <title>Bardic Knowledge</title>
+            
+            <sect2>
+                <title>Skills</title>
+                
+            </sect2>
+            
+            <sect2>
+                <title>Bardic Techniques</title>
+                
+                <para>
+                    Bards can learn the following techniques if they
+                    have a suitable teacher.
+                </para>
+            
+                <advantages howPresent="skills">
+                    <advantage name="Taunt" type="technique">
+                        <cost points="2"/>
+                        <skill name="Guile"/>
+                        
+                        <description>
+                            <para>
+                                The bard may use taunts and insults to try
+                                and make a person behave rashly. The bard
+                                makes a contest of skills of his
+                                charisma x guile versus the target's will x
+                                restraint. On success the target becomes far
+                                more likely to seek immediate redress for
+                                the insults. In combat, they are likely to
+                                use aggressive rather than defensive stances.
+                            </para>
+                        </description>
+                    </advantage>
+                
+                    <advantage name="Song of Battle" type="technique">
+                        <cost points="2"/>
+                        <skill name="Perform"/>
+                        
+                        <description>
+                            <para>
+                                A song of passion and battle, which
+                                inspires comrades to greater glory. All those
+                                within stamina x 10m receive a bonus to their
+                                initiative and bravery rolls equal to the
+                                Bard's Perform skill. Lasts as long as the
+                                Bard is singing.
+                            </para>
+                        </description>
+                    </advantage>
+                
+                    <advantage name="Song of Dread" type="technique">
+                        <cost points="4"/>
+                        <skill name="Perform"/>
+                        <prerequisite>Song of Battle</prerequisite>
+                        
+                        <description>
+                            <para>
+                                A song which inspires fear in the enemy,
+                                giving a penalty to their initiative and
+                                bravery rolls equal to the Bard's Perform
+                                skill. The enemy must be within stamina x 10m
+                                of the bard, and the bard must overcome
+                                the will x ego of each target with their
+                                own charisma x perform.
+                            </para>
+                            
+                            <para>
+                                Can be combined with <e>Song of Battle</e>
+                                in order to give bonuses to the Bard's
+                                comrades at the same time.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Song of War" type="technique">
+                        <cost points="6"/>
+                        <skill name="Perform"/>
+                        <prerequisite>Song of Battle</prerequisite>
+                        
+                        <description>
+                            <para>
+                                As <e>Song of Battle</e>, plus all penalties
+                                due to wounds, stuns and fatigue are each
+                                reduced by the Perform score of the bard.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Song of Terror" type="technique">
+                        <cost points="8"/>
+                        <skill name="Perform"/>
+                        <prerequisite>Song of Dread</prerequisite>
+                        
+                        <description>
+                            <para>
+                                Inspire fear and terror in any enemy who
+                                hear this song. Forces a morale check to
+                                be made during any battle this is sung in.
+                                Automatically combines with Song of Dread.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Song of Fury" type="technique">
+                        <cost points="9"/>
+                        <skill name="Perform"/>
+                        <prerequisite>Song of War</prerequisite>
+                        
+                        <description>
+                            <para>
+                                As <e>Song of War</e>, plus those affected
+                                gain a bonus to their attack <e>or</e> damage
+                                rolls (chosen by the Bard at the start of
+                                the song) equal to the Bard's Perform score.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Song of Sleep" type="technique">
+                        <cost points="2"/>
+                        <skill name="Perform"/>
+                        
+                        <description>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Song of Love" type="technique">
+                        <cost points="4"/>
+                        <skill name="Perform"/>
+                        <prerequisite>Song of Sleep</prerequisite>
+                        
+                        <description>
+                        </description>
+                    </advantage>
+                
+                    <advantage name="Song of Dreaming" type="technique">
+                        <cost points="7"/>
+                        <skill name="Perform"/>
+                        <prerequisite>Song of Sleep</prerequisite>
+                        
+                        <description>
+                            <para>
+                                Rudimentary painting the picture of the dream.
+                            </para>
+                        </description>
+                    </advantage>
+                
+                    <advantage name="Entrancement" type="technique">
+                        <cost points="5"/>
+                        <skill name="Perform"/>
+                
+                        <description>
+                        </description>
+                    </advantage>
+                
+                    <advantage name="Suggestion" type="technique">
+                        <cost points="7"/>
+                        <skill name="Perform"/>
+                        <prerequisite>Entrancement</prerequisite>
+                
+                        <description>
+                        </description>
+                    </advantage>
+                
+                    <advantage name="Geas" type="technique">
+                        <cost points="9"/>
+                        <skill name="Perform"/>
+                        <prerequisite>Suggestion</prerequisite>
+                
+                        <description>
+                        </description>
+                    </advantage>
+                
+                    <advantage name="Greater Geas" type="technique">
+                        <cost points="12"/>
+                        <skill name="Perform"/>
+                        <prerequisite>Geas</prerequisite>
+                
+                        <description>
+                        </description>
+                    </advantage>
+                
+                </advantages>
+            </sect2>            
         </sect1>
     </body>
 </article>

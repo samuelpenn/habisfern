@@ -117,53 +117,89 @@
                     </skill>
                 </skill-list>
             </sect2>
+            
+            <sect2>
+                <title>Packages</title>
+                
+                <characters role="package" title="Priests of Thot">
+                    <character name="Cult of the Black Raven">
+                        <description>
+                            <short>
+                                A member of the Cult of Thot the Raven.
+                            </short>
+                        </description>
+                        
+                        <skills>
+                            <group name="Talents" type="talents">
+                                <skill name="Athletics" score="2"/>
+                                <skill name="Awareness" score="3"/>
+                                <skill name="Brawl" score="2"/>
+                                <skill name="Charm" score="3"/>
+                                <skill name="Guile" score="3"/>
+                                <skill name="Sleight" score="3"/>
+                                <skill name="Stealth" score="4"/>
+                                <skill name="Throw" score="2"/>
+                            </group>
+                
+                            <group name="Knowledges" type="knowledges">
+                                <skill name="Speak own" score="4"/>
+                                <skill name="Area lore" score="4"/>
+                                <skill name="Heraldry" score="2"/>
+                                <skill name="Religion (Thot)" score="4"/>
+                            </group>
+                
+                            <group name="Other" type="skills">
+                                <skill name="Etiquette" score="2"/>
+                            </group>
+                        </skills>
+                
+                        <equipment>
+                            <item name="Travelling clothes"/>
+                            <item name="Black cloak"/>
+                            <item name="Long knife"/>
+                        </equipment>
+                    </character>
+                </characters>
+            </sect2>
 
             <sect2>
                 <title>Rituals</title>
 
-                <advantages>
-                    <advantage name="Mark of the Raven" type="technique">
+                <advantages title="Rituals of Thot">
+                    <advantage name="Signs of the Raven" type="technique">
                         <cost points="2"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Thot)"/>
 
                         <description>
                             <para>
-                                Knowledge of marks and signs which may be
-                                used to communicate with other <e>Ravens</e>
-                                without the knowledge of others. Marks take
-                                the form of non-descript carvings, or
-                                objects arranged in certain patterns.
+                                <e>Ravens</e> have many secret ways in
+                                which they may identify and communicate
+                                with each other. Some involve markings or
+                                the special arrangement of objects, others
+                                coded words and phrases within normal
+                                conversation. Scratches may be made on a
+                                door, flasks may be arranged in a particular
+                                order, or words within speech may be
+                                stressed in a particular way.
                             </para>
-
+                            
                             <para>
-                                Only very simple messages can be
-                                communicated, normally warnings or
-                                directions, or marking of safe territory.
-                            </para>
-                        </description>
-                    </advantage>
-
-                    <advantage name="Secret Words" type="technique">
-                        <cost points="2"/>
-                        <skill name="Religion"/>
-                        <prerequisite>Mark of the Raven</prerequisite>
-
-                        <description>
-                            <para>
-                                With <e>Secret Words</e>, a Raven can
-                                communicate with another Raven using
-                                coded speech and signs whilst carrying
-                                on another conversation about an entirely
-                                seperate (and normally unimportant)
-                                matters. Secret communication is limited
-                                to basic ideas and concepts.
+                                Typically, it is <e>moderate</e> difficulty
+                                to communicate a simple concept such as
+                                danger, safety or cache. It is a similar
+                                difficulty for another Raven to notice the
+                                information and understand it. It is also
+                                possible for a non-Raven to notice the
+                                information, even if they don't understand
+                                it. The difficulty is twice the difficulty
+                                for a Raven to notice and understand.
                             </para>
                         </description>
                     </advantage>
 
                     <advantage name="Hidden Memory" type="technique">
                         <cost points="3"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Thot)"/>
 
                         <description>
                             <para>
