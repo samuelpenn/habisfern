@@ -1,0 +1,479 @@
+<?xml version="1.0"?>
+<?xml-stylesheet
+        href="/usr/share/web/xsl/yagsbook/html/yagsbook.xsl"
+        type="text/xsl"?>
+
+<article>
+    <header>
+        <title>Cairn Hills</title>
+        <tagline>Habisfern</tagline>
+        
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+        
+        <cvsinfo>
+            <revision>$Revision$</revision>
+            <date>$Date$</date>
+        </cvsinfo>
+        
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url></url>
+            <text>
+                The GNU Free Documentation License.
+            </text>
+        </license>
+        
+        <campaign>
+            <date>Spring, 731</date>
+        </campaign>
+        
+        <style name="module">
+            <hint name="suppressNumbering" value="true"/>
+        </style>
+    </header>
+
+    <front/>
+    <back/>
+    
+    <body>
+        <sect1>
+            <title>The Cairn Hills</title>
+
+            <para>
+                Politically, the Cairn Hills are part of the Shire of
+                Northwood, and have no significance as far as borders
+                and ownership is concerned. Several hundreds border
+                onto the region, but due to the low population found
+                actually within the hills, little effort is made to
+                police the area.
+            </para>
+            
+            <para>
+                Geographically, the region is more notable. The hills
+                rise up from the plains to the east, and can be seen
+                from most of the trade routes that link the north and
+                the south. The western parts are covered in thick
+                woodland, and the south descends into the tangled
+                darkness of Meam's Wood, which officially has a
+                population of zero, though unofficially is home to
+                various outlaw bands and numerous fell beasts.
+            </para>
+            
+            <para>
+                The hills are chalk, with an average height of two                         to three hundred metres. The tallest hills are in the
+                northwest, where the occasional 400m peak can be found.
+            </para>
+
+            <sect2>
+                <title>Folk lore</title>
+
+                <para>
+                    The Cairn Hills are well renowed in folk lore for
+                    being a place of unnatural happenings. To the early
+                    tribes, these lands were sacred, and still sometimes
+                    host religious ceremonies held by small cults.
+                </para>
+                
+                <sect3>
+                    <title>The Riders</title>
+                    
+                    <para>
+                        One of the most common legends about the hills
+                        is that of the    Riders - warrior horsemen who,
+                        it is said, are doomed to ride eternally, never
+                        setting foot on land. When the lands were ruled
+                        by barbarians, there was a king called Enstig
+                        Longhair, who ruled the lands around the Cairn
+                        Hills.
+                    </para>
+                    
+                    <para>
+                        Legend has it that he married a woman of the                             otherlands, a fey beauty who spirited him and
+                        his huscarls off to her home to live for
+                        eternity. Every now and again, he and his men
+                        return to patrol their original kingdom. If they
+                        ever set a foot on the earth, then    the years
+                        they have cheated will catch up with them, and
+                        they will die.
+                    </para>
+                    
+                    <para>
+                        The Riders are reported about every 10 years.
+                    </para>
+                </sect3>
+                
+                <sect3>
+                    <title>The Last Elder</title>
+                    
+                    <para>
+                        It is generally thought that the Cairn Hills
+                        were considered sacred by the Druidic tribes
+                        who lived here before the coming of the people
+                        of Rorn, and that many secrets of the Elders
+                        are buried beneath some of the hills.
+                    </para>
+                    
+                    <para>
+                        The most common story about the Elders is that
+                        the last of them was killed here in the final
+                        years of the war against the Druids. The Elder
+                        was slain above his temple, which was burnt
+                        and buried to keep its dark secrets from preying
+                        eyes. Many people have looked for it, though
+                        none have conclusively found it. Some say that
+                        it is beneath Ashek's Tower, whilst others
+                        think that it is a different place.
+                    </para>
+                    
+                    <para>
+                        The truth may never be known, especially since
+                        the people of the Cairn Hills are not the only
+                        ones to claim that the last of the Elders was
+                        slain near their home.
+                    </para>
+                </sect3>
+            </sect2>
+        </sect1>
+
+        <sect1>
+            <title>Rorn's Vale</title>
+
+            <para>
+                Rorn's Vale is a typical hundred town, with a population
+                of about four hundred. The thegn here, Berdun, is an
+                old, somewhat bitter man who now lives alone, the rest
+                of his family having either died or left him. His mood
+                has infected much of the village. The reeve is Jarn
+                Hastikson, also a priest of Ashek.
+            </para>
+
+            <para>
+                Jarn is old, mad, and somewhat incoherent, which fits his
+                position as a priest of Ashek perfectly. During his saner
+                moments he can be very perceptive and crafty however. He
+                is a wizard, of quite a bit of power, though has
+                forgotton almost as much as he has learned, His
+                specialities are men, animals and weather.
+            </para>
+
+            <para>
+                The most respected member of the community is Jangi,
+                daughter of Jarn, though no-one knows her mother. She
+                turned up thirty years ago in Jarn's house, with Jarn
+                claiming he was her father. She is unmarried. She has
+                black hair, green eyes and very pale skin. When she was
+                12, she went missing for several days, and when she was
+                found she had tatoos across her chest, left shoulder and
+                back, and wouldn't say what had happened.
+            </para>
+            
+            <sect2>
+                <title>People</title>
+                
+                <para>
+                    Rorn's Vale is quite a way off the major trade
+                    routes, and needs to be pretty much self supporting
+                    wherever possible. It is a focal point for those
+                    who live in and around the Cairn Hills.
+                </para>
+                
+                <character name="Berdun">
+                    <description>
+                        <race>Human</race>
+                        <gender>Male</gender>
+                        <age>45</age>
+                        
+                        <short>
+                            Middle aged man with dark unkempt hair.
+                        </short>
+                    </description>
+                    
+                    <attributes size="5">
+                        <attribute name="strength" score="3"/>
+                        <attribute name="stamina" score="3"/>
+                        <attribute name="agility" score="3"/>
+                        <attribute name="dexterity" score="2"/>
+                        <attribute name="perception" score="3"/>
+                        <attribute name="intelligence" score="3"/>
+                        <attribute name="charisma" score="2"/>
+                        <attribute name="will" score="3"/>
+                    </attributes>
+                        
+                    <passions>
+                        <passion name="Bravery" score="4"/>
+                        <passion name="Ego" score="3"/>
+                        <passion name="Restraint" score="4"/>
+                        <passion name="Temperence" score="2"/>
+                    </passions>
+                        
+                    <skills>
+                        <group name="Talents" type="talents">
+                            <skill name="Athletics" score="2"/>
+                            <skill name="Awareness" score="3"/>
+                            <skill name="Brawl" score="4"/>
+                            <skill name="Charm" score="4"/>
+                            <skill name="Guile" score="3"/>
+                            <skill name="Sleight" score="1"/>
+                            <skill name="Stealth" score="2"/>
+                            <skill name="Throw" score="4"/>
+                        </group>
+                            
+                        <group name="Knowledges" type="knowledge">
+                            <skill name="Area lore" score="2"/>
+                            <skill name="Folk lore" score="2"/>
+                            <skill name="Law" score="2"/>
+                        </group>
+                            
+                        <group name="Languages" type="language">
+                            <skill name="Speak Rornic" score="4"/>
+                        </group>
+                        
+                        <group name="Combat" type="skills">
+                            <skill name="Weapon and shield" score="5"/>
+                        </group>
+                        
+                        <group name="Misc" type="skills">
+                            <skill name="Farming" score="3"/>
+                            <skill name="Trade" score="3"/>
+                        </group>
+                    </skills>
+                    
+                    <advantages>
+                        <advantage name="Weakness (alcohol)"/>
+                        <advantage name="Heavy drinker" score="+2"/>
+                    </advantages>
+                </character>
+                
+                <character name="Jangi">
+                    <description>
+                        <race>Human</race>
+                        <gender>Female</gender>
+                        <age>27</age>
+                        
+                        <short>
+                            Good looking woman with long dark hair.
+                        </short>
+                    </description>
+                        
+                    <attributes size="5">
+                        <attribute name="strength" score="2"/>
+                        <attribute name="stamina" score="3"/>
+                        <attribute name="agility" score="3"/>
+                        <attribute name="dexterity" score="3"/>
+                        <attribute name="perception" score="3"/>
+                        <attribute name="intelligence" score="3"/>
+                        <attribute name="charisma" score="4"/>
+                        <attribute name="will" score="4"/>
+                    </attributes>
+                        
+                    <passions>
+                        <passion name="Bravery" score="4"/>
+                        <passion name="Ego" score="5"/>
+                        <passion name="Restraint" score="3"/>
+                        <passion name="Temperence" score="6"/>
+                    </passions>
+                        
+                    <skills>
+                        <group name="Talents" type="talents">
+                            <skill name="Athletics" score="4"/>
+                            <skill name="Awareness" score="3"/>
+                            <skill name="Brawl" score="2"/>
+                            <skill name="Charm" score="5"/>
+                            <skill name="Guile" score="3"/>
+                            <skill name="Sleight" score="3"/>
+                            <skill name="Stealth" score="3"/>
+                            <skill name="Throw" score="2"/>
+                        </group>
+                            
+                        <group name="Knowledges" type="knowledge">
+                            <skill name="Area lore" score="2"/>
+                            <skill name="Folk lore" score="3"/>
+                            <skill name="Law" score="1"/>
+                        </group>
+                            
+                        <group name="Languages" type="language">
+                            <skill name="Speak Rornic" score="4"/>
+                        </group>
+                        
+                        <group name="Misc" type="skills">
+                            <skill name="Handicraft" score="4"/>
+                            <skill name="Brewing" score="2"/>
+                            <skill name="Farming" score="2"/>
+                            <skill name="Trade" score="2"/>
+                        </group>
+                    </skills>
+                    
+                    <advantages>
+                        <advantages name="Appearance" score="+1"/>
+                </character>
+            </sect2>
+            
+            <sect2>
+                <title>History</title>
+            </sect2>
+        </sect1>
+
+        <sect1>
+            <title>The Cairns</title>
+
+            <para>
+                Spread across the southern hills in a rough east - west
+                line are the cairns. There are about four dozen in all,
+                though legend has it that their true number cannot be
+                accurately counted. There are six major cairns, which
+                each have extensive crypts beneath them. The rest are
+                single caves, or simple mounds containing no more than
+                one or two bodies.
+            </para>
+
+            <sect2>
+                <title>The Great Six</title>
+
+                <sect3>
+                    <title>The Round Chamber</title>
+
+                    <para>
+                        A tunnel goes directly into a steep hillside -
+                        getting to it can be difficult. There is a large
+                        round chamber within, with some smaller chambers
+                        off from the main one.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Ecbrit's Cairn</title>
+
+                    <para>
+                        The Ecbrit in question was a recent thegn who
+                        had himself buried here along with the other
+                        warriors. His tormented ghost is often seen near
+                        to the site. It is a simple mound, but has the
+                        most extensive tunnel system of any of the                                 cairns.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>The White Man</title>
+
+                    <para>
+                        A chalk man with spear is carved into the top of
+                        this hill. There is an entrance beneath the
+                        man's feet.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Stone Shield Hill</title>
+
+                    <para>
+                        A mound fifteen metres long, six metres wide and
+                        some three metres tall. It's sides are ringed                             with flat, circular stones, and there is a stone
+                        archway leading into a narrow chamber at the                             east end.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Corpse Hill</title>
+
+                    <para>
+                        A very large artificial hill.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Four Barrows</title>
+
+                    <para>
+                        Four barrows aligned facing towards each other.
+                    </para>
+                </sect3>
+            </sect2>
+        </sect1>
+
+        <sect1>
+            <title>Ashek's Tower</title>
+
+            <para>
+                The strangest feature of the hills is that of Ashek's
+                Tower. It rises 25m above ground level as a steep hill,
+                the top of which opens into a rocky shaft which drops
+                about 50m almost straight down to a small, subterranean
+                lake.
+            </para>
+        </sect1>
+        
+        <sect1>
+            <title>Meam's Wood</title>
+            
+            <para>
+                To the south of the Cairn Hills, lays an area of thick
+                wood and marsh known as Meam's Wood. It is a place that
+                is avoided by common folk, since the place has a
+                reputation that exceeds that of the Cairns in
+                unpleasentness.
+            </para>
+            
+            <para>
+                It is believed that Meam sought refuge here after he
+                had been driven out by his father, and that the place
+                picked up on his poisonous, hate filled thoughts and made
+                them real. Most of the stories of strange beasts that
+                dwell here now are just stories, but not all of them.
+                The occasional beast is caught or killed on the edge of
+                the region, but darker things are said to dwell in the
+                deepest parts.
+            </para>
+            
+            <sect2>
+                <title>Geography</title>
+                
+                <para>
+                    There is little in the way of a definite border to
+                    the north. The Cairn Hills become wooded in their
+                    southernmost extremities, and gradually drop down
+                    towards the marshes. At some point, the woods
+                    thicken enough for the fell beasts to be found
+                    hunting, but the exact point changes from year to
+                    year.
+                </para>
+                
+                <para>
+                    The marshland is not particularly deep or
+                    unpleseant - there are worse marshes to be found.
+                    They are however quite extensive, and the addition
+                    of the creatures that dwell there is what makes
+                    them notable. Most the the marshland is also wooded,
+                    though the woods are somewhat lighter than in the
+                    dryer parts of Meam's Wood.
+                </para>
+            </sect2>
+            
+            <sect2>
+                <title>Men of the Wood</title>
+                
+                <para>
+                    Despite the hardships to be had living here, for
+                    those with disagreements with the Queen's Justice,
+                    it can be a better home than elsewhere. It is
+                    an accepted fact that anyone who dwells here is
+                    beyond the reach of the law, since few are willing
+                    to persue far into the place.
+                </para>
+                
+                <para>
+                    Because of this, there are a number of outlaw bands
+                    who have made a home here. They survive by hunting,
+                    raiding surrounding villages and caravans, or
+                    stealing from each other. There is little in the way
+                    of cooperation between any of the groups.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+ 
+#ÿ

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+
+
+<equipment>
+
+    <itemoflore name="Blood Fane">
+        <type>Weapon</type>
+        <description>
+            <creator>Thorm</creator>
+            <short>
+                A bright broad sword.
+            </short>
+            <physical/>
+            <background/>
+        </description>
+        
+        <runes>
+            <rune name="Attack"/>
+            <rune name="Defence">
+                <link name="Red Glory"/>
+            </rune>
+            <rune name="Man">
+                <rune name="Strength"/>
+            </rune>
+        </runes>
+        
+        <weapon>
+            <attack>+6</attack>
+            <defence>+5</defence>
+            <initiative>+5</initiative>
+            <damage>+9</damage>
+            <load>1</load>
+            <strength>3</strength>
+        </weapon>
+    </itemoflore>
+
+</equipment>#ÿ

@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+
+<towns>
+    <town name="Erlwood">
+        <information>
+            <type>Town</type>
+            
+            <county>Northwood</county>
+            <country>Weidany</country>
+            <ruler name="Earpwald">
+                <title>Sheriff</title>
+                <liege>Queen</liege>
+            </ruler>
+            
+            <rank>Shire town</rank>
+        </information>
+        
+        <description>
+            <population>2400</population>
+            <wealth>Moderate</wealth>
+            <walled/>
+                
+            <short>
+                The shire town of Northwood.
+            </short>
+        </description>
+
+        <army>
+            2300 hides
+            460 knights
+            
+            2400 people
+            24 guards
+        </army>
+        
+        <army name="Town militia">
+            <number>24</number>
+            <quality>4</quality>
+        </army>
+        
+        <army name="Huscarl">
+            <number>12</number>
+            <quality>7</quality>
+            
+            Low            2
+            Poor            3
+            Moderate        4
+            Good            5
+            High            6
+            Excellent    7
+            Incredible    8
+            Master        9
+            
+        </army>
+        
+        <location name="Earlwood Keep">
+            <type>Keep</type>
+            <owner>Thegn Redwald</owner>
+            <size>20m x 30m</size>
+            <appearance>Very good</appearance>
+            <wealth>High</wealth>
+            
+            <description>
+                A wood and stone keep, nestled against the northern
+                wall of the town. Built upon a gentle hill, it is
+                surrounded by wooden walls and ditches.
+            </description>
+            
+            <people>
+            </people>
+        </location>
+        
+        <locations>
+            <place name="Shrine of Eostre">
+                <type specific="Eostre">Temple</type>
+                <owner>Clara</owner>
+                
+                <priests number="1">
+                    <priest name="Clara" rank="High Priestess">
+                        <character/>
+                    </priest>
+                </priest>
+                
+                <acolytes number="2">
+                </acolytes>
+            </place>
+            
+            <inn name="The Green Giant">
+                <innkeeper name="Fred">
+                </innkeeper>
+            </inn>
+            
+            
+            <place name="Temple of Haltan">
+                <type specific="Haltan">Temple</type>
+                <owner>Wulfgar</owner>
+                <size>Large</size>
+                <appearance>Good</appearance>
+                <wealth>Average</wealth>
+                
+                <people>
+                    <character name="Wulfgar">
+                        <description>
+                            <race>Human</race>
+                            <gender>Male</gender>
+                            <age>56</age>
+                            
+                            <title>High Priest</title>
+                            <short>
+                                A grey haired man with a large beard.
+                            </short>
+                        </description>
+                    </character>
+                </people>
+            </place>
+            
+            <place name="Blacksmiths">
+                <type specific="Blacksmith">Merchant</type>
+                <owner name="Jake"/>
+                <size>Medium</size>
+                <appearance>Good</appearance>
+                <wealth>Average</wealth>
+                
+                <quality>7</quality>
+                
+                <people>
+                    <character name="Jake">
+                        <description>
+                            <race>Human</race>
+                            <gender>Male</gender>
+                            <age>28</age>
+                        </description>
+                    </character>
+                </people>
+            </place>
+            
+            <place name="Some Random House">
+                <type>Residence</type>
+                <owner name="Fred"/>
+                <size>Small</size>
+                <appearance>Poor</appearance>
+                <wealth>Very Poor</wealth>
+                                
+                <people>
+                    <character name="Fred">
+                        <family>
+                            <spouse name="Freda"/>
+                            <child name="Bob"/>
+                            <child name="George"/>
+                        </family>
+                    </character>
+                    
+                    <character name="Freda"/>
+                    <character name="Bob"/>
+                    <character name="George"/>
+                </people>
+            </place>
+            
+        </locations>
+    </town>
+
+</towns>
+#ÿ

@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<?xml-stylesheet
+        href="/usr/share/web/xsl/yagsbook/html/yagsbook.xsl"
+        type="text/xsl"?>
+
+<article>
+    <header>
+        <title>The Troll Watch</title>
+        <tagline>Habisfern</tagline>
+        
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+        
+        <cvsinfo>
+            <revision>$Revision$</revision>
+            <date>$Date$</date>
+        </cvsinfo>
+        
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url></url>
+            <text>
+                The GNU Free Documentation License.
+            </text>
+        </license>
+        
+        <campaign>
+            <date>Spring, 731</date>
+        </campaign>
+        
+        <style name="module">
+            <hint name="suppressNumbering" value="true"/>
+        </style>
+    </header>
+    
+    <body>
+        <sect1>
+            <title>The Troll Watch</title>
+
+            <para>
+                Stretched along the eastern side of the shire of Merkia
+                is a region of thick woodland known as the Troll Watch.
+                It is said by some that the place is named so, since any
+                who travel within it must always watch for trolls. Others
+                say that it is the trolls that watch mankind, reporting
+                back to a king of trolls deep in the woods.
+            </para>
+            
+            <para>
+                In any case, trolls are common. They occasionaly raid
+                beyond the woods, but for the most part prefere the
+                darkness of the woods. Several forays into the woods to
+                hunt down and wipe out the trolls have been made, but
+                all have met with disaster. It may be that there is a 
+                controlling mind behind the actions of the trolls, for
+                if seriously threatened, they begin to act together
+                for the defence of their home.
+            </para>
+            
+            <para>
+                The most common trolls here are the hairy kind.
+            </para>
+        </sect1>
+        
+        <sect1>
+            <title>Old Castle</title>
+            
+            <para>
+                Hidden in the western parts of the Troll Watch are
+                the ruins of an old hill fort, built during the 
+                migration wars.
+            </para>
+            
+            <sect2>
+                <title>Inhabitants</title>
+                
+                <para>
+                    A small group of outlaws currently have residence
+                    here. They are left alone by the Kingdom, since
+                    there are far worse things living in the Troll
+                    Watch than this lot, who mostly keep to themselves.
+                </para>
+                
+                <para>
+                    Penda the Mouse is in charge. A small, wiry man
+                    who's appearance gave him his name. He is a
+                    competent leader however, as well as being a
+                    dangerous killer and a priest of Tharos.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+ 
+#ÿ
