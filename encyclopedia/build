@@ -1,0 +1,25 @@
+#!/bin/sh
+
+BASEDIR=entries
+TMPDIR=tmp
+
+rm -fr $BASEDIR $TMPDIR
+
+mkdir $BASEDIR $TMPDIR
+
+for letter in a b c d e f g h i j k l m n o p q r s t u v w x y z
+do
+    mkdir $BASEDIR/$letter
+    find src -name "$letter*.yags" -print > $TMPDIR/$letter
+    
+    if [ -s $TMPDIR/$letter ]
+    then
+        echo "Processing $letter: "`wc -l $TMPDIR/$letter | awk '{ print $1}'`
+
+        cat $TMPDIR/$letter | while read file
+        do
+            yags2html $file /usr/share/web/xsl/yagsbook/html/yagsbook.xsl entries
+        done
+    fi
+done
+

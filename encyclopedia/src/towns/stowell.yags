@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Stowell</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Royal seat of the Kingdom of Weidany</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvs>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvs>
+
+        <topics>
+            <topic>Habisfern</topic>
+            <topic>Euressa</topic>
+            <topic>Weidany</topic>
+            <topic>Stowell</topic>
+        </topics>
+
+    </header>
+    
+    <body>
+        <sect1>
+            <title>Stowell</title>
+        </sect1>
+	
+    </body>
+
+</article>
+
