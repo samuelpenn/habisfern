@@ -256,6 +256,301 @@
                 </events>
             </sect2>
 
+            <sect2>
+                <title>The 8th Century</title>
+
+                <events dating="AB">
+                    <event title="Arch Druid dies">
+                        <startdate year="708"/>
+                        <para>
+                            The Arch Druid of Danuch dies, starting a time
+                            of bitter fighting in that land to claim the
+                            title.
+                        </para>
+                    </event>
+
+                    <event title="King Offot dies">
+                        <startdate year="711"/>
+                        <para>
+                            Offot, King of Lanuch dies after ruling the
+                            Kingdom for 34 years. His son Eadbald receives
+                            the Kingdom.
+                        </para>
+                    </event>
+
+                    <event title="Raids on Frethoc">
+                        <startdate year="712"/>
+                        <para>
+                            King Aethalstan of Bryteland raids the islands
+                            of Frethoc, killing all the people there. He
+                            raises a temple to Voltan.
+                        </para>
+                    </event>
+
+                    <event title="Arch Druid chosen">
+                        <startdate year="713"/>
+                        <para>
+                            An Arch Druid is chosen from amongst the Danuch.
+                        </para>
+                    </event>
+
+                    <event title="Rape of Seaxburh">
+                        <startdate year="726"/>
+                        <para>
+                            Cadwallen son of King Osric of Angsley rapes
+                            Seaxburh daughter of King Cenwalh of Merrik.
+                            Cenwalh accepts payment over this, though his
+                            wife Ercongota refuses the offer.
+                        </para>
+
+                        <para>
+                            Ercongota slays her husband, claiming him to be
+                            weak, and wins the support of the warriors,
+                            starting a bloodfeud against Angsley with her
+                            daughters.
+                        </para>
+                    </event>
+
+                    <event title="Death of Ercongota">
+                        <startdate year="731"/>
+                        <para>
+                            Ercongota dies in battle, and Seaxburh becomes
+                            Queen.
+                        </para>
+                    </event>
+
+                    <event title="Eadbald dies">
+                        <startdate year="738"/>
+                        <para>
+                            Eadbald son of Offot, King of Lanuch, dies
+                            suddenly whilst holding council. His son Oswiu
+                            receives the Kingdom.
+                        </para>
+                    </event>
+
+                    <event title="Aidan invades Nailand">
+                        <startdate year="748"/>
+                        <para>
+                            Aidan sends men into Nailand during the autumn,
+                            to loot cattle and kill the short folk. They
+                            are driven back empty handed, suffering many
+                            losses. The short folk follow them back into
+                            their lands, burning villages and killing women
+                            and men alike.
+                        </para>
+
+                        <para>
+                            The King of this place, Haerdy son of Ganrun,
+                            sends over 500 men to repel the invaders, but
+                            all are slain, and much land is lost to the
+                            short folk.
+                        </para>
+                    </event>
+
+                    <event title="Raid on Aidan">
+                        <startdate year="749"/>
+                        <para>
+                            Oswiu son of Eadbald son of Offot King of Lanuch
+                            raids into Aidan early in the year, having heard
+                            of Haerdy's defeat during the winter. They claim
+                            half of the Kingdom, before Haerdy and Oswiu
+                            meet. King Haerdy pays him to return the lands,
+                            but Oswiu keeps one thid of them anyway.
+                        </para>
+                    </event>
+
+                    <event title="Queen Seaxburh dies">
+                        <startdate year="749"/>
+                        <para>
+                            Queen Seaxburh daughter of Ercongota dies. She
+                            had had the Kingdom for 18 years. Cerdic son of
+                            Seaxburh and Cadwallen receives the Kingdom in
+                            the summer of that year.
+                        </para>
+                    </event>
+
+                    <event title="Perrin enters bloodfeud">
+                        <startdate year="753"/>
+                        <para>
+                            Men of Wihtgar King of Perrin get drawn into
+                            the feud between the kingdoms of Merrik and
+                            Angsly. Wihtgar sends more men to protect his
+                            lands, and the fighting becomes bloody.
+                        </para>
+                    </event>
+
+                    <event title="Council of Holbury">
+                        <startdate year="761"/>
+                        <para>
+                            Outside of the town of Holbury, a great battle
+                            is fought between Cerdic son of Seaxburh,
+                            Halfric of Angsly and Whitgar of Perrin. The
+                            fighting lasts all morning, until Cerdic slays
+                            Halfric, before dying from mortal wounds
+                            himself.
+                        </para>
+
+                        <para>
+                            Wihtgar orders the fighting to stop, which it
+                            does, and the bodies of the kings are carried
+                            through the town to be laid in the Temple of
+                            Neya.
+                        </para>
+
+                        <para>
+                            The following day, Wihtgar calls Erwin son of
+                            Cerdic son of Seaxburh and Oswald son of
+                            Halfric together, and suggests peace. They
+                            speak together all day, agreeing to settle their
+                            differences and also to form an alliance. A
+                            council hall is declared to be built at Holbury,
+                            where the three Kings will meet once a year.
+                        </para>
+                    </event>
+
+                    <event title="Talmoth and Lanuch">
+                        <startdate year="764"/>
+                        <para>
+                            Ealdred, King of Talmoth marries Behrith
+                            daughter of Wulfhelm King of Lanuch, bringing
+                            the two Kingdoms together as allies.
+                        </para>
+                    </event>
+
+                    <event title="Lanuch invades Perrin">
+                        <startdate year="767"/>
+                        <para>
+                            Wulfhelm son of Oswiu, King of Lanuch, leads
+                            a force into Perrin, but are repelled.
+                        </para>
+                    </event>
+
+                    <event title="Aesc the Magesmith">
+                        <startdate year="768"/>
+                        <para>
+                            The wizard Aesc calls many blacksmiths of
+                            Lanuch to him, and begins teaching his craft
+                            of rune magic to them.
+                        </para>
+                    </event>
+
+                    <event title="Invasion of Estwed">
+                        <startdate year="775"/>
+                        <para>
+                            Wulfhelm King of Lanuch leads his men into
+                            Estwed. Fierce fighting is seen, in which Eawa,
+                            son of Osmod, son of Eanwulf, King of Estwed
+                            is killed.  His brother Pybba takes up his arms
+                            and prevents Wulfhelm from advancing any
+                            further. Many men a re killed on both sides,
+                            and Wulfhelm withdraws before the onset of
+                            winter.
+                        </para>
+                    </event>
+
+                    <event title="Fall of Estwed">
+                        <startdate year="776"/>
+                        <para>
+                            In late summer, King Wulfhelm leads fresh
+                            attacks against King Pybba, helped by many
+                            horsemen from Talmoth. Most of Estwed's
+                            warriors are slain in the battle, including
+                            Pybba.
+                        </para>
+
+                        <para>
+                            By middle of autumn, Estwed surrenders to
+                            Wulfhelm, and Wulfhelm orders those men who
+                            fought against him who did not die are to
+                            be sacrificed to Bis.
+                        </para>
+
+                        <para>
+                            Edwin is appointed reeve of Estwed, to rule
+                            it in the name of Wulfhelm.
+                        </para>
+                    </event>
+
+                    <event title="Wulfhelm dies">
+                        <startdate year="779"/>
+                        <para>
+                            Wulfhelm son of Oswiu son of Eadbald son of
+                            Offot dies of age, and his son Frithstan
+                            receives the Kingdom.
+                        </para>
+                    </event>
+
+                    <event title="Estwed Uprising">
+                        <startdate year="781"/>
+                        <para>
+                            There is fighting again in Estwed. The wife
+                            of Pybba, son of Osmod, leads a force of warrior
+                            women against the men of Lanuch in Estwed. Her
+                            name is Aethelflaed.
+                        </para>
+
+                        <para>
+                            Some of the women summon spirits and other
+                            unnatural allies which cause the warriors of
+                            Lanuch to run without fighting.
+                        </para>
+                    </event>
+
+                    <event title="Death of Frithstan">
+                        <startdate year="783"/>
+                        <para>
+                            Frithstan, son of Wulfhelm, King of Lanuch dies
+                            by the will of the gods, leaving no obvious
+                            heirs. Ealdred King of Talmoth claims the throne
+                            through right of marriage to Behrith, sister
+                            of Frithstan. He marches his men north to
+                            CHenfeld, but is defeated by supports of other
+                            claimants. Some of the latter march south to
+                            secure Talmoth, and in the fighting there
+                            Behrith is killed.
+                        </para>
+
+                        <para>
+                            Word of her death reaches others in Lanuch, who
+                            hearing this, vow vengeance on those who killed
+                            Behrith, for she was much loved. They also march
+                            south, to kill those responsible.
+                        </para>
+
+                        <para>
+                            The Ealdormen of Lanuch break into open warring
+                            to claim the throne, and the Kingdom of Lanuch
+                            falls apart, becoming four parts over the next
+                            five years.
+                        </para>
+                    </event>
+
+                    <event title="Queen Aethelflaed">
+                        <startdate year="783"/>
+                        <para>
+                            Aethelflaed receives the kingdom of Estwed which
+                            is rightfully hers, the last of Lanuch's men
+                            being killed or drive out.
+                        </para>
+                    </event>
+
+                    <event title="Brytish raids">
+                        <startdate year="784"/>
+                        <para>
+                            Bryteland makes raids along the Merkian coast,
+                            but does not stay.
+                        </para>
+                    </event>
+
+                    <event title="Giants raid Aiden">
+                        <startdate year="794"/>
+                        <para>
+                            Giants raid the northern borders of Aidan, and
+                            there is much fighting and slaughter.
+                        </para>
+                    </event>
+                </events>
+            </sect2>
         </sect1>
     </body>
 </article>
