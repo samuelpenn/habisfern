@@ -55,6 +55,10 @@
         <sect1>
             <title>Stowell</title>
 
+            <import-map uri="weidany" scale="2">
+                <thing name="Stowell" radius="4"/>
+            </import-map>
+
             <para>
                 Stowell is the site of the Royal Castle of the Queen of Rorn
                 and is considered the capital of the Kingdom of Weidany.
