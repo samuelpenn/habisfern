@@ -59,7 +59,9 @@
                 Stowell is the site of the Royal Castle of the Queen of Rorn
                 and is considered the capital of the Kingdom of Weidany.
                 The town has a population of about twenty thousand,
-                making it the largest town in the Kingdom.
+                making it the largest town in the Kingdom. In addition, there
+                are another five thousand in outlaying farms and villages
+                within a days travel of the city.
             </para>
 
             <import-map uri="weidany" scale="3" thumb="200">
@@ -118,9 +120,22 @@
                     recently constructed at both ends of the wall.
                 </para>
             </sect2>
+
+            <sect2>
+                <title>Organisations</title>
+
+                <p>
+                    As well as the usual political and religious groups,
+                    Stowell has a number of factions which take part in
+                    the usual power struggles within the town.
+                </p>
+
+                <p>
+                    The most influential are the merchant guilds which
+                    are based in Old Town.
+                </p>
+            </sect2>
         </sect1>
-
     </body>
-
 </article>
 
