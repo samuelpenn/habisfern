@@ -18,15 +18,15 @@
         </cvsinfo>
 
         <license>
-            <year>2002</year>
+            <year>2004</year>
             <holder>Samuel Penn</holder>
             <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
             <text>
                 Permission is granted to copy, distribute and/or
                 modify this document under the terms of the GNU
-                Free Documentation License, Version 1.1 or any
-                later version published by the Free Software
-                Foundation.
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
             </text>
         </license>
 
@@ -53,15 +53,9 @@
             <para>
                 A small county bordering on Weidany, it is 
                 currently at war with that kingdom.
-            </para>
-
-            <para>
-                Cadwold is made up of many small clan holdings, 
+                Cadwold is made up of many small clan holdings,
                 each fiercely independent and territorial.
-            </para>
-
-            <para>
-                Until recently Cadwold was part of Danuch, until 
+                Until recently Cadwold was part of Danuch, until
                 they claimed independence from the Druids in a 
                 short but bloody war.
             </para>
@@ -94,6 +88,73 @@
                 order to decide this.
             </para>
 
+            <sect2>
+                <title>History</title>
+
+                <para>
+                    Cadwold was settled from Weidany after 685, when the
+                    Druids were defeated and driven from the region. At that
+                    time Cadwold had been part of <qv uri="danuch">
+                    Danuch</qv>. Danuch had become a single cohesive nation
+                    around 1400 years ago, united by the Druids under their
+                    goddess <qv uri="yammath">Yammath</qv>.
+                </para>
+
+                <para>
+                    At this point, the Druids were a strictly female
+                    priesthood, devoted to their goddess. Around the time
+                    of the <qv uri="rornic-betrayel">Betrayel</qv> this is
+                    reversed, and within a generation, the Druids become
+                    male dominated, and eventually exclusively male.
+                </para>
+
+                <para>
+                    After the Druids are defeated, thegns from Weidany
+                    settle here around 700 AE, forming several small
+                    kingdoms. In 801, the Druids try to gain a foothold
+                    again, but they are defeated. Several kingdoms fall,
+                    and individual chieftains retain power. Over the next
+                    60-70 years, the idea of kingship fades from Cadwold
+                    society. Kings are chosen as warleaders when several
+                    tribes unite against a common foe, but loose power after
+                    that. This is how things are in the rest of Danuch.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Politics</title>
+
+                <para>
+                    As of now, the chieftains rule between 20 and 30 hides,
+                    some with more but rarely with less. The population of
+                    Cadwold is about 10,000 hides. Warriors are very common
+                    though, mostly of foot, and equipment is poor. There are
+                    17 chieftains of considerably more than usual power,
+                    with five of them dominating.
+                </para>
+
+                <targetlist targetFirst="false">
+                    <targetLabel>Hides</targetLabel>
+                    <valueLabel>Chieftain</valueLabel>
+                    <entry target="450" value="Caradoc"/>
+                    <entry target="700" value="Nidian"/>
+                    <entry target="650" value="Aeron"/>
+                    <entry target="450" value="Morial"/>
+                    <entry target="550" value="Bledri"/>
+                    <entry target="220" value="Cynon"/>
+                    <entry target="120" value="Graid"/>
+                    <entry target="60" value="Cadlew"/>
+                    <entry target="140" value="Madog"/>
+                    <entry target="160" value="Uren"/>
+                    <entry target="120" value="Cibno"/>
+                    <entry target="280" value="Leri (f)"/>
+                    <entry target="100" value="Edar"/>
+                    <entry target="80" value="Aeddan"/>
+                    <entry target="260" value="Gwegon"/>
+                    <entry target="60" value="Hywed"/>
+                    <entry target="220" value="Elad"/>
+                </targetlist>
+            </sect2>
         </sect1>
     </body>
 </article>
