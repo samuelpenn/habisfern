@@ -137,6 +137,14 @@
                 </para>
                 
                 <advantages role="background" title="Brytish">
+                    <description>
+                        <para>
+                            Brytish characters may choose from the following
+                            advantages at the start of the game. These
+                            advantages cannot be obtained later.
+                        </para>
+                    </description>
+                
                     <advantage name="Brave" type="advantage">
                         <cost points="2"/>
                         <description>

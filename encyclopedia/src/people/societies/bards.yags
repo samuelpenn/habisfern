@@ -172,7 +172,16 @@
                     have a suitable teacher.
                 </para>
             
-                <advantages role="techniques">
+                <advantages role="technique" title="Bardic Songs">
+                    <description>
+                        <para>
+                            Bards can learn the following techniques if
+                            they have a suitable teacher. Bardic techniques
+                            are used with song and music to enthrall or
+                            motivate their audiance.
+                        </para>
+                    </description>
+                    
                     <advantage name="Song of Battle" type="technique">
                         <cost points="3"/>
                         <skill name="Perform"/>
@@ -262,7 +271,12 @@
                         
                         <description>
                             <para>
-                                Put people who hear this to sleep.
+                                Put people who hear this to sleep. Each
+                                minute the song is played for, listeners
+                                must make a Temperence check or gain a
+                                point of exhaustion. Listeners who are
+                                engaging in physical activity are always
+                                unaffected.
                             </para>
                         </description>
                     </advantage>
@@ -275,6 +289,13 @@
                         <description>
                             <para>
                                 Make someone fall in love with the player.
+                                It must be targetted at a single target.
+                                They get a Temperence check against the
+                                perform skill of the bard, else their
+                                feelings towards the bard shifts by one
+                                category. The bard can choose whether the
+                                desire felt is platonic or physical. It
+                                lasts until the target has slept.
                             </para>
                         </description>
                     </advantage>

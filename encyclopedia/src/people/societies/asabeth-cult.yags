@@ -141,6 +141,14 @@
                             and barbaric and are one reason for her cult's
                             disfavour in current times.
                         </para>
+                        
+                        <para>
+                            Asabeth looks favourably on those who let their
+                            rage control them. For purposes of bonuses
+                            gained from these rituals, the priestess gets
+                            a bonus of +1 to their Religion score for each
+                            point their <e>Restraint</e> is below four.
+                        </para>
                     </description>
                     
                     <advantage name="Blessing of Blood" type="technique">
@@ -155,7 +163,7 @@
                                 checks equal to their religion score. A
                                 priestess may use her own blood, but the
                                 blood of another, especially a sacrificed
-                                enemy is most desired.
+                                enemy is most desired. Automatic.
                             </para>
                             
                             <para>
@@ -177,7 +185,7 @@
                                 strength of the goddess fills the warrior
                                 with bloodthirsty glee. All wound, stun
                                 and fatigue penalties are reduced by the
-                                religion score of the goddess.
+                                religion score of the goddess. Automatic.
                             </para>
                         </description>
                     </advantage>
@@ -275,9 +283,9 @@
                         <description>
                             <para>
                                 Can be used as a combat technique, giving
-                                +1 to strength for purposes of damage. It
-                                cannot be used if another non-automatic
-                                technique is being used.
+                                +1 to strength for purposes of damage. The
+                                priestess cries out to Asabeth when making
+                                the strike.
                             </para>
                         </description>
                     </advantage>
