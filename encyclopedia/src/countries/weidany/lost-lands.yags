@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Lost Lands</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="lost-lands">Lost Lands</subject>
+
+            <category>Legends</category>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Lost Lands</title>
+
+            <para>
+                The lost lands are regions of wilderness which seem to 
+                be not quite part of the normal landscape. They are 
+                often found in hilly or heavily wooded regions, where 
+                human civilisation is light. Travellers normally come 
+                across them by accident, and often don't realise what 
+                they've found until it is too late.
+            </para>
+
+            <para>
+                The lost lands are completely uncivilised wilderness. A 
+                region of lost lands may exist within a valley, and can 
+                be as big as hundreds of leagues, though they are 
+                generally smaller.
+            </para>
+
+        </sect1>
+    </body>
+</article>
