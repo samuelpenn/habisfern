@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Skull hills</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Various mounds in Merkia</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="skull-hills">Skull Hills</subject>
+
+            <category>Place</category>
+
+            <topic uri="merkia">Merkia</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Skull Hills</title>
+
+            <para>
+                A number of these places have been found throughout the old
+                lands of <qv uri="merkia">Merkia</qv>, mostly in the less
+                populated regions. They are artificial hills, containing
+                the skeletal remains of thousands of people.
+            </para>
+
+            <para>
+                They are generally discovered after a heavy rainful, which
+                shifts the earth and uncovers them. Nobody knows their
+                purpose, or who created them, though most tales suggest
+                that they have something to do with the disappearance of
+                warriors after the war between Merkia and Weidany.
+            </para>
+
+            <para>
+                The places are said to be haunted, and are generally avoided
+                once discovered.
+            </para>
+        </sect1>
+    </body>
+
+</article>
