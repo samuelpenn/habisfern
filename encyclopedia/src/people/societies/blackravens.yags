@@ -18,15 +18,15 @@
         </cvsinfo>
 
         <license>
-            <year>2003</year>
+            <year>2004</year>
             <holder>Samuel Penn</holder>
             <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
             <text>
                 Permission is granted to copy, distribute and/or
                 modify this document under the terms of the GNU
-                Free Documentation License, Version 1.1 or any
-                later version published by the Free Software
-                Foundation.
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
             </text>
         </license>
 
@@ -86,7 +86,47 @@
                 cult (the Golden Ravens) based at Stowell, in the 
                 royal castle.
             </para>
-
+        </sect1>
+        
+        <sect1>
+            <title>Membership</title>
+            
+            <sect2>
+                <title>Skills</title>
+            
+                <skill-list>
+                    <skill name="Religion (Black Ravens)" type="knowledge">
+                        <description>
+                            <para>
+                                Gives knowledge of the ideals, mythology and
+                                rituals of this Cult of Thot.
+                            </para>
+                        </description>
+                    </skill>
+                </skill-list>
+            </sect2>
+            
+            <sect2>
+                <title>Rituals</title>
+                
+                <advantages>
+                    <advantage name="Words of Secrecy" type="technique">
+                        <cost points="3"/>
+                        <skill name="Religion"/>
+                        
+                        <description>
+                            <para>
+                                Messages taken under oath of secrecy can
+                                only be revealed to the designated person.
+                                The message is remembered perfectly, and
+                                will be forgotten until the target is met
+                                and message delivered.
+                            </para>
+                        </description>
+                    </advantage>
+                </advantages>
+                
+            </sect2>
         </sect1>
     </body>
 </article>

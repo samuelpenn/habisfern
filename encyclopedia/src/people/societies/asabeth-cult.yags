@@ -168,6 +168,53 @@
                             </para>
                         </description>
                     </advantage>
+                    
+                    <advantage name="Sisters in Arms" type="technique">
+                        <cost points="4"/>
+                        <skill name="Religion"/>
+                        
+                        <description>
+                            <para>
+                                When two or more priestesses who know tis
+                                ritual are fighting side by side, then any
+                                of them can give a bonus equal to their
+                                weapon skill to one other. Who the bonus is
+                                given to is decided at the beginning of the
+                                round, but usage is otherwise automatic.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Strength of Woman" type="technique">
+                        <cost points="8"/>
+                        <skill name="Religion"/>
+                        <prerequisite>Sisters in Arms</prerequisite>
+                        
+                        <description>
+                            <para>
+                                Can be used as a combat technique, giving
+                                +1 to strength for purposes of damage. It
+                                cannot be used if another non-automatic
+                                technique is being used.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Agility of Woman" type="technique">
+                        <cost points="12"/>
+                        <skill name="Religion"/>
+                        <prerequisite>Strength of Woman</prerequisite>
+                        
+                        <description>
+                            <para>
+                                Knowledge of how to deflect and absorb
+                                blows by quick movement gives a +5 bonus
+                                to any soak rolls made that round. If used
+                                in a round, then other non-automatic
+                                techniques cannot be used.
+                            </para>
+                        </description>
+                    </advantage>
                 </advantages>
             </sect2>
         </sect1>
