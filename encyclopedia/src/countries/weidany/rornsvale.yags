@@ -213,7 +213,8 @@
                     </skills>
                     
                     <advantages>
-                        <advantages name="Appearance" score="+1"/>
+                        <advantage name="Appearance" score="+1"/>
+                    </advantages>
                 </character>
             </sect2>
             
