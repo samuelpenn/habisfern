@@ -36,11 +36,11 @@
         </references>
 
         <topics>
-            <subject uri="aidan">Aidan Shire</subject>
+            <subject uri="aidan-shire">Aidan Shire</subject>
 
             <category>None</category>
 
-            <topic uri="aidan">Aidan Shire</topic>
+            <topic uri="aidan-shire">Aidan Shire</topic>
             <topic uri="habisfern">Habisfern</topic>
             <topic uri="weidany">Weidany</topic>
             <topic uri="euressa">Euressa</topic>
