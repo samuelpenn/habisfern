@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Pale Lady</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="pale-lady">The Pale Lady</see>
+        </references>
+
+        <topics>
+            <subject uri="pale-lady">The Pale Lady</subject>
+
+            <category>Religion</category>
+
+            <topic uri="namahain">Namahain</topic>
+            <topic uri="ashek">Ashek</topic>
+            <topic uri="taneith">Taneith</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Pale Lady</title>
+
+            <para>
+                The Pale Lady, also said to be the Keeper of the Seven
+                Gates, is a handmaiden of the <qv uri="goddess">Goddess</qv>,
+                and the focus of a small sub cult of her. It is said
+                that she was a queen of the <qv uri="aoris">Aoris</qv>,
+                if not the greatest of their queens.
+            </para>
+
+            <para>
+                To the Lady were given the seven keys to the gates
+                beyond which the Namahain were imprisoned. She lives
+                behind the world, in the twilight shadows where she
+                guards the realms of the dead which lay before the first
+                gate. At the end of time, it is her duty to open the
+                gates and let the dead lay claim to the shadow realms.
+            </para>
+        </sect1>
+    </body>
+</article>

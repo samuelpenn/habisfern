@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Northgate</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Town of Northmarch.</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="northgate">Northgate</subject>
+
+            <category>Town</category>
+
+            <topic uri="northmarch-shire">Northmarch Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Northgate</title>
+                        
+            <para>
+                A large town in Northmarch shire, with a population
+                of about five thousand. It is a stone walled town,
+                with a strong garrison and a substantial temple to
+                the Law Maker cult. The cult considers Northgate to
+                be its base of operations for the north of the
+                Kingdom, and many patrols into Aidan start from
+                here.
+            </para>
+        </sect1>
+    </body>
+</article>

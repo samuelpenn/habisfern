@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Mermen</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="igia">Igia</see>
+            <see uri="mortheana">Mortheana</see>
+        </references>
+
+        <topics>
+            <subject uri="mermen">Mermen</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Mermen</title>
+
+            <para>
+                Beneath the sea off the western coast of Bryteland is
+                said to be the mythical island of
+                <qv uri="mortheana">Mortheana</qv>. Populating the
+                island are the half-man half-fish servants of 
+                <qv uri="igia">Igia</qv>.
+            </para>
+            
+            <para>
+                They are said to be covered with silver scales,
+                their hands and feet webbed, and some have no legs
+                but instead have a tail instead. All have beautiful
+                voices, and both the men and women sing sometimes
+                to those on shore to try and lure people into the
+                sea.
+            </para>
+        </sect1>
+    </body>
+</article>
