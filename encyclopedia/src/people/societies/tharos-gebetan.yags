@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Gebetan</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="tharos-cult">Cult of Tharos</see>
+        </references>
+
+        <topics>
+            <subject uri="gebetan">Gebetan</subject>
+
+            <category>Cult</category>
+
+            <topic uri="rornic-mythology">Rornic Mythology</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Gebetan</title>
+            
+            <para>
+                Gebetan is the philosophy followed by the cult of 
+                Tharos. It teaches personal perfection above all else, 
+                both in body and mind.
+            </para>
+        </sect1>
+    </body>
+</article>
