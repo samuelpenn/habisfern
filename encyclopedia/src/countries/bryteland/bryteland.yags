@@ -36,14 +36,18 @@
         <style name="module"/>
 
         <references>
-            <see>tanwall</see>
-            <see>weidany</see>
+            <see uri="tanwall">Tanwall</see>
+            <see uri="weidany">Weidany</see>
         </references>
 
         <topics>
-            <topic>Country</topic>
-            <topic>Geography</topic>
-            <topic>Habisfern</topic>
+            <subject uri="bryteland">Bryteland</subject>
+
+            <category>Country</category>
+
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
         </topics>
     </header>
 

@@ -33,12 +33,19 @@
         <style name="module"/>
 
         <references>
+            <see uri="cairnhills">Cairn Hills</see>
+            <see uri="meam">Meam</see>
         </references>
 
         <topics>
-            <topic>Forest</topic>
-            <topic>Geography</topic>
-            <topic>Habisfern</topic>
+            <subject uri="meams-wood">Meams Wood</subject>
+
+            <category>Woods</category>
+
+            <topic uri="northwood-shire">Northwood Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
         </topics>
     </header>
 

@@ -36,14 +36,16 @@
         <style name="module"/>
 
         <references>
-            <partof>bryteland</partof>
         </references>
 
         <topics>
-            <topic>Town</topic>
-            <topic>Settlement</topic>
-            <topic>Geography</topic>
-            <topic>Habisfern</topic>
+            <subject uri="Novborg">Novborg</subject>
+
+            <category>Town</category>
+
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
         </topics>
     </header>
 

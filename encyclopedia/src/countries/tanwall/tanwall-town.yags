@@ -36,15 +36,16 @@
         <style name="module"/>
 
         <references>
-            <partof>bryteland</partof>
-            <partof>tanwall</partof>
         </references>
 
         <topics>
-            <topic>Town</topic>
-            <topic>Settlement</topic>
-            <topic>Geography</topic>
-            <topic>Habisfern</topic>
+            <subject uri="tanwall-town">Tanwall</subject>
+
+            <category>Town</category>
+
+            <topic uri="tanwall">Tanwall</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
         </topics>
     </header>
 

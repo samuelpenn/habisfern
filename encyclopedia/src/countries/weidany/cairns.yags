@@ -33,12 +33,18 @@
         <style name="module"/>
 
         <references>
-            <partof>cairnhills</partof>
         </references>
 
         <topics>
-            <topic>Geography</topic>
-            <topic>Habisfern</topic>
+            <subject uri="cairnhills">Cairn Hills</subject>
+
+            <category>Henge</category>
+
+            <topic uri="cairnhills">Cairn Hills</topic>
+            <topic uri="northwood-shire">Northwood Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
         </topics>
     </header>
 

@@ -33,12 +33,18 @@
         <style name="module"/>
 
         <references>
-            <partof>cairnhills</partof>
         </references>
 
         <topics>
-            <topic>Geography</topic>
-            <topic>Habisfern</topic>
+            <subject uri="asheks-tower">Ashek's Tower</subject>
+
+            <category>Caves</category>
+
+            <topic uri="cairnhills">Cairn Hills</topic>
+            <topic uri="northwood-shire">Northwood Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
         </topics>
     </header>
 
@@ -52,6 +58,11 @@
                 the top of which opens into a rocky shaft which drops
                 about 50m almost straight down to a small, subterranean
                 lake.
+            </para>
+
+            <para>
+                It is said that there are extensive catacombs and
+                subterranean river systems beneath the Tower.
             </para>
         </sect1>
     </body>

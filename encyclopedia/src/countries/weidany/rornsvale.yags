@@ -36,10 +36,15 @@
         </references>
 
         <topics>
-            <topic>Village</topic>
-            <topic>Town</topic>
-            <topic>Geography</topic>
-            <topic>Habisfern</topic>
+            <subject uri="cairnhills">Cairn Hills</subject>
+
+            <category>Town</category>
+
+            <topic uri="cairnhills">Cairn Hills</topic>
+            <topic uri="northwood-shire">Northwood Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
         </topics>
     </header>
 

@@ -33,11 +33,21 @@
         <style name="module"/>
 
         <references>
+            <see uri="cairns">Cairns</see>
+            <see uri="rornsvale">Rorn's Vale</see>
+            <see uri="asheks-tower">Ashek's Tower</see>
         </references>
 
         <topics>
-            <topic>Geography</topic>
-            <topic>Habisfern</topic>
+            <subject uri="cairnhills">Cairn Hills</subject>
+
+            <category>Hills</category>
+
+            <topic uri="cairnhills">Cairn Hills</topic>
+            <topic uri="northwood-shire">Northwood Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
         </topics>
     </header>
 
@@ -66,7 +76,7 @@
             </para>
             
             <para>
-                The hills are chalk, with an average height of two                         to three hundred metres. The tallest hills are in the
+                The hills are chalk, with an average height of two                               to three hundred metres. The tallest hills are in the
                 northwest, where the occasional 400m peak can be found.
             </para>
             
@@ -100,7 +110,7 @@
                     </para>
                     
                     <para>
-                        Legend has it that he married a woman of the                             otherlands, a fey beauty who spirited him and
+                        Legend has it that he married a woman of the                                     otherlands, a fey beauty who spirited him and
                         his huscarls off to her home to live for
                         eternity. Every now and again, he and his men
                         return to patrol their original kingdom. If they

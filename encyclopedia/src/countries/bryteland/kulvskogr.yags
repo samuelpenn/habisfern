@@ -36,13 +36,16 @@
         <style name="module"/>
 
         <references>
-            <partof>bryteland</partof>
         </references>
 
         <topics>
-            <topic>Forest</topic>
-            <topic>Geography</topic>
-            <topic>Habisfern</topic>
+            <subject uri="kulvskogr">Kulvskogr</subject>
+
+            <category>Woods</category>
+
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
         </topics>
     </header>
 
