@@ -66,7 +66,8 @@
             <para>
                 Members of the House have a tradition of choosing
                 Weidanic names, rather than Rornic, though this isn't
-                always observed.
+                always observed. Many in the House have some skill at
+                wizardry, though few persue it as their life's goal.
             </para>
             
             <para>
@@ -78,7 +79,45 @@
             <para>
                 Ealdorman Uwain is lord of this House.
             </para>
+        </sect1>
 
+        <sect1>
+            <title>Nobles of the House of Aeddan</title>
+
+            <para>
+                Those who are of the bloodline of the House have access
+                to certain advantages.
+            </para>
+
+            <sect2>
+                <title>Advantages</title>
+
+                <advantage name="House of Aeddan">
+                    <cost points="2"/>
+
+                    <description>
+                        <para>
+                            Character is of the House of Aeddan. This
+                            advantage is required before any of the other
+                            advantages of this house can be obtained.
+                        </para>
+                    </description>
+                </advantage>
+
+                <advantage name="Strong at magic">
+                    <cost points="4"/>
+                    <prerequisite>House of Aeddan</prerequisite>
+
+                    <description>
+                        <para>
+                            The House of Aeddan is noted for its members
+                            exceptional ability with magic. Those who take this
+                            advantage gain +1 to intelligence when trying to
+                            learn a new Rune.
+                        </para>
+                    </description>
+                </advantage>
+            </sect2>
         </sect1>
 
     </body>
