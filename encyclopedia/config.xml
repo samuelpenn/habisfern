@@ -7,6 +7,11 @@
         <template name="mainpage" path="templates/index.html"/>
         <template name="footer" path="templates/footer.html"/>
     </templates>
+    
+    <website>
+        <homepage href="/habisfern/index.html"/>
+        <counter href="/counters/habisfern.php"/>
+    </website>
 
     <stylesheets>
         <stylesheet name="entry" 
