@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Midlaen</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="weidany">Weidany</see>
+        </references>
+
+        <topics>
+            <subject uri="midlaen">Midlaen</subject>
+
+            <category>Country</category>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Midlaen</title>
+
+            <import-map uri="euressa" scale="0">
+                <area name="midlaen" margin="2"/>
+            </import-map>
+
+            <para>
+                Midlaen, or the Middle Lands, are a region once claimed by
+                the Kingdom of Weidany, but which have since obtained
+                independence. In truth, the region is so lightly
+                populated that governing it was never really a reality,
+                and the brief war of independence in 1193 was not much
+                more than the sacking of a few royal guardhouses and a
+                refusal to pay taxes, neither of which were punished.
+            </para>
+            
+            <para>
+                Midlaen is similar to Weidany in culture, though its
+                people are fiercely independent, and distrust any form
+                of government from a far. Small lords and individual
+                land owners can be found throughout the countryside,
+                but there is little communication or cooperation
+                between them.
+            </para>
+            
+            <para>
+                The only town of sizable note is Blackbay on the only
+                stretch of coast which isn't covered with thick
+                unexplored woodlands. Most trade comes through Blackbay,
+                and it has a reputation for being a haven of pirates.
+                The only reason it isn't also a haven for smugglers is
+                that there are no customs laws or taxes that need
+                evading.
+            </para>
+        </sect1>
+    </body>
+</article>
