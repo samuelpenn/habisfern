@@ -2,10 +2,10 @@
 
 <article>
     <header>
-        <title>Niemstarg</title>
+        <title>Nildorf</title>
         <tagline>Habisfern</tagline>
 
-        <slugline/>
+        <slugline>Capital of Niemstarg</slugline>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -33,15 +33,12 @@
         <style name="module"/>
 
         <references>
-            <see uri="urazen">Urazen</see>
-            <see uri="herzon">Herzon</see>
-            <see uri="nildorf">Nildorf</see>
         </references>
 
         <topics>
-            <subject uri="niemstarg">Niemstarg</subject>
+            <subject uri="nildorf">Nildorf</subject>
 
-            <category>Country</category>
+            <category>Town</category>
 
             <topic uri="euressa">Euressa</topic>
             <topic uri="northern-kingdoms">Northern Kingdoms</topic>
@@ -51,20 +48,13 @@
 
     <body>
         <sect1>
-            <title>Kingdom of Niemstarg</title>
+            <title>Nildorf</title>
 
             <para>
-                The Kingdom of Niemstarg is a rich nation on the northern
-                coast of Euresssa. Under the rule of King Steffan III,
-                Niemstarg combines stability and a powerful, well trained
-                army which gains experience through mercenary deals with
-                the country's neighbours.
-            </para>
-
-            <para>
-                Niemstarg has a number of mines - tin and lead being
-                plentiful, but also gold and silver. These give guarenteed
-                wealth to the nation.
+                Nildorf is the royal seat of King Stefan III of Niemstarg,
+                and is one of the largest towns on the north coast. The
+                great royal castle overlooks the fortified harbour, and
+                the main part of the town stretches out behind that.
             </para>
         </sect1>
     </body>

@@ -2,10 +2,10 @@
 
 <article>
     <header>
-        <title>Niemstarg</title>
+        <title>Salzmargen</title>
         <tagline>Habisfern</tagline>
 
-        <slugline/>
+        <slugline></slugline>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -33,15 +33,12 @@
         <style name="module"/>
 
         <references>
-            <see uri="urazen">Urazen</see>
-            <see uri="herzon">Herzon</see>
-            <see uri="nildorf">Nildorf</see>
         </references>
 
         <topics>
-            <subject uri="niemstarg">Niemstarg</subject>
+            <subject uri="salzmargen">Salzmargen</subject>
 
-            <category>Country</category>
+            <category>Town</category>
 
             <topic uri="euressa">Euressa</topic>
             <topic uri="northern-kingdoms">Northern Kingdoms</topic>
@@ -51,20 +48,15 @@
 
     <body>
         <sect1>
-            <title>Kingdom of Niemstarg</title>
+            <title>Salzmargen</title>
 
             <para>
-                The Kingdom of Niemstarg is a rich nation on the northern
-                coast of Euresssa. Under the rule of King Steffan III,
-                Niemstarg combines stability and a powerful, well trained
-                army which gains experience through mercenary deals with
-                the country's neighbours.
-            </para>
-
-            <para>
-                Niemstarg has a number of mines - tin and lead being
-                plentiful, but also gold and silver. These give guarenteed
-                wealth to the nation.
+                Salzmargen is a large town on the edge of the
+                <qv uri="wathig-hills">Wathig Hills</qv> in
+                <qv uri="niemstarg">Niemstarg</qv>. The overland trading
+                route between Niemstarg and <qv uri="cancha">Cancha</qv>
+                passes through Salzmargen. As far as Niemstarg is
+                concerned, it is the gateway to the west.
             </para>
         </sect1>
     </body>
