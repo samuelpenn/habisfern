@@ -53,6 +53,10 @@
     <body>
         <sect1>
             <title>Kingdom of Kurbia</title>
+            
+            <import-map uri="euressa" scale="0">
+                <area name="kurbia" margin="2"/>
+            </import-map>
 
             <para>
                 The coastal kingdom of Kurbia lays east of the

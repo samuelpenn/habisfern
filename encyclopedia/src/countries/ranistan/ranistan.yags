@@ -48,6 +48,10 @@
     <body>
         <sect1>
             <title>Ranistan</title>
+            
+            <import-map uri="euressa" scale="0">
+                <area name="ranistan" margin="2"/>
+            </import-map>
 
             <para>
                 Ranistanis a Kingdom in eastern Euressa. Its northern border

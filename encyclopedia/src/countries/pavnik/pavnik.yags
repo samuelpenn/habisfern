@@ -48,6 +48,10 @@
     <body>
         <sect1>
             <title>Kingdom of Pavnik</title>
+            
+            <import-map uri="euressa" scale="0">
+                <area name="pavnik" margin="2"/>
+            </import-map>
 
             <para>
                 Pavnik is a Kingdom in central eastern Euressa, its western
