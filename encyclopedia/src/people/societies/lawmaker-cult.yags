@@ -54,12 +54,20 @@
                 It was Haltan the Law Maker who first gave Law to
                 mankind, and therefore created society. The Cult
                 is devoted to the ideals of Law, and the right of
-                thegns to make it and enforce it.
+                the Queen and thegns to make it and enforce it.
             </para>
 
             <para>
                 The official name of the cult is the Order of Lahwitan,
                 though most people know it as the Cult of the Law Maker.
+		It is common throughout the Kingdom of Weidany, and can
+		be found in Bryteland as well. The Cult represents the
+		enforcement of law and justice - as opposed to the 
+		Daughters of Neya who represent the interpretation of
+		the Law. If the Daughters are the lawyers, then the
+		Lahwitan are the police. As police however, they
+		have the authority to act as judges and executioners
+		as well if necessary.
             </para>
 
             <sect2>
@@ -138,7 +146,7 @@
                 <title>Skills</title>
             
                 <skill-list>
-                    <skill name="Religion (Law Maker Cult)" type="knowledge">
+                    <skill name="Religion (Haltan)" type="knowledge">
                         <description>
                             <para>
                                 Gives knowledge of the ideals, mythology and
@@ -284,7 +292,8 @@
                                 The priest and up to one comrade per point
                                 of <e>religion</e> gains a bonus to all
                                 bravery and restraint checks equal to the
-                                <e>religion</e> score of the priest for the
+                                <e>religion</e> score of the priest, and an
+                                equal bonus to initiative,  for the
                                 duration of the battle.
                             </para>
                             
@@ -311,6 +320,20 @@
                             </para>
                         </description>
                     </advantage>
+
+		    <advantage name="Hand of Fate" type="technique">
+		        <cost points="7"/>
+                        <skill name="Religion (Haltan)"/>
+                        <prerequisite>Trial by Combat</prerequisite>
+                        
+                        <description>
+                            <para>
+			        Get an idea of what the right thing to do is.
+				This ritual takes eight hours to perform.
+			    </para>
+                        </description>
+		    </advantage>
+
                 </advantages>
             </sect2>
         </sect1>
