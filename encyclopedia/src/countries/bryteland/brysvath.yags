@@ -43,6 +43,7 @@
 
             <category>Town</category>
 
+            <topic uri="nethvollr">Nethvollr</topic>
             <topic uri="bryteland">Bryteland</topic>
             <topic uri="euressa">Euressa</topic>
             <topic uri="habisfern">Habisfern</topic>
@@ -55,8 +56,15 @@
 
             <para>
                 A major town in Bryteland whose name means Ford on the
-                Bryte River. It is the largest town in the southeastern
-                kingdom. It has a population of about 3,000.
+                Bryte River. It is the largest town in the Nethvollr, and
+                the royal seat. It has a population of about 3,000.
+            </para>
+
+            <para>
+                The town is dominated by the large stone castle which sits
+                atop a hill next to the river, overlooking the docks. It s
+                the most impressive stone fortification in Bryteland, and
+                possibly beaten only by Stowell castle in Weidany.
             </para>
         </sect1>
 
