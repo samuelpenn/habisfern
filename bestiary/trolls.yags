@@ -1,0 +1,138 @@
+<?xml version = '1.0' ?>
+<?xml-stylesheet
+    href="/usr/share/web/xsl/yagsbook/html/yagsbook.xsl"
+    type="text/xsl"?>
+
+<!--
+    $Revision$
+    $Date$
+
+    Bestiary containing information on trolls.
+-->
+
+<bestiary>
+
+    <!-- Basic Bear information -->
+    <beast name="Troll" primary="true">
+        <information>
+            <type>Humanoid</type>
+            <demeanor>Predator</demeanor>
+
+            <habitat climate="Temperate" terrain="Forest" frequency="Uncommon"/>
+            <habitat climate="Temperate" terrain="Mountain" frequency="Rare"/>
+
+            <organisation group="Solitary" number="1"/>
+            <organisation group="Family" number="2-5"/>
+
+            <origin>Habisfern</origin>
+            <genre>Fantasy</genre>
+        </information>
+
+        <description>
+            <short>
+                Large carnivorous humanoid monster.
+            </short>
+        </description>
+    </beast>
+
+    <!-- Hairy Troll -->
+    <beast name="Troll, hairy">
+        <information>
+            <type>Humanoid</type>
+            <demeanor>Predator</demeanor>
+
+            <habitat climate="Temperate" terrain="Forest" frequency="Uncommon"/>
+            <habitat climate="Temperate" terrain="Mountain" frequency="Rare"/>
+
+            <organisation group="Solitary" number="1"/>
+            <organisation group="Family" number="2-5"/>
+
+            <origin>Habisfern</origin>
+            <genre>Fantasy</genre>
+        </information>
+
+        <description>
+            <short>
+                Any of the small species of bears.
+            </short>
+
+            <image href="graphics/bear.jpg"/>
+
+            <movement>
+                <walk normal="10" max="5"/>
+            </movement>
+
+            <scale length="2" width="1"/>
+
+            <physical>
+            </physical>
+
+            <social>
+            </social>
+        </description>
+
+        <attributes size="7" soak="15">
+            <attribute name="strength" score="6"/>
+            <attribute name="stamina" score="5"/>
+            <attribute name="agility" score="4"/>
+            <attribute name="dexterity" score="2"/>
+            <attribute name="perception" score="4"/>
+            <attribute name="intelligence" score="1"/>
+            <attribute name="charisma" score="1"/>
+            <attribute name="will" score="2"/>
+        </attributes>
+
+        <skills>
+            <group name="Talents" type="talents">
+                <skill name="Athletics" score="5"/>
+                <skill name="Awareness" score="5"/>
+                <skill name="Brawl" score="4"/>
+                <skill name="Charm" score="1"/>
+                <skill name="Guile" score="1"/>
+                <skill name="Sleight" score="2"/>
+                <skill name="Stealth" score="4"/>
+                <skill name="Throw" score="3"/>
+            </group>
+
+            <group name="Misc" type="skills">
+                <skill name="Survival" score="4"/>
+                <skill name="Tracking" score="1"/>
+                <skill name="Swim" score="4"/>
+            </group>
+        </skills>
+
+        <combat>
+            <weaponlist href="/usr/share/web/xml/yags/harn/weapons.xml"/>
+            <armourlist href="/usr/share/web/xml/yags/harn/armour.xml"/>
+
+            <combatstyle style="Bite and claw" skill="Brawl">
+                <primary>None</primary>
+                <initiative attribute="agility" bonus="+4"/>
+                <attack attribute="agility" bonus="+6"/>
+                <defence attribute="agility" bonus="+1"/>
+                <damage type="split" bonus="+5"/>
+            </combatstyle>
+
+            <armourstyle style="Base"/>
+
+            <armourstyle style="Natural">
+                <armour name="Fur" protection="+2"/>
+                <armour name="Hide" protection="+3"/>
+            </armourstyle>
+        </combat>
+
+        <passions>
+            <passion name="Bravery" score="5"/>
+            <passion name="Ego" score="3"/>
+            <passion name="Restraint" score="2"/>
+            <passion name="Temperence" score="2"/>
+        </passions>
+
+        <advantages>
+            <advantage name="Acute sense of smell" score="+2"/>
+        </advantages>
+    </beast>
+
+
+
+</bestiary>

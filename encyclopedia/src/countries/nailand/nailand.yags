@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license>
-            <year>2002</year>
+            <year>2003</year>
             <holder>Samuel Penn</holder>
             <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
             <text>
@@ -33,6 +33,7 @@
         <style name="module"/>
 
         <references>
+            <see uri="shortfolk">Short Folk</see>
         </references>
 
         <topics>

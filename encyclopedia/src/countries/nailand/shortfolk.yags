@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license>
-            <year>2002</year>
+            <year>2003</year>
             <holder>Samuel Penn</holder>
             <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
             <text>
@@ -33,12 +33,18 @@
         <style name="module"/>
 
         <references>
+            <see uri="nailand">Nailand</see>
+            <see uri="shortfolk-matriarchs">Matriarchs</see>
         </references>
 
         <topics>
             <subject uri="shortfolk">Short Folk</subject>
 
             <category>Races</category>
+
+            <topic uri="nailand">Nailand</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
         </topics>
     </header>
 
