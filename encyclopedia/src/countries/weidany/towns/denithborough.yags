@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Denithborough</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="denithborough">Denithborough</subject>
+
+            <category>Town</category>
+            <topic uri="cenicsdyke-shire"></topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Denithborough</title>
+
+            <para>
+                Denithborough is a heavily fortified garrison town in 
+                the shire of Cenicsdyke. It supports <qv 
+                uri="fenborough">Fenborough</qv> in supplying the 
+                patrols which keep Weidany safe from incursions from <qv uri="nailand">Nailand</qv>.
+            </para>
+
+            <para>
+                The town has a population of about twelve hundred, and 
+                is protected with wooden walls. It is notable for its 
+                armourers, and much of the region's mail comes from here.
+            </para>
+
+        </sect1>
+    </body>
+</article>

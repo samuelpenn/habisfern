@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Mortheana</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="mortheana">Mortheana</subject>
+
+            <category>Island</category>
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Mortheana</title>
+
+            <para>
+                Mortheana is a mythical island off the southwest coast 
+                of Jarneyland. It is said to be the home of <qv 
+                uri="igia">Igia</qv>, the Brytish sea goddess. Few 
+                sailors have ever encountered the isle, for it is 
+                submerged for much of the time. It is said that the isle 
+                becomes visible after a particularly heavy storm, and 
+                then only for a few hours.
+            </para>
+
+            <para>
+                The legends describe Mortheana as an island covered in a 
+                great coral castle, whose battlements encircle a large 
+                natural harbour where ships can be docked.
+            </para>
+
+            <para>
+                Igia's palace is covered with gold and silver shells, 
+                and the roads are pebbled with pearls as large as a 
+                man's hand.
+            </para>
+
+            <para>
+                Visitors to the isle are quickly apprehended and 
+                escorted to the Sea Princess to face judgement for 
+                tresspass on her lands. Those who do not show sufficient 
+                social talent are thrown in the aquatic dungeons to 
+                drown. Those who do are kept as members of her court 
+                until after the isle submerges. Any on the island when 
+                it sinks are gifted with the ability to breathe water, 
+                but loose the ability to breathe air. Escape is 
+                necessary before the isle submerges if the visitors are 
+                ever to return to land again.
+            </para>
+
+            <para>
+                The isle is populated with past visitors and <qv 
+                uri="mermen">mermen</qv>. Legend says that the former 
+                become the latter with time.
+            </para>
+
+        </sect1>
+    </body>
+</article>

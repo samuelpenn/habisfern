@@ -52,8 +52,9 @@
             <title>Ogre</title>
 
             <para>
-                Ogres are mutant crossbreads of men and beasts. 
-                They are also known as the Children of Meam.
+                Ogres are mutant crossbreads of men and monstrous beasts. 
+                They are also known as the Children of Meam for they 
+                have his looks and demeanor.
             </para>
 
             <para>
@@ -66,9 +67,103 @@
             <para>
                 Their actual appearance can vary greatly, from an 
                 oversized and misshapen human, to a gorilla like
-                beast the size of a shire horse.
+                beast the size of an elephant.
             </para>
-
+            
+            <beast name="Ogre">
+                <information>
+                    <type>Monster</type>
+                    <demeanor>Violent</demeanor>
+        
+                    <habitat climate="Warm" terrain="Forest"
+                             frequency="Very rare"/>
+        
+                    <organisation group="Solitary" number="1-2"/>
+        
+                    <origin>Habisfern</origin>
+                    <genre>Fantasy</genre>
+                </information>
+        
+                <description>
+                    <short>
+                        Large monstrous humanoids.
+                    </short>
+        
+                    <physical>
+                        <para>
+                            Ogres look like huge over-muscled men, hairless
+                            and disfigured. The continue to grow with age right
+                            up until death, and are thought to die only by
+                            violence.
+                        </para>
+                    </physical>
+                </description>
+        
+                <attributes size="10" soak="15">
+                    <attribute name="strength" score="15" half="7"/>
+                    <attribute name="stamina" score="5"/>
+                    <attribute name="agility" score="2"/>
+                    <attribute name="dexterity" score="2"/>
+                    <attribute name="perception" score="3"/>
+                    <attribute name="intelligence" score="1"/>
+                    <attribute name="charisma" score="1"/>
+                    <attribute name="will" score="2"/>
+                </attributes>
+        
+                <skills>
+                    <group name="Talents" type="talents">
+                        <skill name="Athletics" score="4"/>
+                        <skill name="Awareness" score="6"/>
+                        <skill name="Brawl" score="6"/>
+                        <skill name="Charm" score="2"/>
+                        <skill name="Guile" score="2"/>
+                        <skill name="Sleight" score="2"/>
+                        <skill name="Stealth" score="2"/>
+                        <skill name="Throw" score="4"/>
+                    </group>
+        
+                    <group name="Misc" type="skills">
+                        <skill name="Survival" score="4"/>
+                    </group>
+                </skills>
+        
+                <combat>
+                    <combatstyle style="Brawl" skill="Brawl">
+                        <primary>None</primary>
+                        <initiative attribute="agility" bonus="+10"/>
+                        <attack attribute="agility" bonus="+12"/>
+                        <defence attribute="agility" bonus="+9"/>
+                        <damage type="stun" bonus="+1"/>
+                    </combatstyle>
+        
+                    <combatstyle style="Club" skill="Brawl">
+                        <primary>Club</primary>
+                        <initiative attribute="agility" bonus="+10"/>
+                        <attack attribute="agility" bonus="+12"/>
+                        <defence attribute="agility" bonus="+9"/>
+                        <damage type="stun" bonus="+1"/>
+                    </combatstyle>
+                    
+                    <armourstyle style="Base"/>
+        
+                    <armourstyle style="Natural">
+                        <armour name="Hide" protection="+2"/>
+                    </armourstyle>
+                </combat>
+        
+                <passions>
+                    <passion name="Bravery" score="6"/>
+                    <passion name="Ego" score="4"/>
+                    <passion name="Restraint" score="2"/>
+                    <passion name="Temperence" score="2"/>
+                </passions>
+        
+                <advantages>
+                    <advantage name="High pain threshold"/>
+                    <advantage name="Acute sense of smell" score="+2"/>
+                    <advantage name="Acute hearing" score="+1"/>
+                </advantages>
+            </beast>
         </sect1>
     </body>
 </article>

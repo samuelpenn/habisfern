@@ -33,6 +33,7 @@
         <style name="module"/>
 
         <references>
+            <see uri="sorfa">Sorfa</see>
         </references>
 
         <topics>
@@ -59,20 +60,49 @@
             </para>
 
             <para>
-                Bryta led his people northwards as far as he could, to avoid
-                having to fight any others who were sure to follow them.
-                With thousands of men, women and children, it took many
-                years to make their way through the thick forest lands of
-                Weidany until they found a place suitable to their liking.
+                Bryta is the first hero of the Brytish people, and is
+                honoured for founding their country, and setting down the
+                foundations of their culture. However, Bryteland under
+                Bryta was never unified into a single Kingdom, and what
+                organisation there was collapsed completely upon his death.
+                A later hero, <qv uri="brytweider">Brytweider</qv>, goes
+                someway towards unification of the country, and it is not
+                until after him that the term Bryteland is used to refer
+                to the region.
             </para>
 
-            <para>
-                The biggest of their obstacles were against the Ents,
-                who fought to stop their progress through lands they
-                considered their own. The followers of Bryta were battle
-                hardened though, and the Ents did not have the same
-                experience of battle.
-            </para>
+            <sect2>
+                <title>History</title>
+
+                <para>
+                    Bryta led his people northwards as far as he could, to
+                    avoid having to fight any others who were sure to follow
+                    them. With thousands of men, women and children, it took
+                    many years to make their way through the thick forest
+                    lands of Weidany until they found a place suitable to
+                    their liking.
+                </para>
+
+                <para>
+                    The biggest of their obstacles were against the Ents,
+                    who fought to stop their progress through lands they
+                    considered their own. The followers of Bryta were battle
+                    hardened though, and the Ents did not have the same
+                    experience of battle. For two years the people were
+                    prevented from travelling northwards by the Entish
+                    warriors. Many wanted to go back south and settle the
+                    lands they had already passed through, but in that
+                    direction lay the Weidanic tribes who were probably a
+                    bigger threat.
+                </para>
+
+                <para>
+                    Eventually, the Ents were defeated in a great battle,
+                    and almost wiped out. Bryta and his people continued
+                    their trek northwards.
+                </para>
+
+            </sect2>
 
         </sect1>
     </body>
