@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Estwed Kingdom</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="estwed-shire">Estwed</subject>
+
+            <category>Shire</category>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Kingdom of Estwed</title>
+
+            <para>
+                During the 8th century, Estwed was a small Kingdom to the
+                southeast of the, then, powerful Kingdom of Lanuch. In 775,
+                King Wulfhelm of Lanuch invades Estwed and though he is
+                initially defeated, eventually by the autumn of 776 Estwed
+                falls and becomes another province of Lanuch.
+            </para>
+
+            <para>
+                Though Estwed's King, Pybba, is slain and all his male
+                heirs executed (sacrificed along with many of the other
+                warriors who led the defence of the kingdom to
+                <qv uri="bis">Bis</qv>), his wife Aethelflaed is enslaved
+                by Estwed's new reeve, Edwin.
+            </para>
+
+            <para>
+                Within Estwed though the <qv uri="asabeth-cult">Cult of
+                Asabeth</qv> always had some considerable influence, a fact
+                overlooked by the new occupiers. Aethelflaed herself was
+                a priestess of the cult, and in 781, she kills (poisons, it
+                is said) Edwin, and a small group of women overwhelm his
+                huscurls.
+            </para>
+
+            <para>
+                Within two months, the Cult, now a respectable fighting
+                force of several hundred warrior women, meets a counter
+                attack by Lanuch on the field of battle. The use of magic,
+                and the surprising ferocity of the women, surprise the
+                Lanuch force, which is overwhelmed and routes back to
+                Lanuch in tatters.
+            </para>
+
+            <para>
+                By this time, King Frithstan of Lanuch (crowned in 779) is
+                still having to deal with certain <e>administrative</e>
+                issues in his kingdom, and he is forced to ignore the Estwed
+                problem for now. By the time he is able to muster a force
+                ready to retake Estwed (in 783), he is dead, and Lanuch
+                begins its descent into civil war. By the end of the year,
+                Queen Aethelflaed has been installed as Queen of Estwed,
+                and her own branch of the Cult of Asabeth, called the
+                <qv uri="crimson-blades">Crimson Blades</qv>, has been
+                formed.
+            </para>
+
+            <para>
+                So begins the golden age of Estwed, a time of much darkness
+                and blood, for the rule of the Crimson Blades is not a light
+                one, being known for much cruelty and injustice. A
+                matriarchy is installed at all levels of power, slavery is
+                introduced on an unprecedented scale, and much of the wealth
+                of the Kingdom goes into the support of its army.
+            </para>
+
+            <para>
+                Surprisingly, Estwed has no desire to expand its own lands.
+                It is only in 841, when the warrior women attack and defeat
+                the Brytish invasion force which is terrorising the rest of
+                the region, that they actually venture beyond their borders.
+                A payment of gold is extracted from the Brytish, and it is
+                forced into <qv uri="emrend-shire">Emrend</qv>.
+            </para>
+
+            <para>
+                By the late 9th century, the Kingdom is in a bad shape.
+                Financially, the kingdom is almost bankrupt, and
+                increasing unrest leads to bloodier peacekeeping which
+                only fuels further resentment. In 880, Queen Osith makes
+                the decision to expand Estwed's borders, believing that
+                more land is the only solution to the problem.
+            </para>
+
+            <para>
+                In 880, the Crimson Blades lead a raiding force into Aiden,
+                which is highly successfull. Wealth is obtained, and the
+                distraction is enough to enable her to put off the problems
+                within the heartlands of the Kingdom. Again though, the
+                Crimson Blades are unable to keep their new lands stable
+                despite their military superiority, and five years later
+                raids are directed at East Lanuch.
+            </para>
+
+            <para>
+                Again, these tactics are initially successful, but again
+                the cult finds that conquering land is far easier than
+                holding it afterwards. By 889, most of the new lands, as
+                well as the main heartlands of her Kingdom are in
+                turmoil, being beset by lawlessness, fear and famine.
+                It is in this climate that Queen Osrith is murdered, and
+                within two weeks the Crimson Blades have been wiped out
+                within the Kingdom by an uprising partially aided by
+                Lanuch and Talmoth.
+            </para>
+
+             <para>
+                In the summer of 889, King Peada is crowned king, and the
+                Kingdom shrinks back to something approximating its
+                original borders.
+             </para>
+            </para>
+        </sect1>
+    </body>
+</article>
