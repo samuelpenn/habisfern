@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Bryta</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>First King of Bryteland</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="bryta">Bryta</subject>
+
+            <category>King</category>
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Bryta, First King of Bryteland</title>
+
+            <para>
+                The north western coast of <qv uri="euressa">Euressa</qv>
+                was settled soon after the Betrayal by people led by the
+                Rornic king Bryta. He had sworn oaths to
+                <qv uri="voltan">Voltan</qv> to find a new land for his
+                people following their defeat and loss of their homeland
+                to the Wizard King of Bealurwic.
+            </para>
+
+            <para>
+                Bryta led his people northwards as far as he could, to avoid
+                having to fight any others who were sure to follow them.
+                With thousands of men, women and children, it took many
+                years to make their way through the thick forest lands of
+                Weidany until they found a place suitable to their liking.
+            </para>
+
+            <para>
+                The biggest of their obstacles were against the Ents,
+                who fought to stop their progress through lands they
+                considered their own. The followers of Bryta were battle
+                hardened though, and the Ents did not have the same
+                experience of battle.
+            </para>
+
+        </sect1>
+    </body>
+</article>
