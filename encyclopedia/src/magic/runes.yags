@@ -213,8 +213,10 @@
                     <sect4>
                         <title>Virtue of the Bear</title>
 
-                        <image uri="rune-soak"/>
-                        <image uri="rune-man"/>
+                        <imageblock>
+                            <image uri="rune-man"/>
+                            <image uri="rune-soak"/>
+                        </imageblock>
 
                         <para>
                             Grants strength to the user of the item while
@@ -225,8 +227,10 @@
                     <sect4>
                         <title>Virtue of the Panther</title>
 
-                        <image uri="rune-agility"/>
-                        <image uri="rune-man"/>
+                        <imageblock>
+                            <image uri="rune-man"/>
+                            <image uri="rune-agility"/>
+                        </imageblock>
 
                         <para>
                             Grants the user with greater speed and agility.
@@ -236,8 +240,10 @@
                     <sect4>
                         <title>Virtue of the Serpent</title>
 
-                        <image uri="rune-dexterity"/>
-                        <image uri="rune-man"/>
+                        <imageblock>
+                            <image uri="rune-man"/>
+                            <image uri="rune-dexterity"/>
+                        </imageblock>
 
                         <para>
                             Grants the user of the item greater dexterity.
@@ -247,8 +253,10 @@
                     <sect4>
                         <title>Virtue of the Troll</title>
 
-                        <image uri="rune-man"/>
-                        <image uri="rune-man"/>
+                        <imageblock>
+                            <image uri="rune-man"/>
+                            <image uri="rune-man"/>
+                        </imageblock>
 
                         <para>
                             Fills the user with the strength to resist
@@ -283,8 +291,10 @@
                     <sect4>
                         <title>Virtue of Life</title>
 
-                        <image uri="rune-damage"/>
-                        <image uri="rune-necromancy"/>
+                        <imageblock>
+                            <image uri="rune-necromancy"/>
+                            <image uri="rune-damage"/>
+                        </imageblock>
 
                         <para>
                             When placed on a weapon, any wound caused by the
@@ -296,8 +306,10 @@
                     <sect4>
                         <title>Virtue of Fear</title>
 
-                        <image uri="rune-fear"/>
-                        <image uri="rune-necromancy"/>
+                        <imageblock>
+                            <image uri="rune-necromancy"/>
+                            <image uri="rune-fear"/>
+                        </imageblock>
 
                         <para>
                             When placed on any item, if that item is presented,
@@ -308,8 +320,10 @@
                     <sect4>
                         <title>Virtue of the Spirit</title>
 
-                        <image uri="rune-ghosts"/>
-                        <image uri="rune-necromancy"/>
+                        <imageblock>
+                            <image uri="rune-necromancy"/>
+                            <image uri="rune-ghosts"/>
+                        </imageblock>
 
                         <para>
                             When placed on any item, that item becomes more
