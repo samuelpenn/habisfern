@@ -2,7 +2,7 @@
 
 <article>
     <header>
-        <title>Eastern Kingdoms</title>
+        <title>Withrican Mountains</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -36,29 +36,24 @@
         </references>
 
         <topics>
-            <subject uri="eastern-kingdoms">Eastern Kingdoms</subject>
+            <subject uri="withrican-mountains">Withrican Mountains</subject>
 
-            <category>Region</category>
+            <category>Mountain</category>
 
             <topic uri="euressa">Euressa</topic>
-            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
         </topics>
     </header>
 
     <body>
         <sect1>
-            <title>Eastern Kingdoms</title>
+            <title>Withrican Mountains</title>
 
             <para>
-                The <e>Eastern Kingdoms</e> includes the region east of
-                the <qv uri="withrican-mountains">Withrican Mountains</qv>.
-                Most of it is relatively low population,
-                though the coastal regions are made up of large city states.
-            </para>
-
-            <para>
-                Most of the cultures here share a belief in the concept of
-                <qv uri="belogan-mythology">Beloga</qv>.
+                The White Spine Mountains, which dominate central
+                <qv uri="euressa">Euressa</qv>. The run from the south coast
+                right up to the northern peninsula of
+                <qv uri="vorlov">Vorlov</qv>. The mountains split east from
+                west from geographically, and culturally.
             </para>
         </sect1>
     </body>
