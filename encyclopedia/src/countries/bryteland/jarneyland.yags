@@ -123,6 +123,70 @@
 
                 </sect3>
             </sect2>
+
+            <sect2>
+                <title>Places</title>
+
+                <sect3>
+                    <title>Mines</title>
+
+                    <sect4>
+                        <title>Blarhellir</title>
+
+                        <para>
+                            An iron mine up in the Blarsvin hills. There is
+                            a small settlement here of about 100 people.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>Vathoggven</title>
+
+                        <para>
+                            A water carved ravine through the Blarsvin hills,
+                            along which is found a seam of iron ore. There
+                            are actually three settlements here -
+                            Upper Vatgovven, West Vatgovven and East Vatgovven.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>Jarnhellir</title>
+
+                        <para>
+                            Iron mine.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>Velskoth</title>
+
+                        <para>
+                            Iron mine. High quality ore, used for the best
+                            weapons.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>Vitrulfer</title>
+
+                        <para>
+                            Known as the den of the wise wolf, it is said that
+                            an oracle of Wagni dwelt here long ago. Today, the
+                            settlement mines silver in the nearby hills.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>Blargnafer</title>
+
+                        <para>
+                            The black tower. A tine mine.
+                        </para>
+                    </sect4>
+                </sect3>
+
+            </sect2>
         </sect1>
     </body>
 </article>
