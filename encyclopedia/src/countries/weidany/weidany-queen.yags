@@ -76,6 +76,139 @@
                 influence that any of them could have either over the Queen
                 or her daughters.
             </para>
+            
+            <sect2>
+                <title>Past Queens of Weidany</title>
+                
+                <events dating="AB">
+                    <event title="Aelthryth" uri="aelthryth-queen">
+                        <startdate year="982"/>
+                        <enddate year="1039"/>
+                        
+                        <para>
+                            First Queen of Weidany.
+                        </para>
+                    </event>
+                    
+                    <event title="Aelflaed" uri="aelflaed-queen">
+                        <startdate year="1039"/>
+                        <enddate year="1059"/>
+                        
+                        <para>
+                            Second Queen of Weidany. She fought against
+                            the barbarians of Merkia, and greatly expanded
+                            the Kingdom. She was the first daughter of
+                            Aelthryth, born in 998.
+                        </para>
+                    </event>
+                    
+                    <event title="Eadhild">
+                        <startdate year="1059"/>
+                        <enddate year="1069"/>
+                        
+                        <para>
+                            Sister to Aelflaed, born in 1015.
+                        </para>
+                    </event>
+                    
+                    <event title="Sexburh">
+                        <startdate year="1069"/>
+                        <enddate year="1084"/>
+                        
+                        <para>
+                            Third daughter of Queen Aelflaed, she was the
+                            most capable candidate upon Eadhild's death.
+                            Born in 1032.
+                        </para>
+                    </event>
+                    
+                    <event title="Eadgifu">
+                        <startdate year="1084"/>
+                        <enddate year="1102"/>
+                        
+                        <para>
+                            Youngest daughter of Sexburh, born in 1057.
+                        </para>
+                    </event>
+                    
+                    <event title="Godhild">
+                        <startdate year="1102"/>
+                        <enddate year="1130"/>
+                        
+                        <para>
+                            Third daughter of Eadgifu, born in 1083. She
+                            had three sisters, Werdrun, Aeldith and
+                            Hereswith. Werdrun was killed in 1127 by
+                            Aeldith, and both Aeldith and Hereswith were
+                            banished from the kingdom after they fled.
+                        </para>
+                        
+                        <para>
+                            As far as it is known, none of them had any
+                            children. Godhild had several favourites at
+                            court, including Hrulgar of Estwed, and made
+                            many enemies.
+                        </para>
+                    </event>
+                    
+                    <event title="Eadhild II">
+                        <startdate year="1130"/>
+                        <enddate year="1169"/>
+                        
+                        <para>
+                            Eadhild, daughter of Wilith, of Aelflaed,
+                            of Eormenburh of Queen Eadhild I. Born in
+                            1099, she ascended to the throne after the
+                            confusion caused by the lack of immediate
+                            heirs for Godhild.
+                        </para>
+                         
+                        <para>
+                            She was chosen by the
+                            Witan after taking control of the Red Guard
+                            and storming their council chamber. It was
+                            decided that she had the right temperment
+                            to be a Queen of Weidany.
+                        </para>
+                    </event>
+                    
+                    <event title="Frythrun">
+                        <startdate year="1169"/>
+                        <enddate year="1213"/>
+                        
+                        <para>
+                            Granddaughter of Eadhild II, she was born in
+                            1150. She had a sister, Frythegith, who died
+                            at the age of four. She had three daughters,
+                            Godrun, Burhed and Behrith.
+                        </para>
+                    </event>
+                    
+                    <event title="Godrun">
+                        <startdate year="1213"/>
+                        <enddate year="1225"/>
+                        
+                        <para>
+                            First daughter of Frythrun, she was born in
+                            1166, and died in childbirth in 1225. She had
+                            three children - Ercongota, Ealhred and
+                            Cuthburh. The latter two died before she did.
+                        </para>
+                    </event>
+                    
+                    <event title="Behrith">
+                        <startdate year="1225"/>
+                        
+                        <para>
+                            The current Queen of Weidany.
+                        </para>
+                    </event>
+                </events>
+            </sect2>
+            
+            <sect2>
+                <title>Current Royal Family</title>
+            </sect2>
         </sect1>
     </body>
 </article>
