@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Slahthorn Island</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="slahthorn-island">Slahthorn Island</subject>
+
+            <category>Island</category>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+      </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Slahthorn Island</title>
+
+            <para>
+                The Isle of Slahthorn is off the west coast of the
+                Westland Shire, and is considered part of Weidany.
+                However, it is so lightly populated that it is considered
+                to be uncivilised wilderness, and part of the private
+                domain of the Queen. It is sometimes used for hunting,
+                but is rarely otherwise visited.
+            </para>
+            
+            <para>
+                The isle itself is over twenty leagues across, and it
+                rivals some of the smaller shires in size. However,
+                except for certain parts of the shoreline, it is too
+                dangerous to claim for land holdings. The woods are
+                thick and tangled (the name means Blackthorn), and are
+                home to trolls, ogres, hags and other beasts. It is said
+                that the trees themselves are alive, and do not view the
+                explorations of humans with good grace.
+            </para>
+            
+            <para>
+                Some believe that a great Elf King dwells at the centre
+                of the isle, and works to keep men away. Legends call
+                this king Thridfeyder - the Great Grandfather - and say
+                that all elves on the mainland are descended from him.
+            </para>
+        </sect1>
+    </body>
+</article>
