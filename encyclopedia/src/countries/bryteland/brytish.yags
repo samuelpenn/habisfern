@@ -70,7 +70,7 @@
         </sect1>
         
         <sect1>
-            <title>Background</title>
+            <title>Characters</title>
             
             <sect2>
                 <title>Skills</title>
@@ -136,8 +136,8 @@
                     cannot be obtained later.
                 </para>
                 
-                <advantages>
-                    <advantage name="Brave" type="edge">
+                <advantages role="background" title="Brytish">
+                    <advantage name="Brave" type="advantage">
                         <cost points="2"/>
                         <description>
                             <para>
@@ -147,7 +147,7 @@
                         </description>
                     </advantage>
                     
-                    <advantage name="Resistent to magic" type="edge">
+                    <advantage name="Resistent to magic" type="advantage">
                         <cost points="3"/>
                         <description>
                             <para>
