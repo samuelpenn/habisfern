@@ -208,6 +208,156 @@
             
             <sect2>
                 <title>Current Royal Family</title>
+
+                <para>
+                    Queen Behrith has a single living sister, Burhed, who
+                    was captain of the <qv uri="red-guard">Red Guard</qv>
+                    until 1220, when that position went to her daughter
+                    Wulfloed. The Queen also has four daughters, the
+                    youngest of whom was born last year. She also has
+                    two granddaughters, both born in the last few months.
+                </para>
+                
+                <familyTree title="The Line of Frythrun" year="1230">
+                    <person name="Queen Frythrun">
+                        <born>1150</born>
+                        <died>1213</died>
+                    </person>
+                    
+                    <person name="Queen Godrun">
+                        <born>1166</born>
+                        <died>1225</died>
+                    </person>
+                    
+                    <person name="Burhed">
+                        <born>1167</born>
+                    </person>
+                    
+                    <person name="Queen Behrith">
+                        <born>1185</born>
+                    </person>
+                    
+                    <person name="Ercongota">
+                        <born>1187</born>
+                    </person>
+                    
+                    <person name="Ealhred">
+                        <born>1188</born>
+                        <died>1196</died>
+                    </person>
+                    
+                    <person name="Cuthburh">
+                        <born>1193</born>
+                        <died>1217</died>
+                    </person>
+                    
+                    <person name="Raedburh">
+                        <born>1210</born>
+                    </person>
+                    
+                    <person name="Hereswith">
+                        <born>1215</born>
+                    </person>
+                    
+                    <person name="Sihrith">
+                        <born>1217</born>
+                    </person>
+                    
+                    <person name="Osrun">
+                        <born>1220</born>
+                    </person>
+                    
+                    <person name="Wulfloed">
+                        <born>1190</born>
+                    </person>
+                    
+                    <person name="Osny">
+                        <born>1197</born>
+                    </person>
+                    
+                    <person name="Beohild">
+                        <born>1202</born>
+                    </person>
+                    
+                    <person name="Eodhild">
+                        <born>1211</born>
+                    </person>
+                    
+                    <person name="Wilith">
+                        <born>1215</born>
+                    </person>
+                    
+                    <person name="Aelflaed">
+                        <born>1224</born>
+                    </person>
+                    
+                    <person name="Aeldith">
+                        <born>1229</born>
+                    </person>
+                    
+                    <person name="Eowyn">
+                        <born>1230</born>
+                    </person>
+                    
+                    <person name="Morwen">
+                        <born>1230</born>
+                    </person>
+                    
+                    <family mother="Queen Frythrun">
+                        <children>
+                            <child>Queen Godrun</child>
+                            <child>Burhed</child>
+                            <child>Queen Behrith</child>
+                        </children>
+                    </family>
+                    
+                    <family mother="Queen Godrun">
+                        <children>
+                            <child>Ercongota</child>
+                            <child>Ealhred</child>
+                            <child>Cuthburh</child>
+                        </children>
+                    </family>
+                    
+                    <family mother="Ercongota">
+                        <children>
+                            <child>Raedburh</child>
+                            <child>Hereswith</child>
+                            <child>Sihrith</child>
+                            <child>Osrun</child>
+                        </children>
+                    </family>
+                    
+                    <family mother="Raedburh">
+                        <children>
+                            <child>Godhild</child>
+                        </children>
+                    </family>
+                    
+                    <family mother="Burhed">
+                        <children>
+                            <child>Wulfloed</child>
+                            <child>Osny</child>
+                            <child>Beohild</child>
+                        </children>
+                    </family>
+                    
+                    <family mother="Queen Behrith">
+                        <children>
+                            <child>Eodhild</child>
+                            <child>Wilith</child>
+                            <child>Aelflaed</child>
+                            <child>Aeldith</child>
+                        </children>
+                    </family>
+                    
+                    <family mother="Eodhild">
+                        <children>
+                            <child>Eowen</child>
+                            <child>Morwen</child>
+                        </children>
+                    </family>
+                </familyTree>
             </sect2>
         </sect1>
     </body>
