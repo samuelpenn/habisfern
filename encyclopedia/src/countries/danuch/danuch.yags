@@ -33,6 +33,7 @@
         <style name="module"/>
 
         <references>
+            <see uri="druids">Druids</see>
         </references>
 
         <topics>
@@ -66,9 +67,37 @@
 
             <para>
                 Danuch is a hilly, lightly forested land, heavily 
-                populated compared to neighbouring regions.
+                populated compared to neighbouring regions. During
+                the 960s, a great plague swept across the southern
+                half of the kingdom, killing many people. The
+                Arch Druid declared the land cursed, and ordered
+                that everyone move north. Most did so, leaving
+                the south practically deserted. These lands were
+                eventually annexed by Weidany, and became the
+                <qv uri="scarondy-shire">shire of Scarondy</qv>.
             </para>
 
+            <sect2>
+                <title>Politics and Government</title>
+
+                <para>
+                    Danuch is a kingdom, and as such it has a king
+                    who is the nominal ruler of the country. In
+                    the case of Danuch however, the king is dead.
+                    He sits on his throne in his hall, and presides
+                    at important metings of government. He has
+                    done so for as long as anyone can remember.
+                    Officially he is alive and well, served by
+                    his chief advisor the Arch Druid. Unofficially
+                    he is dead, and the Arch Druid rules the
+                    kingdom with an iron fist.
+                </para>
+
+                <para>
+                    The current Arch Druid is Malach, and he rules
+                    from the stone citadel at Dubd Averon.
+                </para>
+			</sect2>
         </sect1>
     </body>
 </article>
