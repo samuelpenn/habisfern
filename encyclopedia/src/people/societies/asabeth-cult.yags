@@ -34,12 +34,17 @@
         <style name="module"/>
 
         <references>
+            <see uri="tharos-cult">Cult of Tharos</see>
         </references>
 
         <topics>
             <subject uri="asabeth">Asabeth</subject>
 
-            <category>Religion</category>
+            <category>Cult</category>
+
+            <topic uri="rornic-mythology">Rornic Mythology</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
         </topics>
     </header>
 

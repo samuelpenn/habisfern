@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Cult of the Law Maker</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="haltan">Haltan</subject>
+
+            <category>Cult</category>
+
+            <topic uri="rornic-mythology">Rornic Mythology</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Cult of the Law Maker</title>
+
+            <para>
+                It was Haltan the Law Maker who first gave Law to 
+                mankind, and therefore created society. The Cult 
+                is devoted to the ideals of Law, and the right of 
+                thegns to make it and enforce it.
+            </para>
+
+        </sect1>
+    </body>
+</article>

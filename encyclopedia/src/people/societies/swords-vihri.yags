@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Swords of Vihri</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="swords-vihri">Swords of Vihri</subject>
+
+            <category>Cult</category>
+
+            <topic uri="herzon">Herzon</topic>
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Swords of Vihri</title>
+
+            <para>
+                The Swords of Vihri are an assassin cult based in 
+                Herzon. They are feared in the Northern kingdoms, 
+                but are relatively unknown elsewhere.
+            </para>
+
+            <para>
+                The Swords are most known for their bloody 
+                takeover of Herzon, which they still rule with an 
+                iron fist.
+            </para>
+
+            <para>
+                Many of the cult are fanatical devotees of Vihri, 
+                though this isn't a requisite for joining. 
+                Several are berserker warriors, whom are a feared 
+                public face of the cult.
+            </para>
+
+        </sect1>
+    </body>
+</article>

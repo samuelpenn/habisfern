@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Bards</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="bards">Bards</subject>
+
+            <category>Society</category>
+
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="bryteland">Bryteland</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Bards</title>
+
+            <para>
+                Bards are members of an elite religious order 
+                which dates back to before the original 
+                migrations. They are far more than just singers 
+                and storytellers - they are preservers of culture 
+                and knowledge which goes back many centuries.
+            </para>
+
+            <para>
+                Because of their considered importance, bards are 
+                protected by law in many lands. They may be 
+                expelled from a domain - and are expected to 
+                honour such expulsions - but they may not be 
+                harmed or manhandled (the honouring of expulsions 
+                is there to ensure that force doesn't become necessary).
+            </para>
+
+            <para>
+                To back this up, there are plenty of 
+                superstitions around the harming of bards, which 
+                helps to enforce the law amongst the lawless.
+            </para>
+
+            <para>
+                Bards have no structured organisation. 
+                Apprentices are taught by a master bard, who then 
+                teaches their apprentice and so on. The training 
+                of a bard is considered of upmost importance, for 
+                a badly trained bard can corrupt the knowledges 
+                they pass on to others.
+            </para>
+
+            <para>
+                The most famous bards have reputations which go 
+                far and wide, and to be recognised as one who has 
+                studied under such personages will provide a 
+                young bard with much reputation. Indeed, the 
+                lineage of bards, from masters to apprentices is 
+                considered of great importance, if not only to 
+                check the validity of a bard's claim to the title.
+            </para>
+
+            <para>
+                Bards are held to be neutral in all disputes, 
+                though this is rarely the case, especially when 
+                the majority are housed by individual lords on a 
+                permanent basis.
+            </para>
+
+            <para>
+                However, bards are not expected to bare arms, or 
+                take up arms against others. Fighting bards do 
+                exist (especially in Bryteland and Tanwall), and 
+                are considered to have waived their special 
+                rights to protection from harm.
+            </para>
+
+        </sect1>
+    </body>
+</article>
