@@ -18,18 +18,15 @@
         </cvsinfo>
 
         <license>
-            <year>2002</year>
+            <year>2004</year>
             <holder>Samuel Penn</holder>
             <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
             <text>
                 Permission is granted to copy, distribute and/or
                 modify this document under the terms of the GNU
-                Free Documentation License, Version 1.1 or any
-                later version published by the Free Software
-                Foundation; with no invariant sections, with no
-                Front-Cover Texts, and with no Back-Cover Texts.
-                A copy of the license is included in the section
-                entitled "GNU Free Documentation License".
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
             </text>
         </license>
 
@@ -82,10 +79,124 @@
                 </para>
             </sect2>
 
+            <sect2>
+                <title>Myths and Legends</title>
 
+                <sect3>
+                    <title>The Head of Rorn</title>
+
+                    <para>
+                        After his death, Rorn's head was taken by his sister
+                        <qv uri="neya">Neya</qv>, and set upon a mountain
+                        top in Tarvallah. From there, it is said that it
+                        still watches the northern glaciers, guarding
+                        against their return.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Theft of Helvanger</title>
+
+                    <para>
+                        <qv uri="asabeth">Asabeth</qv>, who is jealous of
+                        Rorn's influence over the other gods, persuades
+                        her husband, Haltan, to retrieve for himself the
+                        sword <qv uri="helvanger">Helvanger</qv>, saying
+                        that it would bring him great status.
+                    </para>
+
+                    <para>
+                        She knows that Haltan would not go on any adventure
+                        without his brother, and indeed he invites Rorn to
+                        go with him. Before they reach the <qv uri="brokki">
+                        Brokki's</qv> castle however, they are seperated.
+                        The brothers meet a beautiful woman called Cusyppe
+                        whilst on the road. Rorn, as always, is attracted to
+                        her, but she is attracted to Haltan. Pleased at
+                        finally beating his brother in competition for a
+                        woman, Haltan goes off with Cusyppe, leaving Rorn to
+                        wait alone.
+                    </para>
+
+                    <para>
+                        So Rorn is found by <qv uri="tharos">Tharos</qv>,
+                        the Night Walker, who has been sent by Asabeth along
+                        with Cusyppe to split the brothers, and ensure that
+                        it is only Rorn who tries to retrieve the sword.
+                    </para>
+
+                    <para>
+                        Tharos claims to know a secret way into the mountain
+                        of Brokki, which would enable Rorn to grab the sword
+                        without being seen. Annoyed with his brother, Rorn
+                        decides to go alone, and take all the credit for
+                        himself, just as Asabeth planned.
+                    </para>
+
+                    <para>
+                        Led by Tharos, Rorn finds a way into the mountain,
+                        but is sighted just as he grabs the sword Helvanger.
+                        With Tharos now nowhere to be seen, Rorn fights his
+                        way out alone, and flees southward back to his hall,
+                        clutching the dread sword by his side.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Slaying of Rorn</title>
+
+                    <para>
+                        After Rorn steals <qv uri="helvanger">Helvanger</qv>
+                        from the <qv uri="ice-giants">Ice Giants</qv>, he
+                        returns to his Hall to find his sister in law,
+                        Asabeth, waiting for the return of Haltan. She is
+                        surprised to see Rorn return, for she had expected
+                        him to be slain by the Ice Giants whilst trying to
+                        retrieve the sword, therefore enabling her to set
+                        up her husband as king of the gods.
+                    </para>
+
+                    <para>
+                        Annoyed with Haltan's incompetence for being
+                        waylaid (even though it had been her plan to waylay
+                        him), and for Rorn's competence at achieving the
+                        impossible, she decides finally to switch her
+                        loyalties to Rorn. She seduces him - a task none
+                        too difficult - and they sleep in her husband's
+                        bed.
+                    </para>
+
+                    <para>
+                        In the morning, Haltan returns and finds the two in
+                        each other's arms. Furious with both of them for
+                        betraying him, he grabs the nearest thing at hand -
+                        the sword Helvanger, and with a single blow severs
+                        his brother's head from his body.
+                    </para>
+
+                    <para>
+                        Suddenly realising what he has done, he flees into
+                        night with the sword, whilst Rorn lays dead at
+                        Asabeth's feet.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Head of Rorn</title>
+
+                    <para>
+                        After his death, Neya places the head of Rorn on the
+                        highest peak of the <qv uri="withrican-mountains">
+                        Withrican Mountains</qv>, looking north to the Ice.
+                    </para>
+
+                    <para>
+                        It is said that his head is still there, and will
+                        somebody give warning if the Ice is ever to return.
+                    </para>
+                </sect3>
+            </sect2>
         </sect1>
-
     </body>
-
 </article>
 
