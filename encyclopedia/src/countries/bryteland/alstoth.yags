@@ -2,10 +2,10 @@
 
 <article>
     <header>
-        <title>Stowell</title>
+        <title>Alstoth</title>
         <tagline>Habisfern</tagline>
 
-        <slugline>Royal seat of the Kingdom of Weidany</slugline>
+        <slugline>Brytish town</slugline>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -33,21 +33,27 @@
             </text>
         </license>
 
-
         <style name="module"/>
-        
-        <topics>
-            <topic>Habisfern</topic>
-            <topic>Euressa</topic>
-            <topic>Weidany</topic>
-            <topic>Stowell</topic>
-        </topics>
 
+        <references>
+            <parent>bryteland</parent>
+        </references>
+
+        <topics>
+            <topic>Town</topic>
+        </topics>
     </header>
-    
+
     <body>
         <sect1>
-            <title>Stowell</title>
+            <title>Alstoth</title>
+
+            <para>
+                Its name means Landing Place near the Als. Alstoth is a
+                coastal town near the border of Northwood on the river
+                Als in the kingdoms of Bryteland. It has a population of
+                about 1200.
+            </para>
         </sect1>
 
     </body>

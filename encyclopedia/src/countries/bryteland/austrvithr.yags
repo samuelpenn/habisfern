@@ -2,10 +2,10 @@
 
 <article>
     <header>
-        <title>Stowell</title>
+        <title>Austrvithr</title>
         <tagline>Habisfern</tagline>
 
-        <slugline>Royal seat of the Kingdom of Weidany</slugline>
+        <slugline>The East Wood</slugline>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -33,21 +33,26 @@
             </text>
         </license>
 
-
         <style name="module"/>
-        
-        <topics>
-            <topic>Habisfern</topic>
-            <topic>Euressa</topic>
-            <topic>Weidany</topic>
-            <topic>Stowell</topic>
-        </topics>
 
+        <references>
+            <parent>bryteland</parent>
+        </references>
+
+        <topics>
+            <topic>Geography</topic>
+        </topics>
     </header>
-    
+
     <body>
         <sect1>
-            <title>Stowell</title>
+            <title>Austrvithr</title>
+
+            <para>
+                The name given to the forests in Bryteland east of the
+                Glittertind. They are mostly deciduous, and the land
+                is remarkably flat until it reaches the northern hills.
+            </para>
         </sect1>
 
     </body>

@@ -7,19 +7,60 @@ rm -fr $BASEDIR $TMPDIR
 
 mkdir $BASEDIR $TMPDIR
 
+#
+# First of all, build the encyclopedia entries as HTML from the
+# XML sources, placing them in the correct (letter) directory.
+#
 for letter in a b c d e f g h i j k l m n o p q r s t u v w x y z
 do
     mkdir $BASEDIR/$letter
     find src -name "$letter*.yags" -print > $TMPDIR/$letter
-    
+
     if [ -s $TMPDIR/$letter ]
     then
         echo "Processing $letter: "`wc -l $TMPDIR/$letter | awk '{ print $1}'`
 
-        cat $TMPDIR/$letter | while read file
+        cat $TMPDIR/$letter | while read infile
         do
-            yags2html $file /usr/share/web/xsl/yagsbook/html/yagsbook.xsl entries
+            htmlfile=`echo $infile | sed s/yags/html/`
+            outfile=$BASEDIR/$letter/`basename $htmlfile`
+            yags2html $infile /usr/share/web/xsl/yagsbook/html/yagsbook.xsl $outfile
+            
+            title=`xsltproc xsl/title.xsl $infile | grep -v version`
+            slugline=`xsltproc xsl/slugline.xsl $infile | grep -v version`
+            
+            link=`echo $outfile | sed "s/entries\///"`
+            echo "<a href=\"$link\">$title</a>, $slugline" >> $BASEDIR/$letter.html
         done
     fi
 done
 
+
+#
+# Now generate the index pages for everything.
+#
+MAINFILE=$TMPDIR/mainfile.html
+for letter in a b c d e f g h i j k l m n o p q r s t u v w x y z
+do
+    file=entries/$letter.html
+    if [ -s $file ]
+    then
+        number=`wc -l $file | awk '{ print $1}'`
+        heading=`echo $letter | tr "a-z" "A-Z"`
+        echo "<h2>$heading</h2>" >> $MAINFILE
+        echo "<p>" >> $MAINFILE
+
+        cat $file | while read entry
+        do
+            echo $entry >> $MAINFILE
+            echo "<br/>" >> $MAINFILE
+        done
+        echo "</p>" >> $MAINFILE
+    fi
+done
+
+cat templates/index.html > entries/index.html
+cat $MAINFILE >> entries/index.html
+echo "        </div>" >> entries/index.html
+echo "    </body>" >> entries/index.html
+echo "</html>" >> entries/index.html

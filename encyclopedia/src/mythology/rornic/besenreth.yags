@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Besenreth</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Shadow of Fenya</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+            <parent>daegian</parent>
+            <see>besenreth</see>
+            <see>estror</see>
+            <see>gitriw</see>
+            <see>haltan</see>
+            <see>moern</see>
+            <see>reas</see>
+            <see>rim</see>
+            <see>thot</see>
+            <see>yagma</see>
+            <see>meam</see>
+            <see>pel</see>
+            <see>tharos</see>
+            <see>walgi</see>
+            <see>brokki</see>
+            <see>farfthi</see>
+        </references>
+
+        <topics>
+            <topic>Habisfern</topic>
+            <topic>Euressa</topic>
+            <topic>Weidany</topic>
+            <topic>Stowell</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Besenreth</title>
+
+            <para>
+                It is said by some that when Fenya was born, she had a
+                sister who was disliked by the gods, and was cast out
+                from their realm. She hid in the dark places of the
+                world, and came to know how to move and live on the
+                borders of society.
+            </para>
+
+            <para>
+                After Rorn was slain, and Fenya took up the guiding of
+                the Moon on its path around the world, so Besenreth
+                came to live in the shadow of her sister. She would
+                come out at night, keeping to the shadows cast by the
+                Moon so that none would see her.
+            </para>
+
+        </sect1>
+
+    </body>
+
+</article>
+

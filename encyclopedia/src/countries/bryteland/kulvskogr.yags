@@ -2,10 +2,10 @@
 
 <article>
     <header>
-        <title>Stowell</title>
+        <title>Kulvskogr</title>
         <tagline>Habisfern</tagline>
 
-        <slugline>Royal seat of the Kingdom of Weidany</slugline>
+        <slugline>Coastal woodlands</slugline>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -33,21 +33,29 @@
             </text>
         </license>
 
-
         <style name="module"/>
-        
-        <topics>
-            <topic>Habisfern</topic>
-            <topic>Euressa</topic>
-            <topic>Weidany</topic>
-            <topic>Stowell</topic>
-        </topics>
 
+        <references>
+            <parent>bryteland</parent>
+        </references>
+
+        <topics>
+            <topic>Geography</topic>
+        </topics>
     </header>
-    
+
     <body>
         <sect1>
-            <title>Stowell</title>
+            <title>Kulvskogr</title>
+
+            <para>
+                The name given to the dense woods which cover the
+                southwestern coast of Bryteland. There are many inlets
+                along this coast where small villages have grown up
+                surviving by fishing, and raiding more southern lands.
+                Most of them have a longship which is used for the
+                latter purpose.
+            </para>
         </sect1>
 
     </body>

@@ -2,10 +2,10 @@
 
 <article>
     <header>
-        <title>Stowell</title>
+        <title>Myrdal</title>
         <tagline>Habisfern</tagline>
 
-        <slugline>Royal seat of the Kingdom of Weidany</slugline>
+        <slugline></slugline>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -33,21 +33,24 @@
             </text>
         </license>
 
-
         <style name="module"/>
-        
-        <topics>
-            <topic>Habisfern</topic>
-            <topic>Euressa</topic>
-            <topic>Weidany</topic>
-            <topic>Stowell</topic>
-        </topics>
 
+        <references>
+            <parent>bryteland</parent>
+        </references>
+
+        <topics>
+            <topic>Town</topic>
+        </topics>
     </header>
-    
+
     <body>
         <sect1>
-            <title>Stowell</title>
+            <title>Myrdal</title>
+
+            <para>
+                A hill town, with a population of just under a thousand.
+            </para>
         </sect1>
 
     </body>

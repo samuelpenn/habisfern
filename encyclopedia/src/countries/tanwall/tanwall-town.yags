@@ -2,10 +2,10 @@
 
 <article>
     <header>
-        <title>Stowell</title>
+        <title>Tanwall</title>
         <tagline>Habisfern</tagline>
 
-        <slugline>Royal seat of the Kingdom of Weidany</slugline>
+        <slugline></slugline>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -33,21 +33,31 @@
             </text>
         </license>
 
-
         <style name="module"/>
-        
-        <topics>
-            <topic>Habisfern</topic>
-            <topic>Euressa</topic>
-            <topic>Weidany</topic>
-            <topic>Stowell</topic>
-        </topics>
 
+        <references>
+            <parent>bryteland</parent>
+            <see>tanwall</see>
+            <see>tanwall-hills</see>
+        </references>
+
+        <topics>
+            <topic>Town</topic>
+        </topics>
     </header>
-    
+
     <body>
         <sect1>
-            <title>Stowell</title>
+            <title>Town of Tanwall</title>
+
+            <para>
+                A small town based around a stone keep in the Tanwall hills.
+                The town overlooks the place where the Brytish were
+                defeated in their war against Tanwall, and where the
+                agreement was reached by the kings of Tanwall to form an
+                alliamce against the greater enemy. The town is part of
+                Tanwall itself, and has a population of 600.
+            </para>
         </sect1>
 
     </body>

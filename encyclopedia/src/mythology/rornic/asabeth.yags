@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Asabeth</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Warrior goddess</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+
+        <style name="module"/>
+        
+        <references>
+            <parent>daegian</parent>
+            <see>estror</see>
+            <see>gitriw</see>
+            <see>haltan</see>
+            <see>moern</see>
+            <see>reas</see>
+            <see>rim</see>
+            <see>thot</see>
+            <see>yagma</see>
+            <see>meam</see>
+            <see>pel</see>
+            <see>tharos</see>
+            <see>walgi</see>
+            <see>brokki</see>
+            <see>farfthi</see>
+        </references>
+
+        <topics>
+            <topic>Habisfern</topic>
+            <topic>Euressa</topic>
+            <topic>Weidany</topic>
+            <topic>Stowell</topic>
+        </topics>
+    </header>
+    
+    <body>
+        <sect1>
+            <title>Asabeth</title>
+            
+            <para>
+                Asabeth is unrelated to the rest of the gods - she came
+                from the East while mankind was living in Tarvallah. She
+                came with the Eastlings (those men who came after the
+                followers of Rorn, and dwelt to the east of Tarvallah,
+                and who did not look to Rorn as their god).
+            </para>
+            
+            <para>
+                Asabeth is a powerful goddess of war and revenge. She
+                demands the sacrifice of prisoners taken in war
+                (generally, by nailing them to a tree).
+            </para>
+
+            <para>
+                Asabeth fought with Haltan at the borders of Tarvallah,
+                and she prevailed, taking Haltan as her prisoner,
+                chaining him in his own hall. She raped him, and kept
+                him as prisoner until after the birth of their children
+                (Fenya, Bis and Neya). She freed Haltan, and gave
+                herself to him as his wife. She deserted her people,
+                and left them to suffer outside Tarvallah.
+            </para>
+
+            <para>
+                She is a warrior goddess, quick to anger, and eager for
+                the death of her enemies. Asabeth is considered to be
+                barbaric by most people, though various cults to her
+                have risen up over time, most notably in Estwed.
+            </para>
+        </sect1>
+
+    </body>
+
+</article>
+

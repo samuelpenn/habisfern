@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Bryteland</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Kingdoms of Bryteland</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see>tanwall</see>
+            <see>weidany</see>
+        </references>
+
+        <topics>
+            <topic>Country</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Kingdoms of Bryteland</title>
+
+            <para>
+                The north western coast was settled soon after the
+                Betrayal by people led by the Rornic king Bryta, who
+                had sworn oaths to Voltan (Haltan) to find a new land
+                for his people, and to dedicate a place to him if such
+                a suitable land was found.
+            </para>
+
+            <para>
+                The place he found, on the northwest coast of the isle,
+                became Bryteland.
+            </para>
+
+            <para>
+                The people of Bryteland are a mixture of Rornic and
+                Tannish stock, and their language borrows heavily from
+                both, though it is much more similar to modern day
+                Tannish, than modern day Rornic.
+            </para>
+
+            <para>
+                Bryteland consists of (currently) five kingdoms. The
+                relationship between them is generally cool at best,
+                openly hostile at worst. Cross-border raiding is common,
+                but then again intra-Kingdom raids are only slightly
+                less so between rival nobles.
+            </para>
+
+            <para>
+                The Kingdom of Rorn considers them barbarians, and
+                indeed, the Brytish are far more violent, with a
+                somewhat simpler view of the world. They have an
+                extensive law system however. Their poetry at least
+                equals that of their southern neighbours, and reading
+                and writing is reasonably common, thanks in part to the
+                influence of the cult of Ashek.
+            </para>
+
+        </sect1>
+        
+        <sect1>
+            <title>The Kingdoms</title>
+            
+            <sect2>
+                <title>Harald</title>
+                
+                <para>
+                    Harald is King of the south eastern Kingdom, which
+                    borders onto <lookup uri="weidany">Weidany</lookup>.
+                    He is 18, violent and strong. When he isn't leading
+                    his men on a raid to bash in someone's skull, he
+                    can actually be quite charming, though these times
+                    are rare.
+                </para>
+                
+                <para>
+                    He was fostered with Osric Edgarson, and the two get
+                    on quite well, though they have had no dealings with
+                    each other since they both became kings. He is
+                    cousin to Osric, and nephew to Edgar.
+                </para>
+                
+                <para>
+                    His kingdom has a lot of forts along the borders with
+                    Weidany and Tanwall. He has about 3000 hides under
+                    his control, and can call on about 600 fully trained
+                    warriors when required. Personally, he has 30 huscurls
+                    who act as his bodyguards and personal raiding party.
+                </para>
+            </sect2>
+            
+            <sect2>
+                <title>Edgar</title>
+                
+                <para>
+                    Edgar's Kingdom covers the middle coastal regions.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Ethelred Haraldson</title>
+                
+                <para>
+                    This is a landlocked kingdom which sits on the border
+                    with Tanwall. Ethelred has been fighting border wars
+                    with Tanwall for the last twenty years, though few
+                    battles have ever involved more than a dozen men or
+                    so. He gains concessions from the other Kingdoms to
+                    aid in the defence against Tanwall, however there
+                    are rumours that he is keeping the fighting going,
+                    and making it sound worse than it is, in order to
+                    keep the monatory donations flowing.
+                </para>
+
+                <para>
+                    Ethelred is 42, a tall thin man, though quick both of
+                    foot and mind, with a keen sense of politics.
+                </para>
+
+                <para>
+                    A year ago, Harald stopped providing Ethelred with
+                    aid, and tensions between the two kingdoms have
+                    started to rise.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Osric the Bastard</title>
+
+                <para>
+                    A 55 year old man who rules the middle north coast.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Osric Edgarson</title>
+
+                <para>
+                    Forested northern portions.
+                </para>
+            </sect2>
+        </sect1>
+
+    </body>
+
+</article>
+

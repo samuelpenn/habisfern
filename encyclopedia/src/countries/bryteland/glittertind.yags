@@ -2,10 +2,10 @@
 
 <article>
     <header>
-        <title>Stowell</title>
+        <title>Glittertind</title>
         <tagline>Habisfern</tagline>
 
-        <slugline>Royal seat of the Kingdom of Weidany</slugline>
+        <slugline>Fortified town</slugline>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -33,21 +33,26 @@
             </text>
         </license>
 
-
         <style name="module"/>
-        
-        <topics>
-            <topic>Habisfern</topic>
-            <topic>Euressa</topic>
-            <topic>Weidany</topic>
-            <topic>Stowell</topic>
-        </topics>
 
+        <references>
+            <parent>bryteland</parent>
+        </references>
+
+        <topics>
+            <topic>Town</topic>
+        </topics>
     </header>
-    
+
     <body>
         <sect1>
-            <title>Stowell</title>
+            <title>Glittertind</title>
+
+            <para>
+                A large fortified town on the northwestern coast of
+                Bryteland. It is stone walled, with a keep overlooking
+                the harbour. It has a population of about 3,000.
+            </para>
         </sect1>
 
     </body>
