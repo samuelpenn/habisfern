@@ -91,6 +91,7 @@
                 
                 <advantage name="Blackmail" type="background">
                     <cost points="3"/>
+                    <prerequisite>House of Caewlin</prerequisite>
                     
                     <description>
                         <para>
@@ -104,6 +105,7 @@
                 
                 <advantage name="Quality equipment" type="background">
                     <cost points="2"/>
+                    <prerequisite>House of Caewlin</prerequisite>
                     
                     <description>
                         <para>
@@ -114,6 +116,37 @@
                             This may give a reaction bonus as others
                             assume the character is more important than
                             they actually are.
+                        </para>
+                    </description>
+                </advantage>
+                
+                <advantage name="Master of Intrigue" type="background">
+                    <cost points="3"/>
+                    <prerequisite>House of Caewlin</prerequisite>
+                    
+                    <description>
+                        <para>
+                            The character has been brought up amongst
+                            political intrigue of the highest calibre, and
+                            such is second nature to them. Gain +1 to
+                            charisma or intelligence when performing
+                            guile (intrigue) or politics checks.
+                        </para>
+                    </description>
+                </advantage>
+                
+                <advantage name="Proud Parents" type="background">
+                    <cost points="3"/>
+                    <prerequisite>House of Caewlin</prerequisite>
+                    
+                    <description>
+                        <para>
+                            The character's parents have always spoken
+                            well of him, to the extent that his reputation
+                            (deserved or otherwise) will proceed him.
+                            Reactions from other nobles who have heard
+                            of him will be of one level better than
+                            normal.
                         </para>
                     </description>
                 </advantage>

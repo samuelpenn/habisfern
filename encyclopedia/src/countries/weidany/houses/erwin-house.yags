@@ -146,6 +146,51 @@
                         </description>
                     </advantage>
 
+                    <advantage name="Access to Wealth" type="background">
+                        <cost points="3"/>
+                        <prerequisite>House of Erwin</prerequisite>
+                        
+                        <description>
+                            <para>
+                                The character has access to money beyond
+                                what she herself actually owns, probably
+                                from generous relations. The character's
+                                wealth level is increased by one, though
+                                the extra funds have to be asked for.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Political Sense" type="background">
+                        <cost points="2"/>
+                        <prerequisite>House of Erwin</prerequisite>
+                        
+                        <description>
+                            <para>
+                                The character has been instilled with lots
+                                of common sense regarding politics. Any
+                                time the player chooses to do something
+                                that may be 'disruptive', the GM should
+                                warn them and give them a chance to
+                                rethink. This House breeds conformity.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Aura of Reason" type="background">
+                        <cost points="3"/>
+                        <prerequisite>House of Erwin</prerequisite>
+                        
+                        <description>
+                            <para>
+                                The character comes across as reasonable
+                                and balanced. Whenever they are trying to
+                                calm a situation or point forward a
+                                reasonable point of view, they gain +1 to
+                                their charisma.
+                            </para>
+                        </description>
+                    </advantage>
                 </advantages>
             </sect2>
         </sect1>

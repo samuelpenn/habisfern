@@ -106,6 +106,21 @@
                             </para>
                         </description>
                     </advantage>
+                    
+                    <advantage name="Strong at magic" type="advantage">
+                        <cost points="4"/>
+                        <prerequisite>House of Oswald</prerequisite>
+    
+                        <description>
+                            <para>
+                                The House of Aeddan is noted for its members
+                                exceptional ability with magic. Those who take this
+                                advantage gain +1 to intelligence when trying to
+                                learn a new Rune.
+                            </para>
+                        </description>
+                    </advantage>
+
                 </advantages>
             </sect2>
         </sect1>
