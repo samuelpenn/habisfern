@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Wizards</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="wizards">Wizards</subject>
+
+            <category>Wizards</category>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Wizards</title>
+
+            <para>
+                Wizards are those who are capable in the use of 
+                magic. Respected, yet feared, the majority spend 
+                their powers on the weather and fields, ensuring 
+                good harvests.
+            </para>
+
+            <para>
+                Most villages will have a wizard of their own, 
+                though most are quite limited in their power. A 
+                few hower can call on the powers of earth and 
+                fire to cause destruction, or can control the 
+                minds of men.
+            </para>
+
+            <para>
+                For all of this though, there is a price to be 
+                paid - the price of magic.
+            </para>
+
+            <para>
+                Using magic opens the mind to strange powers, 
+                dreams which haunt the sleep of the wizard, 
+                dreams which can manifest in reality. Eventually, 
+                all wizards go insane, either closing themselves 
+                to the world, or in an outward show of insanity 
+                and violence.
+            </para>
+
+            <para>
+                It is for this latter reason that wizards are 
+                feared. They are useful, even needed, but they 
+                cannot be trusted.
+            </para>
+
+        </sect1>
+    </body>
+</article>

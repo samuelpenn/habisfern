@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Habisfern</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="habisfern">Habisfern</subject>
+
+            <category>Town</category>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Habisfern</title>
+
+            <para>
+                Habisfern is a small town in Weidany, and also 
+                the site of one of the oldest temples of Haltan. 
+                The site is also famous for being where the 
+                Habisfern Scrolls are stored.
+            </para>
+
+            <para>
+                Habisfern has always been a centre of learning, 
+                and the temple here reflects this. Originally a 
+                stone circle and cave, the cave system has  since 
+                been greatly expanded and built upon. Walls now 
+                surround the stones, though they are open to the 
+                sky. A stone tower blocks the front of the cave, 
+                standing against the cliff face.
+            </para>
+
+            <para>
+                The town has a population of about four hundred.
+            </para>
+
+        </sect1>
+    </body>
+</article>
