@@ -117,7 +117,7 @@
                     60-70 years, the idea of kingship fades from Cadwold
                     society. Kings are chosen as warleaders when several
                     tribes unite against a common foe, but loose power after
-                    that. This is how things are in the rest of Danuch.
+                    that.
                 </para>
             </sect2>
 
@@ -154,6 +154,33 @@
                     <entry target="60" value="Hywed"/>
                     <entry target="220" value="Elad"/>
                 </targetlist>
+
+                <sect3>
+                    <title>Relationship with the Druids</title>
+
+                    <para>
+                        The power of the kings has been broken forever
+                        in Danuch, and though the lords do hold power,
+                        they are considered second to the theocracy.
+                        This is not a situation the chieftains of
+                        Cadwold wish to replicate within their own
+                        lands, and there are many who believe that
+                        giving the Druids any influence in Cadwold
+                        again would be a mistake.
+                    </para>
+
+                    <para>
+                        There are some though that believe they can
+                        gain help from the Druids whilst preventing
+                        them from gaining power. Others believe the
+                        promises of the Druids when they say that they
+                        have no desire to rule beyond their current
+                        borders. The cultures of Cadwold and Danuch
+                        have diverged massively since their seperation
+                        and what works for one would not work for the
+                        other.
+                    </para>
+                </sect3>
             </sect2>
         </sect1>
     </body>

@@ -33,6 +33,7 @@
         <style name="module"/>
 
         <references>
+            <see uri="danuch">Danuch</see>
             <see uri="trinity-of-powers">Trinity of Powers</see>
             <see uri="yagma">Yagma</see>
         </references>
@@ -71,6 +72,62 @@
                 venerated in <qv uri="taneith">Taneith</qv>, though again,
                 the Goddess is more a Force of Life, than of Death.
             </para>
+
+            <sect2>
+                <title>Worship of Yammath</title>
+
+                <para>
+                    Yammath was originally a goddess of the common people,
+                    with a female order of priestesses leading ceremonies
+                    dedicated to her. It is said that at one time she had
+                    a consort, who may of bean similar to the Horned God
+                    of Taneith, but all mention of him has long since
+                    been erased from the traditional mythology.
+                </para>
+
+                <para>
+                    In <qv uri="cadwold">Cadwold</qv> the worship of
+                    Yammath is still led by the druids, who are now
+                    always male. Part of the old female traditions still
+                    exist amongst the outlaws in <qv uri="tuffin-wood">
+                    Tuffin Wood</qv>, though they now worship
+                    Besenreth rather than Yammath. Worship is performed
+                    around a holy tree or stone, and an animal sacrifice
+                    will often be made. The spilling of blood is seen
+                    as a symbol of Her role in the transition from life
+                    to death. Just as important, but rarer, are those
+                    ceremonies that celebrate transition from death to
+                    life, which is symbolised by human birth. The birth
+                    of a child is considered of high significance, and
+                    it happens at a public ceremony which the whole
+                    village attends.
+                </para>
+
+                <para>
+                    Most ceremonies are fertility based, asking for good
+                    luck in the coming harvest.
+                </para>
+
+                <sect3>
+                    <title>The Druids</title>
+
+                    <para>
+                        The title of Druid has always been used to refer
+                        to the wise holy men of Weidanic society. In
+                        Cadwold, they take an advisory role, having no
+                        legal authority, but generally enough respect in
+                        order to effectively steer people in what they
+                        consider to be the right direction.
+                    </para>
+
+                    <para>
+                        In Danuch, things are different. The Rornic invasions
+                        forced the Druids to ally with the Elders, and to
+                        take an active roll in the defense of their lands.
+                        With magical power, came legal power.
+                    </para>
+                </sect3>
+            </sect2>
         </sect1>
     </body>
 </article>
