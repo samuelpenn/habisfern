@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Great Winter</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="belogan-great-winter">Great Winter</subject>
+
+            <category>Mythical</category>
+            <topic uri="belogan-mythology">Belogan Mythology</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Great Winter</title>
+
+            <para>
+                The Great Winter engulfed the world in Ice, crushing the 
+                cities of man. The Winter followed on the heals of the 
+                Ice Giants, who stampeded across the northern plains of 
+                the Old World unimpeded by the armies of  the city state 
+                of Ubra.
+            </para>
+
+            <para>
+                The giants are led by Prince Snaw,  who wields the axe 
+                <e>Foe of Summer</e>.  The city of Ubra falls, and the 
+                lands of men overrun as far south as Ideria.
+            </para>
+
+            <para>
+                Men are recruited into the ranks of the Ice, with 
+                promises of wealth and power if they betray their 
+                brothers. These march under the black banner of  Tartrik 
+                Khanos, also known as the Black King of Sabra. He was 
+                one of the first to betray his kind, and earned much 
+                hatred from the south.
+            </para>
+
+            <para>
+                For two generations the Ice was held at bay, but man was 
+                weakened by the harash winters, poor summers and 
+                incessent raiding by those under the Black Banner.
+            </para>
+
+            <para>
+                Eventually the armies of Snaw and the Black King swept 
+                across the plains, followed closely by the ice cliffs. 
+                The walls of Ideria fell, and the north was abondoned.
+            </para>
+
+        </sect1>
+    </body>
+</article>
