@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Gaers Lake</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Marshy lake in Scarondy</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="gaers-lake">Gaers Lake</subject>
+
+            <category>Lake</category>
+
+            <topic uri="scarondy-shire">Scarondy Shire</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+
+    </header>
+
+    <body>
+        <sect1>
+            <title>Gaers Lake</title>
+
+            <para>
+                A lake fed from <qv uri="dagsdil-moor">Dagsdil Moor</qv>
+                and the <qv uri="teal-river">Teal River</qv>. It is a
+                shallow lake, its shores marshy and indistinct. The
+                southwestern shores of the lake are particularly difficult
+                to define, for they consist of a league of wetlands half
+                way between solid ground and water. There are regions here
+                were small dead woods can be found sprouting from the water.
+            </para>
+            
+            <para>
+                The name means <e>Lake of Grass</e>, and in dry years
+                many low islands become visible, quickly sprouting
+                grasses and other plant life before vanishing the following
+                year as the lake rises again.
+            </para>
+            
+            <para>
+                The lake drains through <qv uri="wicky-fen">Wicky Fen</qv>
+                and ultimately to the Teal River.
+            </para>
+            
+            <sect2>
+                <title>Population</title>
+                
+                <para>
+                    There are a number of villages around the shores of
+                    the lake, the inhabitants of which make their living
+                    farming or fishing.
+                </para>
+                
+                <para>
+                    <qv uri="pikely">Pikely town</qv> is on the northern
+                    shore, and is the largest settlement on the lake.
+                </para>
+            </sect2>
+        </sect1>
+
+    </body>
+
+</article>
+
