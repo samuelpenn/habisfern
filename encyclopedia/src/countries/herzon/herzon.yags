@@ -2,10 +2,10 @@
 
 <article>
     <header>
-        <title>Niemstarg</title>
+        <title>Herzon</title>
         <tagline>Habisfern</tagline>
 
-        <slugline/>
+        <slugline>Theocracy of Vihri</slugline>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -33,12 +33,12 @@
         <style name="module"/>
 
         <references>
-            <see uri="urazen">Urazen</see>
-            <see uri="herzon">Herzon</see>
+            <see uri="urazen">Niemstarg</see>
+            <see uri="swords-vihri">Swords of Vihri</see>
         </references>
 
         <topics>
-            <subject uri="niemstarg">Niemstarg</subject>
+            <subject uri="herzon">Herzon</subject>
 
             <category>Country</category>
 
@@ -49,20 +49,26 @@
 
     <body>
         <sect1>
-            <title>Kingdom of Niemstarg</title>
+            <title>Theocracy of Herzon</title>
 
             <para>
-                The Kingdom of Niemstarg is a rich nation on the northern
-                coast of Euresssa. Under the rule of King Steffan III,
-                Niemstarg combines stability and a powerful, well trained
-                army which gains experience through mercenary deals with
-                the country's neighbours.
+                Herzon is a nation ruled by the bloody assassin cult the
+                <qv uri="swords-vihri">Swords of Vihri</qv>. Two hundred
+                years ago, an uprising by this little known religion cult
+                murdered the Duke, took over the country, and declared
+                independence from <qv uri="niemstarg">Niemstarg</qv>. A
+                brief and bloody battle followed, but the cult kept what
+                it had claimed, and have since then ruled with an iron
+                fist over the populace.
             </para>
 
             <para>
-                Niemstarg has a number of mines - tin and lead being
-                plentiful, but also gold and silver. These give guarenteed
-                wealth to the nation.
+                At the time of the uprising, several profitable mines had
+                been discovered in the Wathig Hills. However, within a
+                few dozen years they had either been exhausted, or turned
+                out to give poor quality ores. The promises of riches for
+                this small nation were dashed, and it is now a poor
+                neighbour of Niemstarg.
             </para>
         </sect1>
     </body>
