@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Kurbia</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="pavnik">Pavnik</see>
+            <see uri="ranistan">Ranistan</see>
+            <see uri="false-mountains">False Mountains</see>
+            <see uri="white-spine-mountains">White Spine Mountains</see>
+        </references>
+
+        <topics>
+            <subject uri="kurbia">Kingdom of Kurbia</subject>
+
+            <category>Country</category>
+
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="kurbia">Kurbia</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Kingdom of Kurbia</title>
+
+            <para>
+                The coastal kingdom of Kurbia lays east of the
+                <qv uri="white-spine-mountains">White Spine Mountains</qv>,
+                near the north-east corner of Euressa. It is bordered in the
+                north by mountains and sea, to the west by the
+                <qv uri="false-mountains">False Mountains</qv> and
+                <qv uri="pavnik">Pavnik</qv>. South lays the
+                <qv uri="ranistan">Kingdom of Ranistan</qv>, with which
+                Kurbia is often at war.
+            </para>
+        </sect1>
+    </body>
+</article>
