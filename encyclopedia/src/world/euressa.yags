@@ -58,7 +58,7 @@
                 forest.
             </para>
 
-            <import-map uri="euressa" scale="0" thumb="400"/>
+            <import-map uri="euressa" scale="0" thumb="320"/>
 
             <para>
                 The human population of Euressa arrived here from the
@@ -113,6 +113,45 @@
                 Druids are driven out, and the full settlement of Euressa
                 begins.
             </para>
+            
+            <sect2>
+                <title>Cultures of Euressa</title>
+                
+                <para>
+                    Across Euressa there are five main distinct cultures
+                    which are found today, these being the People of Rorn,
+                    the Brytish, the Northern Kingdoms, the Eastern
+                    Kingdoms and Taneith.
+                </para>
+                
+                <para>
+                    Three of them - Rorn, Brytish and the Northern Kingdoms
+                    are quite similar, and are closely related to each
+                    other. Those of the Isle of Taneith and the Eastern
+                    Kingdoms are somewhat different however, being cut off
+                    from the others by geography.
+                </para>
+                
+                <sect3>
+                    <title>The People of Rorn</title>
+                </sect3>
+                
+                <sect3>
+                    <title>The Brytish</title>
+                </sect3>
+                
+                <sect3>
+                    <title>Isle of Taneith</title>
+                </sect3>
+                
+                <sect3>
+                    <title>The Northern Kingdoms</title>
+                </sect3>
+                
+                <sect3>
+                    <title>The Eastern Kingdoms</title>
+                </sect3>
+            </sect2>
         </sect1>
     </body>
 </article>
