@@ -64,11 +64,69 @@
             <title>Oforley</title>
 
             <para>
-                The southernmost of the two western islands off the
+                The southernmost of the two large western islands off the
                 Brytish coast, it is known as the Island of Night due to
                 the perpetual darkness within the thick forests which
-                cover the isle.
+                cover the central portions of the isle.
             </para>
+
+            <para>
+                The island is lightly inhabited, with most settlements being
+                on the eastern coast. Farming and fishing are the main
+                livelihoods of the people here. Warriors are few, however
+                the inhabitents consider archery a major leisure activity,
+                and know how to make good use of woodland cover.
+            </para>
+
+            <sect2>
+                <title>Politics</title>
+
+                <para>
+                    The Kingdom of Oforley is currently governed by Arnfid
+                    the White, a forty something man who was once a bard.
+                    The royal seat is at Stralstad.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Places</title>
+
+                <sect3>
+                    <title>Towns</title>
+
+                    <sect4>
+                        <title>Stralstad</title>
+
+                        <para>
+                            The royal seat, has a population of about 800.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>Vangger</title>
+
+                        <para>
+                            The second largest settlement on the isle, it has
+                            a population of 500, and is mostly made up of
+                            fishermen.
+                        </para>
+                    </sect4>
+                </sect3>
+
+                <sect3>
+                    <title>Other</title>
+
+                    <sect4>
+                        <title>Norstrad</title>
+
+                        <para>
+                            Norstrad was a castle, and the seat of royal
+                            power, until it was sacked in 1186. It, and the
+                            old town around it, is now deserted.
+                        </para>
+                    </sect4>
+                </sect3>
+            </sect2>
         </sect1>
     </body>
 </article>
