@@ -47,12 +47,20 @@
 
     <body>
         <sect1>
-            <title>Pavnik</title>
+            <title>Kingdom of Pavnik</title>
 
             <para>
-                Pavnik is a Kingdom in central eastern Euressa.
+                Pavnik is a Kingdom in central eastern Euressa, its western
+                border delimited by the central mountains. It stretches from
+                <qv uri="kurbia">Kurbia</qv> in the northeast, down to
+                <qv uri="sarse">Sarse</qv> on the southwestern coast.
             </para>
 
+            <para>
+                Pavnik is mostly hilly, open terrain, cut by rivers and some
+                forests in the north. It's capital is Masnov, about twenty
+                leagues west of the Vesik Moors.
+            </para>
         </sect1>
     </body>
 </article>
