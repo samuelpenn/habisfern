@@ -55,13 +55,18 @@
             </para>
 
             <para>
-                The favoured weapon is a long two edged sword, or sometimes
-                a broad axe (a heavy two handed weapon with a single blade)
-                or the great sword. Huscurls tend to wear a chain shirt,
-                a metal helm and leather covering the arms and legs. The
-                majority of warriors however wear only quilted or padded
-                armour, with leather leggings, and carry an axe and round
-                shield with a metal rim.
+                The rank and file of Brytish infantry is normally equipped
+                with one handed axes and shields, and wear light armour.
+                The bettter equipped troops go for sword and shield, with
+                a mail hauberk. The use of mail leggings is rare in
+                Bryteland, since they favour mobility over protection.
+            </para>
+
+            <para>
+                Cavalry is rare, but is used on occasion. However, cavalry
+                are used as hit and run troops, armed with spears or
+                javelins, charging into throwing range, loosing off their
+                spears, then charging back.
             </para>
 
             <sect2>
@@ -76,11 +81,26 @@
                     <character name="Bondir" quality="2">
                         <description>
                             <race>Human</race>
-                            <age>30</age>
+                            <age>25</age>
                             <short>
                                 A freeman farmer, who knows how to defend his
                                 home but is not a professional warrior.
                             </short>
+
+                            <background>
+                                <para>
+                                    Bondsmen are not often called to fight,
+                                    except in times of need. Raids and
+                                    skirmishes between jarls is normally
+                                    limited to the professional warriors.
+                                </para>
+
+                                <para>
+                                    When a homeland needs to be defended
+                                    however, the Bondir make up the bulk of
+                                    the army.
+                                </para>
+                            </background>
                         </description>
 
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
@@ -104,52 +124,41 @@
 
                             <skills>
                                 <group name="Talents" type="talents" >
-                                    <skill name="Athletics" score="2"/>
+                                    <skill name="Athletics" score="3"/>
                                     <skill name="Awareness" score="2"/>
-                                    <skill name="Brawl" score="2"/>
-                                    <skill name="Charm" score="2"/>
+                                    <skill name="Brawl" score="3"/>
+                                    <skill name="Charm" score="3"/>
                                     <skill name="Guile" score="2"/>
                                     <skill name="Sleight" score="2"/>
                                     <skill name="Stealth" score="2"/>
-                                    <skill name="Throw" score="2"/>
-                                </group>
-
-                                <group name="Languages" type="languages" >
-                                    <skill name="Speak Brytish" score="4"/>
+                                    <skill name="Throw" score="3"/>
                                 </group>
 
                                 <group name="Knowledges" type="skills" >
+                                    <skill name="Speak Brytish" score="4"/>
                                     <skill name="Area lore (Bryteland)" score="4"/>
                                 </group>
 
-                                <group name="Profession" type="skills">
+                                <group name="Misc" type="skills">
                                     <skill name="Carpentry" score="2"/>
-                                    <skill name="Farm" score="4"/>
-                                </group>
-
-                                <group name="Misc" type="skills" >
+                                    <skill name="Farm" score="5"/>
                                     <skill name="Survival" score="2"/>
                                 </group>
 
                                 <group name="Combat" type="skills" >
-                                    <skill name="Weapon and shield" score="2"/>
+                                    <skill name="Longshaft weapon" score="3"/>
                                     <skill name="Bow" score="3"/>
                                 </group>
                             </skills>
 
-                            <advantages/>
+                            <advantages>
+                                <advantage name="Double rank" cost="2"
+                                           skill="Longshaft weapon"/>
+                            </advantages>
 
-                            <combat href="/usr/share/xml/yags/core/arms.yags">
-                                <combatstyle style="Dagger" skill="Brawl">
-                                    <primary>Dagger</primary>
-                                    <initiative attribute="agility"/>
-                                    <attack attribute="agility"/>
-                                    <defence attribute="agility"/>
-                                    <damage type="wound"/>
-                                </combatstyle>
-
-                                <combatstyle style="Spear, shield" skill="Weapon and shield">
-                                    <primary>Spear</primary>
+                            <combat>
+                                <combatstyle style="Spear, shield" skill="Longshaft weapon">
+                                    <primary>War spear</primary>
                                     <shield>Round shield</shield>
                                     <initiative attribute="agility"/>
                                     <attack attribute="dexterity"/>
@@ -158,8 +167,168 @@
                                 </combatstyle>
 
                                 <combatstyle style="Thrown spear" skill="Throw">
-                                    <mode>Thrown</mode>
-                                    <primary>Thrown spear</primary>
+                                    <primary>Hunting spear</primary>
+                                    <initiative attribute="agility"/>
+                                    <attack attribute="perception"/>
+                                    <defence attribute="dexterity"/>
+                                    <damage type="wound"/>
+                                </combatstyle>
+
+                                <combatstyle style="Bow" skill="Bow">
+                                    <primary>Short bow</primary>
+                                    <initiative attribute="agility"/>
+                                    <attack attribute="perception"/>
+                                    <defence attribute="dexterity"/>
+                                    <damage type="wound"/>
+                                </combatstyle>
+
+                                <armourstyle style="Light armour">
+                                    <armour name="Quilted jacket"/>
+                                    <armour name="Soft leather trousers"/>
+                                    <armour name="Metal helm"/>
+                                </armourstyle>
+                            </combat>
+                        </statistics>
+
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/warhammer">
+                            <attributes unit="Bondi" points="4">
+                                <attribute name="m" score="4"/>
+                                <attribute name="ws" score="2"/>
+                                <attribute name="bs" score="2"/>
+                                <attribute name="s" score="3"/>
+                                <attribute name="t" score="3"/>
+                                <attribute name="w" score="1"/>
+                                <attribute name="i" score="3"/>
+                                <attribute name="a" score="1"/>
+                                <attribute name="ld" score="6"/>
+                            </attributes>
+
+                            <special>
+                                <properties>
+                                    <warband/>
+                                </properties>
+                            </special>
+
+                            <options>
+                                <option title="Bowmen">
+                                    <properties>
+                                        <lightinfantry/>
+                                    </properties>
+                                    <notes>
+                                        Replace shield and throwing spear with
+                                        a bow.
+                                    </notes>
+                                </option>
+                            </options>
+
+                            <equipment>
+                                <item name="Throwing spear"/>
+                                <item name="Spear"/>
+                                <item name="Shield"/>
+                            </equipment>
+                        </statistics>
+                    </character>
+
+
+                    <!-- Good quality Bondir -->
+                    <character name="Bondir" quality="3">
+                        <description>
+                            <race>Human</race>
+                            <age>30</age>
+                            <short>
+                                A freeman farmer, who knows how to defend his
+                                home but is not a professional warrior.
+                            </short>
+
+                            <background>
+                                <para>
+                                    Bondsmen are not often called to fight,
+                                    except in times of need. Raids and
+                                    skirmishes between jarls is normally
+                                    limited to the professional warriors.
+                                </para>
+
+                                <para>
+                                    When a homeland needs to be defended
+                                    however, the Bondir make up the bulk of
+                                    the army.
+                                </para>
+                            </background>
+                        </description>
+
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                            <attributes size="5" soak="12">
+                                <attribute name="strength" score="3"/>
+                                <attribute name="stamina" score="3"/>
+                                <attribute name="agility" score="3"/>
+                                <attribute name="dexterity" score="3"/>
+                                <attribute name="perception" score="3"/>
+                                <attribute name="intelligence" score="3"/>
+                                <attribute name="charisma" score="3"/>
+                                <attribute name="will" score="3"/>
+                            </attributes>
+
+                            <passions>
+                                <passion name="Bravery" score="4"/>
+                                <passion name="Ego" score="4"/>
+                                <passion name="Restraint" score="4"/>
+                                <passion name="Temperence" score="4"/>
+                            </passions>
+
+                            <skills>
+                                <group name="Talents" type="talents" >
+                                    <skill name="Athletics" score="3"/>
+                                    <skill name="Awareness" score="2"/>
+                                    <skill name="Brawl" score="3"/>
+                                    <skill name="Charm" score="4"/>
+                                    <skill name="Guile" score="2"/>
+                                    <skill name="Sleight" score="2"/>
+                                    <skill name="Stealth" score="2"/>
+                                    <skill name="Throw" score="4"/>
+                                </group>
+
+                                <group name="Knowledges" type="skills" >
+                                    <skill name="Speak Brytish" score="4"/>
+                                    <skill name="Area lore (Bryteland)" score="4"/>
+                                </group>
+
+                                <group name="Misc" type="skills">
+                                    <skill name="Carpentry" score="2"/>
+                                    <skill name="Farm" score="6"/>
+                                    <skill name="Survival" score="2"/>
+                                </group>
+
+                                <group name="Combat" type="skills" >
+                                    <skill name="Longshaft weapon" score="4"/>
+                                    <skill name="Bow" score="4"/>
+                                </group>
+                            </skills>
+
+                            <advantages>
+                                <advantage name="Double rank" cost="2"
+                                           skill="Longshaft weapon"/>
+                            </advantages>
+
+                            <combat>
+                                <combatstyle style="Spear, shield" skill="Longshaft weapon">
+                                    <primary>War spear</primary>
+                                    <shield>Round shield</shield>
+                                    <initiative attribute="agility"/>
+                                    <attack attribute="dexterity"/>
+                                    <defence attribute="dexterity"/>
+                                    <damage type="wound"/>
+                                </combatstyle>
+
+                                <combatstyle style="Thrown spear" skill="Throw">
+                                    <primary>Hunting spear</primary>
+                                    <initiative attribute="agility"/>
+                                    <attack attribute="perception"/>
+                                    <defence attribute="dexterity"/>
+                                    <damage type="wound"/>
+                                </combatstyle>
+
+                                <combatstyle style="Bow" skill="Bow">
+                                    <primary>Short bow</primary>
                                     <initiative attribute="agility"/>
                                     <attack attribute="perception"/>
                                     <defence attribute="dexterity"/>
@@ -188,18 +357,33 @@
                             </attributes>
 
                             <special>
-                                Bow armed Bondir count as Light Infantry.
+                                <properties>
+                                    <warband/>
+                                </properties>
                             </special>
+
+                            <options>
+                                <option title="Bowmen">
+                                    <properties>
+                                        <lightinfantry/>
+                                    </properties>
+                                    <notes>
+                                        Replace shield and throwing spear with
+                                        a bow.
+                                    </notes>
+                                </option>
+                            </options>
 
                             <equipment>
                                 <item name="Throwing spear"/>
-                                <item name="Sword"/>
+                                <item name="Spear"/>
                                 <item name="Shield"/>
                             </equipment>
                         </statistics>
                     </character>
 
-                    <character name="Thrall spearman">
+                    <!-- Thrall spearman -->
+                    <character name="Thrall spearman" quality="2">
                         <description>
                             <race>Human</race>
                             <age>30</age>
@@ -235,17 +419,14 @@
                                     <skill name="Awareness" score="2"/>
                                     <skill name="Brawl" score="2"/>
                                     <skill name="Charm" score="2"/>
-                                    <skill name="Guile" score="2"/>
+                                    <skill name="Guile" score="3"/>
                                     <skill name="Sleight" score="3"/>
                                     <skill name="Stealth" score="2"/>
                                     <skill name="Throw" score="2"/>
                                 </group>
 
-                                <group name="Languages" type="languages" >
-                                    <skill name="Speak Brytish" score="4"/>
-                                </group>
-
                                 <group name="Knowledges" type="skills" >
+                                    <skill name="Speak Brytish" score="4"/>
                                     <skill name="Area lore (Bryteland)" score="4"/>
                                 </group>
 
@@ -260,17 +441,9 @@
 
                             <advantages/>
 
-                            <combat href="/usr/share/xml/yags/core/arms.yags">
-                                <combatstyle style="Dagger" skill="Brawl">
-                                    <primary>Dagger</primary>
-                                    <initiative attribute="agility"/>
-                                    <attack attribute="agility"/>
-                                    <defence attribute="agility"/>
-                                    <damage type="wound"/>
-                                </combatstyle>
-
+                            <combat>
                                 <combatstyle style="Spear" skill="Longshaft weapon">
-                                    <primary>Spear</primary>
+                                    <primary>Hunting spear</primary>
                                     <initiative attribute="agility"/>
                                     <attack attribute="dexterity"/>
                                     <defence attribute="dexterity"/>
@@ -281,6 +454,30 @@
                                     <armour name="Quilted jacket"/>
                                 </armourstyle>
                             </combat>
+                        </statistics>
+
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/warhammer">
+                            <attributes unit="Thrall" points="3">
+                                <attribute name="m" score="4"/>
+                                <attribute name="ws" score="2"/>
+                                <attribute name="bs" score="2"/>
+                                <attribute name="s" score="3"/>
+                                <attribute name="t" score="3"/>
+                                <attribute name="w" score="1"/>
+                                <attribute name="i" score="2"/>
+                                <attribute name="a" score="1"/>
+                                <attribute name="ld" score="5"/>
+                            </attributes>
+
+                            <special>
+                                <properties>
+                                    <warband/>
+                                </properties>
+                            </special>
+
+                            <equipment>
+                                <item name="Spear"/>
+                            </equipment>
                         </statistics>
                     </character>
 
