@@ -172,27 +172,9 @@
                     have a suitable teacher.
                 </para>
             
-                <advantages howPresent="skills">
-                    <advantage name="Taunt" type="technique">
-                        <cost points="2"/>
-                        <skill name="Guile"/>
-                        
-                        <description>
-                            <para>
-                                The bard may use taunts and insults to try
-                                and make a person behave rashly. The bard
-                                makes a contest of skills of his
-                                charisma x guile versus the target's will x
-                                restraint. On success the target becomes far
-                                more likely to seek immediate redress for
-                                the insults. In combat, they are likely to
-                                use aggressive rather than defensive stances.
-                            </para>
-                        </description>
-                    </advantage>
-                
+                <advantages role="techniques">
                     <advantage name="Song of Battle" type="technique">
-                        <cost points="2"/>
+                        <cost points="3"/>
                         <skill name="Perform"/>
                         
                         <description>
@@ -208,9 +190,8 @@
                     </advantage>
                 
                     <advantage name="Song of Dread" type="technique">
-                        <cost points="4"/>
+                        <cost points="3"/>
                         <skill name="Perform"/>
-                        <prerequisite>Song of Battle</prerequisite>
                         
                         <description>
                             <para>
@@ -232,7 +213,7 @@
                     </advantage>
                     
                     <advantage name="Song of War" type="technique">
-                        <cost points="6"/>
+                        <cost points="5"/>
                         <skill name="Perform"/>
                         <prerequisite>Song of Battle</prerequisite>
                         
@@ -246,7 +227,7 @@
                     </advantage>
                     
                     <advantage name="Song of Terror" type="technique">
-                        <cost points="8"/>
+                        <cost points="5"/>
                         <skill name="Perform"/>
                         <prerequisite>Song of Dread</prerequisite>
                         
@@ -261,7 +242,7 @@
                     </advantage>
                     
                     <advantage name="Song of Fury" type="technique">
-                        <cost points="9"/>
+                        <cost points="7"/>
                         <skill name="Perform"/>
                         <prerequisite>Song of War</prerequisite>
                         
@@ -276,19 +257,25 @@
                     </advantage>
                     
                     <advantage name="Song of Sleep" type="technique">
-                        <cost points="2"/>
+                        <cost points="3"/>
                         <skill name="Perform"/>
                         
                         <description>
+                            <para>
+                                Put people who hear this to sleep.
+                            </para>
                         </description>
                     </advantage>
                     
                     <advantage name="Song of Love" type="technique">
-                        <cost points="4"/>
+                        <cost points="5"/>
                         <skill name="Perform"/>
                         <prerequisite>Song of Sleep</prerequisite>
                         
                         <description>
+                            <para>
+                                Make someone fall in love with the player.
+                            </para>
                         </description>
                     </advantage>
                 
@@ -307,6 +294,8 @@
                     <advantage name="Entrancement" type="technique">
                         <cost points="5"/>
                         <skill name="Perform"/>
+                        
+                        <prerequisite>Song of Sleep</prerequisite>
                 
                         <description>
                         </description>
@@ -315,6 +304,7 @@
                     <advantage name="Suggestion" type="technique">
                         <cost points="7"/>
                         <skill name="Perform"/>
+                        
                         <prerequisite>Entrancement</prerequisite>
                 
                         <description>

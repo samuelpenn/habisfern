@@ -52,39 +52,37 @@
             <title>Cult of the Black Raven</title>
 
             <para>
-                This cult of Thot is considered to be one of the 
-                more secretive, and sometimes sinister, of the 
-                religious orders in Euressa. Tharos may be more 
-                deadly, but people at least think they know what 
-                his followers get up to.
+                This cult of Thot is considered to be one of the more
+                secretive, and sometimes sinister, of the religious orders
+                in Euressa. Tharos may be more deadly, but people at least
+                think they know what his followers get up to.
             </para>
 
             <para>
-                Thot is the Raven god, a messenger, but also a 
-                spy. Thot sees and hears everything, and those of 
-                his cult are expected to do likewise.
+                Thot is the Raven god, a messenger, but also a spy. Thot
+                sees and hears everything, and those of his cult are
+                expected to do likewise.
             </para>
 
             <para>
-                The Black Raven is not the only cult of the
-                Raven, and neither is it the most common, but it
-                is probably the most famous.
+                The Black Raven is not the only cult of the Raven, and
+                neither is it the most common, but it is probably the most
+                famous. The Grey Ravens of Taneith are possibly related,
+                though they do not declare worship of Thot.
             </para>
 
             <para>
-                The cult practises magic, and often pose as
-                (indeed, are) bards. It is said that all
-                knowledge is passed back to their temple
-                somewhere in the Scaedwen Forest. For the most
-                part though, they work for secular lords, spying
-                and scouting for them.
+                The cult practises magic, and often pose as (indeed, are)
+                bards. It is said that all knowledge is passed back to
+                their temple somewhere in the Scaedwen Forest. For the most
+                part though, they work for secular lords, spying and
+                scouting for them.
             </para>
 
             <para>
-                The Queen of Rorn is known to employ the Black
-                Ravens on a regular basis, and even has a sub
-                cult (the Golden Ravens) based at Stowell, in the
-                royal castle.
+                The Queen of Rorn is known to employ the Black Ravens on a
+                regular basis, and even has a sub cult (the Golden Ravens)
+                based at Stowell, in the royal castle.
             </para>
             
             <sect2>
@@ -96,6 +94,29 @@
                     never clear who a Raven is really working for, and
                     people tend to watch what they say when a Raven is
                     known to be around.
+                </para>
+            </sect2>
+            
+            <sect2>
+                <title>Temples and Worship</title>
+                
+                <para>
+                    There are few Temples constructed in the name of Thot,
+                    for he is a god of wanderers and rogues, who do not
+                    often make their home in one place. There is one in
+                    <qv uri="stowell">Stowell</qv> and one in
+                    <qv uri="cerdicsfield">Cerdicsfield</qv>. There are
+                    also said to be several in
+                    <qv uri="midlaen">Midlaen</qv>, though little is
+                    known of these.
+                </para>
+                
+                <para>
+                    Rituals and prayers to Thot tend to be short and simple
+                    with little in the way of trappings. Prayers are given
+                    generally at dawn and dusk, to the north, which was
+                    the direction Thot and Rorn kept watch on in previous
+                    times.
                 </para>
             </sect2>
         </sect1>
@@ -121,11 +142,116 @@
             <sect2>
                 <title>Packages</title>
                 
-                <characters role="package" title="Priests of Thot">
-                    <character name="Cult of the Black Raven">
+                <characters role="package" title="Cult of Thot">
+                
+                    <character name="Eye of the Raven">
                         <description>
                             <short>
-                                A member of the Cult of Thot the Raven.
+                                Some followers of Thot take the role of
+                                messengers or scouts, ranging far in the
+                                service of their cult, or of those who
+                                employ their services.
+                            </short>
+                            
+                            <background>
+                                <para>
+                                    The Eyes of Thot are probably the most
+                                    common, but also the least often seen,
+                                    of the Black Ravens. Their primary role
+                                    is to act as messengers between the
+                                    various shires of the Kingdom, for
+                                    whichever noble is willing to pay. They
+                                    are trusted with even private
+                                    information by all but the most
+                                    paranoid of nobles and merchants. Those
+                                    who break this trust break the trust of
+                                    the Cult, and are sentenced to death.
+                                </para>
+                                
+                                <para>
+                                    The <e>Eyes</e> normally have a trained
+                                    raven which they use both as a scout,
+                                    and as a symbol of their god. The raven
+                                    is their sacred bird, and is protected
+                                    by law and tradition within the
+                                    Kingdom.
+                                </para>
+                                
+                                <para>
+                                    As well as being messengers, <e>Eyes</e>
+                                    also act as scouts. Some of them patrol
+                                    the borders of the Kingdom, working
+                                    with regular army units or with the
+                                    Lawmakers of Haltan. In this role, they
+                                    do not act to engage the enemy, but to
+                                    make note of their movements and report
+                                    back to those who can do something
+                                    about it. Sometimes they spy for nobles
+                                    on other nobles, or even on merchants
+                                    or other cults.
+                                </para>
+                            </background>
+                        </description>
+                        
+                        <skills>
+                            <group name="Talents" type="talents">
+                                <skill name="Athletics" score="4"/>
+                                <skill name="Awareness" score="4"/>
+                                <skill name="Brawl" score="2"/>
+                                <skill name="Charm" score="2"/>
+                                <skill name="Guile" score="3"/>
+                                <skill name="Sleight" score="2"/>
+                                <skill name="Stealth" score="4"/>
+                                <skill name="Throw" score="2"/>
+                            </group>
+                
+                            <group name="Knowledges" type="knowledges">
+                                <skill name="Speak own" score="4"/>
+                                <skill name="Area lore" score="4"/>
+                                <skill name="Heraldry" score="2"/>
+                                <skill name="Religion (Thot)" score="3"/>
+                            </group>
+                            
+                            <group name="Combat" type="skills">
+                                <skill name="Bow" score="3"/>
+                                <skill name="Single weapon" score="2"/>
+                            </group>
+                
+                            <group name="Other" type="skills">
+                                <skill name="Survival" score="4"/>
+                                <skill name="Falconry" score="4"/>
+                                <skill name="Ride" score="4"/>
+                            </group>
+                        </skills>
+                
+                        <equipment>
+                            <item name="Travelling clothes"/>
+                            <item name="Black cloak"/>
+                            <item name="Long knife"/>
+                            <item name="Horse"/>
+                            <item name="Trained Raven"/>
+                        </equipment>
+                    </character>
+                
+                    <character name="Voice of the Raven">
+                        <description>
+                            <short>
+                                Some followers of Thot take the path of
+                                diplomacy, acting as spies or advisors to
+                                noble lords. Unlike the <e>Eyes</e>, those
+                                who are the Voice of the Raven work within
+                                the courts of the land, using their grasp
+                                of information to advance themselves and
+                                their patrons politically. Almost without
+                                exception, a <e>Voice</e> will always be
+                                working for a patron, normally in a long
+                                term capacity. A Raven who has declared
+                                their status and patron is afforded
+                                diplomatic immunity if their patron is one
+                                of the noble houses. Those with less
+                                powerful patrons may be treated
+                                differently, though at least can be
+                                expected to be asked to leave politely.
                             </short>
                         </description>
                         
@@ -135,21 +261,23 @@
                                 <skill name="Awareness" score="3"/>
                                 <skill name="Brawl" score="2"/>
                                 <skill name="Charm" score="3"/>
-                                <skill name="Guile" score="3"/>
-                                <skill name="Sleight" score="3"/>
-                                <skill name="Stealth" score="4"/>
+                                <skill name="Guile" score="4"/>
+                                <skill name="Sleight" score="2"/>
+                                <skill name="Stealth" score="3"/>
                                 <skill name="Throw" score="2"/>
                             </group>
                 
                             <group name="Knowledges" type="knowledges">
                                 <skill name="Speak own" score="4"/>
                                 <skill name="Area lore" score="4"/>
-                                <skill name="Heraldry" score="2"/>
+                                <skill name="Heraldry" score="3"/>
                                 <skill name="Religion (Thot)" score="4"/>
                             </group>
                 
                             <group name="Other" type="skills">
-                                <skill name="Etiquette" score="2"/>
+                                <skill name="Etiquette" score="4"/>
+                                <skill name="Politics" score="4"/>
+                                <skill name="Streetwise" score="2"/>
                             </group>
                         </skills>
                 
