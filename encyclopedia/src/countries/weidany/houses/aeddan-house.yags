@@ -92,7 +92,7 @@
             <sect2>
                 <title>Advantages</title>
 
-                <advantage name="House of Aeddan">
+                <advantage name="House of Aeddan" type="background">
                     <cost points="2"/>
 
                     <description>
@@ -104,7 +104,7 @@
                     </description>
                 </advantage>
 
-                <advantage name="Strong at magic">
+                <advantage name="Strong at magic" type="advantage">
                     <cost points="4"/>
                     <prerequisite>House of Aeddan</prerequisite>
 
