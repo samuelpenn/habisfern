@@ -34,6 +34,8 @@
 
         <references>
             <see uri="druids">Druids</see>
+            <see uri="du-caefa">Du Caefa</see>
+            <see uri="blaidd-addoldy">Blaidd Addoldy</see>
         </references>
 
         <topics>
@@ -78,6 +80,19 @@
             </para>
 
             <sect2>
+                <title>Geography</title>
+                
+                <para>
+                    Glas Caer, the Grey Wall, is the western boundary
+                    of Danuch. It is foothills and heathland generally
+                    left alone except by those unable to find a home
+                    on the lowlands. It is said to be haunted by the
+                    spirits of the dead, commanded by powers of the
+                    Ice.
+                </para>
+            </sect2>
+            
+            <sect2>
                 <title>Politics and Government</title>
 
                 <para>
@@ -95,9 +110,11 @@
 
                 <para>
                     The current Arch Druid is Malach, and he rules
-                    from the stone citadel at Dubd Averon.
+                    from the stone citadel at <qv uri="du-caefa">
+                    Du Caerfa</qv>.
                 </para>
-			</sect2>
+            </sect2>
+            
         </sect1>
     </body>
 </article>
