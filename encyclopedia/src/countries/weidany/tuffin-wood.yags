@@ -33,6 +33,8 @@
         <style name="module"/>
 
         <references>
+            <see uri="besenreth">Besenreth</see>
+            <see uri="rangers">Rangers</see>
         </references>
 
         <topics>
@@ -55,7 +57,10 @@
                 and plains on the southern border of Cadwold. The 
                 northern half of the woods are claimed by 
                 Cadwold, the rest by Weideny. However, in reality 
-                neither have any real control of the region.
+                neither have any real control of the region, though
+                a number of Weidanic forts along the northern edge
+                of the woods tends to add weight to the Kingdom's
+                claim to the woods.
             </para>
 
             <para>
@@ -69,18 +74,21 @@
                 The largest group is a tightly knit band who 
                 follow the goddess of shadows, Besenreth. They 
                 are known as the Rangers, and their main goal is 
-                to keep out of world affairs.
+                to keep out of world affairs, though both sides
+                are trying to drag them into the war (mostly by
+                assuming that they are the enemy until they prove
+                otherwise).
             </para>
 
             <para>
                 The woods are relatively safe, with few if any 
                 trolls or similar beasts. There is one place 
                 however, a valley in the northern woods, where an 
-                old temple to the Elders still lingers. It is the 
-                lair of ghouls and other darkness, and is avoided 
-                by all.
+                old temple named the <qv uri="pools-of-sorrow">
+                Pools of Sorrow</qv> to the Elders still lingers.
+                It is the lair of ghouls and other darkness, and
+                is avoided by all.
             </para>
-
         </sect1>
     </body>
 </article>

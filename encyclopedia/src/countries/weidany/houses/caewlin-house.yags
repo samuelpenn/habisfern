@@ -70,6 +70,30 @@
                     are also deft at politics, and value social skills
                     highly.
                 </para>
+
+                <sect3>
+                    <title>Current Household</title>
+
+                    <para>
+                        The current head of the House is Hereric, a sixty
+                        year old man with an intimidating personality. Even
+                        without his position and birth right, he would
+                        have been powerful at court.
+                    </para>
+
+                    <familytree title="House of Caewlin">
+                        <person name="Hereric Caewlin" gender="male">
+                            <born>1170</born>
+                            <spouse>Osrun</spouse>
+                        </person>
+
+                        <person name="Osrun" gender="female">
+                            <born>1178</born>
+                            <spouse>Hereric Caewlin</spouse>
+                            <child></child>
+                        </person>
+                    </familytree>
+				</sect3>
             </sect2>
         </sect1>
         

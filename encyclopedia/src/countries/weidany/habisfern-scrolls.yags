@@ -1217,17 +1217,22 @@
                         <startdate year="1034"/>
                         <enddate year="1038"/>
                         <para>
-                            Merkia makes raids deep into Merrik. Has
-                            much magical might on its side, and uses
-                            Brytelanders as mercenaries. Defenders
-                            arrive too late, and the raiders go back
-                            after causing much destruction.
+                            During the spring of this year, the tribesmen
+                            of Merkia make raids deep into the heart of
+                            Merrik. The tribesmen are accompanied by
+                            many great shamans, as well as mercenaries
+                            from Bryteland. After they have laid waste to
+                            the land, and taken everything of value,
+                            the raiders return to their forests before
+                            any fyrd can be raised against them.
                         </para>
 
                         <para>
                             Each following year the same happens, and
                             gradually the forts are overrun, and Merkia
-                            pushes east.
+                            pushes east. Talk reaches the Kingdom of a
+                            new god that has arisen in the wild
+                            forests of Merkia.
                         </para>
                     </event>
 
@@ -1238,6 +1243,42 @@
                             dies by the sword of her first daughter
                             Aelflaed, not wanting to die in her bed.
                             Aelflaed receives the Kingdom.
+                        </para>
+
+                        <para>
+                            As her first act, the Queen raises an
+                            army to counter Merkian raids. The thegn
+                            Hralgar is given charge of the army, but
+                            is defeated as the first snows of winter
+                            arrive.
+                        </para>
+
+                        <para>
+                            The Queen puts down an uprising in Lanuch
+                            that challenged her rule. Two score nobles
+                            are put to the sword.
+                        </para>
+                    </event>
+
+                    <event title="Battle of Langly River">
+                        <startdate year="1041"/>
+                        <para>
+                            There is a great battle on the shore of
+                            Langly river, between the forces of Aelflaed
+                            and the tribesmen of Merkia. The tribesman
+                            fight unarmoured and unclothed, but their
+                            skin turns aside a sword blade.
+                        </para>
+
+                        <para>
+                            On the second day of battle Aelflaed leads
+                            her Red Guard into battle dressed in the
+                            blood of their foes. For a time, the fury
+                            of their Lady of Death is enough to turn
+                            the tribesmen back in fear, but a great
+                            fire is summoned which burns the flesh of
+                            the Queen and her women, and they are
+                            driven back, and the battle is lost.
                         </para>
                     </event>
 
@@ -1253,7 +1294,7 @@
                         <startdate year="1047"/>
                         <para>
                             The shires of Merrik, Angsly and Perrin
-                            fall to the Merkians, and the Cult of
+                            fall to the Merkians and the Cult of
                             Ashek. The Queen receives messengers from
                             Scarondy, and an alliance is made.
                         </para>

@@ -33,6 +33,7 @@
         <style name="module"/>
 
         <references>
+            <see uri="habisfern-scrolls">Habisfern Scrolls</see>
         </references>
 
         <topics>
