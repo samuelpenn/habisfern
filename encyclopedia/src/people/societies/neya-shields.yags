@@ -133,7 +133,7 @@
                         
                         <description>
                             <para>
-                                When two or more priestesses who know tis
+                                When two or more priestesses who know this
                                 ritual are fighting side by side, then any
                                 of them can give a bonus equal to their
                                 weapon skill to one other. Who the bonus is
@@ -143,7 +143,7 @@
                         </description>
                     </advantage>
                     
-                    <advantage name="Strength of Woman" type="technique">
+                    <advantage name="Strength of the Goddess" type="technique">
                         <cost points="8"/>
                         <skill name="Religion"/>
                         <prerequisite>Sisters in Arms</prerequisite>
@@ -158,10 +158,10 @@
                         </description>
                     </advantage>
                     
-                    <advantage name="Agility of Woman" type="technique">
+                    <advantage name="Shield of the Goddess" type="technique">
                         <cost points="12"/>
                         <skill name="Religion"/>
-                        <prerequisite>Strength of Woman</prerequisite>
+                        <prerequisite>Strength of the Goddess</prerequisite>
                         
                         <description>
                             <para>
