@@ -24,9 +24,9 @@
             <text>
                 Permission is granted to copy, distribute and/or
                 modify this document under the terms of the GNU
-                Free Documentation License, Version 1.1 or any
-                later version published by the Free Software
-                Foundation.
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
             </text>
         </license>
 
@@ -124,6 +124,120 @@
                     Senior Brothers (normally two or three), and any number
                     of Brothers who make up the lower ranks of the Temple.
                 </para>
+            </sect2>
+        </sect1>
+        
+        <sect1>
+            <title>Membership</title>
+            
+            <para>
+                Members of the cult are able to learn the following skills.
+            </para>
+            
+            <sect2>
+                <title>Skills</title>
+            
+                <skill-list>
+                    <skill name="Religion (Law Maker Cult)" type="knowledge">
+                        <description>
+                            <para>
+                                Gives knowledge of the ideals, mythology and
+                                rituals of the Cult of the Law Maker, the
+                                religious cult of Haltan.
+                            </para>
+                        </description>
+                    </skill>
+                </skill-list>
+            </sect2>
+            
+            <sect2>
+                <title>Rituals</title>
+                
+                <para>
+                    The following rituals are taught by the cult to those
+                    who learn the ways of Haltan the Law Maker. They are
+                    principally associated with leadership and law, though
+                    also cover battle and war as well.
+                </para>
+                
+                <advantages>
+                    <advantage name="Aura of Authority" type="technique">
+                        <cost points="3"/>
+                        <skill name="Religion"/>
+                        
+                        <description>
+                            <para>
+                                Haltan is the god of Law and Authority, and
+                                those who know his ways can project that
+                                authority themselves. An automatic bonus is
+                                gained to all leadership and intimidation
+                                rolls equal to the religion score.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Trial of Combat" type="technique">
+                        <cost points="5"/>
+                        <skill name="Religion"/>
+                        <prerequisite>Aura of Authority</prerequisite>
+                        
+                        <description>
+                            <para>
+                                Trial by combat is reserved for the nobility,
+                                others must find a different path. The ritual
+                                is performed on two warriors who fight to
+                                the death, the winner was in the right.
+                            </para>
+                            
+                            <para>
+                                Both warriors must accept the performance of
+                                ritual. The one which is seen to be in the
+                                right according to the Laws of Haltan gains
+                                a number of temporary luck points equal to
+                                the <e>religion</e> of the priest, which may
+                                be used only in the combat.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Warrior's Blessing" type="technique">
+                        <cost points="5"/>
+                        <skill name="Religion"/>
+                        <prerequisite>Aura of Authority</prerequisite>
+                        
+                        <description>
+                            <para>
+                                The priest and up to one comrade per point
+                                of <e>religion</e> gains a bonus to all
+                                bravery and restraint checks equal to the
+                                <e>religion</e> score of the priest for the
+                                duration of the battle.
+                            </para>
+                            
+                            <para>
+                                Prayers must be said before battle is joined,
+                                which takes about five minutes.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Blessing of War" type="technique">
+                        <cost points="7"/>
+                        <skill name="Religion"/>
+                        <prerequisite>Warrior's Blessing</prerequisite>
+                        
+                        <description>
+                            <para>
+                                Activated and used similarly to <e>Warrior's
+                                Blessing</e>, as well as those advantages
+                                this ritual gives a bonus to all attack and
+                                defence rolls made by the priest and his
+                                comrades equal to the priest's religion
+                                score.
+                            </para>
+                        </description>
+                    </advantage>
+                </advantages>
             </sect2>
         </sect1>
     </body>

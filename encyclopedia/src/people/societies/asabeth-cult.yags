@@ -24,10 +24,9 @@
             <text>
                 Permission is granted to copy, distribute and/or
                 modify this document under the terms of the GNU
-                Free Documentation License, Version 1.1 or any
-                later version published by the Free Software
-                Foundation; with no invariant sections, with no
-                Front-Cover Texts, and with no Back-Cover Texts.
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
             </text>
         </license>
 
@@ -83,23 +82,94 @@
             </para>
 
             <para>
-                Priestesses are unmarried, and take vows of 
-                chastity before joining. The cult does not accept 
-                members who are younger than 21, and generally 
-                prefers older women, especially those who have 
-                lost a child.
+                Priestesses are unmarried, and take vows of chastity before
+                joining, though the cult prefers priestesses not to be
+                virgins. The cult does not accept members who are younger
+                than 21, and generally prefers older women, especially those
+                who have lost a child.
             </para>
 
             <para>
-                Priestesses are denoted by two scars on their 
-                left cheek.
+                Priestesses are denoted by two scars on their left cheek.
             </para>
 
             <para>
                 There is currently only one temple of the cult, 
                 in northern Scarondy.
             </para>
-
+        </sect1>
+        
+        <sect1>
+            <title>Membership</title>
+            
+            <para>
+                Cultists are taught the following skills and techniques.
+                Many of the techniques are shared with the Shields of
+                Neya.
+            </para>
+            
+            <sect2>
+                <title>Skills</title>
+            
+                <skill-list>
+                    <skill name="Religion (Cult of Asabeth)" type="knowledge">
+                        <description>
+                            <para>
+                                Gives knowledge of the ideals, mythology and
+                                rituals of the Cult of Asabeth.
+                            </para>
+                        </description>
+                    </skill>
+                </skill-list>
+            </sect2>
+            
+            <sect2>
+                <title>Rituals</title>
+                
+                <para>
+                    The rituals of Asabeth reflect her position as goddess
+                    of War and Blood. They are generally seen as barbaric,
+                    and not all cultists have the stomach for the more
+                    powerful rituals.
+                </para>
+                
+                <advantages>
+                    <advantage name="Blessing of Blood" type="technique">
+                        <cost points="2"/>
+                        <skill name="Religion"/>
+                        
+                        <description>
+                            <para>
+                                Painting their face with either their own
+                                blood, or that of their enemies, a cultist
+                                gains a bonus to initiative and bravery
+                                checks equal to their religion score.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Berserker" type="technique">
+                        <cost points="4"/>
+                        <skill name="Religion"/>
+                        <prerequisite>Blessing of Blood</prerequisite>
+                        
+                        <description>
+                            <para>
+                                Priestesses of the cult are feared for their
+                                ability to berserk - fly into a rage so
+                                great that they are, it is said, able to
+                                ignore death itself.
+                            </para>
+                            
+                            <para>
+                                The berserk bonus is equal to religion score
+                                minus the restraint passion. This bonus adds
+                                to all rolls made in combat except soak.
+                            </para>
+                        </description>
+                    </advantage>
+                </advantages>
+            </sect2>
         </sect1>
     </body>
 </article>
