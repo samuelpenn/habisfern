@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Vihri, god of Murder</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="herzon">Herzon</see>
+            <see uri="swords-vihri">Swords of Vihri</see>
+        </references>
+
+        <topics>
+            <subject uri="vihri-haltic">Vihri, god of Murder</subject>
+
+            <category>Religion</category>
+            <topic uri="haltic-mythology">Haltic Mythology</topic>
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Vihri, god of Murder</title>
+
+            <para>
+                Vihri is perhaps the most feared of the gods. 
+                Though <qv uri="retha">Retha</qv> may lead the 
+                powers of the Ice into the lands of Men, that is 
+                a distant threat far into the future. Vihri is 
+                behind every corner, hidden in every shadow, 
+                waiting to take the life of those who draw his attention.
+            </para>
+
+            <para>
+                Vihri came from the East, and challenged <qv 
+                uri="haltic">Haltic</qv> for the position as 
+                King. He slew many of Haltic's finist huscurl, 
+                and was only defeated by Haltic himself. Vihri 
+                fled, but waits at the edges, probing for any 
+                sign of weakness amongst the other gods.
+            </para>
+
+        </sect1>
+    </body>
+</article>

@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Ennia</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="ennia">Ennia</subject>
+
+            <category>Religion</category>
+            <topic uri="haltic-mythology">Haltic Mythology</topic>
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Ennia</title>
+
+            <para>
+                Ennia is a daughter of <qv uri="rorn">Rorn</qv>, 
+                and the goddess of lust, beauty and moonlight. 
+                She is the most beautiful of the gods, and was at 
+                one point courted by <qv uri="haltic">Haltic</qv>.
+            </para>
+
+            <para>
+                Though normally peaceful and loving, she can be 
+                cruel and vengeful when denied  objects of her 
+                desire. Her beauty is only matched by her skills 
+                at intrigue, and she is sometimes considered to 
+                be the goddess of politics.
+            </para>
+
+            <para>
+                Temples to Ennia across the North are often 
+                involved with trade, politics and any other part 
+                of society they think might give them an 
+                advantage. Though many are publically brothels, 
+                they are also recognised as being hives of 
+                spycraft and intrigue, both useful and dangerous 
+                to those who frequent them.
+            </para>
+
+            <para>
+                Ennia is a goddess of favourites. She is always 
+                biased towards her favourite of the month, though 
+                at the same time keeping her options open for 
+                when she tires of them. Her priests are much the 
+                same. Never trusted, but always useful.
+            </para>
+
+        </sect1>
+    </body>
+</article>

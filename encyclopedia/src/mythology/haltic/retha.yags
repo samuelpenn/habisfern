@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Retha the Ice Maiden</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="retha">Retha the Ice Maiden</subject>
+
+            <category>Religion</category>
+            <topic uri="haltic-mythology">Haltic Mythology</topic>
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Retha the Ice Maiden</title>
+
+            <para>
+                Retha is best known as the Ice Maiden. Her beauty 
+                is said to rival that of <qv 
+                uri="ennia">Ennia</qv>, but it is a harsh, cold 
+                beauty, carved from the ice.
+            </para>
+
+            <para>
+                She is tolerated, but not trusted, by the other 
+                gods. Her allegiance to them is not always clear, 
+                for sometimes her actions have put her closer to 
+                the <qv uri="ice">Ice</qv> than the gods. Retha 
+                is generally blamed for the fall of the magocracy 
+                of <qv uri="milindor">Milindor</qv>, when her 
+                followers staged a coup against the wizards who 
+                ruled there.
+            </para>
+
+        </sect1>
+    </body>
+</article>

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Shuras</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="shuras">Shuras</subject>
+
+            <category>Religion</category>
+            <topic uri="haltic-mythology">Haltic Mythology</topic>
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Shuras</title>
+
+            <para>
+                Shuras is the navigator goddess of the sea. She 
+                lives beneath the sea, though her form is 
+                reflected in the sky as the stars which guide 
+                those who traverse the waves.
+            </para>
+
+        </sect1>
+    </body>
+</article>
