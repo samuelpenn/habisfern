@@ -36,6 +36,7 @@
             <see uri="niemstarg">Niemstarg</see>
             <see uri="salov">Salov</see>
             <see uri="trollund">Trollund</see>
+            <see uri="falthy-sea">Falthy Sea</see>
         </references>
 
         <topics>
@@ -61,6 +62,14 @@
                 The Kingdom of Urazen is between Niemstarg and Salov, and
                 also borders onto <qv uri="trollund">Trollund</qv>, a savage
                 wilderness which is home to <qv uri="trolls">Trolls</qv>.
+            </para>
+            
+            <para>
+                Urazen is a poor country, but heavily populated. It's people
+                are generally dour and highly suspicious of strangers. The
+                current King is relatively weak, though the various Dukes
+                are wealthy and powerful, favouring the current status quo
+                which effectively puts them in charge.
             </para>
         </sect1>
     </body>
