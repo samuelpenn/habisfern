@@ -403,7 +403,7 @@
                         <died>1221</died>
                     </person>
                     
-                    <family mother="Queen Eadhild II">
+                    <family parent="Queen Eadhild II">
                         <children>
                             <child>Eanflaed</child>
                             <child>Ercongota the Red</child>
@@ -412,14 +412,14 @@
                         </children>
                     </family>
                     
-                    <family mother="Eanflaed">
+                    <family parent="Eanflaed">
                         <children>
                             <child>Frythegith</child>
                             <child>Queen Frythrun</child>
                         </children>
                     </family>
                     
-                    <family mother="Queen Frythrun">
+                    <family parent="Queen Frythrun">
                         <children>
                             <child>Queen Godrun</child>
                             <child>Burhed</child>
@@ -427,7 +427,7 @@
                         </children>
                     </family>
                     
-                    <family mother="Queen Godrun">
+                    <family parent="Queen Godrun">
                         <children>
                             <child>Ercongota</child>
                             <child>Ealhred</child>
@@ -435,7 +435,7 @@
                         </children>
                     </family>
                     
-                    <family mother="Ercongota">
+                    <family parent="Ercongota">
                         <children>
                             <child>Raedburh</child>
                             <child>Hereswith</child>
@@ -444,13 +444,13 @@
                         </children>
                     </family>
                     
-                    <family mother="Raedburh">
+                    <family parent="Raedburh">
                         <children>
                             <child>Godhild</child>
                         </children>
                     </family>
                     
-                    <family mother="Burhed">
+                    <family parent="Burhed">
                         <children>
                             <child>Wulfloed</child>
                             <child>Osny</child>
@@ -458,7 +458,7 @@
                         </children>
                     </family>
                     
-                    <family mother="Queen Behrith">
+                    <family parent="Queen Behrith">
                         <children>
                             <child>Eodhild</child>
                             <child>Wilith</child>
@@ -467,26 +467,26 @@
                         </children>
                     </family>
                     
-                    <family mother="Eodhild">
+                    <family parent="Eodhild">
                         <children>
                             <child>Eowyn</child>
                         </children>
                     </family>
                     
-                    <family mother="Wilith">
+                    <family parent="Wilith">
                         <children>
                             <child>Morwen</child>
                         </children>
                     </family>
                     
-                    <family mother="Ercongota the Red">
+                    <family parent="Ercongota the Red">
                         <children>
                             <child>Eohild of Midlaen</child>
                             <child>Hereswith of Ercongota</child>
                         </children>
                     </family>
                     
-                    <family mother="Eohild of Midlaen">
+                    <family parent="Eohild of Midlaen">
                         <children>
                             <child>Eogith</child>
                             <child>Eowyn the Grey</child>
@@ -494,7 +494,7 @@
                         </children>
                     </family>
                     
-                    <family mother="Cyneberg">
+                    <family parent="Cyneberg">
                         <children>
                             <child>Cynehild</child>
                             <child>Eadgifu the White</child>
@@ -517,7 +517,7 @@
                         <died>1221</died>
                     </person>
                     
-                    <family mother="Cynehild">
+                    <family parent="Cynehild">
                         <children>
                             <child>Cynegith Meredohtor</child>
                             <child>Wilith Meredohtor</child>
@@ -550,7 +550,7 @@
                         <died>1195</died>
                     </person>
                     
-                    <family mother="Eadgifu the White">
+                    <family parent="Eadgifu the White">
                         <children>
                             <child>Alith</child>
                             <child>Cunith Battlecrow</child>
@@ -577,7 +577,7 @@
                         <short>Slain during the Blood Moon.</short>
                     </person>
                     
-                    <family mother="Alith">
+                    <family parent="Alith">
                         <children>
                             <child>Burwen</child>
                             <child>Eadgifu</child>
@@ -597,7 +597,7 @@
                         <short>Slain during the Blood Moon.</short>
                     </person>
                     
-                    <family mother="Cunith Battlecrow">
+                    <family parent="Cunith Battlecrow">
                         <children>
                             <child>Estith</child>
                             <child>Morith</child>
@@ -616,7 +616,7 @@
                         <short>Slain during the Blood Moon.</short>
                     </person>
                     
-                    <family mother="Thunhild">
+                    <family parent="Thunhild">
                         <children>
                             <child>Alhild</child>
                             <child>Eadhild</child>
@@ -630,7 +630,7 @@
                         </short>
                     </person>
                     
-                    <family mother="Sexrun Whiteheart">
+                    <family parent="Sexrun Whiteheart">
                         <children>
                             <child>Cendrun the Tall</child>
                         </children>
@@ -651,7 +651,7 @@
                         <died>1205</died>
                     </person>
                     
-                    <family mother="Cyneswith">
+                    <family parent="Cyneswith">
                         <children>
                             <child>Guthild</child>
                             <child>Othrun</child>
@@ -663,7 +663,7 @@
                         <born>1172</born>
                     </person>
                     
-                    <family mother="Guthild">
+                    <family parent="Guthild">
                         <children>
                             <child>Beoith</child>
                         </children>
@@ -681,7 +681,7 @@
                         <born>1212</born>
                     </person>
                     
-                    <family mother="Beoith">
+                    <family parent="Beoith">
                         <children>
                             <child>Uthild</child>
                             <child>Egrun</child>
@@ -697,7 +697,7 @@
                         <born>1227</born>
                     </person>
                     
-                    <family mother="Uthild">
+                    <family parent="Uthild">
                         <children>
                             <child>Harith</child>
                             <child>Plegrun</child>
@@ -708,7 +708,7 @@
                         <born>1225</born>
                     </person>
                     
-                    <family mother="Egrun">
+                    <family parent="Egrun">
                         <children>
                             <child>Aethelny</child>
                         </children>
@@ -722,7 +722,7 @@
                         <born>1211</born>
                     </person>
                     
-                    <family mother="Othrun">
+                    <family parent="Othrun">
                         <children>
                             <child>Cendrun the Fair</child>
                             <child>Tostrun</child>
@@ -734,7 +734,7 @@
                         <died>1195</died>
                     </person>
                     
-                    <family mother="Cenfloed">
+                    <family parent="Cenfloed">
                         <children>
                             <child>Tostny</child>
                         </children>
@@ -744,7 +744,7 @@
                         <born>1194</born>
                     </person>
                     
-                    <family mother="Tostny">
+                    <family parent="Tostny">
                         <children>
                             <child>Godny</child>
                         </children>
@@ -758,7 +758,7 @@
                         <born>1213</born>
                     </person>
                     
-                    <family mother="Godny">
+                    <family parent="Godny">
                         <children>
                             <child>Oftny</child>
                             <child>Eadny</child>
@@ -773,7 +773,7 @@
                         <born>1226</born>
                     </person>
                     
-                    <family mother="Oftny">
+                    <family parent="Oftny">
                         <children>
                             <child>Ofrun</child>
                             <child>Ofloed</child>
@@ -784,7 +784,7 @@
                         <born>1213</born>
                     </person>
                     
-                    <family mother="Eadny">
+                    <family parent="Eadny">
                         <children>
                             <child>Sifny</child>
                         </children>
@@ -794,39 +794,57 @@
                         <born>1229</born>
                     </person>
                     
-                    <family mother="Sifny">
+                    <family parent="Sifny">
                         <children>
                             <child>Uthny</child>
                         </children>
                     </family>
                 </familyTree>
+                
+                <para>
+                    All of the above line who are still living, are
+                    eligible to be Queen. The most likely choices are one
+                    of Eodhild, daughter of the Queen or her niece
+                    Wulfloed who is currently captain of the Red Guard.
+                    Due to her young age, Eodhild would probably not be
+                    chosen if a choice was required immediately, however
+                    she is the current expected successor assuming her
+                    mother lives another ten to twenty years.
+                </para>
             </sect2>
             
             <sect2>
                 <title>Previous Royal Family</title>
                 
                 <para>
-                    The descendents of Aelthryth are not as well recorded,
-                    and there are many gaps, but those that are known are
+                    The royal line can be traced back to King Brihtric of
+                    the Kingdom of Merrik, who was father of Aethelwulf,
+                    and King Halfric of the Kingdom of Anglsy, who was
+                    father of Freothflaed. There are gaps in the history
+                    of this line, but those descendents who are known are
                     given below.
                 </para>
                 
-                <familyTree title="Descendents of King Mergood">
-                    <root>King Mergood</root>
+                <familyTree title="Descendents of King Brihtric">
+                    <root>King Brihtric of Merrik</root>
                     
-                    <person name="King Mergood">
+                    <person name="King Brihtric of Merrik">
                         <male/>
+                        <died>977</died>
                     </person>
                     
                     <person name="Witgar">
                         <male/>
+                        <died/>
                     </person>
                     
                     <person name="Aethelwulf">
                         <male/>
+                        <died>986</died>
                     </person>
                     
-                    <person name="Freothlaed">
+                    <person name="Freothflaed">
+                        <died>1004</died>
                     </person>
                     
                     <person name="Queen Aelthryth">
@@ -909,8 +927,128 @@
                         <died>1142</died>
                         <short>Known as Hereswith False Council.</short>
                     </person>
-                     
+                    
+                    <person name="Cyneburh">
+                        <born>1040</born>
+                        <died>1101</died>
+                    </person>
+                    
+                    <person name="Eormenburh">
+                        <born>1048</born>
+                        <died>1123</died>
+                    </person>
+                    
+                    <person name="Wihtburh">
+                        <born>1053</born>
+                        <died>1151</died>
+                    </person>
+                    
+                    <person name="Aelflaed">
+                        <born>1068</born>
+                        <died>1147</died>
+                    </person>
+                    
+                    <person name="Wilith">
+                        <born>1082</born>
+                        <died>1163</died>
+                    </person>
+                    
+                    <person name="Leohild">
+                        <born>1089</born>
+                        <died>1173</died>
+                    </person>
+                    
+                    <person name="Queen Eadhild II">
+                        <born>1099</born>
+                        <died>1169</died>
+                    </person>
+                    
+                    <family parent="King Brihtric of Merrik">
+                        <children>
+                            <child>Witgar</child>
+                            <child>Aethelwulf</child>
+                        </children>
+                    </family>
+                    
+                    <person name="Cynric">
+                        <born>978</born>
+                        <died>982</died>
+                    </person>
+                    
+                    <family parent="Aethelwulf">
+                        <children parent="Freothflaed">
+                            <child>Cynric</child>
+                            <child>Queen Aelthryth</child>
+                        </children>
+                    </family>
+                    
+                    <family parent="Queen Aelthryth">
+                        <children>
+                            <child>Queen Aelflaed</child>
+                            <child>Hereswith</child>
+                            <child>Burhed</child>
+                            <child>Queen Eadhild</child>
+                            <child>Cuthburh</child>
+                        </children>
+                    </family>
+                    
+                    <family parent="Queen Aelflaed">
+                        <children>
+                            <child>Raedburh</child>
+                            <child>Aelgifu</child>
+                            <child>Queen Sexburh</child>
+                        </children>
+                    </family>
+                    
+                    <family parent="Queen Sexburh">
+                        <children>
+                            <child>Queen Eadgifu</child>
+                            <child>Eadgyth</child>
+                            <child>Ealhred</child>
+                        </children>
+                    </family>
+                    
+                    <family parent="Queen Eadgifu">
+                        <children>
+                            <child>Werdrun</child>
+                            <child>Aeldith</child>
+                            <child>Queen Godhild</child>
+                            <child>Hereswith Lesraed</child>
+                        </children>
+                    </family>
+                    
+                    <family parent="Queen Eadhild">
+                        <children>
+                            <child>Cyneburh</child>
+                            <child>Eormenburh</child>
+                            <child>Wihtburh</child>
+                        </children>
+                    </family>
+                    
+                    <family parent="Eormenburh">
+                        <children>
+                            <child/>
+                            <child>Aelflaed</child>
+                            <child/>
+                            <child/>
+                            <child/>
+                        </children>
+                    </family>
+                    
+                    <family parent="Aelflaed">
+                        <children>
+                            <child>Wilith</child>
+                            <child>Leohild</child>
+                        </children>
+                    </family>
+                    
+                    <family parent="Wilith">
+                        <children>
+                            <child>Queen Eadhild II</child>
+                        </children>
+                    </family>
                 </familyTree>
+            </sect2>
         </sect1>
     </body>
 </article>
