@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Northern Kingdoms</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="urazen">Urazen</see>
+            <see uri="herzon">Herzon</see>
+            <see uri="niemstarg">Niemstarg</see>
+        </references>
+
+        <topics>
+            <subject uri="northern-kingdoms">Northern Kingdoms</subject>
+
+            <category>Region</category>
+
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+            <topic uri="niemstarg">Niemstarg</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Northern Kingdoms</title>
+
+            <para>
+                The kingdoms making up the northern coast of Euressa. They
+                were all settled at a similar time, with the original
+                People of Rorn moving east to west across the coast, until
+                the most adventurous of them finally settled in
+                <qv uri="taneith">Taneith</qv>.
+            </para>
+
+            <para>
+                Everything from the <qv uri="white-peninsula">White
+                Peninsula</qv> to <qv uri="urazen">Urazen</qv> is considered
+                to be part of the <e>Northern Kingdoms</e>.
+            </para>
+        </sect1>
+    </body>
+</article>
