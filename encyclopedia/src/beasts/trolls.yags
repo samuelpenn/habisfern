@@ -34,6 +34,7 @@
 
         <references>
             <see uri="troll-gods">Troll Gods</see>
+            <see uri="troll-sworn">Troll Sworn</see>
         </references>
 
         <topics>
@@ -112,6 +113,215 @@
                     humans.
                 </para>
             </sect2>
+        </sect1>
+
+        <sect1>
+            <title>Troll Bestiary</title>
+
+            <beastiary role="bestiary" title="Trolls">
+                <beast name="Hairy troll">
+                    <information>
+                        <type>Monster</type>
+                        <demeanor>Violent</demeanor>
+
+                        <habitat climate="Temperate" terrain="Forest" frequency="rare"/>
+
+                        <origin>Habisfern</origin>
+                        <genre>Fantasy</genre>
+                    </information>
+
+                    <description>
+                        <short>
+                            A two and a half metre tall, heavily built
+                            hairy beast that looks like the bipedal cross
+                            between a bear and a wolf.
+                        </short>
+
+                        <physical>
+                            <para>
+                                The hairy troll is the most common of its
+                                kind. An adult male averages about 250cm
+                                in height, and weighs about 200kg. They are
+                                bipedal, and look vaguely bear like except
+                                that their head looks more like that of a
+                                wolf. They are covered in brown to black
+                                coarse fur.
+                            </para>
+
+                            <para>
+                                They are strong and violent, seeking prey
+                                for food but will often kill more than they
+                                need. Their long arms end in thick sharp
+                                claws that can cut a grown man open in a
+                                single swipe.
+                            </para>
+
+                            <para>
+                                Hairy trolls are often found in forest or
+                                marsh, for they like water. They are good
+                                swimmers, but live on land, seeming to seek
+                                water for bathing. They will eat fish if
+                                necessary, but seem to prefer other meats
+                                where possible.
+                            </para>
+                        </physical>
+
+                        <social>
+                            <para>
+                                Trolls are generally solitary though will
+                                form a pack during spring when the females
+                                are breeding. A pack consists of one to
+                                three males plus one to five females. The
+                                relationship between the trolls in the pack
+                                is not clear, but it is thought that all
+                                males get a chance to breed.
+                            </para>
+
+                            <para>
+                                Females give birth in the summer to up to
+                                half a dozen pups.
+                            </para>
+                        </social>
+                    </description>
+
+                    <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                        <attributes size="7" soak="15">
+                            <attribute name="strength" score="7" half="5"/>
+                            <attribute name="stamina" score="4"/>
+                            <attribute name="agility" score="3"/>
+                            <attribute name="dexterity" score="2"/>
+                            <attribute name="perception" score="4"/>
+                            <attribute name="intelligence" score="1"/>
+                            <attribute name="charisma" score="1"/>
+                            <attribute name="will" score="2"/>
+                        </attributes>
+
+                        <skills>
+                            <group name="Talents" type="talents">
+                                <skill name="Athletics" score="4"/>
+                                <skill name="Awareness" score="5"/>
+                                <skill name="Brawl" score="5"/>
+                                <skill name="Charm" score="1"/>
+                                <skill name="Guile" score="1"/>
+                                <skill name="Sleight" score="1"/>
+                                <skill name="Stealth" score="4"/>
+                                <skill name="Throw" score="2"/>
+                            </group>
+
+                            <group name="Misc" type="skills">
+                                <skill name="Survival" score="2"/>
+                                <skill name="Swim" score="4"/>
+                            </group>
+                        </skills>
+
+                        <combat>
+                            <combatstyle style="Claw" skill="Brawl">
+                                <initiative attribute="agility" bonus="+10"/>
+                                <attack attribute="strength" bonus="+7"/>
+                                <defence attribute="agility" bonus="+3"/>
+                                <damage type="mixed" bonus="+3"/>
+                            </combatstyle>
+                        </combat>
+
+                        <passions>
+                            <passion name="Bravery" score="6"/>
+                            <passion name="Ego" score="2"/>
+                            <passion name="Restraint" score="2"/>
+                            <passion name="Temperence" score="2"/>
+                        </passions>
+
+                        <advantages>
+                            <advantage name="Animal"/>
+                            <advantage name="Acute sense of smell" score="+2"/>
+                            <advantage name="Attacks by strength"/>
+                        </advantages>
+                    </statistics>
+                </beast>
+
+                <beast name="Deep troll">
+                    <information>
+                        <type>Monster</type>
+                        <demeanor>Violent</demeanor>
+
+                        <habitat climate="Temperate" terrain="Forest" frequency="rare"/>
+
+                        <origin>Habisfern</origin>
+                        <genre>Fantasy</genre>
+                    </information>
+
+                    <description>
+                        <aka>Bony Troll</aka>
+
+                        <short>
+                            A two and a half metre tall, heavily built bipedal
+                            beast covered in thick bony protrusions.
+                        </short>
+
+                        <physical>
+                            <para>
+                                Similar to the hairy troll, deep trolls have
+                                a bony exoskeleton that covers most of their
+                                body.
+                            </para>
+                        </physical>
+                    </description>
+
+                    <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                        <attributes size="7" soak="15">
+                            <attribute name="strength" score="8" half="5"/>
+                            <attribute name="stamina" score="4"/>
+                            <attribute name="agility" score="3"/>
+                            <attribute name="dexterity" score="2"/>
+                            <attribute name="perception" score="4"/>
+                            <attribute name="intelligence" score="1"/>
+                            <attribute name="charisma" score="1"/>
+                            <attribute name="will" score="2"/>
+                        </attributes>
+
+                        <skills>
+                            <group name="Talents" type="talents">
+                                <skill name="Athletics" score="4"/>
+                                <skill name="Awareness" score="5"/>
+                                <skill name="Brawl" score="6"/>
+                                <skill name="Charm" score="1"/>
+                                <skill name="Guile" score="1"/>
+                                <skill name="Sleight" score="1"/>
+                                <skill name="Stealth" score="4"/>
+                                <skill name="Throw" score="2"/>
+                            </group>
+
+                            <group name="Misc" type="skills">
+                                <skill name="Survival" score="2"/>
+                                <skill name="Swim" score="4"/>
+                            </group>
+                        </skills>
+
+                        <combat>
+                            <combatstyle style="Claw" skill="Brawl">
+                                <initiative attribute="agility" bonus="+10"/>
+                                <attack attribute="strength" bonus="+7"/>
+                                <defence attribute="agility" bonus="+3"/>
+                                <damage type="mixed" bonus="+3"/>
+                            </combatstyle>
+                        </combat>
+
+                        <passions>
+                            <passion name="Bravery" score="6"/>
+                            <passion name="Ego" score="2"/>
+                            <passion name="Restraint" score="2"/>
+                            <passion name="Temperence" score="2"/>
+                        </passions>
+
+                        <advantages>
+                            <advantage name="Animal"/>
+                            <advantage name="Acute sense of smell" score="+2"/>
+                            <advantage name="Attacks by strength"/>
+                        </advantages>
+                    </statistics>
+                </beast>
+
+
+            </beastiary>
         </sect1>
 
     </body>
