@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license>
-            <year>2003</year>
+            <year>2004</year>
             <holder>Samuel Penn</holder>
             <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
             <text>
@@ -62,12 +62,40 @@
 
             <para>
                 The human population of Euressa arrived here from the
-                <qv uri="old-world">Old World</qv> about two thousand years
-                ago. Arriving from the east, they settled in the lands
+                <qv uri="old-world">Old World</qv> about three thousand
+                years ago. Arriving from the east, they settled in the lands
                 known as <qv uri="tarvallah">Tarvallah</qv>, an eden
                 created for them by the god <qv uri="rorn">Rorn</qv> as a
                 refuge from the <qv uri="ice">Ice</qv> which had destroyed
-                their old civilisation.
+                their old civilisation. At this time, the Ice covered most
+                of Euressa except for the southeast, where the power of the
+                gods kept it at bay.
+            </para>
+
+            <para>
+                Over the next millenia, the Ice is gradually driven north as
+                far as the coastal regions, though glaciers still flow down
+                from the central mountains. Fertile plains are starting to
+                give way to orest in the heartlands, and the first colonists
+                begin to move westward.
+            </para>
+
+            <para>
+                About 1500 years before the present time, the first contact
+                is made between Men and the <qv uri="elders">Elders</qv>.
+                The latter have sheltered beneath the ground to escape the
+                great glaciers. They were a dying race even then, numbering
+                in the thousands. What they do have though is knowledge, and
+                they teach it to a few Men who are beguiled by them.
+            </para>
+
+            <para>
+                Around 1200 years ago, the followers of the Elders have
+                become the <qv uri="druids">Druids</qv>, and have a power
+                base in Weidany. Most of the Elders are dead, but the
+                Druids are already powerful enough to stand alone. The
+                People of Rorn and the Druids seemed happy to keep apart,
+                each in their own lands.
             </para>
 
             <para>
@@ -75,8 +103,15 @@
                 land into chaos and darkness. The death of Rorn was a two
                 edged sword. Though it caused much grief, it also saw the
                 end of the <qv uri="rornic-winter-age">Age of Winter</qv>,
-                and the retreat of the Ice led to the gradual settlement
-                of the northwestern parts of the continent.
+                and the further retreat of the Ice led to the gradual
+                settlement of the northwestern parts of the continent.
+            </para>
+
+            <para>
+                The People of Rorn gradually moved into Weidany, and there
+                was conflict between them and the Druids. Eventually the
+                Druids are driven out, and the full settlement of Euressa
+                begins.
             </para>
         </sect1>
     </body>
