@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Brytish</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>People of Bryteland</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="bryteland">Bryteland</subject>
+
+            <category>People</category>
+
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The People of Bryteland</title>
+
+            <para>
+                The people of Brytish are a hardy, independent folk, with
+                little patience for those who are lazy or incompetent.
+                All men in Bryteland are free and equal, though some are
+                more equal than others. Nobility and royalty exist, though
+                movement between classes is fairly common. The quickest
+                way into the nobility is to become a respected warrior.
+                The quickest way out, is to loose the trust of those you
+                claim to rule.
+            </para>
+            
+            <para>
+                Slavery exists, though it is uncommon, and tends to be more
+                due to a temporary financial setback, than a social class.
+                Any slave may purchase their freedom at any time, often for
+                an agreed upon amount when the person entered slavery.
+            </para>
+        </sect1>
+        
+        <sect1>
+            <title>Background</title>
+            
+            <sect2>
+                <title>Skills</title>
+                
+                <para>
+                    The following skills are common amongst the Brytish.
+                    Unless otherwise noted, anyone can learn them as long
+                    as they have had a reasonable opportunity to.
+                </para>
+                
+                <skill-list>
+                    <skill name="Speak Brytish" type="language">
+                        <description>
+                            <para>
+                                Brytish borrows from the Rornic language,
+                                but originally split from it many centuries
+                                ago. A Rornic or Brytish speaker is at -4
+                                to their skill when trying to communicate
+                                with a speaker of the other tongue.
+                            </para>
+                            
+                            <para>
+                                Brytish is quite similar to Tannish, and
+                                speakers are at -1 to their skill when
+                                trying to communicate.
+                            </para>
+                        </description>
+                    </skill>
+                    
+                    <skill name="Religion (Ashek)" type="knowledge">
+                        <description>
+                            <para>
+                                Many Brytish follow the god Ashek, or at
+                                least have a passing familiarity with his
+                                ideals and traditions. Basic knowledge of
+                                Ashek will also be gained from the Area
+                                Lore (Bryteland) skill.
+                            </para>
+                        </description>
+                    </skill>
+                    
+                    <skill name="Religion (Brytish)" type="knowledge">
+                        <description>
+                            <para>
+                                Knowledge of the Brytish pantheon of gods.
+                            </para>
+                        </description>
+                    </skill>
+                </skill-list>
+            </sect2>
+            
+            <sect2>
+                <title>Advantages</title>
+                
+                <para>
+                    Brytish characters may choose from the following
+                    advantages at the start of the game. These advantages
+                    cannot be obtained later.
+                </para>
+                
+                <advantages>
+                    <advantage name="Brave" type="edge">
+                        <cost points="2"/>
+                        <description>
+                            <para>
+                                Gain a +1 bonus to will when making bravery
+                                checks.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Resistent to magic" type="edge">
+                        <cost points="4"/>
+                        <description>
+                            <para>
+                                Gain a +1 bonus to will when resisting any
+                                form of magic, or magically enhanced effect.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Berserker" type="advantage">
+                        <cost points="5"/>
+                        <description>
+                            <para>
+                                Character is a berserker.
+                            </para>
+                        </description>
+                    </advantage>
+                </advantages>
+            </sect2>
+        </sect1>
+
+    </body>
+
+</article>
+
