@@ -57,7 +57,8 @@
             <para>
                 Priests of Yagma tend to be both male and female. They 
                 play an important role in the agricultural activities of 
-                society, and are far more common in rural areas than in towns.
+                society, and are far more common in rural areas than in
+                towns.
             </para>
 
             <para>
@@ -65,22 +66,23 @@
                 of Rim.
             </para>
 
-            <para>
-                //Shrines and Holy Places
-            </para>
 
-            <para>
-                Ceremonies to Yagma are normally performed at a sacred 
-                tree, which is ideally oak. A stone table is used to 
-                burn sacrifices on, which normally consist of crops or animals.
-            </para>
+            <sect2>
+                <title>Shrines and Holy Places</title>
 
-            <para>
-                Other sacred places include groves, pools and caves. 
-                These are reserved for special ceremonies, normally 
-                those private to the cult.
-            </para>
+                <para>
+                    Ceremonies to Yagma are normally performed at a sacred
+                    tree, which is ideally oak. A stone table is used to
+                    burn sacrifices on, which normally consist of crops or
+                    animals.
+                </para>
 
+                <para>
+                    Other sacred places include groves, pools and caves.
+                    These are reserved for special ceremonies, normally
+                    those private to the cult.
+                </para>
+            </sect2>
         </sect1>
     </body>
 </article>
