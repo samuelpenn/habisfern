@@ -39,6 +39,8 @@
             <subject uri="wyrms">Wyrms</subject>
 
             <category>Wyrms</category>
+
+            <topic uri="dragons">Dragons</topic>
         </topics>
     </header>
 
@@ -60,7 +62,9 @@
 
             <para>
                 The White Wyrm of Abbington is the most famous of 
-                recent dragons.
+                recent wyrms, and also one of the largest. The
+                White Wyrm was slain in 1182 by
+                <qv uri="renbric-slayer">Renbric the Slayer</qv>.
             </para>
 
         </sect1>

@@ -39,6 +39,8 @@
             <subject uri="dragons">Dragons</subject>
 
             <category>Beasts</category>
+
+            <topic uri="dragons">Dragons</topic>
         </topics>
     </header>
 
