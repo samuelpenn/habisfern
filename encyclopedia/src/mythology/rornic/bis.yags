@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Bis</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>God of the Sun</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+            <partof>daegian</partof>
+        </references>
+
+        <topics>
+            <topic>God</topic>
+            <topic>Religion</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Bis, the Sun God</title>
+
+            <para>
+                Bis is god of the sun, mischief and chaos. He drives the
+                chariot which pulls the sun around the world once a day,
+                but sometimes strays from his path, such that the length
+                of the days changes throughout the year.
+            </para>
+            
+            <para>
+                At times, he even leaves his chariot, and interferes
+                with mortal affairs.
+            </para>
+            
+            <sect2>
+                <title>Interests and Worshippers</title>
+                
+                <para>
+                    Bis is venerated by blacksmiths, for he is also seen
+                    as the god of forges and fires. His burning passion
+                    inspires lovers, and his mischivious streak causes
+                    pranksters to call on his name.
+                </para>
+                
+                <para>
+                    By most others, he is venerated for bringing summer
+                    to the world (though he may be sometimes late), and
+                    the height of summer is used as an excuse to hold
+                    festivals in his name.
+                </para>
+            </sect2>
+        </sect1>
+
+    </body>
+
+</article>
+

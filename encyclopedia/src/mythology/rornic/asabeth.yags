@@ -53,12 +53,14 @@
             
             <para>
                 Asabeth is unrelated to the rest of the gods - she came
-                from the East while mankind was living in Tarvallah. She
+                from the East while mankind was living in
+                <qv uri="tarvallah">Tarvallah</qv>. She
                 came with the Eastlings (those men who came after the
-                followers of Rorn, and dwelt to the east of Tarvallah,
-                and who did not look to Rorn as their god).
+                followers of <qv uri="rorn">Rorn</qv>, and dwelt to the
+                east of Tarvallah, and who did not look to Rorn as their
+                god).
             </para>
-            
+
             <para>
                 Asabeth is a powerful goddess of war and revenge. She
                 demands the sacrifice of prisoners taken in war
@@ -66,11 +68,13 @@
             </para>
 
             <para>
-                Asabeth fought with Haltan at the borders of Tarvallah,
+                Asabeth fought with <qv uri="haltan">Haltan</qv> at
+                the borders of Tarvallah,
                 and she prevailed, taking Haltan as her prisoner,
                 chaining him in his own hall. She raped him, and kept
                 him as prisoner until after the birth of their children
-                (Fenya, Bis and Neya). She freed Haltan, and gave
+                (<qv uri="fenya">Fenya</qv>, <qv uri="bis">Bis</qv>
+                and <qv uri="neya">Neya</qv>). She freed Haltan, and gave
                 herself to him as his wife. She deserted her people,
                 and left them to suffer outside Tarvallah.
             </para>
@@ -91,10 +95,10 @@
 
         <sect1>
             <title>Tales of Asabeth</title>
-            
+
             <sect2>
                 <title>The Capture of Haltan</title>
-                
+
                 <para>
                     When Asabeth first came to the west, she
                     fought and defeated Haltan, forcing him to

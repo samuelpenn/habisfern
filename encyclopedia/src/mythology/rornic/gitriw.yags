@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Gitriw</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Truth Speaker</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+            <partof>daegian</partof>
+        </references>
+
+        <topics>
+            <topic>God</topic>
+            <topic>Religion</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Gitriw, Truth Speaker</title>
+
+            <para>
+                Gitriw was created at the dawn of the world, together
+                with the rest of the <qv uri="daegian">Daegian</qv>.
+            </para>
+
+            <sect2>
+                <title>Interests and Worshippers</title>
+
+                <para>
+                    Gitriw was bound by the other gods to only ever speak
+                    the truth, and from that day forth she has been the
+                    impartial judge of gods and men.
+                </para>
+
+                <para>
+                    Gitriw is called upon at trials, where all present
+                    swear on her name to speak the truth. Few take her as
+                    a patron however.
+                </para>
+            </sect2>
+        </sect1>
+
+    </body>
+
+</article>
+

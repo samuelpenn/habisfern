@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Estror</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Goddess of the Dawn</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+            <partof>daegian</partof>
+        </references>
+
+        <topics>
+            <topic>God</topic>
+            <topic>Religion</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Estror, Goddess of the Dawn</title>
+
+            <para>
+                Estror was one of the first gods created by
+                <qv uri="rim">Rim</qv> and <qv uri="yagma">Yagma</qv>
+                at the dawn of the world. She takes after Yagma the
+                most, taking some of her responsibilities onto herself.
+            </para>
+            
+            <para>
+                After Yagma and Rim and breathed life into the world,
+                Estror went out amongst the new life, and tended to it,
+                helping it grow into what it is today. She tended grass
+                and bushes and trees, the fish in the sea and the animals
+                on the land. She has a love for all things that grow,
+                and is saddened by their deaths at the end of their
+                life.
+            </para>
+            
+            <para>
+                Though Estror and Yagma are venerated for much the same
+                things, they have a different outlook. Estror truly loves
+                all that lives, whilst Yagma is uncaring and impassionate.
+                Yagma is as much as goddess of death as she is of life.
+            </para>
+
+            <sect2>
+                <title>Interests and Worshippers</title>
+
+                <para>
+                    Estror is the goddess of new beginnings, of birth,
+                    spring and dawn. She is the radiant optimist,
+                    heralding the start of the day after the cold
+                    darkness of the night.
+                </para>
+
+                <para>
+                    Farmers and new mothers venerate Estror, for it is
+                    through her that new born babies survive, and crops
+                    survive to grow ready for a healthy harvest.
+                </para>
+            </sect2>
+        </sect1>
+
+    </body>
+
+</article>
+

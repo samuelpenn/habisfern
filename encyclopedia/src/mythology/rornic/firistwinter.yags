@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Firistwinter</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Gods of the Dawn</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+            <partof>rornic-mythology</partof>
+        </references>
+
+        <topics>
+            <topic>Mythology</topic>
+            <topic>Religion</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Firistwinter</title>
+
+            <para>
+                The first winter of the world, which existed before the
+                beginning of time, and ended at the beginning of time.
+                The only god that existed at this time was
+                <qv uri="iss">Iss</qv>, who was the Great Ice which lay
+                across the world and smothered it with absolute stasis.
+            </para>
+        </sect1>
+
+    </body>
+
+</article>
+

@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Fenya</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Moon Daughter</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+            <partof>daegian</partof>
+        </references>
+
+        <topics>
+            <topic>God</topic>
+            <topic>Religion</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Fenya, Moon Daughter</title>
+
+            <para>
+                Fenya is the goddess who took up the task of leading
+                the moon in its course around the world after the
+                death of <qv uri="rorn">Rorn</qv>. She is goddess of
+                the moon, beauty and the night. She is brother of
+                <qv uri="bis">Bis</qv> and the daughter of
+                <qv uri="haltan">Haltan</qv> and
+                <qv uri="asabeth">Asabeth</qv>.
+            </para>
+
+            <sect2>
+                <title>Interests and Worshippers</title>
+
+                <para>
+                    Fenya is the goddess of the Moon. Save for Pel,
+                    she is said to be the most beautiful of the gods,
+                    and she is often associated with love and beauty.
+                    She is a hunter also, and enemy of
+                    <qv uri="walgi">Walgi</qv>.
+                </para>
+
+                <para>
+                    Followers of Fenya come from all walks of life.
+                    Many who seek luck in love make offerings to her.
+                    If is this aspect which she is venerated for the
+                    most.
+                </para>
+            </sect2>
+        </sect1>
+
+    </body>
+
+</article>
+
