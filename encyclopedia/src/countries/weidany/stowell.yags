@@ -55,15 +55,33 @@
         <sect1>
             <title>Stowell</title>
 
-            <import-map uri="weidany" scale="2">
-                <thing name="Stowell" radius="4"/>
-            </import-map>
-
             <para>
                 Stowell is the site of the Royal Castle of the Queen of Rorn
                 and is considered the capital of the Kingdom of Weidany.
                 The town has a population of about twenty thousand,
                 making it the largest town in the Kingdom.
+            </para>
+
+            <import-map uri="weidany" scale="3" thumb="200">
+                <thing name="Stowell" radius="6"/>
+            </import-map>
+
+            <para>
+                Stowell is located in the shire of Westland, at the heart of
+                a densly populated agricultural region. It's large natural
+                harbour is one end of a trade route which stretches
+                southward to Midlaen. The most common import is wine from
+                <qv uri="emrend-shire">Emrend</qv>.
+            </para>
+
+            <para>
+                Stowell has temples to all of the major gods, included two
+                large stone temples to <qv uri="neya">Neya</qv> and
+                <qv uri="haltan">Haltan</qv>. The temple to Neya is the main
+                chapter house for the <qv uri="neya-daughters">Daughters of
+                Neya</qv>, and it's close location to the Royal Castle
+                reinforces the close relationship between the Daughters and
+                the Queen.
             </para>
         </sect1>
 
