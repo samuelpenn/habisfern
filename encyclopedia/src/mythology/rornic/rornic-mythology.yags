@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Rornic Mythology</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="rornic-mythology">Rornic Mythology</subject>
+
+            <category>Religion</category>
+
+            <topic uri="rornic-mythology">Rornic Mythology</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Rornic Mythology</title>
+
+            <para>
+                Long before living memory, the god <see uri="rorn">Rorn</see>
+                led his people away from the encroachment of the Ice to the
+                magical realm of <see uri="tarvallah">Tarvallah</see>, where
+                the living magic of the Earth kept the Ice at bay.
+            </para>
+
+            <para>
+                The mythology of the People of Rorn deals with the end of
+                the Old World, the short time in Tarvallah, and the ending
+                of that age also, when Rorn was slain by his brother
+                <see uri="haltan">Haltan</see>, who took up the kingship
+                of the gods, and led the people in war against the other
+                races of men.
+            </para>
+
+            <para>
+                Tarvallah fell to fire and disease, but in that time the
+                Ice was driven back from the rest of Euressa, and the
+                People of Rorn came to carve a new kingdom for themselves
+                in Weidany.
+            </para>
+
+            <sect2>
+                <title>The Five Ages</title>
+
+                <para>
+                    The bards tell that four ages of the World have passed,
+                    and that we now live in the Fifth Age, where the World
+                    hangs in balance between the Ice and Life.
+                </para>
+
+                <para>
+                    <see uri="rornic-before-time">The Time Before Time</see>
+                    existed forever, and for no time at all. Before the
+                    first rising of the Sun and Moon, time was unmeasured,
+                    and no life existed on the World.
+                </para>
+
+                <para>
+                    <see uri="rornic-dawn-time">The Dawn Time</see> was the
+                    age from the creation of the Sun and Moon, and lasted
+                    up until the creation of Man. It was the time in which
+                    the gods were created, and they in turn shaped the world.
+                </para>
+
+                <para>
+                    <see uri="rornic-summer-age">The Age of Summer</see>.
+                </para>
+
+                <para>
+                    <see uri="rornic-winter-age">The Age of Winter</see>.
+                </para>
+
+                <para>
+                    <see uri="rornic-balanced-age">The Age of Balance</see>.
+                </para>
+            </sect2>
+        </sect1>
+
+    </body>
+
+</article>
+
