@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Feldanvithr</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>The hidden woods</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="undead">Undead</see>
+            <see uri="harholt">Harholt</see>
+        </references>
+
+        <topics>
+            <subject uri="feldanvithr">Feldanvithr</subject>
+
+            <category>Woods</category>
+
+            <topic uri="sonodalr">Sonodalr</topic>
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Feldanvithr</title>
+
+            <para>
+                The <e>Feldanvithr</e> are on the borders of the two Brytish
+                kingdoms Sonodalr and Harholt. Known as the hidden woods,
+                they are not particularly large or impressive, but have a
+                reputation which causes most people to avoid them.
+            </para>
+
+            <para>
+                The woods are said to hide a hidden kingdom, which stretches
+                for many tens of leagues, though the woods themselves are
+                only five leagues west to east, and a mere two north to
+                south. Those who travel its paths can take weeks to cross
+                it, so most go around instead, a journey of only one or
+                two days.
+            </para>
+
+            <para>
+                The woods are deciduous, and though wild and dense, not more
+                so than much of the rest of the untamed woodlands which are
+                found in Bryteland. Red deer and wild boar are common,
+                though rarely hunted.
+            </para>
+
+            <sect2>
+                <title>The Hidden Kingdom</title>
+
+                <para>
+                    Within the depths of Feldanvithr is the <e>Hidden
+                    Kingdom</e>, ruled by the undead jarl Sigtrygg. The size
+                    of his kingdom of undead is unknown, though it is said
+                    that they keep living men and women as herds, drinking
+                    their blood in order to sustain their undead life.
+                </para>
+            </sect2>
+        </sect1>
+
+    </body>
+
+</article>
+
