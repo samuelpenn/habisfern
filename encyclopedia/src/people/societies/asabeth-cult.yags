@@ -133,10 +133,10 @@
                     powerful rituals.
                 </para>
                 
-                <advantages howPresent="skills">
+                <advantages title="Rituals of Asabeth">
                     <advantage name="Blessing of Blood" type="technique">
                         <cost points="2"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Asabeth)"/>
                         
                         <description>
                             <para>
@@ -150,7 +150,7 @@
                     
                     <advantage name="Berserker" type="technique">
                         <cost points="4"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Asabeth)"/>
                         <prerequisite>Blessing of Blood</prerequisite>
                         
                         <description>
@@ -173,7 +173,7 @@
                     
                     <advantage name="Armour of Blood" type="technique">
                         <cost points="4"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Asabeth)"/>
                         <prerequisite>Berserker</prerequisite>
                         
                         <description>
@@ -216,7 +216,7 @@
                     
                     <advantage name="Sisters in Arms" type="technique">
                         <cost points="4"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Asabeth)"/>
                         
                         <description>
                             <para>
@@ -232,7 +232,7 @@
                     
                     <advantage name="Strength of the Goddess" type="technique">
                         <cost points="8"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Asabeth)"/>
                         <prerequisite>Sisters in Arms</prerequisite>
                         
                         <description>
@@ -247,7 +247,7 @@
                     
                     <advantage name="Shield of the Goddess" type="technique">
                         <cost points="12"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Asabeth)"/>
                         <prerequisite>Strength of the Goddess</prerequisite>
                         
                         <description>
