@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Pikely</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="pikely">Pikely</subject>
+
+            <category>Town</category>
+            <topic uri="scarondy-shire">Scarondy Shire</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Pikely</title>
+
+            <para>
+                Pikely is a town of about 900 people on the shore of <qv 
+                uri="gaers-lake">Gaers Lake</qv>. Most of the town's 
+                economy is based around fishing, though there is also a 
+                garrison and supply depot here for the Queen's army.
+            </para>
+
+            <para>
+                Pikely is not particularly pretty, nor is it pleasant to 
+                the nose. Its major export is dried fish, and the smell 
+                is the first thing noticed by visitors.
+            </para>
+
+            <para>
+                The garrison can support two hundred troops, but 
+                normally there are no more than a tenth of this based 
+                here. As such, many of the barracks are in poor condition.
+            </para>
+
+        </sect1>
+    </body>
+</article>

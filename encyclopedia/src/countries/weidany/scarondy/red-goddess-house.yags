@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Red Goddess' House</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="red-goddess-house">Red Goddess' House</subject>
+
+            <category>Temple</category>
+            <topic uri="scarondy-shire">Scarondy Shire</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Red Goddess' House</title>
+
+            <para>
+                South of <qv uri="gaers-lake">Gaers Lake</qv> in 
+                Scarondy is the only known temple of Asabeth remaining 
+                in Weidany. The house is a sprawling collection of halls 
+                on a platform raised above the marsh lands of the 
+                region. The locals call it the Witches' House, and give 
+                it a wide birth believing if to be a place of dark rituals.
+            </para>
+
+            <para>
+                The temple is home to about two dozen priestesses and 
+                their acolytes. About a third of them are too young to 
+                join the cult fully, but have received training in the 
+                ways of both the cult and the sword.
+            </para>
+
+            <para>
+                The head of the temple is Geflaeda, a woman in her 
+                fifties covered in the tatoos of her religion.
+            </para>
+
+        </sect1>
+    </body>
+</article>
