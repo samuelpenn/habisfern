@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Crimson Blades</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="asabeth-cult">Cult of Asabeth</see>
+            <see uri="estwed-kingdom">Kingdom of Estwed</see>
+        </references>
+
+        <topics>
+            <subject uri="asabeth">Asabeth</subject>
+
+            <category>Cult</category>
+
+            <topic uri="rornic-mythology">Rornic Mythology</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Cult of the Crimson Blades</title>
+
+            <para>
+                In the Kingdom of Lanuch in 781, there was an uprising by
+                a group of women warriors, followers of Asabeth, who turned
+                on the men who governed their lands, and overthrows them.
+                Their leader is Aethelflaed, who within two years sets
+                herself up as Queen of Estwed, gaining independence from the
+                Kingdom of Lanuch.
+            </para>
+
+            <para>
+                Queen Aethelflaed and her followers, though they follow the
+                <qv uri="asabeth-cult">Cult of Asabeth</qv>, do not agree
+                with the weakened, softer, side of the cult which had become
+                common over the previous centuries, and rename themselves as
+                the Crimson Blades, holding to the original teachings of
+                <qv uri="asabeth">Asabeth</qv>. The two cults do not agree
+                on methods or teachings, though this disagreement led only
+                to avoidence rather than fighting.
+            </para>
+
+            <para>
+                The cult of the Crimson Blades teaches that a sword woman
+                of the Crimson Lady should have total independence and total
+                freedom from men. It is said that they practised male
+                sacrifice, sexual freedom (children were raised by the
+                women, and the men often didn't even know which children
+                were theirs) and a matriarchy.
+            <para>
+
+            <para>
+                As practised in Estwed during the 9th century, the cult was
+                both extreme and fanatical. Any who opposed the Crimson
+                Blades within the Kingdom were dealt with harshly, with
+                slavery and death being the most common punishments. By the
+                time the Blades were overthrown, a large proportion of the
+                population of the kingdom were slaves, with no rights or
+                protection. This applied to both men and women.
+            </para>
+
+            <sect2>
+                <title>The Cult Today</title>
+
+                <para>
+                    The Cult lost most of its members when Estwed was
+                    brought back under the control of men in 889, when
+                    Queen Osith is assassinated. Fragments of the cult
+                    lived on however, and some of the traditions of the
+                    cult were followed by the early Queens of Weidany.
+                    Possibly, some members of the cult were subsumed into
+                    the <qv uri="neya-daughters">Daughters of Neya</qv>
+                    around this time.
+                </para>
+            </sect2>
+
+
+        </sect1>
+    </body>
+</article>
