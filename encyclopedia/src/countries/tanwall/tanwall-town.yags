@@ -36,13 +36,15 @@
         <style name="module"/>
 
         <references>
-            <parent>bryteland</parent>
-            <see>tanwall</see>
-            <see>tanwall-hills</see>
+            <partof>bryteland</partof>
+            <partof>tanwall</partof>
         </references>
 
         <topics>
             <topic>Town</topic>
+            <topic>Settlement</topic>
+            <topic>Geography</topic>
+            <topic>Habisfern</topic>
         </topics>
     </header>
 

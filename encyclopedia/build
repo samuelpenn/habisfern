@@ -3,9 +3,12 @@
 BASEDIR=entries
 TMPDIR=tmp
 
+STYLESHEET=/usr/share/web/xsl/yagsbook/html/yagsbook.xsl
+STYLESHEET=/home/sam/cvs/rpg/yagsbook/xsl/html/encyclopedia.xsl
+
 rm -fr $BASEDIR $TMPDIR
 
-mkdir $BASEDIR $TMPDIR
+mkdir $BASEDIR $TMPDIR $TMPDIR/topics
 
 #
 # First of all, build the encyclopedia entries as HTML from the
@@ -24,13 +27,24 @@ do
         do
             htmlfile=`echo $infile | sed s/yags/html/`
             outfile=$BASEDIR/$letter/`basename $htmlfile`
-            yags2html $infile /usr/share/web/xsl/yagsbook/html/yagsbook.xsl $outfile
-            
+            ./yags2html $infile $STYLESHEET $outfile
+
             title=`xsltproc xsl/title.xsl $infile | grep -v version`
             slugline=`xsltproc xsl/slugline.xsl $infile | grep -v version`
-            
+
             link=`echo $outfile | sed "s/entries\///"`
-            echo "<a href=\"$link\">$title</a>, $slugline" >> $BASEDIR/$letter.html
+            href="<a href=\"$link\">$title</a>, $slugline"
+            echo $href >> $BASEDIR/$letter.html
+
+            # Find all the topics this article is a member of,
+            # and populate each topic list with this article's href.
+            xsltproc xsl/topics.xsl $infile | grep -v version | \
+                awk -F, '{for (i = 1; i < NF; i++) print $i }' > $TMPDIR/topicfile
+            cat $TMPDIR/topicfile | while read topic
+            do
+                mkdir -p $TMPDIR/topics/$topic
+                echo $href >> $TMPDIR/topics/$topic/$letter
+            done
         done
     fi
 done
@@ -61,6 +75,4 @@ done
 
 cat templates/index.html > entries/index.html
 cat $MAINFILE >> entries/index.html
-echo "        </div>" >> entries/index.html
-echo "    </body>" >> entries/index.html
-echo "</html>" >> entries/index.html
+cat templates/footer.html >> entries/index.html

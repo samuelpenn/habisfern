@@ -41,6 +41,9 @@
 
         <topics>
             <topic>Town</topic>
+            <topic>Settlement</topic>
+            <topic>Geography</topic>
+            <topic>Habisfern</topic>
         </topics>
     </header>
 

@@ -37,29 +37,13 @@
         <style name="module"/>
 
         <references>
-            <parent>daegian</parent>
-            <see>besenreth</see>
-            <see>estror</see>
-            <see>gitriw</see>
-            <see>haltan</see>
-            <see>moern</see>
-            <see>reas</see>
-            <see>rim</see>
-            <see>thot</see>
-            <see>yagma</see>
-            <see>meam</see>
-            <see>pel</see>
-            <see>tharos</see>
-            <see>walgi</see>
-            <see>brokki</see>
-            <see>farfthi</see>
+            <partof>daegian</partof>
         </references>
 
         <topics>
+            <topic>God</topic>
+            <topic>Religion</topic>
             <topic>Habisfern</topic>
-            <topic>Euressa</topic>
-            <topic>Weidany</topic>
-            <topic>Stowell</topic>
         </topics>
     </header>
 
@@ -82,6 +66,24 @@
                 come out at night, keeping to the shadows cast by the
                 Moon so that none would see her.
             </para>
+            
+            <sect2>
+                <title>Interests and Worshippers</title>
+                
+                <para>
+                    Besenreth is the Twilight Goddess, who lives in the
+                    shadowed and hidden place. She is the saviour of
+                    the rangers of the Tuffin Wood, an independent group
+                    of people who live in the thick woods between the
+                    borders of the Kingdom of Weidany, and Cadworld.
+                </para>
+                
+                <para>
+                    It is only these people who worship her in any great
+                    numbers, though they do worship her to the exclusion
+                    of any other god.
+                </para>
+            </sect2>
 
         </sect1>
 

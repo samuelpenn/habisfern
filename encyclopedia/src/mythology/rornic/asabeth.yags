@@ -33,32 +33,17 @@
             </text>
         </license>
 
-
         <style name="module"/>
-        
+
         <references>
-            <parent>daegian</parent>
-            <see>estror</see>
-            <see>gitriw</see>
-            <see>haltan</see>
-            <see>moern</see>
-            <see>reas</see>
-            <see>rim</see>
-            <see>thot</see>
-            <see>yagma</see>
-            <see>meam</see>
-            <see>pel</see>
-            <see>tharos</see>
-            <see>walgi</see>
-            <see>brokki</see>
-            <see>farfthi</see>
+            <partof>daegian</partof>
         </references>
 
+
         <topics>
+            <topic>God</topic>
+            <topic>Religion</topic>
             <topic>Habisfern</topic>
-            <topic>Euressa</topic>
-            <topic>Weidany</topic>
-            <topic>Stowell</topic>
         </topics>
     </header>
     
@@ -92,12 +77,52 @@
 
             <para>
                 She is a warrior goddess, quick to anger, and eager for
-                the death of her enemies. Asabeth is considered to be
+                the death of her enemies. She is the goddess of blood
+                feuds, of vengeance and hatred of the enemy. She also
+                stands for justice outside the law.
+            </para>
+
+            <para>
+                Asabeth is considered to be
                 barbaric by most people, though various cults to her
                 have risen up over time, most notably in Estwed.
             </para>
         </sect1>
 
+        <sect1>
+            <title>Tales of Asabeth</title>
+            
+            <sect2>
+                <title>The Capture of Haltan</title>
+                
+                <para>
+                    When Asabeth first came to the west, she
+                    fought and defeated Haltan, forcing him to
+                    become her husband.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>The Death of Rorn</title>
+
+                <para>
+                    Though it was Haltan who struck the blow which
+                    killed Rorn, it was Asabeth who put him up to
+                    it, though without his knowledge.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>The Warriors of Estwed</title>
+
+                <para>
+                    Though not directly involving Asabeth, this
+                    tells of a group of her followers - a cult of
+                    warrior women - who took over the rule of the
+                    Kingdom of Estwed long ago.
+                </para>
+            </sect2>
+        </sect1>
     </body>
 
 </article>

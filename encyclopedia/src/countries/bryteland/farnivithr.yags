@@ -36,11 +36,13 @@
         <style name="module"/>
 
         <references>
-            <parent>bryteland</parent>
+            <partof>bryteland</partof>
         </references>
 
         <topics>
+            <topic>Forest</topic>
             <topic>Geography</topic>
+            <topic>Habisfern</topic>
         </topics>
     </header>
 

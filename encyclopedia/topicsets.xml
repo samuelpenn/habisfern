@@ -1,11 +1,37 @@
 <?xml version="1.0"?>
 
 <topicsets>
-    <topic>Country</topic>
-    <topic>Person</topic>
-    <topic>Religion</topic>
-    <topic>Legend</topic>
-    <topic>Beast</topic>
-    <topic>Geography</topic>
+    <topicset name="Geography">
+        <topicset name="Country"/>
+        <topicset name="River"/>
+        <topicset name="Mountain"/>
+        <topicset name="Forest"/>
+        <topicset name="Sea"/>
+        <topicset name="Settlement">
+            <topicset name="Town"/>
+            <topicset name="Castle"/>
+            <topicset name="Village"/>
+        </topicset>
+    </topicset>
+
+    <topicset name="Religion">
+        <topicset name="Mythology"/>
+        <topicset name="God"/>
+    </topicset>
+
+    <topicset name="People">
+        <topicset name="King"/>
+        <topicset name="Wizard"/>
+        <topicset name="Warrior"/>
+        <topicset name="Priest"/>
+    </topicset>
+
+    <topicset name="History">
+        <topicset name="Legend"/>
+        <topicset name="Battle"/>
+    </topicset>
+
+    <topicset name="Beast"/>
+
 </topicsets>
 
