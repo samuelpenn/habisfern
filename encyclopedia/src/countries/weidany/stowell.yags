@@ -2,10 +2,10 @@
 
 <article>
     <header>
-        <title>Kingdom of Aidan</title>
+        <title>Stowell</title>
         <tagline>Habisfern</tagline>
 
-        <slugline/>
+        <slugline>Royal seat of the Kingdom of Weidany</slugline>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license>
-            <year>2002</year>
+            <year>2003</year>
             <holder>Samuel Penn</holder>
             <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
             <text>
@@ -26,44 +26,47 @@
                 modify this document under the terms of the GNU
                 Free Documentation License, Version 1.1 or any
                 later version published by the Free Software
-                Foundation.
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
             </text>
         </license>
 
-        <style name="module"/>
 
+        <style name="module"/>
+        
         <references>
+            <see uri="weidany">Kingdom of Weidany</see>
+            <see uri="weidany-queen">Queen of Weidany</see>
         </references>
 
         <topics>
-            <subject uri="aidan">Aidan Shire</subject>
+            <subject uri="stowell">Stowell</subject>
 
-            <category>None</category>
+            <category>Town</category>
 
-            <topic uri="aidan">Aidan Shire</topic>
+            <topic uri="westland">Westland</topic>
             <topic uri="habisfern">Habisfern</topic>
             <topic uri="weidany">Weidany</topic>
             <topic uri="euressa">Euressa</topic>
         </topics>
-    </header>
 
+    </header>
+    
     <body>
         <sect1>
-            <title>Kingdom of Aidan</title>
+            <title>Stowell</title>
 
             <para>
-                The Kingdom of Aidan was a powerful kingdom that 
-                existed about six hundred years ago. It made an 
-                alliance with the Ents, and its armies almost 
-                conquered much of what is now Weidany.
+                Stowell is the site of the Royal Castle of the Queen of Rorn
+                and is considered the capital of the Kingdom of Weidany.
+                The town has a population of about twenty thousand,
+                making it the largest town in the Kingdom.
             </para>
-
-            <para>
-                They were defeated however in a series of bloody 
-                wars that ended with them subsumed into what is 
-                now the Kingdom of Weidany.
-            </para>
-
         </sect1>
+
     </body>
+
 </article>
+

@@ -2,10 +2,10 @@
 
 <article>
     <header>
-        <title>Stowell</title>
+        <title>Erlwood</title>
         <tagline>Habisfern</tagline>
 
-        <slugline>Royal seat of the Kingdom of Weidany</slugline>
+        <slugline>Shire town of Northwood</slugline>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -36,24 +36,29 @@
 
         <style name="module"/>
         
+        <references>
+        </references>
+
         <topics>
-            <topic>Habisfern</topic>
-            <topic>Euressa</topic>
-            <topic>Weidany</topic>
-            <topic>Stowell</topic>
+            <subject uri="erlwood">Erlwood</subject>
+
+            <category>Town</category>
+
+            <topic uri="northwood">Northwood</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
         </topics>
 
     </header>
     
     <body>
         <sect1>
-            <title>Stowell</title>
+            <title>Erlwood</title>
 
             <para>
-                Stowell is the site of the Royal Castle of the Queen of Rorn
-                and is considered the capital of the Kingdom of Weidany.
-                The town has a population of about twenty five thousand,
-                making it the largest town in the Kingdom.
+                Erlwood is the shire town of Northwood, in the Kingdom of
+                Weidany. It has a population of around 2,500.
             </para>
         </sect1>
 
