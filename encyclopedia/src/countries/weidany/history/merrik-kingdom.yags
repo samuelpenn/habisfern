@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Kingdom of Merrik</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="angsly-kingdom">Kingdom of Angsly</see>
+            <see uri="perrin-kingdom">Kingdom of Perrin</see>
+            <see uri="holbury-council">Council of Holbury</see>
+        </references>
+
+        <topics>
+            <subject uri="merrik-shire">Merrik</subject>
+
+            <category>Kingdom</category>
+
+            <topic uri="merrik-shire">Merrik Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Kingdom of Merrik</title>
+
+            <para>
+                The old Kingdom of Merrik was one of three kingdoms based
+                around the river Langly. All three kingdoms pretty much came
+                to an end in the middle of the 10th century, due to a feud
+                between themselves, and the invasion of the
+                <qv uri="aidan-kingdom">Kingdom of Aidan</qv>, which gave
+                rise to the Kingdom of Weidany.
+            </para>
+        </sect1>
+    </body>
+</article>
