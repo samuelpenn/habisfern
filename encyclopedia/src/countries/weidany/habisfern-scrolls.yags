@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Habisfern  Scrolls</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="weidany">Weidany</subject>
+
+            <category>History</category>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Habisfern Scrolls</title>
+
+            <para>
+                The original scrolls were commissioned by King Cerdic
+                of Lanuch, in the later half of the 7th century. Since then,
+                they have been added to by further generations, even after
+                the Kingdom of Lanuch collapsed, and was engulfed by its
+                neighbouring enemies.
+            </para>
+
+            <para>
+                The original scrolls are kept in the same place they have
+                always been kept, at Habisfern, in a stone temple dedicated
+                to Haltan. The priests who live here collect stories of
+                events from across the kingdom, compiling them into one
+                single chronicle.
+            </para>
+
+            <para>
+                Several copies of the chronicles are made each year, and
+                are purchased by powerful nobles. To have a full copy is
+                seen as somewhat of status symbol. The priests welcome the
+                'donations' made to them, and welcome it also because it
+                ensures that the knowledge they have worked out will not
+                easily be lost to future generations.
+            </para>
+        </sect1>
+
+        <sect1>
+            <title>Content</title>
+
+            <sect2>
+                <title>Introduction</title>
+
+                <para>
+                    To the most glorious King Cerdic, Embryt, servant of
+                    Haltan and your most humble advisor, presents to you
+                    this work which I hope you find pleasing.
+                </para>
+
+                <para>
+                    The island of Rorn is dedicated to our god who wisely
+                    led his people away from the path of the Ice. The old
+                    cities of man are gone, and we who are the descendants
+                    of those people are all that are left of mankind.
+                </para>
+
+                <para>
+                    The Isle of Rorn lays to the west of the Old World, and
+                    was sheltered from the Ice buy the warm breath of the
+                    summer gods. The Isle is split east from west buy a
+                    great mountain chain, which cannot be passed except in
+                    the south where it meets the sea. The northern reaches
+                    are still the domain of the Ice, and cannot be passed
+                    by mortal men.
+                </para>
+
+                <para>
+                    The isle is three thousand miles long from its east
+                    coast to the west coast, and some two thousand miles
+                    wide, north to south.
+                </para>
+
+                <para>
+                    At its north western tip lays the smaller island of
+                    Taneith, also known as the island of the goddess.
+                </para>
+
+                <para>
+                    Much of the island is beset by great storms, which tear
+                    at the land, ripping up any trees or plants which try
+                    to grow there. Beyond the coastal waters, the seas are
+                    also storm tossed, and quite impassable to boats which
+                    wish to travel out of sight of dry land. The gods see
+                    fit to grant us our rituals which control the storms
+                    over civilised lands, to bring rain at only the right
+                    times, and to calm the winds which would otherwise
+                    destroy our homes.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Early Centuries</title>
+
+                <events dating="AB">
+                    <event title="Betrayel" priority="3">
+                        <startdate year="1"/>
+                        <enddate year="100"/>
+                        <para>
+                            There is betrayal amongst the gods, and Rorn,
+                            god of the people, is slain. A great curse is
+                            laid upon the lands of Tarvallah, and the
+                            People of Rorn are driven out by pestilence
+                            and famine. The people flee to the east into
+                            unknown lands, and to the north of the land
+                            of Weidany.
+                        </para>
+                    </event>
+
+                    <event title="King Caewlin" priority="3">
+                        <startdate year="217"/>
+                        <para>
+                            Caewlin fights against Seaxmund, a great king
+                            of the Weidan, and slays him, taking the place
+                            of Saxmundham as his own, becoming the first of
+                            the people to be King over the Weidan.
+                        </para>
+                    </event>
+
+                    <event title="Bryteland" priority="3">
+                        <startdate year="420"/>
+                        <para>
+                            The king Brytweider takes many men north across
+                            barbarian lands to found a kingdom on the coast.
+                        </para>
+                    </event>
+                </events>
+            </sect2>
+
+            <sect2>
+                <title>The 7th  Century</title>
+
+                <events dating="AB">
+                    <event title="Aeddan killed" priority="3">
+                        <startdate year="618"/>
+                        <para>
+                            Aeddan, the King of Westland, is slain in
+                            battle, and the People of Rorn take his lands
+                            as their own.
+                        </para>
+                    </event>
+
+                    <event title="Oswulf killed">
+                        <startdate year="654"/>
+                        <para>
+                            Oswulf, son of Centwine, King of Lanuch is
+                            killed in a battle against warriors of Danuch.
+                            The Druids take many of his men as prisoners,
+                            hanging them from trees and slicing open their
+                            stomachs. His half-brother, Cerdic receives the
+                            kingdom, and leads many attacks on the people
+                            of Danuch, in revenge for the massacre.
+                        </para>
+                    </event>
+
+                    <event title="Shield Alliance" type="battle">
+                        <startdate year="685"/>
+                        <para>
+                            The Shield Alliance, led by Cerdic King of
+                            Lanuch, meets the armies of Danuch for the last
+                            time at Cadwold Hill. The Druids are beaten,
+                            and all the land between the Scaedwin Forest
+                            and Tuffin Wood is claimed by the Alliance.
+                            Seeing that they are beaten, the Druids order
+                            the suicide of their followers, before claiming
+                            their own lives as well.
+                        </para>
+
+                        <para>
+                            Many of the warriors of the Alliance stay to
+                            claim the lands as their own.
+                        </para>
+                    </event>
+
+                    <event title="Scrolls Begun">
+                        <startdate year="687"/>
+                        <para>
+                            In the 33rd year of his reign, Cerdic, brother
+                            of Oswulf, son of Centwine, King of Lanuch gave
+                            to the priest Embryt of Haltan the charge of
+                            recording the doings of the people of Lanuch,
+                            and to write them down such that they become a
+                            true history for the grandsons of the grandsons
+                            of the royal line.
+                        </para>
+                    </event>
+
+                    <event title="Cerdic Dies">
+                        <startdate year="690"/>
+                        <para>
+                            Cerdic, King of Lanuch passes away, and his
+                            second son, Offot, receives the Kingdom.
+                        </para>
+                    </event>
+
+                    <event title="">
+                        <startdate year="692"/>
+                        <para>
+                            Offot, son of Cerdic, King of Lanuch, forces all
+                            chieftains within his Kingdom to pay him tribute,
+                            finally stabilising the Kingdom. Most of the
+                            troublesome chieftains had stayed in Southern
+                            Danuch to claim their own lands after the
+                            Battle of Cadwold.
+                        </para>
+                    </event>
+
+                    <event title="">
+                        <startdate year="695"/>
+                        <para>
+                            The Kingdoms of Perrin and Talmoth meet to agree
+                            an alliance against Lanuch, fearing the power and
+                            greed of Offot.
+                        </para>
+                    </event>
+                </events>
+            </sect2>
+
+        </sect1>
+    </body>
+</article>
