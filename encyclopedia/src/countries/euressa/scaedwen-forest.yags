@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Scaedwen Forest</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="scaedwen-forest">Scaedwen Forest</subject>
+
+            <category>Forest</category>
+
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Scaedwen Forest</title>
+
+            <para>
+                Between Canuch and Danuch are the impenetrable 
+                woods of the Scaedwen Forest. A few live on the 
+                borders of these woods, but all who do refuse to 
+                go too far into the depths of this place.
+            </para>
+
+            <para>
+                Rumors tell of dark inhuman terrors which haunt 
+                the place, of ghosts which feed on the souls of 
+                men and spirits of the Ice.
+            </para>
+
+            <para>
+                More concrete tales mention dire wolves and 
+                sudden thick fogs which cause travellers to loose 
+                their way, but little else.
+            </para>
+
+        </sect1>
+    </body>
+</article>

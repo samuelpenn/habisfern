@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Veilwood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="veilwood">Veilwood</subject>
+
+            <category>Forest</category>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+      </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Veilwood</title>
+
+            <para>
+                The Veilwood is a stretch of woodland in northern 
+                Weidany, on the border with Bryteland and 
+                Tanwall. It is full of hills and steep valleys, 
+                and for much of the time is covered in mists.
+            </para>
+
+            <para>
+                The woods are reputed to be the home for fey 
+                creatures of all types, including elfs. There are 
+                old places of power to be found in the Veilwood, 
+                most notable of which is the Green City, a huge 
+                sprawling ruin left from the time of the Elders.
+            </para>
+
+        </sect1>
+    </body>
+</article>

@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Tuffin Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="tuffin-wood">Tuffin Wood</subject>
+
+            <category>Forest</category>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Tuffin Wood</title>
+
+            <para>
+                Tuffin Wood is a region of heavily wooded hills 
+                and plains on the southern border of Cadwold. The 
+                northern half of the woods are claimed by 
+                Cadwold, the rest by Weideny. However, in reality 
+                neither have any real control of the region.
+            </para>
+
+            <para>
+                As with most similar regions, the woods are home 
+                to a number of outlaw groups, mostly contenting 
+                themselves with living off the land and not 
+                venturing into more civilised areas.
+            </para>
+
+            <para>
+                The'largest group is a tightly nit band who 
+                follow the goddess of shadows, Besenreth. They 
+                are known as the Rangers, and their main goal is 
+                to keep out of world affairs.
+            </para>
+
+            <para>
+                The woods are relatively safe, with few if any 
+                trolls or similar beasts. There is one place 
+                however, a valley in the northern woods, where an 
+                old temple to the Elders still lingers. It is the 
+                lair of ghouls and other darkness, and is avoided 
+                by all.
+            </para>
+
+        </sect1>
+    </body>
+</article>

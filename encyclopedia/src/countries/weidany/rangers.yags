@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Rangers</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="tuffin-wood">Tuffin Wood</see>
+        </references>
+
+        <topics>
+            <subject uri="rangers">Rangers</subject>
+
+            <category>Religion</category>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Rangers</title>
+
+            <para>
+                The Rangers are a band of outlaws living in 
+                Tuffin Wood. Their anscestors where from Cadwold, 
+                who fled here to escape persecution by the Druids 
+                several generations ago. Now, they seek to keep 
+                their independence from both Cadwold and Weidany, 
+                a task that is becoming increasingly difficult.
+            </para>
+
+            <para>
+                The Rangers are led by the priestesses of the 
+                cult of Besenreth. These are the only people who 
+                do worship this goddess, and others are not sure 
+                where she actually came from.
+            </para>
+
+            <para>
+                There are several hundred Rangers, living in tree 
+                homes in the Cadwold side of the forest. Most are 
+                skilled hunters, and it is said that they can 
+                move through the woods unseen and unheard.
+            </para>
+
+        </sect1>
+    </body>
+</article>
