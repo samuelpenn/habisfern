@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Ice Giants</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="ice-giants">Ice Giants</subject>
+
+            <category>None</category>
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+            <topic uri="rornic-mythology">Rornic Mythology</topic>
+            <topic uri="haltic-mythology">Haltic Mythology</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Ice Giants</title>
+
+            <para>
+                The Ice Giants are servents of the Ice, created at the 
+                dawn of time out of the dreams of Iss. They dwell in the 
+                far north of the world, where their king, Brokki, 
+                resides in a great castle.
+            </para>
+
+            <para>
+                Ice Giants are said to stand over five metres tall, have 
+                bone of rock and flesh of ice. Their breath can freeze a 
+                man in their place.
+            </para>
+
+            <para>
+                The giants are cunning, and great craftsmen, having 
+                taught the arts of war and metalcraft to the gods.
+            </para>
+
+        </sect1>
+    </body>
+</article>

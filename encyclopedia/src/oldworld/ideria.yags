@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Ideria</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="ideria">Ideria</subject>
+
+            <category>None</category>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Ideria</title>
+
+            <para>
+                Ideria was the most beautiful of the cities of man, 
+                before the coming of the Ice. It stood at the gateway to 
+                the northern plains, its great walls stretching for 
+                three leagues.
+            </para>
+
+            <para>
+                Ideria was the site of the great temple of Rorn, the 
+                moon god, and he had blessed it for many centuries with 
+                his presence.
+            </para>
+
+            <para>
+                When the Ice came though, it did not stop at Ideria. 
+                Rorn was distracted, and acted too late to prevent the 
+                fall of his great city, which vanished beneath the glaciers.
+            </para>
+
+        </sect1>
+    </body>
+</article>
