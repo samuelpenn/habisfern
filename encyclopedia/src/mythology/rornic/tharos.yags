@@ -18,18 +18,15 @@
         </cvsinfo>
 
         <license>
-            <year>2002</year>
+            <year>2004</year>
             <holder>Samuel Penn</holder>
             <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
             <text>
                 Permission is granted to copy, distribute and/or
                 modify this document under the terms of the GNU
-                Free Documentation License, Version 1.1 or any
-                later version published by the Free Software
-                Foundation; with no invariant sections, with no
-                Front-Cover Texts, and with no Back-Cover Texts.
-                A copy of the license is included in the section
-                entitled "GNU Free Documentation License".
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
             </text>
         </license>
 
@@ -37,6 +34,7 @@
         <style name="module"/>
 
         <references>
+            <see uri="asabeth">Asabeth</qv>
         </references>
 
         <topics>
@@ -71,15 +69,48 @@
                 </para>
 
                 <para>
-                    Few admits to following Tharos. Some follow his ways
+                    Few admit to following Tharos. Some follow his ways
                     because they want to live their own life, with reliance
                     on no-one else. A few are cultists dedicated to his
                     more violent aspects.
                 </para>
+
+                <para>
+                    For a long time, the cults of Tharos were used as a
+                    legal means to exact revenge, if a wergild had not
+                    been paid.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Myths and Legends</title>
+
+                <sect3>
+                    <title>The Theft of Hervanger</title>
+
+                    <para>
+                        Tharos helped <qv uri="rorn">Rorn</qv> steal the
+                        cursed sword <qv uri="hervanger">Hervanger</qv> from
+                        the ice giant <qv uri="brokki">Brokki</qv>.
+                    </para>
+
+                    <para>
+                        Tharos had always been a strong opponent of the Ice.
+                        He values individuality and freedom, not the rigid
+                        structure imposed by the unchanging northern powers.
+                        On several occassions he had scouted out the
+                        northern lands, and so knew a way into Brokki's
+                        great fortress.
+                    </para>
+
+                    <para>
+                        When <qv uri="asabeth">Asabeth</qv> came to him for
+                        aid, he was more than happy to help strike a blow
+                        against both the Ice, and Rorn, whom he hated.
+                    </para>
+                </sect3>
             </sect2>
         </sect1>
-
     </body>
-
 </article>
 
