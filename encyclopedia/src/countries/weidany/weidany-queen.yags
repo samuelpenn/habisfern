@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Queen</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="neya">Cult of Neya</see>
+            <see uri="noble-houses-weidany">Noble Houses</see>
+            <see uri="weidany">Kingdom of Weidany</see>
+        </references>
+
+        <topics>
+            <subject uri="weidany">Weidany</subject>
+
+            <category>Noble</category>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Queen of Weidany</title>
+
+            <para>
+                The current Queen of the Kingdom of Weidany is Queen Behrith,
+                who ascended the throne in 1225. She was born in 1185, and
+                is currently 45 years old. Her mother was Queen Frythrun,
+                who ruled 1169-1213. Behrith's sister, Godrun the Red, took
+                the throne at this point, but died after 12 years, due to,
+                it is said, an inadvisedly late child birth.
+            </para>
+
+            <para>
+                Queen Behrith currently has four daughters - Eodhild (born in
+                1211), Wilith (1215), Aelflaed (1224) and Aeldith (1229). She
+                is soon to be a grandmother, since both Eodhild and Wilith
+                are due to give birth late in the year.
+            </para>
+
+            <para>
+                Like all Queens of Weidany, Queen Behrith has never married.
+                The first Queen Aelthryth started the tradition of ensuring
+                that there were several possible fathers, reducing the
+                influence that any of them could have either over the Queen
+                or her daughters.
+            </para>
+        </sect1>
+    </body>
+</article>

@@ -33,6 +33,7 @@
         <style name="module"/>
 
         <references>
+            <see uri="noble-houses-weidany">Noble Houses</see>
         </references>
 
         <topics>
@@ -54,8 +55,65 @@
 
             <para>
                 The Kingdom of Weidany is the largest and most populous of
-                the kingdoms of northwestern Euressa.
+                the kingdoms of northwestern Euressa. It has been a unified
+                nation for over two hundred years, since Queen Aelfthryth
+                ascended the throne in 994. The current Queen is Behrith,
+                daughter of Frythrun the Fair. She received the Kingdom in
+                1225, from her sister Godrun the Red who died in her 59th
+                year.
             </para>
+
+            <para>
+                The succession of Queens has always been ensured by the
+                <qv uri="neya">Cult of Neya</qv>, the Keeper of Oaths. The
+                Kingdom was forged out of bloodshed and betrayel, and the
+                goddess lay down a prophecy, that the Kingdom would be
+                doomed if a king was crowned.
+            </para>
+
+            <para>
+                The relationship between the royal family and the Cult of
+                Neya has generally been strong, though some Queens have
+                tried to break this - notably Godrun the Red. Queen Behrith
+                is very much a follower of the Cult however.
+            </para>
+
+            <sect2>
+                <title>Politics</title>
+
+                <para>
+                    The Kingdom is divided into shires, each of which is an
+                    administrative unit, govered by a shire-reeve. Many of
+                    the shires are based around the borders of the old
+                    kingdoms which Weidany swallowed.
+                </para>
+
+                <para>
+                    The shire-reeves are directly appointed by the Crown,
+                    and originally they were not nobles, but freemen.
+                    However, the financial benefits (one of a shire-reeve's
+                    many duties is tax collection) proved too imporant, and
+                    these days many are nobles, often with connections to
+                    the important noble houses.
+                </para>
+
+                <para>
+                    Each shire is sub-divided into hundreds, each governed
+                    by a reeve, who selected from the upper ranks of the
+                    freemen. A reeve has much work, and little reward, so
+                    the freemen have managed to keep the right to select
+                    a reeve from within their own number.
+                </para>
+
+                <para>
+                    This neat and orderly bureacracy is complicated by the
+                    nobility, many of which wield far more power than was
+                    original planned in the early days of the Kingdom. Those
+                    nobles who own large amounts of hereditary land are
+                    known as eoldormen, and are amongst the most powerful
+                    people in the kingdom.
+                </para>
+            </sect2>
 
         </sect1>
     </body>
