@@ -60,7 +60,7 @@
             </para>
 
             <import-map uri="weidany" scale="2">
-                <thing name="Lake Dowfer" radius="3"/>
+                <thing name="Lake Dowfer" radius="5"/>
             </import-map>
         </sect1>
     </body>
