@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license>
-            <year>2003</year>
+            <year>2004</year>
             <holder>Samuel Penn</holder>
             <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
             <text>
@@ -57,6 +57,11 @@
                 thegns to make it and enforce it.
             </para>
 
+            <para>
+                The official name of the cult is the Order of Lahwitan,
+                though most people know it as the Cult of the Law Maker.
+            </para>
+
             <sect2>
                 <title>Cultists</title>
 
@@ -84,6 +89,40 @@
                     lawlessness. They spend the greatest part of their time
                     hunting down outlaws, and many consider them to be not
                     much better than bounty hunters.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Hierarchy</title>
+
+                <para>
+                    The Grand Master of the cult is based in the prime
+                    chapter house of the order, which is currently located
+                    in <qv uri="stowell">Stowell</qv>, at the Hall of
+                    Lahwitan. The current Grand Master is Eldric Eagleson,
+                    a sharp witted lawyer, and a close advisor of the Queen.
+                </para>
+
+                <para>
+                    At Eldric's right hand, is the Grand Champion, whose
+                    position requires that he is the best weaponsmaster in
+                    the Order. Grand Champion Brethan Deorcson is considered
+                    to be one of the best swordsmen in the Kingdom.
+                </para>
+
+                <para>
+                    Within the temple, seven Senior Masters serve the Grand
+                    Master directly. At any given time, most of them will
+                    probably be out on business, dealing with minor crises
+                    within their jurisdiction. At times of major crises
+                    however, they would be summoned back for council.
+                </para>
+
+                <para>
+                    At other temples within the Kingdom, there will be a
+                    Master and a Champion, together with a number of
+                    Senior Brothers (normally two or three), and any number
+                    of Brothers who make up the lower ranks of the Temple.
                 </para>
             </sect2>
         </sect1>
