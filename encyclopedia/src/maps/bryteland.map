@@ -4212,9 +4212,15 @@
             <importance>2</importance>
         </thing>
         <thing type="7" x="3400" y="11860">
-            <name>Dercis</name>
+            <name>Deorcis</name>
             <description>Unknown</description>
             <font>4</font>
+            <importance>2</importance>
+        </thing>
+        <thing type="4" x="9870" y="8707">
+            <name>Brysvath</name>
+            <description>Unknown</description>
+            <font>3</font>
             <importance>2</importance>
         </thing>
     </things>
@@ -4562,6 +4568,32 @@
             <path x="3825" y="4935" width="3"/>
             <path x="3958" y="4889" width="3"/>
             <end x="4000" y="4846" width="3"/>
+        </river>
+
+        <river name="River 10">
+            <start x="9350" y="8628" width="3"/>
+            <path x="9387" y="8610" width="3"/>
+            <path x="9441" y="8603" width="3"/>
+            <path x="9520" y="8610" width="3"/>
+            <path x="9587" y="8650" width="3"/>
+            <path x="9658" y="8692" width="3"/>
+            <path x="9716" y="8717" width="3"/>
+            <path x="9787" y="8717" width="3"/>
+            <path x="9900" y="8703" width="3"/>
+            <path x="9975" y="8678" width="3"/>
+            <path x="9970" y="8621" width="3"/>
+            <path x="10016" y="8564" width="3"/>
+            <path x="10062" y="8553" width="3"/>
+            <path x="10133" y="8546" width="3"/>
+            <path x="10216" y="8535" width="3"/>
+            <path x="10287" y="8525" width="3"/>
+            <path x="10404" y="8471" width="3"/>
+            <path x="10412" y="8435" width="3"/>
+            <path x="10466" y="8367" width="3"/>
+            <path x="10545" y="8357" width="3"/>
+            <path x="10625" y="8339" width="3"/>
+            <path x="10695" y="8278" width="3"/>
+            <end x="10733" y="8203" width="3"/>
         </river>
 
     </rivers>
