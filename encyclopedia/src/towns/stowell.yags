@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license>
-            <year>2002</year>
+            <year>2003</year>
             <holder>Samuel Penn</holder>
             <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
             <text>
@@ -48,6 +48,13 @@
     <body>
         <sect1>
             <title>Stowell</title>
+
+            <para>
+                Stowell is the site of the Royal Castle of the Queen of Rorn
+                and is considered the capital of the Kingdom of Weidany.
+                The town has a population of about twenty five thousand,
+                making it the largest town in the Kingdom.
+            </para>
         </sect1>
 
     </body>
