@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<configuration>
+    <title>Encyclopedia of Habisfern</title>
+
+    <templates>
+        <template name="mainpage" path="templates/index.html"/>
+        <template name="footer" path="templates/footer.html"/>
+    </templates>
+
+    <stylesheets>
+    </stylesheets>
+
+    <categories>
+        <category class="Landscape">Hill</category>
+        <category class="Landscape">Mountain</category>
+    </categories>
+
+
+    <topicsets>
+        <topicset name="General">
+            <topic uri="all">All entries</topic>
+        </topicset>
+
+        <topicset name="Topics by Region">
+            <topic uri="eorthe">Eorthe</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="taneith">Taneith</topic>
+        </topicset>
+
+        <topicset name="Topics by Campaign">
+            <topic uri="habisfern">Habisfern</topic>
+        </topicset>
+
+        <topicset name="Topics by Religion">
+            <topic uri="brytish-mythology">Brytish</topic>
+            <topic uri="rornic-mythology">Rornic</topic>
+        </topicset>
+    </topicsets>
+
+    <body>
+        <p>
+            Habisfern is a fantasy campaign world. It is low fantasy,
+            with realistic ecologies, histories and societies. Magic
+            exists, and is relatively common, but low powered.
+        </p>
+
+        <p>
+            The purpose of this encyclopedia is to describe all facets
+            of this world, in an easily accessible form. It is currently
+            limited in the number of entries, but is growing as older
+            documents are converted into the encyclopedia format.
+        </p>
+
+        <p>
+            It is currently very much a work in progress. Most of the
+            pages here are auto generated, so expect the format of the
+            encyclopedia to change radically at any time as the
+            technology behind the pages is updated and modified.
+        </p>
+    </body>
+</configuration>
