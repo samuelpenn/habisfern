@@ -37,13 +37,19 @@
         </campaign>
 
         <references>
-            <partof>noble-houses-weidany</partof>
+            <see uri="noble-houses-weidany">Noble Houses of Weidany</see>
         </references>
 
         <topics>
-            <topic>Society</topic>
-            <topic>Habisfern</topic>
+            <subject uri="peada-house">Peada, Noble House</subject>
+
+            <category>Nobility</category>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
         </topics>
+
     </header>
 
     <body>

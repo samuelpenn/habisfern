@@ -37,12 +37,17 @@
         </campaign>
 
         <references>
-            <partof>noble-houses-weidany</partof>
+            <see uri="noble-houses-weidany">Noble Houses of Weidany</see>
         </references>
 
         <topics>
-            <topic>Society</topic>
-            <topic>Habisfern</topic>
+            <subject uri="aethlfryth-house">Aethlfryth, Noble House</subject>
+
+            <category>Nobility</category>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
         </topics>
     </header>
 
@@ -51,10 +56,11 @@
             <title>House of Aethlfryth</title>
 
             <para>
-                This is the House of the current royal family. Only females
-                are ever born to this House, and it is traditional for
-                those who want a chance at the throne to never take a
-                husband.
+                This is the House of the current royal family. A tradition
+                started by the first Queen, Aethlfryth, is that no man is
+                ever taken as a husband, though many may be taken as
+                consorts on a temporary basis. Since that time, no man
+                has been born to members of the House.
             </para>
 
             <para>
