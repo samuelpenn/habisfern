@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Harholt</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="tanwall">Tanwall</see>
+            <see uri="weidany">Weidany</see>
+            <see uri="nethvollr">Nethvollr</see>
+            <see uri="sonodalr">Sonodalr</see>
+            <see uri="bjornstathr">Bjornstathr</see>
+            <see uri="vitrgifing">Vitrgifing</see>
+            <see uri="jarneyland">Jarneyland</see>
+            <see uri="oforley">Oforley</see>
+            <see uri="erding">Erding</see>
+        </references>
+
+        <topics>
+            <subject uri="harholt">Harholt</subject>
+
+            <category>Country</category>
+
+            <topic uri="harholt">Harholt</topic>
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Harholt</title>
+
+            <para>
+                This is a landlocked kingdom which sits on the border
+                with Tanwall. King Ethelred Haraldson has been fighting
+                border wars
+                with Tanwall for the last twenty years, though few
+                battles have ever involved more than a dozen men or
+                so. He gains concessions from the other Kingdoms to
+                aid in the defence against Tanwall, however there
+                are rumours that he is keeping the fighting going,
+                and making it sound worse than it is, in order to
+                keep the monatory donations flowing.
+            </para>
+
+            <para>
+                Ethelred is 42, a tall thin man, though quick both of
+                foot and mind, with a keen sense of politics.
+            </para>
+
+            <para>
+                A year ago, Harald stopped providing Ethelred with
+                aid, and tensions between the two kingdoms have
+                started to rise.
+            </para>
+
+            <para>
+                Harholt is also known as the <e>High Woodlands</e>.
+            </para>
+        </sect1>
+    </body>
+
+</article>
+

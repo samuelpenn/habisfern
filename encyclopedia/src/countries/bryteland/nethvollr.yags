@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Nethvollr</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="tanwall">Tanwall</see>
+            <see uri="weidany">Weidany</see>
+            <see uri="sonodalr">Sonodalr</see>
+            <see uri="harholt">Harholt</see>
+            <see uri="bjornstathr">Bjornstathr</see>
+            <see uri="vitrgifing">Vitrgifing</see>
+            <see uri="jarneyland">Jarneyland</see>
+            <see uri="oforley">Oforley</see>
+            <see uri="erding">Erding</see>
+        </references>
+
+        <topics>
+            <subject uri="nethvollr">Nethvollr</subject>
+
+            <category>Country</category>
+
+            <topic uri="nethvollr">Nethvollr</topic>
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Nethvollr</title>
+
+            <para>
+                Nethvollr is the south eastern kingdom of Bryteland.
+                Also known as <e>the lower plains</e>, it is mostly made
+                up of light woodland and open hills. To the north,
+                it rises up into the Tanwall hills, whilst descending
+                into marshland and forests on the southwestern coast.
+            </para>
+
+            <para>
+                Harald is King of Nethvollr, which
+                borders onto <see uri="weidany">Weidany</see>.
+                He is 18, violent and strong. When he isn't leading
+                his men on a raid to bash in someone's skull, he
+                can actually be quite charming, though these times
+                are rare.
+            </para>
+
+            <para>
+                He was fostered with Osric Edgarson, and the two get
+                on quite well, though they have had no dealings with
+                each other since they both became kings. He is
+                cousin to Osric, and nephew to Edgar.
+            </para>
+
+            <para>
+                His kingdom has a lot of forts along the borders with
+                Weidany and Tanwall. He has about 3000 hides under
+                his control, and can call on about 600 fully trained
+                warriors when required. Personally, he has 30 huscurls
+                who act as his bodyguards and personal raiding party.
+            </para>
+        </sect1>
+    </body>
+
+</article>
+

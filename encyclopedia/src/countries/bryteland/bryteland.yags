@@ -38,6 +38,14 @@
         <references>
             <see uri="tanwall">Tanwall</see>
             <see uri="weidany">Weidany</see>
+            <see uri="nethvollr">Nethvollr</see>
+            <see uri="sonodalr">Sonodalr</see>
+            <see uri="harholt">Harholt</see>
+            <see uri="bjornstathr">Bjornstathr</see>
+            <see uri="vitrgifing">Vitrgifing</see>
+            <see uri="jarneyland">Jarneyland</see>
+            <see uri="oforley">Oforley</see>
+            <see uri="erding">Erding</see>
         </references>
 
         <topics>
@@ -130,16 +138,18 @@
                 <title>Sonodalr</title>
 
                 <para>
-                    Edgar's Kingdom covers the middle coastal regions.
+                    King Edgar is King of Sonodalr, which covers the middle
+                    coastal regions of Bryteland.
                 </para>
             </sect2>
 
             <sect2>
-                <title>Ethelred Haraldson</title>
+                <title>Harholt</title>
 
                 <para>
                     This is a landlocked kingdom which sits on the border
-                    with Tanwall. Ethelred has been fighting border wars
+                    with Tanwall. King Ethelred Haraldson has been fighting
+                    border wars
                     with Tanwall for the last twenty years, though few
                     battles have ever involved more than a dozen men or
                     so. He gains concessions from the other Kingdoms to
@@ -162,18 +172,49 @@
             </sect2>
 
             <sect2>
-                <title>Osric the Bastard</title>
+                <title>Bjornstathr</title>
 
                 <para>
-                    A 55 year old man who rules the middle north coast.
+                    Ruled by Osric the Bastard, A 55 year old man who rules
+                    the middle north coast.
                 </para>
             </sect2>
 
             <sect2>
-                <title>Osric Edgarson</title>
+                <title>Vitrgifing</title>
 
                 <para>
-                    Forested northern portions.
+                    The heavily forested northern kingdom is ruled by King
+                    Osric Edgarson, and is known as the Land of the White
+                    Trolls.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Jarneyland</title>
+
+                <para>
+                    Island of Iron. Northern island off the coast of
+                    Bryteland, it is about 175km long and 150m wide.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Oforley</title>
+
+                <para>
+                    The southernmost of the two western islands off the
+                    Brytish coast.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Erding Island</title>
+
+                <para>
+                    A small island off the south west coast of Bryteland,
+                    it is theorectically part of the Sonodalr, though has
+                    paid no tribute in the last seven years.
                 </para>
             </sect2>
         </sect1>

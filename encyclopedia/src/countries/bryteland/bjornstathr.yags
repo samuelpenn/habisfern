@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Bjornstathr</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="tanwall">Tanwall</see>
+            <see uri="weidany">Weidany</see>
+            <see uri="nethvollr">Nethvollr</see>
+            <see uri="sonodalr">Sonodalr</see>
+            <see uri="harholt">Harholt</see>
+            <see uri="vitrgifing">Vitrgifing</see>
+            <see uri="jarneyland">Jarneyland</see>
+            <see uri="oforley">Oforley</see>
+            <see uri="erding">Erding</see>
+        </references>
+
+        <topics>
+            <subject uri="bjornstathr">Bjornstathr</subject>
+
+            <category>Country</category>
+
+            <topic uri="bjornstathr">Bjornstathr</topic>
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Bjornstathr</title>
+
+            <para>
+                Ruled by Osric the Bastard, A 55 year old man who rules
+                the middle north coast.
+            </para>
+        </sect1>
+    </body>
+</article>
+
