@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Madog Erwin</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="noble-houses-weidany">Noble Houses of Weidany</see>
+        </references>
+
+        <topics>
+            <subject uri="erwin-house">Erwin, Noble House</subject>
+
+            <category>Nobility</category>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Madog Erwin</title>
+            
+            <para>
+                Ealdorman Madog of the House of Erwin has a wife,  Elwin,
+                and four children. He lives at 
+                <qv uri="abbyton">Abbyton</qv> and rarely leaves.
+            </para>
+            
+            <para>
+                His household consists of his wife and children, and also
+                his sister in law, Plegwin, who has the gift of sight,
+                though who has become blind to the normal world during
+                her old age.
+            </para>
+            
+            <character name="Ealdorman Madog Erwin">
+                <description>
+                    <gender>Male</gender>
+                    <age>53</age>
+                    <short>A short greying man who is quite handsome</short>
+
+                    <physical>
+                        <para>
+                            Madog is a short man with grey hair. He
+                            is always well dressed, and is charming
+                            and sociable. He is of average build but
+                            not very fit.
+                        </para>
+                    </physical>
+                    
+                    <background>
+                        <para>
+                            Madog's father, Cadwallon, married into the
+                            House of Erwin when he married Herthwin,
+                            daughter of Harwulf Erwin. Madog was the
+                            favourite of his grandfather. He made enemies
+                            amongst the descendents of his great uncle
+                            Theodun Redeyes, all of whom are
+                            said to have been touched by strangeness and
+                            did not have the favour of anyone else in the
+                            House.
+                        </para>
+                    </background>
+                </description>
+                
+                <statistics ruleset="yags">
+                    <attributes size="5" soak="12">
+                        <attribute name="strength" score="3"/>
+                        <attribute name="stamina" score="2"/>
+                        <attribute name="agility" score="2"/>
+                        <attribute name="dexterity" score="3"/>
+                        <attribute name="perception" score="3"/>
+                        <attribute name="intelligence" score="4"/>
+                        <attribute name="charisma" score="4"/>
+                        <attribute name="will" score="4"/>
+                    </attributes>
+                    
+                    <skills>
+                        <group name="Talents" type="talents">
+                            <skill name="Athletics" score="2"/>
+                            <skill name="Awareness" score="3"/>
+                            <skill name="Brawl" score="3"/>
+                            <skill name="Charm" score="7"/>
+                            <skill name="Guile" score="8"/>
+                            <skill name="Sleight" score="2"/>
+                            <skill name="Stealth" score="2"/>
+                            <skill name="Throw" score="3"/>
+                        </group>
+            
+                        <group name="Knowledges" type="knowledges">
+                            <skill name="Speak Rornic" score="4"/>
+                            <skill name="Area lore (Weidany)" score="6"/>
+                            <skill name="Law" score="4"/>
+                            <skill name="Religion (Rornic)" score="3"/>
+                        </group>
+
+                        <group name="Social" type="skills">
+                            <skill name="Etiquette" score="4"/>
+                            <skill name="Politics" score="8"/>
+                            <skill name="Trade" score="2"/>
+                        </group>
+            
+                        <group name="Other" type="skills">
+                            <skill name="Game (Hnefatafl)" score="7"/>
+                            <skill name="Weapon and shield" score="3"/>
+                            <skill name="Ride" score="5"/>
+                            <skill name="Hunting" score="4"/>
+                        </group>
+                    </skills>
+                    
+                    <advantages>
+                        <advantage name="Appearance" score="+1"/>
+                        <advantage name="House of Erwin"/>
+                        <advantage name="Political sense"/>
+                        <advantage name="Aura of Reason"/>
+                    </advantages>
+                </statistics>
+            </character>
+
+            <character name="Elwin">
+                <description>
+                    <gender>Female</gender>
+                    <age>51</age>
+                    <short>
+                        A very tall lady with large eyes and long brown
+                        hair.
+                    </short>
+
+                    <physical>
+                        <para>
+                            Elwin is a very tall and striking woman. Not
+                            beautiful in the normal sense, but pleasantly
+                            different from the norm. She is always well
+                            dressed, often in greens or whites.
+                        </para>
+                    </physical>
+                    
+                    <background>
+                        <para>
+                            Elwin is the wife of Madog Erwin, and behaves
+                            much as a lady of her station should. She runs
+                            the household at Abbyton with great efficiency,
+                            and is said to employ half the gossips in the
+                            shire to listen for news, and to spread mis
+                            information to the enemies of the House.
+                        </para>
+                    </background>
+                </description>
+                
+                <statistics ruleset="yags">
+                    <attributes size="5" soak="12">
+                        <attribute name="strength" score="2"/>
+                        <attribute name="stamina" score="3"/>
+                        <attribute name="agility" score="3"/>
+                        <attribute name="dexterity" score="4"/>
+                        <attribute name="perception" score="3"/>
+                        <attribute name="intelligence" score="5"/>
+                        <attribute name="charisma" score="4"/>
+                        <attribute name="will" score="4"/>
+                    </attributes>
+                    
+                    <skills>
+                        <group name="Talents" type="talents">
+                            <skill name="Athletics" score="2"/>
+                            <skill name="Awareness" score="5"/>
+                            <skill name="Brawl" score="2"/>
+                            <skill name="Charm" score="6"/>
+                            <skill name="Guile" score="9"/>
+                            <skill name="Sleight" score="4"/>
+                            <skill name="Stealth" score="3"/>
+                            <skill name="Throw" score="2"/>
+                        </group>
+            
+                        <group name="Knowledges" type="knowledges">
+                            <skill name="Speak Rornic" score="4"/>
+                            <skill name="Area lore (Weidany)" score="7"/>
+                            <skill name="Area lore (Merrik)" score="11"/>
+                            <skill name="Law" score="3"/>
+                            <skill name="Religion (Rornic)" score="2"/>
+                        </group>
+
+                        <group name="Social" type="skills">
+                            <skill name="Etiquette" score="5"/>
+                            <skill name="Politics" score="12"/>
+                            <skill name="Trade" score="3"/>
+                            <skill name="Seneschel" score="4"/>
+                        </group>
+            
+                        <group name="Other" type="skills">
+                            <skill name="Ride" score="3"/>
+                            <skill name="Falconry" score="4"/>
+                        </group>
+                    </skills>
+                    
+                    <advantages>
+                        <advantage name="Unusual appearance"/>
+                        <advantage name="House of Erwin"/>
+                    </advantages>
+                </statistics>
+            </character>
+                            
+        </sect1>
+    </body>
+</article>
