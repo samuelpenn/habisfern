@@ -51,20 +51,26 @@
             <title>Undead</title>
 
             <para>
-                The true undead are few, and are considered to be 
-                different from mere animated flesh and bone as 
-                conjured by a wizard. The undead still have their 
-                own soul and body, though need the blood of 
+                The <e>undead</e> are those creatures who have died but not
+                found rest in the afterlife. Broadly speaking, there are
+                three types of undead - willfull undead, soulless and
+                incorporeal.
+            </para>
+
+            <para>
+                The willfull undead are few, and are considered to be
+                different from mere animated flesh and bone as
+                conjured by a wizard. The undead still have their
+                own soul and body, though need the blood of
                 living creatures in order to continue their existence.
             </para>
 
             <para>
-                Apart from their need for blood, they are much as 
-                they were in life, except maybe a bit paler. They 
-                are not generally considered to be evil, though 
+                Apart from their need for blood, they are much as
+                they were in life, except maybe a bit paler. They
+                are not generally considered to be evil, though
                 they are mistrusted greatly, and feared.
             </para>
-
         </sect1>
     </body>
 </article>
