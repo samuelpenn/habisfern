@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license>
-            <year>2003</year>
+            <year>2004</year>
             <holder>Samuel Penn</holder>
             <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
             <text>
@@ -52,7 +52,8 @@
             <title>Cerdicsfield</title>
 
             <para>
-                A town with a population of nine thousand.
+                The shire town of Lanuch, it has a population of about
+                nine thousand people.
             </para>
         </sect1>
     </body>
