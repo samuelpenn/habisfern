@@ -186,6 +186,7 @@
                         <cost points="9"/>
                         <skill name="Religion"/>
                         <prerequisite>Heightened Reflexes</prerequisite>
+                        <prerequisite>Whirlwind defence</prerequisite>
                         
                         <description>
                             <para>
@@ -311,7 +312,8 @@
                             <para>
                                 It takes a whole round to prepare this
                                 ritual, but once used, the cultist is
-                                hidden from normal sight.
+                                hidden from normal sight - the cultist's
+                                stealth roll is doubled.
                             </para>
                         </description>
                     </advantage>

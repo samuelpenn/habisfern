@@ -66,13 +66,21 @@
             
             <sect2>
                 <title>Skills</title>
+                
+                <p>
+                    The Shields of Neya are noted for their fighting skills,
+                    but they are also trained in Law and Heraldry to some
+                    extent as well.
+                </p>
             
                 <skill-list>
                     <skill name="Religion (Neya)" type="knowledge">
                         <description>
                             <para>
                                 Gives knowledge of the ideals, mythology and
-                                rituals of the Shields of Neya.
+                                rituals of the Shields of Neya. A priestess
+                                who knows this skill may learn the cult's
+                                techniques from a suitable teacher.
                             </para>
                         </description>
                     </skill>
