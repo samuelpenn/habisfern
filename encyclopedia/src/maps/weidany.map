@@ -16,7 +16,7 @@
     </header>
 
     <!-- Standard terrain set -->
-    <terrainset id="basic" path=".">
+    <terrainset id="basic" path="terrain">
         <terrain id="0">
             <name>null</name>
             <description>Unchartable</description>
@@ -27,7 +27,7 @@
         <terrain id="1">
             <name>water.sea</name>
             <description>Sea</description>
-            <image>water.png</image>
+            <image>sea.png</image>
             <solid value="false"/>
             <attributes water="true" woods="0" quality="0"/>
         </terrain>
@@ -41,21 +41,21 @@
         <terrain id="11">
             <name>woods.light</name>
             <description>Light Woodland</description>
-            <image>woodland.png</image>
+            <image>light-woods.png</image>
             <solid value="false"/>
             <attributes water="false" woods="25" quality="100"/>
         </terrain>
         <terrain id="12">
             <name>woods.medium</name>
             <description>Medium Woods</description>
-            <image>forest.png</image>
+            <image>medium-woods.png</image>
             <solid value="false"/>
             <attributes water="false" woods="50" quality="100"/>
         </terrain>
         <terrain id="13">
             <name>woods.thick</name>
             <description>Thick woods</description>
-            <image>thick-forest.png</image>
+            <image>heavy-woods.png</image>
             <solid value="false"/>
             <attributes water="false" woods="75" quality="100"/>
         </terrain>
@@ -79,6 +79,13 @@
             <image>marsh.png</image>
             <solid value="false"/>
             <attributes water="false" woods="0" quality="5"/>
+        </terrain>
+        <terrain id="23">
+            <name>wild.desert</name>
+            <description>Sand desert</description>
+            <image>desert.png</image>
+            <solid value="false"/>
+            <attributes water="false" woods="0" quality="0"/>
         </terrain>
         <terrain id="30">
             <name>cold.snow</name>
@@ -150,6 +157,18 @@
             <name>misc.peak</name>
             <description>Peak</description>
             <image>peak.png</image>
+            <solid value="false"/>
+        </terrain>
+        <terrain id="9">
+            <name>settlement.city</name>
+            <description>Small city</description>
+            <image>city.png</image>
+            <solid value="false"/>
+        </terrain>
+        <terrain id="10">
+            <name>settlement.largecity</name>
+            <description>Large city</description>
+            <image>large-city.png</image>
             <solid value="false"/>
         </terrain>
     </terrainset>
@@ -5504,7 +5523,7 @@
             <font>2</font>
             <importance>2</importance>
         </thing>
-        <thing type="4" x="6805" y="8100">
+        <thing type="10" x="6805" y="8100">
             <name>Stowell</name>
             <description>Royal Castle</description>
             <font>3</font>
@@ -5516,7 +5535,7 @@
             <font>2</font>
             <importance>2</importance>
         </thing>
-        <thing type="2" x="8844" y="4410">
+        <thing type="9" x="8844" y="4410">
             <name>Stanminster</name>
             <description>Unknown</description>
             <font>2</font>
@@ -5540,7 +5559,7 @@
             <font>2</font>
             <importance>2</importance>
         </thing>
-        <thing type="2" x="1425" y="980">
+        <thing type="9" x="1425" y="980">
             <name>Ethelby</name>
             <description>Unknown</description>
             <font>3</font>
