@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Brytish Warriors</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <topics>
+            <topic>Warriors</topic>
+            <topic>People</topic>
+            <topic>Habisfern</topic>
+        </topics>
+
+    </header>
+
+    <body>
+        <sect1>
+            <title>Brytish Warriors</title>
+
+            <para>
+                The culture of Bryteland puts the warrior at the pinnacle
+                of society. They protect, they lead, and they give gifts.
+                In return they are shown respect and given carte blanche
+                to do pretty much what they please.
+            </para>
+
+            <para>
+                The favoured weapon is the broad axe, a heavy two handed
+                weapon with a single blade. Their armour consists normally
+                of a chain shirt, a metal helm, with leather covering the
+                arms and legs.
+            </para>
+
+            <sect2>
+                <title>Characters</title>
+
+                <para>
+                    The following characters are typical of the Brytish
+                    warrior.
+                </para>
+
+                <character name="Brytish Axeman">
+                    <description>
+                        <race>Human</race>
+                        <age>21</age>
+                        <short>
+                            Young warrior.
+                        </short>
+
+                    </description>
+
+                    <attributes size="5" soak="12">
+                        <attribute name="strength" score="4"/>
+                        <attribute name="stamina" score="3"/>
+                        <attribute name="agility" score="3"/>
+                        <attribute name="dexterity" score="3"/>
+                        <attribute name="perception" score="3"/>
+                        <attribute name="intelligence" score="3"/>
+                        <attribute name="charisma" score="3"/>
+                        <attribute name="will" score="3"/>
+                    </attributes>
+
+                    <passions>
+                        <passion name="Bravery" score="6"/>
+                        <passion name="Ego" score="4"/>
+                        <passion name="Restraint" score="4"/>
+                        <passion name="Temperence" score="2"/>
+                    </passions>
+
+                    <skills>
+                        <group name="Talents" type="talents" >
+                            <skill name="Athletics" score="2"/>
+                            <skill name="Awareness" score="2"/>
+                            <skill name="Brawl" score="2"/>
+                            <skill name="Charm" score="2"/>
+                            <skill name="Guile" score="2"/>
+                            <skill name="Sleight" score="2"/>
+                            <skill name="Stealth" score="2"/>
+                            <skill name="Throw" score="2"/>
+                        </group>
+
+                        <group name="Languages" type="languages" >
+                            <skill name="Speak Brytish" score="4"/>
+                        </group>
+
+                        <group name="Knowledges" type="skills" >
+                            <skill name="Area lore (Bryteland)" score="2"/>
+                            <skill name="Folk lore" score="2"/>
+                            <skill name="Religion (Agrik)" score="2"/>
+                        </group>
+
+                        <group name="Misc" type="skills" >
+                            <skill name="Battle" score="2"/>
+                            <skill name="Ride" score="2"/>
+                        </group>
+
+                        <group name="Combat" type="skills" >
+                            <skill name="Great weapon" score="4"/>
+                        </group>
+                    </skills>
+
+                    <advantages>
+                        <advantage name="Attributes" cost="+12"/>
+                    </advantages>
+
+                    <combat>
+                        <weaponlist href="/usr/share/web/xml/yags/common/weapons.xml"/>
+                        <armourlist href="/usr/share/web/xml/yags/common/armour.xml"/>
+
+                        <combatstyle style="Brawl" skill="Brawl">
+                            <primary>Fist</primary>
+                            <initiative attribute="agility"/>
+                            <attack attribute="agility"/>
+                            <defence attribute="agility"/>
+                            <damage type="stun"/>
+                        </combatstyle>
+
+                        <combatstyle style="Broad axe" skill="Great weapon">
+                            <primary>Broad sword</primary>
+                            <shield>Knight shield</shield>
+                            <initiative attribute="agility"/>
+                            <attack attribute="dexterity"/>
+                            <defence attribute="dexterity"/>
+                            <damage type="wound"/>
+                        </combatstyle>
+
+                        <armourstyle style="Half chain armour">
+                            <armour name="Soft leather trousers"/>
+                            <armour name="Soft leather jacket"/>
+                            <armour name="Metal helm"/>
+                            <armour name="Chain shirt"/>
+                        </armourstyle>
+
+                    </combat>
+                </character>
+            </sect2>
+        </sect1>
+
+    </body>
+
+</article>
+
