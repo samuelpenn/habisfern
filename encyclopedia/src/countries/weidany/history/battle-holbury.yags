@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Battle of Holbury</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="council-holbury">Council of Holbury</see>
+            <see uri="angsly-kingdom">Kingdom of Angsly</see>
+            <see uri="merrik-kingdom">Kingdom of Merrik</see>
+            <see uri="perrin-kingdom">Kingdom of Perrin</see>
+        </references>
+
+        <topics>
+            <subject uri="holbury">Holbury</subject>
+
+            <category>History</category>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Battle of Holbury</title>
+
+            <para>
+                The <e>Battle of Holbury</e> was fought in the autumn of
+                761, outside the town of <qv uri="holbury">Holbury</qv>
+                between the three kingdoms of Angsly, Merrik and Perrin.
+                The battle ended many years of strife, and led to a
+                golden age for the three nations.
+            </para>
+
+            <para>
+                The events leading to the battle go back almost forty years.
+            </para>
+
+            <sect2>
+                <title>The Rape of Seaxburh</title>
+
+                <para>
+                    At this time, the king of Angsly was Osric the Plentiful
+                    who was renowned for his generous gifts and grand
+                    hospitality. His son, Cadwallen, was less looked up to.
+                    He was a follower of <qv uri="bis">Bis</qv>, in
+                    particular one of the <qv uri="flaming-fist">Flaming
+                    Fist</qv>.
+                </para>
+
+                <para>
+                    The king of Merrik was Cenwalh the Weak,
+                    a name given to him by his wife after his death. Little
+                    is recorded about him during his life, though it is
+                    believed that his reign was generally peaceful and
+                    prosperous.
+                </para>
+
+                <para>
+                    Cenwalh, and his queen Ercongota, had a daughter who was
+                    Seaxburh (undoubtably, they had other sons and daughters
+                    though their names are forgotton).
+                </para>
+
+                <para>
+                    In 726, at a celebration of Cadwallen's coming of age,
+                    he rapes Seaxburh while she is enjoying the hospitality
+                    of King Osric. There is an immediate threat of
+                    retribution from King Cenwalh, but ultimately the two
+                    kings settle on a large weregeld, and marriage between
+                    Seaxburh and Cadwallen - a move which would unite the
+                    two Kingdoms with Cadwallen as King.
+                </para>
+
+                <para>
+                    The reaction of Seaxburh to this news was not one of
+                    joy, and that of Ercongota was fury. There was also
+                    little support within Merrik was also less than
+                    enthusiastic, the feeling being that in return for
+                    being dishonoured, they would lose their independence.
+                    When the first payment was delivered to the royal
+                    household, Ercongota had considerable support when
+                    she offered the head of her husband in return,
+                    together with the declaration of a blood feud.
+                </para>
+
+                <para>
+                    It is said that Ercongota also joined the
+                    <qv uri="asabeth-cult">Cult of Asabeth</qv> at this
+                    time, together with her daughter. Ercongota declared
+                    herself Queen, and the kingdom stood behind her.
+                </para>
+            </sect2>
+
+
+        </sect1>
+    </body>
+</article>
