@@ -33,12 +33,16 @@
         <style name="module"/>
 
         <references>
-            <see>ent-stone</see>
+            <see uri="ent-stones">Ent Stones</see>
+            <see uri="ent-wood">Ent Wood</see>
         </references>
 
         <topics>
-            <topic>Bestiary</topic>
-            <topic>Habisfern</topic>
+            <subject uri="ents">Ents</subject>
+
+            <category>Race</category>
+
+            <topic uri="habisfern">Habisfern</topic>
         </topics>
     </header>
 

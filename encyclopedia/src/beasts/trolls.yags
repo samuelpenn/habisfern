@@ -33,12 +33,15 @@
         <style name="module"/>
 
         <references>
-            <see>troll-gods</see>
+            <see uri="troll-gods">Troll Gods</see>
         </references>
 
         <topics>
-            <topic>Bestiary</topic>
-            <topic>Habisfern</topic>
+            <subject uri="trolls">Trolls</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="habisfern">Habisfern</topic>
         </topics>
     </header>
 
