@@ -2,7 +2,7 @@
 
 <article>
     <header>
-        <title>Kurbia</title>
+        <title>Vorskiat</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -33,16 +33,12 @@
         <style name="module"/>
 
         <references>
-            <see uri="pavnik">Pavnik</see>
-            <see uri="ranistan">Ranistan</see>
-            <see uri="false-mountains">False Mountains</see>
-            <see uri="withrian-mountains">Withrican Mountains</see>
         </references>
 
         <topics>
-            <subject uri="kurbia">Kingdom of Kurbia</subject>
+            <subject uri="vorskiat">Vorskiat</subject>
 
-            <category>Country</category>
+            <category>City</category>
 
             <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
             <topic uri="kurbia">Kurbia</topic>
@@ -52,17 +48,20 @@
 
     <body>
         <sect1>
-            <title>Kingdom of Kurbia</title>
+            <title>Vorskiat</title>
 
             <para>
-                The coastal kingdom of Kurbia lays east of the
-                <qv uri="withrican-mountains">Withrican Mountains</qv>,
-                near the north-east corner of Euressa. It is bordered in the
-                north by mountains and sea, to the west by the
-                <qv uri="false-mountains">False Mountains</qv> and
-                <qv uri="pavnik">Pavnik</qv>. South lays the
-                <qv uri="ranistan">Kingdom of Ranistan</qv>, with which
-                Kurbia is often at war.
+                Vorskiat was a city in Kurbia built on the ruins of an old
+                city of the Elder. Around 700, everyone within it vanishes,
+                taking it is said, by spirits from the ruins below. Since
+                then it has been a cursed and haunted place, and few go
+                there.
+            </para>
+
+            <para>
+                The ruins had been settled since about 200 by small groups
+                of people who worshipped Elder cults. They were slain by the
+                Kurbians who built a city there.
             </para>
         </sect1>
     </body>
