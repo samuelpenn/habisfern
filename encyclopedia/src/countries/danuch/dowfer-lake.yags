@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Dowfer Lake</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="teal-river">Teal River</subject>
+        </references>
+
+        <topics>
+            <subject uri="dowfer-lake">Dowfer Lake</subject>
+
+            <category>Lake</category>
+
+            <topic uri="danuch">Danuch</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Dowfer Lake</title>
+
+            <para>
+                Also known as Blackwater, Dowfer lake is fed from the
+                highlands in Danuch, and is the source of the Teal River.
+                It is about 25km long, and 10km wide. It is quite deep, and
+                the source of fish for a large community living around its
+                shores.
+            </para>
+        </sect1>
+    </body>
+</article>
