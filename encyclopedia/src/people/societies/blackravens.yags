@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Cult of the Black Raven</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="scaedwen-forest">Scaedwen Forest</see>
+        </references>
+
+        <topics>
+            <subject uri="thot">Thot</subject>
+
+            <category>Cult</category>
+
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="weidany">Weidany</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Cult of the Black Raven</title>
+
+            <para>
+                This cult of Thot is considered to be one of the 
+                more secretive, and sometimes sinister, of the 
+                religious orders in Euressa. Tharos may be more 
+                deadly, but people at least think they know what 
+                his followers get up to.
+            </para>
+
+            <para>
+                Thot is the Raven god, a messenger, but also a 
+                spy. Thot sees and hears everything, and those of 
+                his cult are expected to do likewise.
+            </para>
+
+            <para>
+                The Black Raven is not the only cult of the 
+                Raven, and neither is it the most common, but it 
+                is probably the most famous.
+            </para>
+
+            <para>
+                The cult practises magic, and often pose as 
+                (indeed, are) bards. It is said that all 
+                knowledge is passed back to their temple 
+                somewhere in the Scaedwen Forest. For the most 
+                part though, they work for secular lords, spying 
+                and scouting for them.
+            </para>
+
+            <para>
+                The Queen of Rorn is known to employ the Black 
+                Ravens on a regular basis, and even has a sub 
+                cult (the Golden Ravens) based at Stowell, in the 
+                royal castle.
+            </para>
+
+        </sect1>
+    </body>
+</article>
