@@ -1336,6 +1336,159 @@
                     </event>
                 </events>
             </sect2>
+
+            <sect2>
+                <title>12th Century</title>
+
+                <events>
+                    <event>
+                        <startdate year="1107"/>
+                        <para>
+                            The thegn Hrulgar of Estwed, already more
+                            powerful than most, is granted permission
+                            to expand east, to take lands from the
+                            short folk there. He is granted ealdorman
+                            status over those lands. There is unrest
+                            amongst the other thegns over this show of
+                            favouritism.
+                        </para>
+                    </event>
+
+                    <event>
+                        <startdate year="1132"/>
+                        <para>
+                            The ealdormen of Merkia begin to build a
+                            road from Tanwall through to Stowell, for
+                            much trade is beginning to flow between
+                            these two places.
+                        </para>
+                    </event>
+
+                    <event>
+                        <startdate year="1148"/>
+                        <para>
+                            Ten ships sail from Stowell, and land at
+                            the river Brent in Midlaen. There is
+                            fighting with the people there, but a shire
+                            is set up in the name of the Queen.
+                        </para>
+                    </event>
+
+                    <event>
+                        <startdate year="1161"/>
+                        <para>
+                            There is an uprising of the Cult of
+                            Asabeth in Estwed, which tries to reinstate
+                            one of its own, Anflaed, as Queen of
+                            Estwed. A force marches to their forts, and
+                            routes their army and kills all that they
+                            find.
+                        </para>
+                    </event>
+
+                    <event>
+                        <startdate year="1185"/>
+                        <para>
+                            There is a plague in Lanuch, which does
+                            not spread. One in ten of the people of
+                            Lanuch die.
+                        </para>
+                    </event>
+
+                    <event>
+                        <startdate year="1193"/>
+                        <para>
+                            The shire of Midlaen claims freedom from
+                            the Queen. A force of ships is sent across
+                            to them, but it is driven back by storms. A
+                            force of men is sent across land, but they
+                            are driven off, and only a few return.
+                        </para>
+                    </event>
+
+                    <event>
+                        <startdate year="1194"/>
+                        <para>
+                            There are raiders from the north, from
+                            Bryteland, which fight against the ships
+                            out of Stowell. The raiders which land
+                            fight a bit, and then flee back to the sea
+                            before a large force can be brought against
+                            them.
+                        </para>
+                    </event>
+                </events>
+            </sect2>
+
+            <sect2>
+                <title>13th Century</title>
+
+                <events>
+                    <event>
+                        <startdate year="1205"/>
+                        <para>
+                            There is some fighting against the short
+                            folk around Halecester.
+                        </para>
+                    </event>
+
+                    <event>
+                        <startdate year="1207"/>
+                        <para>
+                            The thegn Cenic drives off the short folk
+                            raiding the borders of the kingdom, and as
+                            a favour is granted ealdormanship of the
+                            border, if he is to defend it. He builds
+                            many forts, and a great dyke along the
+                            land, putting many men behind it.
+                        </para>
+                    </event>
+
+                    <event>
+                        <startdate year="1210"/>
+                        <para>
+                            More ships from Bryteland raid along the
+                            coast, though few come south of Merkia this
+                            year.
+                        </para>
+                    </event>
+
+                    <event>
+                        <startdate year="1217"/>
+                        <para>
+                            There is war between Cadwold and the shire
+                            of Strathby. Many men are killed, but the
+                            highland tribes are driven back, and forts
+                            are built within their borders.
+                        </para>
+                    </event>
+
+                    <event>
+                        <startdate year="1221"/>
+                        <para>
+                            There begins the building of a temple to
+                            Ashek at Cerdicsfield. It is a great stone
+                            building, larger than the one at Stowell.
+                        </para>
+                    </event>
+
+                    <event>
+                        <startdate year="1225"/>
+                        <para>
+                            There is some fighting between Talmoth and
+                            Ornwold, which is soon forcibly stopped by
+                            the Queen.
+                        </para>
+                    </event>
+
+                    <event>
+                        <startdate year="1230"/>
+                        <para>
+                            Current year.
+                        </para>
+                    </event>
+                </events>
+            </sect2>
         </sect1>
     </body>
 </article>
