@@ -37,12 +37,16 @@
         <style name="module"/>
 
         <references>
-            <partof>daegian</partof>
         </references>
 
         <topics>
-            <topic>Religion</topic>
-            <topic>Habisfern</topic>
+            <subject uri="animal-powers">Animal Powers</subject>
+
+            <category>Religion</category>
+
+            <topic uri="tanwall">Tanwall</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
         </topics>
     </header>
 

@@ -37,13 +37,17 @@
         <style name="module"/>
 
         <references>
-            <partof>brytish-mythology</partof>
         </references>
 
         <topics>
-            <topic>God</topic>
-            <topic>Religion</topic>
-            <topic>Habisfern</topic>
+            <subject uri="walgi">Walgi</subject>
+
+            <category>Religion</category>
+
+            <topic uri="brytish-mythology">Brytish Mythology</topic>
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
         </topics>
     </header>
 

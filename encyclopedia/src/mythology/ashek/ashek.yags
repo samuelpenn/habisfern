@@ -37,13 +37,15 @@
         <style name="module"/>
 
         <references>
-            <partof>daegian</partof>
         </references>
 
         <topics>
-            <topic>God</topic>
-            <topic>Religion</topic>
-            <topic>Habisfern</topic>
+            <subject uri="ashek">Ashek</subject>
+
+            <category>Religion</category>
+
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
         </topics>
     </header>
 
