@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Emrend Shire</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="emrend-shire">Emrend</subject>
+
+            <category>Shire</category>
+
+            <topic uri="emrend-shire">Emrend Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Emrend Shire</title>
+
+            <para>
+                The shire of Emrend is the southernmost of the shires of the
+                <qv uri="weidany">Kingdom of Weidany</qv>. The shire town
+                is Watersmeet, on the shores of the lake where the rivers
+                Emrend and Devrin meet.
+            </para>
+
+            <para>
+                Emrend's population is light, and scattered over much of the
+                shire. The land is very fertile, and the Emvin Hills are
+                renowned for the fine wines which are produced there.
+            </para>
+        </sect1>
+    </body>
+</article>

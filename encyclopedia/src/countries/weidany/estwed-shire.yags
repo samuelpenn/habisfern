@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Estwed Shire</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="estwed-shire">Estwed</subject>
+
+            <category>Shire</category>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Estwed Shire</title>
+
+            <para>
+                The shire of Estwed has a long and spotted history, though
+                it is most famous for being the home of the infamous
+                <qv uri="asabeth-cult">Cult of Asabeth</qv>, though that
+                cult has long since gone from these lands. Estwed is by
+                far the largest of the shires, having merged with the old
+                shires of Eastmarch and Southwood in 1176 due to the
+                gradual drop in population of the latter two, making their
+                existence as seperate political entities pointless.
+            </para>
+
+            <para>
+                The influence of the <qv uri="eanwulf-house">House of
+                Eanwulf</qv> within Estwed, and their desires to extend it
+                to three shires, may have also been a factor.
+            </para>
+
+            <para>
+                Estwed is heavily forested, and actually has quite a low
+                population given its size. Its major export is salt,
+                followed by coal and timber. The salt mines of Estwed are
+                the major source of salt throughout northwest Euressa.
+            </para>
+        </sect1>
+    </body>
+</article>

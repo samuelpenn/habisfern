@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Hain Shire</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="hain-shire">Hain</subject>
+
+            <category>Shire</category>
+
+            <topic uri="hain-shire">Hain Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Hain Shire</title>
+
+            <para>
+                Hain shire is not particularly big, wealthy or famous, but
+                it is stable, and the folk here take pride in the fact that
+                they have nothing special to be proud of.
+            </para>
+
+            <para>
+                The <qv uri="eanwulf-house">House of Eanwulf</qv> has
+                recently started to gain influence within the shire,
+                though the thegns of Hain are resisting in order to keep
+                their independence from any of the major Houses. Some are
+                talking of an alliance with <qv uri="peada-house">Peada</qv>
+                despite the necessary political involvement this will
+                bring.
+            </para>
+        </sect1>
+    </body>
+</article>
