@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Ornmouth</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="hemmysford">Hemmysford</subject>
+
+            <category>Town</category>
+
+            <topic uri="westland-shire">Westland</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+
+    </header>
+
+    <body>
+        <sect1>
+            <title>Hemmysford</title>
+
+            <para>
+                Town in the shire of Westland in Weidany on the river
+                Hemmy, about ten leagues from the capital of
+                <qv uri="stowell">Stowell</qv>. It was the site of the first
+                major battle between the Brytelanders and the Kingdom of
+                Westland in 912, when King Offa or Westland was defeated.
+                It was eventually retaken later that year.
+            </para>
+
+            <para>
+                A lot of trade between Stowell and the northwest of the
+                Kingdom goes through Hemmysford.
+            </para>
+        </sect1>
+
+    </body>
+
+</article>
+

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Council of Holbury</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="holbury">Holbury</subject>
+
+            <category>History</category>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Council of Holbury</title>
+
+            <para>
+                In 761, the feud between the three kingdoms of Merrik,
+                Perrin and Angsly was ended at a great battle outside the
+                town of <qv uri="holbury">Holbury</qv>. Cerdic of Merrik
+                slays King Halfric of Angsly before dying himself, leaving
+                only King Wihtgar of Perrin.
+            </para>
+
+            <para>
+                Wihtgar persuades the warriors to end the battle at this
+                point, and meets with Erwin son of Cerdic and Oswald son of
+                Halfric on a hill in Holbury the following day. There, they
+                eventually agree a peace between their kingdoms, and agree
+                to meet at the same time each year at Holbury to discuss
+                relationships between their kingdoms.
+            </para>
+
+            <para>
+                A great hall is built there, which is administered by the
+                <qv uri="neya-daughters">Daughters of Neya</qv> since they
+                are the only priests in the region at this time. The
+                Council of Holbury is held each year until about 974,
+                when Merrik and Anglsy again begin a way which sees the
+                collapse of the three kingdoms, and the rise of the
+                <qv uri="weidany">Kingdom of Weidany</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
