@@ -63,8 +63,8 @@
         <sect1>
             <title>Jarneyland</title>
 
-            <import-map uri="bryteland" scale="2">
-                <area name="jarneyland" margin="0"/>
+            <import-map uri="bryteland" scale="4" thumb="320">
+                <area name="jarneyland" margin="1"/>
             </import-map>
 
             <para>
