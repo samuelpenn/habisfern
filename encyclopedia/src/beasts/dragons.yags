@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Dragons</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="dragons">Dragons</subject>
+
+            <category>Beasts</category>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Dragons</title>
+
+            <para>
+                Dragons are descended from an ancient breed from 
+                the dawn of time. True dragons, as opposed to 
+                wyrms, are a natural part of the world. They have 
+                the power to shape and craft the land around them 
+                as they see fit.
+            </para>
+
+            <para>
+                The most powerful of the Dragons live deep 
+                beneath the world, and are but legends, having 
+                never risen within living memory.
+            </para>
+
+            <para>
+                It is said that the magic of dragons can be 
+                harnessed by humans, but the only wizards who 
+                claim knowledge of the actual technque are the 
+                Waezgerat of Cadwold.
+            </para>
+
+        </sect1>
+    </body>
+</article>

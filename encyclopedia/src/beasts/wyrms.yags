@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Wyrms</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="wyrms">Wyrms</subject>
+
+            <category>Wyrms</category>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Wyrms</title>
+
+            <para>
+                Wyrms are the distant relatives of dragons, being 
+                more akin to beasts than to their mythical ancestors.
+            </para>
+
+            <para>
+                It is said that a wyrm is born from either the 
+                breaking of the earth, or after a great spilling 
+                of blood. They are considered to be the 
+                harbringers of chaos - for good or ill.
+            </para>
+
+            <para>
+                The White Wyrm of Abbington is the most famous of 
+                recent dragons.
+            </para>
+
+        </sect1>
+    </body>
+</article>
