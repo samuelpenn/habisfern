@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Aeddan</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="aeddan">Aeddan</subject>
+
+            <category>King</category>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Aeddan</title>
+
+            <para>
+                Aeddan was a hero of the Weidanic nations who fought against
+                the Rornic invaders and who won many battles during the 6th
+                and 7th centuries. The date of his death is often given as
+                618, when he dies leading a charge against the shield walls
+                of the Rornic.
+            </para>
+
+            <para>
+                Aeddan has the aid of the Druids, and also their Elder
+                masters. His parents were brother and sister - Bradwen
+                and Dwynwen. He was a warrior and she a prophetess, who
+                foresaw that her child would be a great hero for her
+                people, and her brother's child would bring the defeat
+                of her people. She thought she could avoid the fates by
+                bearing her brother's child.
+            </para>
+
+            <para>
+                Sometime in his twenties, in the 580's, Aeddan gathered a
+                group of thegns about him, for by this point he was a great
+                warrior who had fought the invaders, and a great hero, for
+                having defeated many monsters, including the dragon Heoroth.
+                He led more battles against the Rornish, and beat them,
+                coming to rule the Kingdom of Westland (now Merkia, Langly
+                and Westland shires) from a great city.
+            </para>
+
+            <para>
+                He was the first and last King to make good use of horses
+                in combat, but was eventually defeated and his people were
+                subsumed into Rornic culture.
+            </para>
+        </sect1>
+    </body>
+</article>
