@@ -2,7 +2,7 @@
 
 <article>
     <header>
-        <title>Wyrms</title>
+        <title>Drakes</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license>
-            <year>2002</year>
+            <year>2003</year>
             <holder>Samuel Penn</holder>
             <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
             <text>
@@ -33,10 +33,12 @@
         <style name="module"/>
 
         <references>
+            <see uri="dragons">Dragons</see>
+            <see uri="wyrms">Wyrms</see>
         </references>
 
         <topics>
-            <subject uri="wyrms">Wyrms</subject>
+            <subject uri="drakes">Drakes</subject>
 
             <category>Beasts</category>
 
@@ -46,25 +48,13 @@
 
     <body>
         <sect1>
-            <title>Wyrms</title>
+            <title>Drakes</title>
 
             <para>
-                Wyrms are the distant relatives of dragons, being 
-                more akin to beasts than to their mythical ancestors.
-            </para>
-
-            <para>
-                It is said that a wyrm is born from either the 
-                breaking of the earth, or after a great spilling 
-                of blood. They are considered to be the 
-                harbringers of chaos - for good or ill.
-            </para>
-
-            <para>
-                The White Wyrm of Abbington is the most famous of 
-                recent wyrms, and also one of the largest. The
-                White Wyrm was slain in 1182 by
-                <qv uri="renbric-slayer">Renbric the Slayer</qv>.
+                Drakes are relatives of Dragons and Wyrms. Like the
+                former, they are winged and often capable of breathing
+                fire. They are, on the whole, smaller than Wyrms, and
+                generally only found in wild mountainous regions.
             </para>
 
         </sect1>
