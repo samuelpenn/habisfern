@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Enting</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+        
+        <campaign>
+            <date>731, Spring</date>
+        </campaign>
+
+        <references>
+            <see uri="ents">Ents</see>
+        </references>
+
+        <topics>
+            <subject uri="enting">Enting</subject>
+
+            <category>Town</category>
+
+            <topic uri="merkia-shire">Merkia Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Enting</title>
+
+            <para>
+                A small town in the <qv uri="entwood">Ent Wood</qv>, with
+                a population of about 300. A few Ents dwell here as well,
+                though mostly on a temporary basis.
+            </para>
+        </sect1>
+    </body>
+
+</article>
