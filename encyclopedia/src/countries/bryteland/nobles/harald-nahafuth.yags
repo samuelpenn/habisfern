@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Harald Nahafuth</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="harald-nahafuth">Harald Nahafuth</subject>
+
+            <category>King</category>
+            <topic uri="nethvollr">Nethvollr</topic>
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Harald Nahafuth</title>
+
+            <para>
+                Harald Nahafuth is the young King of <qv 
+                uri="nethvollr">Nethvollr</qv> in Bryteland. He is 
+                quick, strong, handsome and has a keen wit. He is also 
+                rash and liable to fly into a viscious temper when 
+                provoked. This has earned him the nomiker Harald No 
+                Head, or Harald the Headless.
+            </para>
+
+            <para>
+                Harald was fostered with <qv uri="osric-edgarson">Osric 
+                Edgarson</qv>, the current King of <qv 
+                uri="vitrgifing">Vitrgifing</qv>, and obtained his 
+                passion of hunting and raiding whilst with him. 
+            </para>
+
+        </sect1>
+    </body>
+</article>
