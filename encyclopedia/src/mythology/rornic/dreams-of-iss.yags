@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Dreams of Iss</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="iss">Iss</subject>
+
+            <category>Religion</category>
+
+            <topic uri="daegian">Daegian</topic>
+            <topic uri="rornic-mythology">Rornic Mythology</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Dreams of Iss</title>
+
+            <para>
+                Whilst <qv uri="iss">Iss</qv> slept before the start of
+                Time, he dreamt dreams of power. In these dreams he imagined
+                a future world where life grew and gods reigned from the
+                heavens. In times, these dreams became reality, and the
+                first gods, <qv uri="rim">Rim</qv> and <qv uri="yagma">
+                Yagma</qv> were created.
+            </para>
+        </sect1>
+    </body>
+</article>
