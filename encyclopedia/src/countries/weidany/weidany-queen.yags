@@ -65,8 +65,8 @@
             <para>
                 Queen Behrith currently has four daughters - Eodhild (born in
                 1211), Wilith (1215), Aelflaed (1224) and Aeldith (1229). She
-                is soon to be a grandmother, since both Eodhild and Wilith
-                are due to give birth late in the year.
+                has just become a grandmother, since both Eodhild and Wilith
+                have recently given birth to Eowyn and Morwen.
             </para>
 
             <para>
@@ -74,7 +74,9 @@
                 The first Queen Aelthryth started the tradition of ensuring
                 that there were several possible fathers, reducing the
                 influence that any of them could have either over the Queen
-                or her daughters.
+                or her daughters. Because of the curse that was put on the
+                Kingdom by <qv uri="neya">Neya</qv>, no male may ever take
+                the throne.
             </para>
             
             <sect2>
@@ -218,7 +220,46 @@
                     two granddaughters, both born in the last few months.
                 </para>
                 
-                <familyTree title="The Line of Frythrun" year="1230">
+                <para>
+                    The following tree shows all descendents of Eadhild II,
+                    all of whome are in theory eligiable for taking the
+                    crown on the Queen's death (all those descended from
+                    the Queen's Great Grandmother).
+                </para>
+                
+                <familyTree title="The Line of Eadhild II" year="1230">
+                    <root>Queen Eadhild II</root>
+                    
+                    <person name="Queen Eadhild II">
+                        <born>1099</born>
+                        <died>1169</died>
+                    </person>
+                    
+                    <person name="Eanflaed">
+                        <born>1115</born>
+                        <died>1170</died>
+                    </person>
+                    
+                    <person name="Ercongota the Red">
+                        <born>1118</born>
+                        <died>1142</died>
+                    </person>
+                    
+                    <person name="Cyneberg">
+                        <born>1122</born>
+                        <died>1173</died>
+                    </person>
+                    
+                    <person name="Cyneswith">
+                        <born>1125</born>
+                        <died>1186</died>
+                    </person>
+                    
+                    <person name="Frythegith">
+                        <born>1137</born>
+                        <died>1149</died>
+                    </person>
+                    
                     <person name="Queen Frythrun">
                         <born>1150</born>
                         <died>1213</died>
@@ -293,6 +334,9 @@
                     
                     <person name="Aeldith">
                         <born>1229</born>
+                        <short>
+                            Bad omens over the choice of name for this child.
+                        </short>
                     </person>
                     
                     <person name="Eowyn">
@@ -302,6 +346,67 @@
                     <person name="Morwen">
                         <born>1230</born>
                     </person>
+                    
+                    <person name="Eohild of Midlaen">
+                        <born>1136</born>
+                        <died>1193</died>
+                    </person>
+                    
+                    <person name="Hereswith of Ercongota">
+                        <born>1139</born>
+                        <died>1154</died>
+                    </person>
+                    
+                    <person name="Eogith">
+                        <born>1154</born>
+                        <died>1201</died>
+                    </person>
+                    
+                    <person name="Eowyn the Grey">
+                        <born>1158</born>
+                        <died>1228</died>
+                    </person>
+                    
+                    <person name="Eohild Half-face">
+                        <born>1168</born>
+                    </person>
+                    
+                    <person name="Cynehild">
+                        <born>1147</born>
+                        <died>1197</died>
+                    </person>
+                    
+                    <person name="Eadgifu the White">
+                        <born>1150</born>
+                        <died>1195</died>
+                    </person>
+                    
+                    <person name="Godrun Gyldenfaex">
+                        <born>1155</born>
+                        <died>1230</died>
+                        <short>Was High Priestess of Neya.</short>
+                    </person>
+                    
+                    <person name="Sexrun Whiteheart">
+                        <born>1159</born>
+                        <died>1221</died>
+                    </person>
+                    
+                    <family mother="Queen Eadhild II">
+                        <children>
+                            <child>Eanflaed</child>
+                            <child>Ercongota the Red</child>
+                            <child>Cyneberg</child>
+                            <child>Cyneswith</child>
+                        </children>
+                    </family>
+                    
+                    <family mother="Eanflaed">
+                        <children>
+                            <child>Frythegith</child>
+                            <child>Queen Frythrun</child>
+                        </children>
+                    </family>
                     
                     <family mother="Queen Frythrun">
                         <children>
@@ -353,11 +458,175 @@
                     
                     <family mother="Eodhild">
                         <children>
-                            <child>Eowen</child>
+                            <child>Eowyn</child>
+                        </children>
+                    </family>
+                    
+                    <family mother="Wilith">
+                        <children>
                             <child>Morwen</child>
                         </children>
                     </family>
+                    
+                    <family mother="Ercongota the Red">
+                        <children>
+                            <child>Eohild of Midlaen</child>
+                            <child>Hereswith of Ercongota</child>
+                        </children>
+                    </family>
+                    
+                    <family mother="Eohild of Midlaen">
+                        <children>
+                            <child>Eogith</child>
+                            <child>Eowyn the Grey</child>
+                            <child>Eohild Half-face</child>
+                        </children>
+                    </family>
+                    
+                    <family mother="Cyneberg">
+                        <children>
+                            <child>Cynehild</child>
+                            <child>Eadgifu the White</child>
+                            <child>Godrun Gyldenfaex</child>
+                            <child>Sexrun Whiteheart</child>
+                        </children>
+                    </family>
+                    
+                    <person name="Cynegith Meredohtor">
+                        <born>1163</born>
+                        <died>1228</died>
+                    </person>
+                    
+                    <person name="Wilith Meredohtor">
+                        <born>1169</born>
+                    </person>
+                    
+                    <person name="Cyneswith Meredohtor">
+                        <born>1174</born>
+                        <died>1221</died>
+                    </person>
+                    
+                    <family mother="Cynehild">
+                        <children>
+                            <child>Cynegith Meredohtor</child>
+                            <child>Wilith Meredohtor</child>
+                            <child>Cyneswith Meredohtor</child>
+                        </children>
+                    </family>
+                    
+                    <person name="Alith">
+                        <born>1166</born>
+                        <died>1195</died>
+                    </person>
+                    
+                    <person name="Cunith Battlecrow">
+                        <born>1168</born>
+                        <died>1195</died>
+                    </person>
+                    
+                    <person name="Thunhild">
+                        <born>1168</born>
+                        <died>1195</died>
+                    </person>
+                    
+                    <person name="Eosny">
+                        <born>1179</born>
+                        <died>1195</died>
+                    </person>
+                    
+                    <person name="Eadith">
+                        <born>1181</born>
+                        <died>1195</died>
+                    </person>
+                    
+                    <family mother="Eadgifu the White">
+                        <children>
+                            <child>Alith</child>
+                            <child>Cunith Battlecrow</child>
+                            <child>Thunhild</child>
+                            <child>Eosny</child>
+                            <child>Eadith</child>
+                        </children>
+                    </family>
+                    
+                    <person name="Burwen">
+                        <born>1186</born>
+                        <short>Fled in 1195, whereabouts unknown.</short>
+                    </person>
+                    
+                    <person name="Eadgifu">
+                        <born>1192</born>
+                        <died>1221</died>
+                        <short>Slain during unrest in Estwed.</short>
+                    </person>
+                    
+                    <person name="Cunith">
+                        <born>1193</born>
+                        <died>1195</died>
+                        <short>Slain during the Blood Moon.</short>
+                    </person>
+                    
+                    <family mother="Alith">
+                        <children>
+                            <child>Burwen</child>
+                            <child>Eadgifu</child>
+                            <child>Cunith</child>
+                        </children>
+                    </family>
+                    
+                    <person name="Estith">
+                        <born>1190</born>
+                        <died>1195</died>
+                        <short>Slain during the Blood Moon.</short>
+                    </person>
+                    
+                    <person name="Morith">
+                        <born>1192</born>
+                        <died>1195</died>
+                        <short>Slain during the Blood Moon.</short>
+                    </person>
+                    
+                    <family mother="Cunith Battlecrow">
+                        <children>
+                            <child>Estith</child>
+                            <child>Morith</child>
+                        </children>
+                    </family>
+                    
+                    <person name="Alhild">
+                        <born>1188</born>
+                        <died>1195</died>
+                        <short>Slain during the Blood Moon.</short>
+                    </person>
+                    
+                    <person name="Eadhild">
+                        <born>1192</born>
+                        <died>1195</died>
+                        <short>Slain during the Blood Moon.</short>
+                    </person>
+                    
+                    <family mother="Thunhild">
+                        <children>
+                            <child>Alhild</child>
+                            <child>Eadhild</child>
+                        </children>
+                    </family>
+                    
+                    <family mother="Sexrun">
+                        <children>
+                            <child></child>
+                        </children>
+                    </family>
+                    
+                    <family mother="Cyneswith">
+                        <children>
+                            <child></child>
+                            <child></child>
+                            <child></child>
+                        </children>
+                    </family>
                 </familyTree>
+                
             </sect2>
         </sect1>
     </body>

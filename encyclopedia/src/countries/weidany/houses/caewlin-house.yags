@@ -81,19 +81,47 @@
                         have been powerful at court.
                     </para>
 
-                    <familytree title="House of Caewlin">
-                        <person name="Hereric Caewlin" gender="male">
+                    <familyTree title="House of Caewlin" year="1230">
+                        <maleline/>
+                        <root>Osrun</root>
+                    
+                        <person name="Hereric Caewlin">
+                            <male/>
                             <born>1170</born>
-                            <spouse>Osrun</spouse>
                         </person>
 
-                        <person name="Osrun" gender="female">
+                        <person name="Osrun">
                             <born>1178</born>
-                            <spouse>Hereric Caewlin</spouse>
-                            <child></child>
                         </person>
-                    </familytree>
-				</sect3>
+                        
+                        <person name="Hererin">
+                            <male/>
+                            <born>1195</born>
+                        </person>
+                        
+                        <person name="Osflaen">
+                            <born>1197</born>
+                        </person>
+                        
+                        <person name="Osburh">
+                            <born>1199</born>
+                        </person>
+                        
+                        <person name="Haerdric">
+                            <male/>
+                            <born>1203</born>
+                        </person>
+                        
+                        <family mother="Osrun">
+                            <children father="Hereric Caewlin">
+                                <child>Hererin</child>
+                                <child>Osflaen</child>
+                                <child>Osburh</child>
+                                <child>Haerdric</child>
+                            </children>
+                        </family>
+                    </familyTree>
+                </sect3>
             </sect2>
         </sect1>
         
