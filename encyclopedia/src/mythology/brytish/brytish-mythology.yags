@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Brytish Mythology</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>The Gods of the Brytish</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+            <partof>brytish-mythology</partof>
+        </references>
+
+        <topics>
+            <topic>God</topic>
+            <topic>Religion</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Gods of the Brytish</title>
+
+            <para>
+                The mythology of the Brytish people has similar roots to
+                that of the Rornic, though has changed over the generations.
+                Most notable are the additions of the World Dragons, similar
+                in power to Iss. They are like gods to the gods, raw primal
+                forces of nature which may be bound, but never defeated.
+            </para>
+
+            <para>
+                The King of the Brytish gods is <qv uri="voltan">Voltan</qv>
+                who is similar to <qv uri="haltan">Haltan</qv>. He is a
+                warrior, a king, a bard and a wizard. Noted for his
+                cunning and skill, as well as his brute strength.
+            </para>
+        </sect1>
+        
+        <sect1>
+            <title>The Creation</title>
+            
+            <para>
+                In the beginning, the World was in two parts. There was
+                <qv uri="jorda">Jorda</qv>, the Earth, who held within her
+                all that could give forth life. Covering Jorda, and
+                crushing her so that she could not give birth to life,
+                was <qv uri="iss-brytish">Iss</qv>, the Great Glacier,
+                which was barren and cold. As Iss ground down upon Jorda,
+                so he gouged out great wounds in her flesh, and from the
+                blood of these wounds was born <qv uri="jortooth">
+                Jortooth</qv>, the World Dragon, made from the blood of
+                the great mother.
+            </para>
+            
+            <para>
+                The Jortooth rose against Iss, and with his terrible
+                breath of fire forced Iss back to the distant north, to
+                cower in fear against the fire. Freed from her ice prison,
+                Jorda mates with Jortooth, and gives birth to three Primal
+                Lords, who are Othalking of the Sky and Winds, Uvangar of
+                the Deep Seas, and Jorthik of the Earth. Jorthik though is
+                deprived from having dominion of all that he considers his,
+                because his father also dwells in the earth, so Jorthik
+                fights his father, but is defeated, and his body is torn
+                apart.
+            </para>
+            
+            <para>
+                Distressed at the death of her son, Jorda breaths life back
+                into the bloody ruins of his body. From his brains comes
+                Voltan who is gifted with poetry and law. From his heart
+                comes Freeja, who loves and cares for others. From his
+                blood comes Igia, who fills the rivers of the land and
+                flows down into the sea which becomes her domain. From the
+                ribs of Jorthik springs Alfhan, who makes himself as the
+                trees which cover the land. Walgi the wolf goddess is born
+                from his teeth. Finally from one of his eyes comes Rim,
+                who is guardian and watcher of both the living and the dead.
+            </para>
+            
+            <sect2>
+                <title>The Rape of Igia</title>
+
+                <para>
+                    Othalking is lord of the sky and storms, and has
+                    dominion over the gods. He considers all beneath him
+                    to be his, including the seas, and Igia who dwells
+                    within the waves. He kidnaps her, and takes her up to
+                    his sky kingdom Thalling. Her brothers rebel, and led
+                    by Voltan they make a raid on Thalling, freeing Igia
+                    and fleeing with her back to the sea. Othalking is
+                    furious at this, and follows after the gods to take
+                    back his prize. Knowing that they cannot defeat one
+                    of the Primal Lords alone, Voltan petitions Uvangar
+                    for aid.
+                </para>
+                
+                <para>
+                    For this price, Uvangar demands that Igia stays in
+                    his palace with him for half of each year. Voltan,
+                    singing a poem that praises Uvangar and the respect
+                    he'd receive for helping the gods, bargains him down
+                    to one season out of each year.
+                </para>
+                
+                <para>
+                    When Othalking arrives, the gods lay a trap for him,
+                    and he is defeated and bound. He is chained in the
+                    far west, where he can do no more harm.
+                </para>
+                
+                <para>
+                    Igia goes back to the sea, and spends the winter of
+                    each year in the deep depths with Uvangar. It is
+                    during this first winter that she has a son, Hojan,
+                    son of Othalking.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+
+</article>
+

@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Jorda</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Brytish goddess of the Earth</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+            <partof>brytish-mythology</partof>
+        </references>
+
+        <topics>
+            <topic>God</topic>
+            <topic>Religion</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Jorda</title>
+
+            <para>
+                At the beginning of the World there was only Jorda, the
+                Great Earth Mother, and <qv uri="iss-brytish">Iss</qv>
+                the Great Glacier which bore down upon her.
+            </para>
+            
+            <para>
+                From the wounds gouged out of her flesh by Iss, Jorda
+                gave birth to the World Dragon who was named
+                <qv uri="jortooth">Jortooth</qv>. Jortooth drove back
+                the Glacier, and so Jorda was able to bring forth life
+                to the World by mating with her son.
+            </para>
+            
+            <para>
+                From Jorda springs <qv uri="othalking">Othalking</qv>
+                who fills the world above with sky and winds,
+                <qv uri="uvangar">Uvangar</qv> who fills the lower
+                parts of the World with ocean, and <qv uri="jorthik">
+                Jorthik</qv> who is the soil about the land.
+            </para>
+            
+            <para>
+                After Jorthik and Jortooth war with each other, and Jorthik
+                is slain, it is Jorda who breaths life into his remains.
+                She creates <qv uri="voltan">Voltan</qv>,
+                <qv uri="freeja">Freeja</qv>, <qv uri="igia">Igia</qv>,
+                <qv uri="alfhan">Alfhan</qv>, <qv uri="walgi">Walgi</qv>
+                and <qv uri="rim">Rim</qv> from his body parts.
+            </para>
+        </sect1>
+    </body>
+
+</article>
+
