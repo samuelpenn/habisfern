@@ -157,10 +157,27 @@
                     <character name="Brotherhood of the Law Maker">
                         <description>
                             <short>
-                                Member of the Cult of Haltan, who take it upon themselves
-                                to enforce the Queen's Law wherever it is needed, normally
-                                the edges of civilisation where normal Law does not reach.
+                                Knights of Haltan who see it as their duty
+                                to enfore the Queen's Law wherever it is
+                                needed.
                             </short>
+                            
+                            <background>
+                                <para>
+                                    The Brotherhood of the Law Maker is a
+                                    martial cult dedicated to upholding the
+                                    Law. The are often found at the edges
+                                    of civilisation, or places where the
+                                    Law has broken down (due to corruption
+                                    or civil war for instance).
+                                </para>
+                                
+                                <para>
+                                    All members are expected to be skilled
+                                    at arms, to have knowledge of the law,
+                                    and to have been born a freeman.
+                                </para>
+                            </background>
                         </description>
                 
                         <skills>
@@ -199,6 +216,7 @@
                             <item name="Soft leather jacket"/>
                             <item name="Soft leather trousers"/>
                             <item name="Chain hauberk"/>
+                            <item name="Riding horse"/>
                         </equipment>
                     </character>
                 </characters>

@@ -122,7 +122,7 @@
         </sect1>
 
         <sect1>
-            <title>Membership</title>
+            <title>Characters</title>
 
             <sect2>
                 <title>Skills</title>
@@ -141,7 +141,7 @@
             
             <sect2>
                 <title>Packages</title>
-                
+
                 <characters role="package" title="Cult of Thot">
                 
                     <character name="Eye of the Raven">
@@ -199,16 +199,15 @@
                                 <skill name="Awareness" score="4"/>
                                 <skill name="Brawl" score="2"/>
                                 <skill name="Charm" score="2"/>
-                                <skill name="Guile" score="3"/>
+                                <skill name="Guile" score="2"/>
                                 <skill name="Sleight" score="2"/>
-                                <skill name="Stealth" score="4"/>
+                                <skill name="Stealth" score="3"/>
                                 <skill name="Throw" score="2"/>
                             </group>
                 
                             <group name="Knowledges" type="knowledges">
                                 <skill name="Speak own" score="4"/>
                                 <skill name="Area lore" score="4"/>
-                                <skill name="Heraldry" score="2"/>
                                 <skill name="Religion (Thot)" score="3"/>
                             </group>
                             
@@ -218,9 +217,9 @@
                             </group>
                 
                             <group name="Other" type="skills">
-                                <skill name="Survival" score="4"/>
+                                <skill name="Survival" score="3"/>
                                 <skill name="Falconry" score="4"/>
-                                <skill name="Ride" score="4"/>
+                                <skill name="Ride" score="3"/>
                             </group>
                         </skills>
                 
@@ -236,23 +235,31 @@
                     <character name="Voice of the Raven">
                         <description>
                             <short>
-                                Some followers of Thot take the path of
-                                diplomacy, acting as spies or advisors to
-                                noble lords. Unlike the <e>Eyes</e>, those
-                                who are the Voice of the Raven work within
-                                the courts of the land, using their grasp
-                                of information to advance themselves and
-                                their patrons politically. Almost without
-                                exception, a <e>Voice</e> will always be
-                                working for a patron, normally in a long
-                                term capacity. A Raven who has declared
-                                their status and patron is afforded
-                                diplomatic immunity if their patron is one
-                                of the noble houses. Those with less
-                                powerful patrons may be treated
-                                differently, though at least can be
-                                expected to be asked to leave politely.
+                                Such followers of Thot are diplomats, spies
+                                or advisors, operating within the courts
+                                of the Kingdom.
                             </short>
+                            
+                            <background>
+                                <para>
+                                    Some followers of Thot take the path of
+                                    diplomacy, acting as spies or advisors to
+                                    noble lords. Unlike the <e>Eyes</e>, those
+                                    who are the Voice of the Raven work within
+                                    the courts of the land, using their grasp
+                                    of information to advance themselves and
+                                    their patrons politically. Almost without
+                                    exception, a <e>Voice</e> will always be
+                                    working for a patron, normally in a long
+                                    term capacity. A Raven who has declared
+                                    their status and patron is afforded
+                                    diplomatic immunity if their patron is one
+                                    of the noble houses. Those with less
+                                    powerful patrons may be treated
+                                    differently, though at least can be
+                                    expected to be asked to leave politely.
+                                </para>
+                            </background>
                         </description>
                         
                         <skills>
@@ -270,12 +277,12 @@
                             <group name="Knowledges" type="knowledges">
                                 <skill name="Speak own" score="4"/>
                                 <skill name="Area lore" score="4"/>
-                                <skill name="Heraldry" score="3"/>
+                                <skill name="Heraldry" score="2"/>
                                 <skill name="Religion (Thot)" score="4"/>
                             </group>
                 
                             <group name="Other" type="skills">
-                                <skill name="Etiquette" score="4"/>
+                                <skill name="Etiquette" score="3"/>
                                 <skill name="Politics" score="4"/>
                                 <skill name="Streetwise" score="2"/>
                             </group>
@@ -292,6 +299,13 @@
 
             <sect2>
                 <title>Rituals</title>
+                
+                <para>
+                    The following rituals and abilities are taught by the
+                    Cult of the Black Raven to its members. Unlike many
+                    other religions, teaching is unstructured, and the path
+                    of progression is flexible.
+                </para>
 
                 <advantages title="Rituals of Thot">
                     <advantage name="Signs of the Raven" type="technique">
@@ -339,6 +353,36 @@
                             </para>
                         </description>
                     </advantage>
+                    
+                    <advantage name="Flight of the Raven" type="technique">
+                        <cost points="4"/>
+                        <skill name="Religion (Thot)"/>
+                        
+                        <description>
+                            <para>
+                                When travelling on foot over large
+                                distances, a Black Raven may increase
+                                their travel speed by 10% per point of
+                                their Religion skill.
+                            </para>
+                        </description>
+                    </advantage>
+                    
+                    <advantage name="Eyes of the Hunter" type="technique">
+                        <cost points="4"/>
+                        <skill name="Religion (Thot)"/>
+                        
+                        <description>
+                            <para>
+                                Those blessed by the Raven God can see
+                                twice as far normal people, and have
+                                clarity of vision in darkness, giving them
+                                an effective +1 to Perception in dark
+                                conditions.
+                            </para>
+                        </description>
+                    </advantage>
+                        
                 </advantages>
                 
             </sect2>

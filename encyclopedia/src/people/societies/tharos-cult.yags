@@ -142,7 +142,7 @@
         </sect1>
         
         <sect1>
-            <title>Membership</title>
+            <title>Characters</title>
             
             <para>
                 Cultists are taught the following skills and techniques.
@@ -165,29 +165,110 @@
             </sect2>
             
             <sect2>
-                <title>Rituals</title>
+                <title>Packages</title>
                 
+                <characters role="package" title="Cult of Tharos">
+                
+                    <character name="Shadows of Tharos">
+                        <description>
+                            <short>
+                                A follower of Tharos, who practises the
+                                philosophy of Gebetan. Membership of this
+                                cult is forbiddon.
+                            </short>
+                            
+                            <background>
+                                <para>
+                                    Followers of Tharos seek perfection of
+                                    mind and body, training themselves in
+                                    the martial and physical arts to the
+                                    best of their ability.
+                                </para>
+                                
+                                <para>
+                                    To them, the individual self is what
+                                    matters. Acts which test their skill
+                                    are performed for their own sake. These
+                                    often take the form of assasination or
+                                    burglarly - acts which require stealth,
+                                    agility and martial skill.
+                                </para>
+                            </background>
+                        </description>
+                        
+                        <skills>
+                            <group name="Talents" type="talents">
+                                <skill name="Athletics" score="4"/>
+                                <skill name="Awareness" score="4"/>
+                                <skill name="Brawl" score="4"/>
+                                <skill name="Charm" score="2"/>
+                                <skill name="Guile" score="2"/>
+                                <skill name="Sleight" score="2"/>
+                                <skill name="Stealth" score="4"/>
+                                <skill name="Throw" score="2"/>
+                            </group>
+                
+                            <group name="Knowledges" type="knowledges">
+                                <skill name="Speak own" score="4"/>
+                                <skill name="Area lore" score="4"/>
+                                <skill name="Religion (Tharos)" score="4"/>
+                            </group>
+                            
+                            <group name="Combat" type="skills">
+                                <skill name="Single weapon" score="4"/>
+                            </group>
+                        </skills>
+                
+                        <equipment>
+                            <item name="Dark clothes"/>
+                            <item name="Long knife"/>
+                        </equipment>
+                    </character>
+                </characters>
+            </sect2>
+            
+            <sect2>
+                <title>Rituals</title>
+
                 <advantages>
                     <advantage name="Heightened Reflexes" type="technique">
                         <cost points="3"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Tharos)"/>
+
                         <prerequisite>Quickdraw</prerequisite>
-                        
+
                         <description>
                             <para>
                                 When using the defensive stance, those with
                                 <e>Heightened Reflexes</e> gain an automatic
-                                +1 bonus to agility and dexterity roles.
+                                +1 bonus to agility and dexterity roles in
+                                combat.
                             </para>
                         </description>
                     </advantage>
-                    
+
+                    <advantage name="Perfection of Body" type="technique">
+                        <cost points="5"/>
+                        <skill name="Religion (Tharos)"/>
+
+                        <prerequisite>Heightened Reflexes</prerequisite>
+
+                        <description>
+                            <para>
+                                An automatic technique which grants a +1
+                                bonus to agility for all athletic skill
+                                checks involving acrobatics.
+                            </para>
+                        </description>
+                    </advantage>
+
                     <advantage name="Lightning Reflexes" type="technique">
                         <cost points="9"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Tharos)"/>
+
                         <prerequisite>Heightened Reflexes</prerequisite>
                         <prerequisite>Whirlwind defence</prerequisite>
-                        
+
                         <description>
                             <para>
                                 If surprised or unaware of an attack, the
@@ -199,10 +280,11 @@
                             </para>
                         </description>
                     </advantage>
-                    
+
                     <advantage name="Beyond Limits" type="technique">
-                        <cost points="6"/>
-                        <skill name="Religion"/>
+                        <cost points="7"/>
+                        <skill name="Religion (Tharos)"/>
+
                         <prerequisite>Perfection of Body</prerequisite>
                         
                         <description>
@@ -217,17 +299,19 @@
                             </para>
                             
                             <para>
-                                At the end of the round, one level of short
-                                term fatigue is gained.
+                                At the end of the round, one level of
+                                fatigue is gained, which may be recovered
+                                normally as per combat fatigue.
                             </para>
                         </description>
                     </advantage>
-                    
+
                     <advantage name="No Limits" type="technique">
-                        <cost points="12"/>
-                        <skill name="Religion"/>
+                        <cost points="9"/>
+                        <skill name="Religion (Tharos)"/>
+
                         <prerequisite>Beyond Limits</prerequisite>
-                        
+
                         <description>
                             <para>
                                 As for <e>Beyond Limits</e>, but the cultist
@@ -250,7 +334,7 @@
                     
                     <advantage name="Cloak of Shadows" type="technique">
                         <cost points="4"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Tharos)"/>
                         
                         <description>
                             <para>
@@ -267,25 +351,13 @@
                             </para>
                         </description>
                     </advantage>
-                    
-                    <advantage name="Perfection of Body" type="technique">
-                        <cost points="6"/>
-                        <skill name="Religion"/>
-                        
-                        <description>
-                            <para>
-                                An automatic technique which grants a +1
-                                bonus to agility for all athletic skill
-                                checks.
-                            </para>
-                        </description>
-                    </advantage>
-                    
+
                     <advantage name="Face of Friendship" type="technique">
                         <cost points="9"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Tharos)"/>
+
                         <prerequisite>Cloak of Shadows</prerequisite>
-                        
+
                         <description>
                             <para>
                                 The cultist is able to disguise themselves
@@ -297,9 +369,10 @@
                     
                     <advantage name="Out of Sight" type="technique">
                         <cost points="15"/>
-                        <skill name="Religion"/>
+                        <skill name="Religion (Tharos)"/>
+
                         <prerequisite>Face of Friendship</prerequisite>
-                        
+
                         <description>
                             <para>
                                 A cultist who has mastered <e>Out of
