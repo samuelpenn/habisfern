@@ -1,37 +1,22 @@
 <?xml version="1.0"?>
 
 <topicsets>
-    <topicset name="Geography">
-        <topicset name="Country"/>
-        <topicset name="River"/>
-        <topicset name="Mountain"/>
-        <topicset name="Forest"/>
-        <topicset name="Sea"/>
-        <topicset name="Settlement">
-            <topicset name="Town"/>
-            <topicset name="Castle"/>
-            <topicset name="Village"/>
-        </topicset>
+    <topicset name="General">
+        <topic uri="all">All entries</topic>
     </topicset>
 
-    <topicset name="Religion">
-        <topicset name="Mythology"/>
-        <topicset name="God"/>
+    <topicset name="Topics by Region">
+        <topic uri="euressa">Euressa</topic>
+        <topic uri="taneith">Taneith</topic>
     </topicset>
 
-    <topicset name="People">
-        <topicset name="King"/>
-        <topicset name="Wizard"/>
-        <topicset name="Warrior"/>
-        <topicset name="Priest"/>
+    <topicset name="Topics by Campaign">
+        <topic uri="babisfern">Habisfern</topic>
     </topicset>
 
-    <topicset name="History">
-        <topicset name="Legend"/>
-        <topicset name="Battle"/>
+    <topicset name="Topics by Religion">
+        <topic uri="brytish-mythology">Brytish</topic>
+        <topic uri="rornic-mythology">Rornic</topic>
     </topicset>
-
-    <topicset name="Beast"/>
-
 </topicsets>
 
