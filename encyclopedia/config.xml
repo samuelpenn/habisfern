@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <configuration>
     <title>Encyclopedia of Habisfern</title>
+    <tagline>Habisfern</tagline>
 
     <templates>
         <template name="mainpage" path="templates/index.html"/>
@@ -8,6 +9,8 @@
     </templates>
 
     <stylesheets>
+        <stylesheet name="entry" 
+                    location="/usr/share/xml/yagsbook/xslt/html"/>
     </stylesheets>
 
     <categories>
