@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Makosh</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="makosh">Makosh</subject>
+
+            <category>Religion</category>
+            <topic uri="belogan-mythology">Belogan Mythology</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Makosh</title>
+
+            <para>
+                Makosh is <e>Fate</e>. She was created by <qv 
+                uri="beloga">Beloga</qv> so that she could 
+                provide <qv uri="svargi">Svargi</qv> with the <qv 
+                uri="belogan-wisdoms">Secret Wisdoms</qv> of the universe.
+            </para>
+
+            <para>
+                She sees everything, both past and future. The 
+                futures she sees though are many, for the future 
+                is not set in stone. She is more a force of 
+                nature than a god, but of all the forces, she is 
+                closest to the gods, who often consult her for 
+                advice on how to act.
+            </para>
+
+        </sect1>
+    </body>
+</article>

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Three Mothers</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="dalvi">Dalvi</see>
+            <see uri="ladma">Ladma</see>
+            <see uri="zharva">Zharva</see>
+        </references>
+
+        <topics>
+            <subject uri="three-mothers">Three Mothers</subject>
+
+            <category>Religion</category>
+            <topic uri="belogan-mythology">Belogan Mythology</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Three Mothers</title>
+
+            <para>
+                The <e>Three Mothers</e> are the three goddesses 
+                who were created by <qv uri="beloga">Beloga</qv> 
+                in order to create the world. They are the earth 
+                mothers, and their domain is the world and the 
+                living things within in.
+            </para>
+
+            <para>
+                The three goddesses are worshipped as a single 
+                entity, and there are no cults dedicated to an 
+                individual goddess.
+            </para>
+
+        </sect1>
+    </body>
+</article>

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Navok</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="navok">Navok</subject>
+
+            <category>Religion</category>
+            <topic uri="belogan-mythology">Belogan Mythology</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Navok</title>
+
+            <para>
+                Navok is another one of the Inhuman Gods, who are 
+                not descended from the <qv 
+                uri="three-mothers">Three Mothers</qv>. He is 
+                night and darkness, the unknown things in the 
+                world. He crept in during the <qv 
+                uri="belogan-great-winter">Great Winter</qv>, and 
+                sided with the gods against the <qv 
+                uri="ice>Ice</qv>. However, his loyalties are unknown.
+            </para>
+
+            <para>
+                He is considered to be a god of chaos and 
+                misdirection. As such, his cults tend to favour 
+                thieves and others who live outside the law. 
+                However, there is no standard teaching shared by 
+                his cults.
+            </para>
+
+        </sect1>
+    </body>
+</article>

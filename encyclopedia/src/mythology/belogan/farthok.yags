@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Farthok</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="farthok">Farthok</subject>
+
+            <category>Religion</category>
+            <topic uri="belogan-mythology">Belogan Mythology</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Farthok</title>
+
+            <para>
+                Farthok is the Dragon God, born as part of the 
+                world when it was created by the <qv 
+                uri="three-mothers">Three Mothers</qv>. He is 
+                alien and unpredictable, terrible in his power. 
+                However, he is not seen as a force for evil or 
+                destruction in the same way that <qv 
+                uri="koschrim">Koschrim</qv> is. Farthok can, to 
+                some extent, be understood. His power can be 
+                tapped. It is this power that the wizards use in 
+                order to power their magic. As such, Farthok is 
+                also the god of magic.
+            </para>
+
+        </sect1>
+    </body>
+</article>
