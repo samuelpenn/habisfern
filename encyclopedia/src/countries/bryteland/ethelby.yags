@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license>
-            <year>2002</year>
+            <year>2003</year>
             <holder>Samuel Penn</holder>
             <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
             <text>
@@ -43,6 +43,7 @@
 
             <category>Town</category>
 
+            <topic uri="harholt">Harholt</topic>
             <topic uri="bryteland">Bryteland</topic>
             <topic uri="euressa">Euressa</topic>
             <topic uri="habisfern">Habisfern</topic>
@@ -54,9 +55,39 @@
             <title>Ethelby</title>
 
             <para>
-                A town in Bryteland with a population of about 3000. It is
-                the royal seat of Ethelred Haraldson.
+                Ethelby is the royal seat of the King of Harholt, in
+                Bryteland. It has a population of about 3000, and
+                straddles the <e>Sonova</e> river. Trade between
+                Ethelby and <see uri="novborg">Novborg</see> is quite
+                common, most of it being done with barges up and down
+                the river.
             </para>
+
+            <para>
+                The town has two parts - the inner fort, which includes a
+                stone keep, and the outer town. About two hundred people
+                live within the inner fort, with the rest in the outer
+                town.
+            </para>
+
+            <sect2>
+                <title>Politics</title>
+
+                <para>
+                    Ethelred Haraldson rules here.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Military</title>
+
+                <para>
+                    There are twenty huscarls guarding the fort on a
+                    permanent basis, and another forty skilled warriors
+                    in the town who can be called on to provide arms in
+                    times of trouble.
+                </para>
+            </sect2>
         </sect1>
 
     </body>
