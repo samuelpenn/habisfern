@@ -66,6 +66,196 @@
                 passion of hunting and raiding whilst with him. 
             </para>
 
+            <character name="Harald Nahafuth">
+                <description>
+                    <age>21</age>
+                    <gender>Male</gender>
+                    <short>
+                        Fair haired, well built man with a fiery temper.
+                    </short>
+                    
+                    <detail units="metric">
+                        <height>190</height>
+                        <weight>95</weight>
+                        <hair>blond</hair>
+                    </detail>
+                    
+                    <physical>
+                        <para>
+                            A tall, good looking man with long blond hair and
+                            blue eyes. He spends much of his time outdoors,
+                            hunting and fighting, and has the rugged look.
+                            He does take care to ensure he is clean.
+                        </para>
+                    </physical>
+                    
+                    <background>
+                        <para>
+                            King of Nethvollr, and the youngest King of
+                            the Brytish Kingdoms.
+                        </para>
+                    </background>
+                </description>
+                
+                <statistics xmlns="http://yagsbook.sourceforge.net/xslt/yags">
+                    <attributes size="5" soak="12" luck="4">
+                        <attribute name="strength" score="5"/>
+                        <attribute name="stamina" score="4"/>
+                        <attribute name="agility" score="3"/>
+                        <attribute name="dexterity" score="5"/>
+                        <attribute name="perception" score="3"/>
+                        <attribute name="intelligence" score="3"/>
+                        <attribute name="charisma" score="5"/>
+                        <attribute name="will" score="5"/>
+                    </attributes>
+                    
+                    <passions>
+                        <passion name="Bravery" score="8"/>
+                        <passion name="Ego" score="5"/>
+                        <passion name="Restraint" score="2"/>
+                        <passion name="Temperence" score="3"/>
+                    </passions>
+                    
+                    <skills>
+                        <group name="Talents" type="talents">
+                            <skill name="Athletics" score="4"/>
+                            <skill name="Awareness" score="5"/>
+                            <skill name="Brawl" score="7"/>
+                            <skill name="Charm" score="6"/>
+                            <skill name="Guile" score="4"/>
+                            <skill name="Sleight" score="2"/>
+                            <skill name="Stealth" score="5"/>
+                            <skill name="Throw" score="5"/>
+                        </group>
+                        
+                        <group name="Knowledges" type="knowledges">
+                            <skill name="Speak Brytish" score="4"/>
+                            <skill name="Speak Rornic" score="2"/>
+                            <skill name="Area lore (Bryteland)" score="5"/>
+                            <skill name="Law" score="2"/>
+                        </group>
+                        
+                        <group name="Social" type="skills">
+                            <skill name="Politics" score="2"/>
+                            <skill name="Etiquette" score="2"/>
+                            <skill name="Intimidation" score="5"/>
+                        </group>
+                        
+                        <group name="Combat" type="skills">
+                            <skill name="Battle" score="4"/>
+                            <skill name="Weapon and shield" score="8"/>
+                            <skill name="Great weapon" score="5"/>
+                            <skill name="Single weapon" score="6"/>
+                            <skill name="Two weapons" score="4"/>
+                            <skill name="Longshaft weapon" score="4"/>
+                        </group>
+                        
+                        <group name="Other" type="skills">
+                            <skill name="Ride" score="4"/>
+                            <skill name="Hunting" score="5"/>
+                            <skill name="Falconry" score="3"/>
+                            <skill name="Survival" score="3"/>
+                        </group>
+                    </skills>
+                    
+                    <combat>
+                        <combatstyle style="Brawl" skill="Brawl">
+                            <primary>Fist</primary>
+                            <initiative attribute="agility">+0</initiative>
+                            <attack attribute="agility">+0</attack>
+                            <defence attribute="agility">+0</defence>
+                            <damage type="stun">+0</damage>
+                        </combatstyle>
+                        
+                        <combatstyle style="Broadsword and shield" skill="Weapon and shield">
+                            <primary>Broad sword</primary>
+                            <shield>Round shield</shield>
+                            <initiative attribute="agility"/>
+                            <attack/>
+                            <defence/>
+                            <damage/>
+                        </combatstyle>
+                        
+                        <armourstyle style="Hunting">
+                            <armour name="Soft leather jacket"/>
+                            <armour name="Soft leather trousers"/>
+                            <armour name="Mail habergeon"/>
+                        </armourstyle>
+                        
+                        <armourstyle style="Ready for war">
+                            <armour name="Mail hauberk"/>
+                            <armour name="Mail leggings"/>
+                            <armour name="Soft leather jacket"/>
+                            <armour name="Soft leather trousers"/>
+                            <armour name="Metal helm"/>
+                        </armourstyle>
+                    </combat>
+                    
+                    <equipment>
+                        <item name="Sword">
+                        </item>
+                    </equipment>
+                </statistics>
+
+                <statistics xmlns="http://yagsbook.sourceforge.net/xslt/d20">
+                    <classes xp="80000" level="13">
+                        <class name="fighter" level="5"/>
+                        <class name="barbarian" level="8"/>
+                    </classes>
+                    
+                    <attributes>
+                        <attribute name="strength" score="22"/>
+                        <attribute name="constitution" score="19"/>
+                        <attribute name="dexterity" score="16"/>
+                        <attribute name="intelligence" score="12"/>
+                        <attribute name="wisdom" score="8"/>
+                        <attribute name="charisma" score="17"/>
+                    </attributes>
+                    
+                    <misc>
+                        <hitpoints>120</hitpoints>
+                        <armourclass>13</armourclass>
+                    </misc>
+                    
+                    <feats>
+                        <feat>Dodge</feat>
+                        <feat>Cleave</feat>
+                    </feats>
+                </statistics>
+            </character>
+            
+            <weapon name="Lifesinger">
+                <category>Swords</category>
+                <importance>3</importance>
+                <class>single</class>
+    
+                <description>
+                    <para>
+                        A broad sword, marked with runes.
+                    </para>
+                </description>
+    
+                <combat>
+                    <initiative>+5</initiative>
+                    <attack>+7</attack>
+                    <defence>+5</defence>
+                    <damage>+14</damage>
+                </combat>
+    
+                <strength>3</strength>
+                <load>4</load>
+                <reach>3</reach>
+                
+                <properties>
+                    <exceptional/>
+                    <rune name="True blow" value="2"/>
+                    <rune name="Bite" value="2"/>
+                    <rune name="Glimmer"/>
+                    <rune name="Sharpness"/>
+                    <rune name="Spirit"/>
+                    <rune name="Binding" value="1"/>
+                </properties>
+            </weapon>
         </sect1>
     </body>
 </article>
