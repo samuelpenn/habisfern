@@ -38,10 +38,10 @@
         <topics>
             <subject uri="ranistan">Ranistan</subject>
 
-            <category>None</category>
+            <category>Kingdom</category>
             <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
             <topic uri="ranistan">Ranistan</topic>
-            <topic uri="eu">ressa Euressa</topic>
+            <topic uri="euressa">Euressa</topic>
         </topics>
     </header>
 
@@ -50,10 +50,15 @@
             <title>Ranistan</title>
 
             <para>
-                Ranistanis a Kingdom in central eastern Euressa, 
-                bordering on the White Spine Mountains.
+                Ranistanis a Kingdom in eastern Euressa. Its northern border
+                is defined by the Minsky Hills. The rest of the land
+                consists of low hills and thick woods.
             </para>
 
+            <para>
+                The principle religion is that of the Fire God
+                <qv uri="habrog">Habrog</qv>.
+            </para>
         </sect1>
     </body>
 </article>
