@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Pel</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>The Perfect God</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+            <partof>daegian</partof>
+        </references>
+
+        <topics>
+            <topic>God</topic>
+            <topic>Religion</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Pel, the Perfect God</title>
+
+            <para>
+                Pel was created by Haltan and Reas, and in attempt to craft
+                the most perfect person in order to win the secrets of
+                weapon making from the Giant god Brokki. Pel is beautiful,
+                being physically perfect in all ways. However, he is
+                somewhat shallow of personality, and very vain.
+            </para>
+
+
+            <sect2>
+                <title>Interests and Worshippers</title>
+
+                <para>
+                    Pel is the god of perfection - both physcial and mental.
+                </para>
+
+                <para>
+                    Many craftsmen pay their respects to him, especially
+                    those seeking perfection in their work.
+                </para>
+            </sect2>
+
+
+        </sect1>
+
+    </body>
+
+</article>
+

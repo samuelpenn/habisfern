@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Thot</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>The Raven God</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+            <partof>daegian</partof>
+        </references>
+
+        <topics>
+            <topic>God</topic>
+            <topic>Religion</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Thot, the Raven</title>
+
+            <para>
+                Created at the dawn of the world, Thot is often the
+                messenger of <qv uri="haltan">Haltan</qv>. Thot sees
+                and hears everything in the world, and spent the Dawn
+                in the skies above the new creation.
+            </para>
+
+            <sect2>
+                <title>Interests and Worshippers</title>
+
+                <para>
+                    Thot is a messenger, but also a spy and god of
+                    mischief. He has the ability to make things easier
+                    for everyone, but often witholds important information
+                    whilst seeming to be helping freely.
+                </para>
+
+                <para>
+                    Thot is taken as patron by scouts, some Bards, and
+                    sometimes those who work in service of a lord, in honour
+                    of Thot's position as a messenger of Haltan.
+                </para>
+            </sect2>
+        </sect1>
+
+    </body>
+
+</article>
+

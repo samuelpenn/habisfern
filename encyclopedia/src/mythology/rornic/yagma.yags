@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Yagma</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Earth Mother</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+            <partof>daegian</partof>
+        </references>
+
+        <topics>
+            <topic>God</topic>
+            <topic>Religion</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Yagma, Earth Mother</title>
+
+            <para>
+                Yagma and <qv uri="rim">Rim</qv> are the creators of the
+                world, born out of the dreams of <qv uri="iss">Iss</qv>
+                before the dawn of time. She symbolises the wheel of life,
+                from conception, though birth and life, to death.
+            </para>
+
+            <sect2>
+                <title>Interests and Worshippers</title>
+
+                <para>
+                    Yagma is the goddess of life and death. Impassionate
+                    and uncaring, she creates all, but also destroys it.
+                    She is the cycle of nature, of survival, life, and
+                    ultimately the end of things.
+                </para>
+
+                <para>
+                    Yagma is worshipped by peasants and farmers as a
+                    fertility goddess.
+                </para>
+            </sect2>
+        </sect1>
+
+    </body>
+
+</article>
+

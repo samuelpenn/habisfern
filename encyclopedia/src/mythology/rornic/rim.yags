@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Rim</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>God of the Dead</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+            <partof>daegian</partof>
+        </references>
+
+        <topics>
+            <topic>God</topic>
+            <topic>Religion</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Rim, God of the Dead</title>
+
+            <para>
+                Rim was created out of the dreams of <qv uri="iss">Iss</qv>
+                before the beginning of time, along with his sister
+                <qv uri="yagma">Yagma</qv>.
+            </para>
+
+
+            <sect2>
+                <title>Interests and Worshippers</title>
+
+                <para>
+                    Rim is guardian of the souls of the dead. He gathers the
+                    souls to him in the deep realms of the underworld, and
+                    guides the souls on to their reincarnation when they are
+                    ready.
+                </para>
+                
+                <para>
+                    No one worships Rim, but all ask for his aid to help
+                    loved ones find their way in the afterworld.
+                </para>
+            </sect2>
+
+
+        </sect1>
+
+    </body>
+
+</article>
+

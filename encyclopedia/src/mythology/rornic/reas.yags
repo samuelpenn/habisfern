@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Reas</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>God of Craftsmen and Artists</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+            <partof>daegian</partof>
+        </references>
+
+        <topics>
+            <topic>God</topic>
+            <topic>Religion</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Reas, the Craftsman</title>
+
+            <para>
+                Reas is the crafter, who creates beauty out of everything
+                around him. He is a crafter of words as well as wood and
+                metal.
+            </para>
+
+
+            <sect2>
+                <title>Interests and Worshippers</title>
+
+                <para>
+                    Anyone who makes things does so with the skills passed
+                    on by Reas. Bards, smiths and other craftsmen all pay
+                    supplication to Reas at some point.
+                </para>
+            </sect2>
+
+
+        </sect1>
+
+    </body>
+
+</article>
+

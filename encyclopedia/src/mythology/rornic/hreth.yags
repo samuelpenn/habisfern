@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Hreth</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Winter's Cloak</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+            <partof>daegian</partof>
+        </references>
+
+        <topics>
+            <topic>God</topic>
+            <topic>Religion</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Hreth, Winter's Cloak</title>
+
+            <para>
+                She is the goddess of winter, the cold wind and the
+                bringer of snow. Generally considered to be too close to
+                the <qv uri="ice">Ice</qv> to be friendly, she is called
+                upon more to keep her away than anything. Her form is said
+                to be that of a great winged beast who can cover the world
+                with her snowy wings.
+            </para>
+
+            <sect2>
+                <title>Interests and Worshippers</title>
+
+                <para>
+                    Hreth is the goddess of Winter. She is the closest to
+                    the Ice of any of the gods.
+                </para>
+
+                <para>
+                    No-one chooses Hreth as a patron openly, though a
+                    sacrifice is always made to her on the shortest day
+                    of winter, in the hope that she will take the
+                    sacrifice and give up her rule of the land.
+                </para>
+            </sect2>
+        </sect1>
+
+    </body>
+
+</article>
+
