@@ -33,7 +33,7 @@
         <style name="module"/>
 
         <references>
-            <see uri="teal-river">Teal River</subject>
+            <see uri="teal-river">Teal River</see>
         </references>
 
         <topics>
