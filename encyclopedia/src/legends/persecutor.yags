@@ -75,6 +75,68 @@
                 been held by the House of Aeddan ever since, being seen as
                 a minor holy item.
             </para>
+
+            <sect2>
+                <title>Runes</title>
+
+                <para>
+                    The items crafted by Caradoc are marked with runes
+                    of virtue, as known by the secret arts of the mage
+                    smiths. The runes are shown below.
+                </para>
+
+                <sect3>
+                    <title>Persecutor (Leodhata)</title>
+
+                    <imageblock>
+                        <image uri="rune-damage" text="Bite rune"/>
+                        <image uri="rune-light" text="Glimmer rune"/>
+                        <image uri="rune-sharpness" text="Sharpness rune"/>
+                        <image uri="rune-man" text="Man rune"/>
+                        <image uri="rune-soak" text="Bear rune"/>
+                        <image uri="rune-link1" text="Link rune"/>
+                        <image uri="rune-man" text="Man rune"/>
+                        <image uri="rune-agility" text="Panther rune"/>
+                        <image uri="rune-link1" text="Link rune"/>
+                    </imageblock>
+                </sect3>
+
+                <sect3>
+                    <title>Helm of Leodhata</title>
+
+                    <imageblock>
+                        <image uri="rune-man" text="Man rune"/>
+                        <image uri="rune-agility" text="Panther rune"/>
+                        <image uri="rune-link1" text="Link rune"/>
+                    </imageblock>
+                </sect3>
+
+                <sect3>
+                    <title>Shield of Leodhata</title>
+
+                    <imageblock>
+                        <image uri="rune-defence" text="Blade turn"/>
+                        <image uri="rune-man" text="Man rune"/>
+                        <image uri="rune-dexterity" text="Serpent rune"/>
+                        <image uri="rune-link1" text="Link rune"/>
+                    </imageblock>
+                </sect3>
+
+                <sect3>
+                    <title>Cloak of Leodhata</title>
+
+                    <imageblock>
+                        <image uri="rune-sharpness" text="Sharpness rune"/>
+                        <image uri="rune-light" text="Glimmer rune"/>
+                        <image uri="rune-man" text="Man rune"/>
+                        <image uri="rune-soak" text="Bear rune"/>
+                        <image uri="rune-link1" text="Link rune"/>
+                        <image uri="rune-man" text="Man rune"/>
+                        <image uri="rune-dexterity" text="Serpent rune"/>
+                        <image uri="rune-link1" text="Link rune"/>
+                    </imageblock>
+                </sect3>
+            </sect2>
         </sect1>
 
     </body>

@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Halgorn the Necromancer</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <references>
+            <see uri="rorns-vale">Rorn's Vale</see>
+            <see uri="rims-truth">Rim's Truth</see>
+        </references>
+
+        <topics>
+            <subject uri="halgorn-necromancer">Halgorn the Necromancer</subject>
+
+            <category>Wizards</category>
+
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="northwood-shire">Northwood Shire</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Halgorn the Necromancer</title>
+
+            <para>
+                Halgorn the Necromancer was a warrior-wizard, and nephew
+                to Cerodorn the Butcher. He lived as a mercenary who
+                earnt a reputation as a fearless adversery. His fortunes
+                took a turn for the worst however after he took service
+                with the thegn Renbric of Rorn's Vale during a blood feud
+                with one of Renbric's neighbours.
+            </para>
+
+            <para>
+                When the work was done, Renbric refused to pay him, since
+                he was not a true warrior, and therefore not worthy of any
+                payment. An argument ensued, and Renbric was slain.
+            </para>
+
+            <para>
+                Halgorn went on the run, only to return when he was promised
+                a fair trial which would favour  him. Not trusted, Halgorn
+                was immediately imprisoned and sentenced to death. He
+                escaped however, and sought vengeance against the family.
+            </para>
+
+            <para>
+                Raising an army of the dead, Halgorn layed waste to the
+                family's lands, but was defeated by Renbric's son, Guthred.
+                Halgorn agained escaped and later returned to finish the
+                job by stealth, murdering the family in their beds. The
+                bodies of Guthred and his younger sister were never found,
+                and Halgorn was not seen again.
+            </para>
+
+            <para>
+                Halgorn was said to be the bearer of the rune sword
+                <qv uri="rims-truth">Rim's Truth</qv>, and it vanished
+                when he disappeared.
+            </para>
+        </sect1>
+    </body>
+</article>

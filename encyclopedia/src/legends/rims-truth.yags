@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Rim's Truth</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>A rune sword</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <references>
+            <see uri="rune-magic">Rune Magic</see>
+        </references>
+
+        <topics>
+            <subject uri="rims-truth">Rim's Truth</subject>
+
+            <category>Swords</category>
+
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Rim's Truth</title>
+
+            <para>
+                The set of items which include the sword <e>Rim's Truth</e>
+                were made by the magesmith <qv uri="dwynen-of-aiden">
+                Dwynen of Aiden</qv>, about 100 years ago. She was a famous
+                female warrior-smith, who made many items of virtue.
+            </para>
+
+            <para>
+                The last person to hold all three items was Cerodorn the
+                Butcher, a warrior thegn who lived in Northwood during the
+                previous century. He was an infamous warrior, noted for his
+                refusal to ever accept a surrender. The shield,
+                <e>Strong Arm</e>, was lost in the <qv uri="troll-watch">
+                Troll Watch</qv> while Cerodorn was hunting trolls. It has
+                not been seen since, and it is believed destroyed.
+            </para>
+
+            <para>
+                On Cerodorn's death, the hauberk <e>Blade Turn</e> was
+                passed to his son, Cadwallon, and the sword passed to his
+                nephew, the necromancer-warrior
+                <qv uri="halgorn-necromancer">Halgorn</qv>. Of Cadwallon,
+                there is little to say. He died a peaceful death, and the
+                armour went to his son Madog, who is currently Ealdorman at
+                <qv uri="abbyton">Abbyton</qv>, of the
+                <qv uri="erwin-house">House of Erwin</qv>.
+            </para>
+
+
+            <sect2>
+                <title>Runes</title>
+
+                <para>
+                    As with other items of virtue, these are adorned with
+                    runes which mark their enchantments.
+                </para>
+
+                <sect3>
+                    <title>Rim's Truth</title>
+
+                    <imageblock>
+                        <image uri="rune-darkness" text="Shadow rune"/>
+                        <image uri="rune-man" text="Man rune"/>
+                        <image uri="rune-man" text="Man rune"/>
+                        <image uri="rune-link1" text="Link rune"/>
+                        <image uri="rune-man" text="Man rune"/>
+                        <image uri="rune-soak" text="Bear rune"/>
+                        <image uri="rune-link2" text="Link rune"/>
+                    </imageblock>
+
+                    <para>
+                        Believed lost when Halgorn the Necromancer went into
+                        hiding, it has been recently been found by a
+                        warrior-bard, Hengest.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Blade Turn</title>
+
+                    <imageblock>
+                        <image uri="rune-man" text="Man rune"/>
+                        <image uri="rune-man" text="Man rune"/>
+                        <image uri="rune-link1" text="Link rune"/>
+                        <image uri="rune-soak" text="Absorbtion rune"/>
+                        <image uri="rune-link1" text="Link rune"/>
+                    </imageblock>
+
+                    <para>
+                        Currently it is though to be held by Madog of
+                        Abbyton, though it has not been seen for many years,
+                        so it may have been passed on, or lost.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Strong Arm</title>
+
+                    <imageblock>
+                        <image uri="rune-man" text="Man rune"/>
+                        <image uri="rune-soak" text="Absorbtion rune"/>
+                        <image uri="rune-link2" text="Link rune"/>
+                        <image uri="rune-defence" text="Defence rune"/>
+                    </imageblock>
+
+                    <para>
+                        Believed to have been lost to trolls in the Troll
+                        Watch by Cerodorn the Butcher.
+                    </para>
+                </sect3>
+            </sect2>
+        </sect1>
+
+    </body>
+
+</article>

@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Silver Tongue and Heart</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>A sword and shield of virtue</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <references>
+            <see uri="rune-magic">Rune Magic</see>
+        </references>
+
+        <topics>
+            <subject uri="silvertongue">Silver Tongue</subject>
+
+            <category>Swords</category>
+
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Silver Tongue and Silver Heart</title>
+
+            <para>
+                A set of rune items consisting of a sword and shield, forged
+                by the Magesmith Gern of Teal in 1182, for
+                <qv uri="renbric-slayer">Renbric, Slayer of the White
+                Wyrm</qv>. When they were first made, a scabbard set with
+                jewels was included, though this was not known to have any
+                special properties. It has since been lost.
+            </para>
+
+            <para>
+                Renbric was slain by the <qv uri="halgorn-necromancer">
+                Necromancer Halgorn</qv> at Rorn's Value. Halgorn was
+                in the employ of Renbric, but he betrayed him, and stole
+                his money. Later, he returned with an  undead army in order
+                to wipe out evidence of his crimes. Halgorn was initially
+                defeated by Renbric's son, Guthred, but later the entire
+                family was murdered, and the bodies of Guthred and his
+                sister Gute were stolen.
+            </para>
+
+            <sect2>
+                <title>Runes</title>
+
+                <para>
+                    As with other items of virtue, these are adorned with
+                    runes which mark their enchantments.
+                </para>
+
+                <sect3>
+                    <title>Silver Tongue</title>
+
+                    <imageblock>
+                        <image uri="rune-light" text="Glimmer rune"/>
+                        <image uri="rune-sharpness" text="Sharpness rune"/>
+                        <image uri="rune-speed" text="Speed rune"/>
+                        <image uri="rune-link1" text="Link rune"/>
+                    </imageblock>
+
+                    <para>
+                        The sword was lost at the Battle of the Rorn's
+                        Vale, but was later found to have fallen into the
+                        river, and was picked up  by a warrior in the area
+                        some years later.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Silver Heart</title>
+
+                    <imageblock>
+                        <image uri="rune-light" text="Glimmer rune"/>
+                        <image uri="rune-defence" text="Defence rune"/>
+                        <image uri="rune-speed" text="Speed rune"/>
+                        <image uri="rune-link1" text="Link rune"/>
+                    </imageblock>
+
+                    <para>
+                        This was taken with the body of Guthred, and is
+                        assumed lost.
+                    </para>
+                </sect3>
+
+            </sect2>
+        </sect1>
+
+    </body>
+
+</article>
