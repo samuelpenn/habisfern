@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Cadwold</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="cadwold">Cadwold</subject>
+
+            <category>Kingdom</category>
+
+            <topic uri="cadwold">Cadwold</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Cadwold</title>
+
+            <para>
+                A small county bordering on Weidany, it is 
+                currently at war with that kingdom.
+            </para>
+
+            <para>
+                Cadwold is made up of many small clan holdings, 
+                each fiercely independent and territorial.
+            </para>
+
+            <para>
+                Until recently Cadwold was part of Danuch, until 
+                they claimed independence from the Druids in a 
+                short but bloody war.
+            </para>
+
+            <para>
+                The Druids still have an interest in Cadwold, and 
+                the current war with Weidany is giving them a 
+                chance to offer support to various clans. The 
+                clans are finding themselves stuck between a rock 
+                and a hard place, with two powerful neighbours 
+                both of whom want their territory.
+            </para>
+
+            <para>
+                One reason for their current ability to stave off 
+                conquest is the Waezgerat - a group of organised 
+                and powerful wizards based in Cadwold.
+            </para>
+
+            <para>
+                Without a single leader to coordinate defence 
+                however, resistence is patchy at best. Cadwold 
+                does not currently have a king, though a number 
+                of clan heads are vying for the title.
+            </para>
+
+            <para>
+                There is expected to be a grand Tribunal of the 
+                clans later in the year at the King' s Stone, in 
+                order to decide this.
+            </para>
+
+        </sect1>
+    </body>
+</article>

@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Cancha</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="cancha">Cancha</subject>
+
+            <category>Kingdom</category>
+
+            <topic uri="cancha">Cancha</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Cancha</title>
+
+            <para>
+                Compared to the other nations along the 
+                northwestern coast of Euressa, Cancha is stable 
+                and civilised. It is at war with no neighbours, 
+                and its major activity is trade.
+            </para>
+
+            <para>
+                A lot of the trade between Taneith and the 
+                mainland kingdoms passes through Cancha. It's 
+                lands are fertile and heavily populated, with a 
+                long line of strong kings who have managed to 
+                keep the status quo.
+            </para>
+
+            <para>
+                The current King is Malcolm IV, a tireless man in 
+                his forties whose main interest is the juggling 
+                of trade deals between the various factions.
+            </para>
+
+            <para>
+                Class structure in Cancha is very rigidly 
+                defined, with a developing bureacracy to keep 
+                everything in check.
+            </para>
+
+        </sect1>
+    </body>
+</article>

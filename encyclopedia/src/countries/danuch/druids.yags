@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Druids</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="druids">Druids</subject>
+
+            <category>Priests</category>
+
+            <topic uri="danuch">Danuch</topic>
+            <topic uri="cadwold">Cadwold</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Druids</title>
+
+            <para>
+                Druids are the priesthood of the old Weidanic 
+                culture that existed in Weidany before the Rornic 
+                migrations. They are still the central authority 
+                in Danuch, and exist to some extent in Cadwold, 
+                but are otherwise extinct.
+            </para>
+
+            <para>
+                The Druids worship the earth goddess Yammath, who 
+                symbolises the life/death cycle of nature, though 
+                with a greater focus on the death aspect.
+            </para>
+
+            <para>
+                During the wars with the people of Rorn, the 
+                Druids also turned to worship of the Elders as a 
+                source of power. This painted them as allies of 
+                the Ice in the eyes of the Rornic invaders, and 
+                so the Druids were brutally exterminated whenever 
+                they were found.
+            </para>
+
+        </sect1>
+    </body>
+</article>
