@@ -1,3 +1,55 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Kingdom of Talmoth</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="talmoth-shire">Talmoth Shire</subject>
+
+            <category>Kingdom</category>
+            <topic uri="talmoth-shire">Talmoth Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Kingdom of Talmoth</title>
+            
             <para>
                 The Kingdom of Talmoth was one of the precursor kingdoms 
                 that existed before Weidany had been united under a 
@@ -13,7 +65,6 @@
                 the original tribes was absorbed into the Rornic culutre 
                 that replaced it after the conquests.
             </para>
-
         </sect1>
     </body>
 </article>
