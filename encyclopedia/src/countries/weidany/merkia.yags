@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Merkia</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Old barbarian nation</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="merkia-shire">Shire of Merkia</see>
+        </references>
+
+        <topics>
+            <subject uri="merkia">Merkia</subject>
+
+            <category>Country</category>
+
+            <topic uri="merkia">Merkia</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Merkia</title>
+
+            <para>
+                Until 1057, the coastal region between the Kingdom of
+                Westland and the Brytish Kingdoms was called Merkia. Heavily
+                forested, it was believed to be lightly populated by warlike
+                tribes led by wizards.
+            </para>
+
+            <para>
+                In 1034, the Merkia tribes began a series of invasions into
+                the Kingdom of the Rornish People (later to be named the
+                <qv uri="weidany">Kingdom of Weidany</qv>) seemingly aimed
+                at claiming and holding land. Previous border skirmishes had
+                been no more than short term cattle raids. Now, thousands of
+                warriors swarm across the borders, overwhelming any that
+                stand in their path.
+            </para>
+
+            <para>
+                It is the greatest threat to the new Kingdom since its
+                inception. However, though much territory is intially lost,
+                the discipline and greater organisation of the Kingdom's
+                armies eventuall turns the tied, and in 1057, a truce is
+                signed wherein the country of Merkia becomes part of the
+                Kingdom. It is split into two shires - that of
+                <qv uri="merkia-shire">Merkia</qv> and
+                <qv uri="northwood-shire">Northwood</qv>.
+            </para>
+
+            <para>
+                In the years that follow, explorations into these lands find
+                a region which is sparsely populated. Many empty villages
+                are discovered, though all show signs of having been
+                abandoned for several decades. Of the barbarian hordes which
+                had returned to their homelands after the ending of the war,
+                there is no sign.
+            </para>
+
+            <sect2>
+                <title>The Priests of Ashek</title>
+
+                <para>
+                    Little was known of Merkia before the Merkian War. Those
+                    who travelled into its lands rarely returned. They were
+                    considered to be magical forests populated by all manner
+                    of fell beasts.
+                </para>
+
+                <para>
+                    Sometime around the early 11th century, rumours started
+                    to come out of the region of a new power which was
+                    arising there, something which was capable of uniting
+                    the many warrior tribes. The name of this new power was
+                    <qv uri="ashek">Ashek</qv>, said to be the Mad God.
+                </para>
+
+                <para>
+                    It was the priests of Ashek which led the war against
+                    Weidany, and it was they who agreed to the truce which
+                    ended it. After the war, a few temples to this mad
+                    god were built within the Kingdom. Within Merkia, his
+                    priests ruled the people, but none were of the power
+                    that were witnessed at the time of the war, when
+                    legions of undead were called up to fight along side
+                    the barbarians, and the elements themselves were
+                    harnessed as weapons of war.
+                </para>
+
+                <para>
+                    It was said that the war between the two nations was
+                    lost by Weidany, that the Kingdom lost the final battle
+                    and that Queen Aelflaed agreed to the request to discuss
+                    surrender terms expecting it to be for her surrender.
+                    This story is generally denied however, and tales of
+                    great victories against insurmountable odds were common
+                    shortly after the war.
+                </para>
+
+                <para>
+                    Of the powerful Priests of Ashek however, nothing was
+                    seen of them after the war. Both the war wizards, and
+                    their hordes of warriors seemingly vanished without a
+                    trace.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+
+</article>
