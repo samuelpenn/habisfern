@@ -24,7 +24,7 @@
             <text>
                 Permission is granted to copy, distribute and/or
                 modify this document under the terms of the GNU
-                Free Documentation License, Version 1.1 with no 
+                Free Documentation License, Version 1.1 with no
                 invariant sections, with no
                 Front-Cover Texts, and with no Back-Cover Texts.
                 A copy of the license is included in the section
@@ -73,7 +73,7 @@
                 </para>
 
                 <characters role="stock" title="Brytish Warriors">
-                    <character name="Freeholder" quality="2">
+                    <character name="Bondir" quality="2">
                         <description>
                             <race>Human</race>
                             <age>30</age>
@@ -117,7 +117,7 @@
                                 <group name="Languages" type="languages" >
                                     <skill name="Speak Brytish" score="4"/>
                                 </group>
- 
+
                                 <group name="Knowledges" type="skills" >
                                     <skill name="Area lore (Bryteland)" score="4"/>
                                 </group>
@@ -136,6 +136,8 @@
                                     <skill name="Bow" score="3"/>
                                 </group>
                             </skills>
+
+                            <advantages/>
 
                             <combat href="/usr/share/xml/yags/core/arms.yags">
                                 <combatstyle style="Dagger" skill="Brawl">
@@ -171,12 +173,36 @@
                                 </armourstyle>
                             </combat>
                         </statistics>
+
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/warhammer">
+                            <attributes unit="Bondi" points="6">
+                                <attribute name="m" score="4"/>
+                                <attribute name="ws" score="3"/>
+                                <attribute name="bs" score="3"/>
+                                <attribute name="s" score="3"/>
+                                <attribute name="t" score="3"/>
+                                <attribute name="w" score="1"/>
+                                <attribute name="i" score="3"/>
+                                <attribute name="a" score="1"/>
+                                <attribute name="ld" score="6"/>
+                            </attributes>
+
+                            <special>
+                                Bow armed Bondir count as Light Infantry.
+                            </special>
+
+                            <equipment>
+                                <item name="Throwing spear"/>
+                                <item name="Sword"/>
+                                <item name="Shield"/>
+                            </equipment>
+                        </statistics>
                     </character>
 
-                    <character name="Thrall spearman" quality="2">
+                    <character name="Thrall spearman">
                         <description>
                             <race>Human</race>
-                            <age>20</age>
+                            <age>30</age>
                             <short>
                                 Poorly trained, and poorly equipped, thralls are
                                 only ever called upon to fight when things are
@@ -223,127 +249,246 @@
                                     <skill name="Area lore (Bryteland)" score="4"/>
                                 </group>
 
-	                        <group name="Profession" type="skills">
-	                            <skill name="Farm" score="2"/>
-	                        </group>
+                                <group name="Profession" type="skills">
+                                    <skill name="Farm" score="2"/>
+                                </group>
 
-	                        <group name="Combat" type="skills" >
-	                            <skill name="Longshaft weapon" score="1"/>
-	                        </group>
-	                    </skills>
+                                <group name="Combat" type="skills" >
+                                    <skill name="Longshaft weapon" score="1"/>
+                                </group>
+                            </skills>
 
-	                    <combat>
-	                        <combatstyle style="Dagger" skill="Brawl">
-	                            <primary>Dagger</primary>
-	                            <initiative attribute="agility"/>
-	                            <attack attribute="agility"/>
-	                            <defence attribute="agility"/>
-	                            <damage type="wound"/>
-	                        </combatstyle>
-	
-	                        <combatstyle style="Spear" skill="Longshaft weapon">
-	                            <primary>Spear</primary>
-	                            <initiative attribute="agility"/>
-	                            <attack attribute="dexterity"/>
-	                            <defence attribute="dexterity"/>
-	                            <damage type="wound"/>
-	                        </combatstyle>
+                            <advantages/>
 
-	                        <armourstyle style="Light armour">
-	                            <armour name="Quilted jacket"/>
-	                        </armourstyle>
-	                    </combat>
+                            <combat href="/usr/share/xml/yags/core/arms.yags">
+                                <combatstyle style="Dagger" skill="Brawl">
+                                    <primary>Dagger</primary>
+                                    <initiative attribute="agility"/>
+                                    <attack attribute="agility"/>
+                                    <defence attribute="agility"/>
+                                    <damage type="wound"/>
+                                </combatstyle>
+
+                                <combatstyle style="Spear" skill="Longshaft weapon">
+                                    <primary>Spear</primary>
+                                    <initiative attribute="agility"/>
+                                    <attack attribute="dexterity"/>
+                                    <defence attribute="dexterity"/>
+                                    <damage type="wound"/>
+                                </combatstyle>
+
+                                <armourstyle style="Light armour">
+                                    <armour name="Quilted jacket"/>
+                                </armourstyle>
+                            </combat>
                         </statistics>
-	            </character>
+                    </character>
 
-                    <character name="Brytish warrior" quality="2">
-                    <description>
-                        <race>Human</race>
-                        <age>21</age>
-                        <short>
-                            A typical, young, Brytish warrior.
-                        </short>
-                    </description>
+                    <character name="Brytish warrior">
+                        <description>
+                            <race>Human</race>
+                            <age>21</age>
+                            <short>
+                                A typical, young, Brytish warrior.
+                            </short>
+                        </description>
 
-                    <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
-                    <attributes size="5" soak="12">
-                        <attribute name="strength" score="3"/>
-                        <attribute name="stamina" score="3"/>
-                        <attribute name="agility" score="3"/>
-                        <attribute name="dexterity" score="3"/>
-                        <attribute name="perception" score="3"/>
-                        <attribute name="intelligence" score="3"/>
-                        <attribute name="charisma" score="3"/>
-                        <attribute name="will" score="3"/>
-                    </attributes>
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                            <attributes size="5" soak="12">
+                                <attribute name="strength" score="3"/>
+                                <attribute name="stamina" score="3"/>
+                                <attribute name="agility" score="3"/>
+                                <attribute name="dexterity" score="3"/>
+                                <attribute name="perception" score="3"/>
+                                <attribute name="intelligence" score="3"/>
+                                <attribute name="charisma" score="3"/>
+                                <attribute name="will" score="3"/>
+                            </attributes>
 
-                    <passions>
-                        <passion name="Bravery" score="5"/>
-                        <passion name="Ego" score="4"/>
-                        <passion name="Restraint" score="4"/>
-                        <passion name="Temperence" score="4"/>
-                    </passions>
+                            <passions>
+                                <passion name="Bravery" score="5"/>
+                                <passion name="Ego" score="4"/>
+                                <passion name="Restraint" score="4"/>
+                                <passion name="Temperence" score="4"/>
+                            </passions>
 
-                    <skills>
-                        <group name="Talents" type="talents" >
-                            <skill name="Athletics" score="3"/>
-                            <skill name="Awareness" score="3"/>
-                            <skill name="Brawl" score="4"/>
-                            <skill name="Charm" score="2"/>
-                            <skill name="Guile" score="2"/>
-                            <skill name="Sleight" score="2"/>
-                            <skill name="Stealth" score="3"/>
-                            <skill name="Throw" score="4"/>
-                        </group>
+                            <skills>
+                                <group name="Talents" type="talents" >
+                                    <skill name="Athletics" score="3"/>
+                                    <skill name="Awareness" score="3"/>
+                                    <skill name="Brawl" score="4"/>
+                                    <skill name="Charm" score="2"/>
+                                    <skill name="Guile" score="2"/>
+                                    <skill name="Sleight" score="2"/>
+                                    <skill name="Stealth" score="3"/>
+                                    <skill name="Throw" score="4"/>
+                                </group>
 
-                        <group name="Languages" type="languages" >
-                            <skill name="Speak Brytish" score="4"/>
-                        </group>
+                                <group name="Languages" type="languages" >
+                                    <skill name="Speak Brytish" score="4"/>
+                                </group>
 
-                        <group name="Knowledges" type="skills" >
-                            <skill name="Area lore (Bryteland)" score="4"/>
-                        </group>
+                                <group name="Knowledges" type="skills" >
+                                    <skill name="Area lore (Bryteland)" score="4"/>
+                                </group>
 
-                        <group name="Profession" type="skills">
-                            <skill name="Farm" score="2"/>
-                        </group>
+                                <group name="Profession" type="skills">
+                                    <skill name="Farm" score="2"/>
+                                </group>
 
-                        <group name="Combat" type="skills" >
-                            <skill name="Longshaft weapon" score="4"/>
-                            <skill name="Single weapon" score="3"/>
-                            <skill name="Weapon and shield" score="5"/>
-                        </group>
+                                <group name="Combat" type="skills" >
+                                    <skill name="Longshaft weapon" score="4"/>
+                                    <skill name="Single weapon" score="3"/>
+                                    <skill name="Weapon and shield" score="5"/>
+                                </group>
 
-                        <group name="Misc" type="skills">
-                            <skill name="Ride" score="2"/>
-                        </group>
-                    </skills>
+                                <group name="Misc" type="skills">
+                                    <skill name="Ride" score="2"/>
+                                </group>
+                            </skills>
 
-                    <combat>
-                        <combatstyle style="Dagger" skill="Brawl">
-                            <primary>Dagger</primary>
-                            <initiative attribute="agility"/>
-                            <attack attribute="agility"/>
-                            <defence attribute="agility"/>
-                            <damage type="wound"/>
-                        </combatstyle>
+                            <advantages>
+                                <advantage name="Ambush"/>
+                                <advantage name="Cleave"/>
+                            </advantages>
 
-                        <combatstyle style="Spear" skill="Longshaft weapon">
-                            <primary>Spear</primary>
-                            <initiative attribute="agility"/>
-                            <attack attribute="dexterity"/>
-                            <defence attribute="dexterity"/>
-                            <damage type="wound"/>
-                        </combatstyle>
+                            <combat href="/usr/share/xml/yags/core/arms.yags">
+                                <combatstyle style="Dagger" skill="Brawl">
+                                    <primary>Dagger</primary>
+                                    <initiative attribute="agility"/>
+                                    <attack attribute="agility"/>
+                                    <defence attribute="agility"/>
+                                    <damage type="wound"/>
+                                </combatstyle>
 
-                        <armourstyle style="Light armour">
-                            <armour name="Quilted jacket"/>
-                        </armourstyle>
-                    </combat>
-                </statistics>
-                </character>
+                                <combatstyle style="Spear" skill="Longshaft weapon">
+                                    <primary>Spear</primary>
+                                    <initiative attribute="agility"/>
+                                    <attack attribute="dexterity"/>
+                                    <defence attribute="dexterity"/>
+                                    <damage type="wound"/>
+                                </combatstyle>
+
+                                <armourstyle style="Light armour">
+                                    <armour name="Quilted jacket"/>
+                                </armourstyle>
+                            </combat>
+                        </statistics>
+                    </character>
+
+                    <character name="Berserkers" quality="3">
+                        <description>
+                            <race>Human</race>
+                            <age>21</age>
+                            <short>
+                                A typical, young, Brytish warrior.
+                            </short>
+                        </description>
+
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                            <attributes size="5" soak="12">
+                                <attribute name="strength" score="3"/>
+                                <attribute name="stamina" score="3"/>
+                                <attribute name="agility" score="3"/>
+                                <attribute name="dexterity" score="3"/>
+                                <attribute name="perception" score="3"/>
+                                <attribute name="intelligence" score="3"/>
+                                <attribute name="charisma" score="3"/>
+                                <attribute name="will" score="3"/>
+                            </attributes>
+
+                            <passions>
+                                <passion name="Bravery" score="5"/>
+                                <passion name="Ego" score="4"/>
+                                <passion name="Restraint" score="4"/>
+                                <passion name="Temperence" score="4"/>
+                            </passions>
+
+                            <skills>
+                                <group name="Talents" type="talents" >
+                                    <skill name="Athletics" score="3"/>
+                                    <skill name="Awareness" score="3"/>
+                                    <skill name="Brawl" score="4"/>
+                                    <skill name="Charm" score="2"/>
+                                    <skill name="Guile" score="2"/>
+                                    <skill name="Sleight" score="2"/>
+                                    <skill name="Stealth" score="3"/>
+                                    <skill name="Throw" score="4"/>
+                                </group>
+
+                                <group name="Knowledges" type="skills" >
+                                    <skill name="Speak Brytish" score="4"/>
+                                    <skill name="Area lore (Bryteland)" score="4"/>
+                                </group>
+
+                                <group name="Combat" type="skills" >
+                                    <skill name="Longshaft weapon" score="4"/>
+                                    <skill name="Single weapon" score="3"/>
+                                    <skill name="Weapon and shield" score="5"/>
+                                </group>
+
+                                <group name="Misc" type="skills">
+                                    <skill name="Farm" score="2"/>
+                                    <skill name="Ride" score="2"/>
+                                </group>
+                            </skills>
+
+                            <advantages>
+                                <advantage name="Ambush"/>
+                                <advantage name="Cleave"/>
+                            </advantages>
+
+                            <combat href="/usr/share/xml/yags/core/arms.yags">
+                                <combatstyle style="Dagger" skill="Brawl">
+                                    <primary>Dagger</primary>
+                                    <initiative attribute="agility"/>
+                                    <attack attribute="agility"/>
+                                    <defence attribute="agility"/>
+                                    <damage type="wound"/>
+                                </combatstyle>
+
+                                <combatstyle style="Spear" skill="Longshaft weapon">
+                                    <primary>Spear</primary>
+                                    <initiative attribute="agility"/>
+                                    <attack attribute="dexterity"/>
+                                    <defence attribute="dexterity"/>
+                                    <damage type="wound"/>
+                                </combatstyle>
+
+                                <armourstyle style="Light armour">
+                                    <armour name="Quilted jacket"/>
+                                </armourstyle>
+                            </combat>
+                        </statistics>
+
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/warhammer">
+                            <deployment>
+                                <minimum>0</minimum>
+                                <maximum>1</maximum>
+                            </deployment>
+
+                            <attributes unit="Berserker" points="6">
+                                <attribute name="m" score="4"/>
+                                <attribute name="ws" score="4"/>
+                                <attribute name="bs" score="3"/>
+                                <attribute name="s" score="4"/>
+                                <attribute name="t" score="4"/>
+                                <attribute name="w" score="1"/>
+                                <attribute name="i" score="4"/>
+                                <attribute name="a" score="1"/>
+                                <attribute name="ld" score="8"/>
+                            </attributes>
+
+                            <special>
+                                Fury, fearless.
+                            </special>
+
+                            <equipment>
+                                <item name="Sword"/>
+                            </equipment>
+                        </statistics>
+                    </character>
                 </characters>
-
             </sect2>
         </sect1>
 
