@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Osric Edgarson</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="osric-edgarson">Osric Edgarson</subject>
+
+            <category>Kings</category>
+            <topic uri="vitrgifing">Vitrgifing</topic>
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Osric Edgarson</title>
+
+            <para>
+                King Osric of the Brytish Kingdom of Vitrgifing is a 
+                paranoid, middle aged man on a throne supported by 
+                conspiricies and treachery.
+            </para>
+
+            <para>
+                There are few who like Osric, but many who support him 
+                either out of fear or because of their own lust for 
+                power. Osric however does not tolerate corruption nor 
+                favouritism in his court, and even his enemies admit to 
+                his generosity. While his advisors are greedy, ambitious 
+                and treacherous, they have attained their positions 
+                through extreme competance.
+            </para>
+
+            <para>
+                Osric is currently unmarried, but has nine sons and 
+                seven daughters by several women, including his long 
+                term concubine Ethrelda. He considers the wives and 
+                daughters of his courtiers his for the taking. Those who 
+                disagree are killed.
+            </para>
+
+        </sect1>
+    </body>
+</article>

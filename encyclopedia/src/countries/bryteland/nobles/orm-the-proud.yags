@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Orm the Proud</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="orm-the-proud">Orm the Proud</subject>
+
+            <category>Nobles</category>
+            <topic uri="erding-island">Erding Island</topic>
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Orm the Proud</title>
+
+            <para>
+                Orm the Proud was the jarl of Erding Island up until 
+                1223. He was a noted warrior, sailor and viking of the 
+                region, generous and brave. He was lost on a whaling 
+                expedition together with his crew, and his brother 
+                Ornrick took his place.
+            </para>
+
+            <para>
+                Three months later all contact with the island was lost. 
+                Trade ceased, and ships sent to Erding never returned. A 
+                few people did make it out, and told tales of horror and 
+                darkness, of the  living dead terrorising the land.
+            </para>
+
+            <para>
+                In the years since, the most consistent stories tell 
+                that the Black Swan returned crewed by the dead, and 
+                that the dead jarl slew his brother and most of his supporters.
+            </para>
+
+            <para>
+                Since then the dead have had control of the island, 
+                under the rule of Orm the Proud, now sometimes called 
+                Orm the Dead. He has ordered the construction of a grand 
+                hall, the work being performed by living slaves.
+            </para>
+
+        </sect1>
+    </body>
+</article>
