@@ -15,76 +15,95 @@
         <format>0.1.0</format>
     </header>
     <!-- Standard terrain set -->
-    <terrainset id="basic" path=".">
+    <terrainset id="basic" path="terrain">
         <terrain id="0">
             <name>null</name>
             <description>Unchartable</description>
             <image>blank.png</image>
             <solid value="false"/>
+            <attributes water="false" woods="0" quality="0"/>
         </terrain>
         <terrain id="1">
             <name>water.sea</name>
             <description>Sea</description>
-            <image>water.png</image>
+            <image>sea.png</image>
             <solid value="false"/>
+            <attributes water="true" woods="0" quality="0"/>
         </terrain>
         <terrain id="10">
             <name>clear.cropland</name>
             <description>Cropland</description>
             <image>cropland.png</image>
             <solid value="false"/>
+            <attributes water="false" woods="10" quality="100"/>
         </terrain>
         <terrain id="11">
             <name>woods.light</name>
             <description>Light Woodland</description>
-            <image>woodland.png</image>
+            <image>light-woods.png</image>
             <solid value="false"/>
+            <attributes water="false" woods="25" quality="100"/>
         </terrain>
         <terrain id="12">
             <name>woods.medium</name>
             <description>Medium Woods</description>
-            <image>forest.png</image>
+            <image>medium-woods.png</image>
             <solid value="false"/>
+            <attributes water="false" woods="50" quality="100"/>
         </terrain>
         <terrain id="13">
             <name>woods.thick</name>
             <description>Thick woods</description>
-            <image>thick-forest.png</image>
+            <image>heavy-woods.png</image>
             <solid value="false"/>
+            <attributes water="false" woods="75" quality="100"/>
         </terrain>
         <terrain id="20">
             <name>wild.heath</name>
             <description>Heath</description>
             <image>heath.png</image>
             <solid value="false"/>
+            <attributes water="false" woods="0" quality="50"/>
         </terrain>
         <terrain id="21">
             <name>wild.moor</name>
             <description>Moor</description>
             <image>moor.png</image>
             <solid value="false"/>
+            <attributes water="false" woods="0" quality="25"/>
         </terrain>
         <terrain id="22">
             <name>wild.marsh</name>
             <description>Marsh</description>
             <image>marsh.png</image>
             <solid value="false"/>
+            <attributes water="false" woods="0" quality="5"/>
+        </terrain>
+        <terrain id="23">
+            <name>wild.desert</name>
+            <description>Sand desert</description>
+            <image>desert.png</image>
+            <solid value="false"/>
+            <attributes water="false" woods="0" quality="0"/>
         </terrain>
         <terrain id="30">
             <name>cold.snow</name>
             <description>Snow or rock</description>
             <image>snow.png</image>
             <solid value="false"/>
+            <attributes water="false" woods="0" quality="0"/>
         </terrain>
         <terrain id="31">
             <name>cold.alpine</name>
             <description>Alpine forest</description>
             <image>alpine.png</image>
             <solid value="false"/>
+            <attributes water="false" woods="50" quality="10"/>
         </terrain>
     </terrainset>
     <!-- Things -->
     <terrainset id="things" path="things">
+
         <terrain id="0">
             <name>null</name>
             <description>Empty</description>
@@ -139,6 +158,19 @@
             <image>peak.png</image>
             <solid value="false"/>
         </terrain>
+        <terrain id="9">
+            <name>settlement.city</name>
+            <description>Small city</description>
+            <image>city.png</image>
+            <solid value="false"/>
+        </terrain>
+        <terrain id="10">
+            <name>settlement.largecity</name>
+            <description>Large city</description>
+            <image>large-city.png</image>
+            <solid value="false"/>
+        </terrain>
+
     </terrainset>
     <!-- Features -->
     <terrainset id="features" path="features">
@@ -190,6 +222,7 @@
             <image>ice.png</image>
             <solid value="false"/>
         </terrain>
+
     </terrainset>
     <!-- TileSets contain blob data for the tiles -->
     <!-- Format is: "tthhffaacu" for each tile. -->
@@ -220,7 +253,7 @@
                 ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA 
                 ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA 
                 ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA 
-                ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA 
+                ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA
                 ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA 
                 ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA 
                 ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA ABAAAAAAAA 
