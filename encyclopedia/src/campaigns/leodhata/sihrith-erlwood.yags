@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Sihrith of Erlwood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="erwin-house">House of Erwin</see>
+            <see uri="northwood-shire">Shire of Northwood</see>
+            <see uri="erlwood">Erlwood</see>
+        </references>
+
+        <topics>
+            <subject uri="sihrith-erlwood">Sihrith</subject>
+
+            <category>Merchant</category>
+
+            <topic uri="leodhata">Leodhata</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Sihrith of Erlwood</title>
+
+            <para>
+                Sihrith is a 27 year old woman, who was the wife of
+                <qv uri="aldwulf-aeswineson">Aldwulf</qv>. She was widowed
+                when her husband was slain in a legally sanctioned combat
+                by Riahannon of the House of Aeddan.
+            </para>
+
+            <para>
+                Though the rest of her husband's family was outlawed, she
+                was spared on the condition she married into the House of
+                Aeddan, in particular to Riahannon's cousin Osric. This was
+                suggested as a way out for her principally to move her
+                wealth into the House of Aeddan, rather than due to any
+                act of mercy towards her or her daughter.
+            </para>
+
+            <para>
+                Sihrith was not a noble by birth, though she did inherit a
+                profitable trading concern on the early death of her father.
+                It was for this reason she was married by Aldwulf, and for
+                the same reason she is profitable to Osric.
+            </para>
+
+            <character name="Sihrith">
+                <description>
+                    <race>Human</race>
+                    <age>27</age>
+                    <gender>Female</gender>
+                    <short>
+                        A striking, blonde haired woman, energetic and
+                        shrewd.
+                    </short>
+
+                    <physical>
+                        <para>
+                            Slim, with long blonde hair and green eyes, she
+                            is very good looking. She is generally well
+                            dressed, and has a forceful personality.
+                        </para>
+                    </physical>
+                </description>
+
+                <attributes size="5" soak="12" luck="2">
+                    <attribute name="strength" score="2"/>
+                    <attribute name="stamina" score="3"/>
+                    <attribute name="agility" score="3"/>
+                    <attribute name="dexterity" score="3"/>
+                    <attribute name="perception" score="3"/>
+                    <attribute name="intelligence" score="4"/>
+                    <attribute name="charisma" score="4"/>
+                    <attribute name="will" score="3"/>
+                </attributes>
+
+                <skills>
+                    <group name="Talents" type="talents">
+                        <skill name="Athletics" score="2"/>
+                        <skill name="Awareness" score="3"/>
+                        <skill name="Brawl" score="2"/>
+                        <skill name="Charm" score="5"/>
+                        <skill name="Guile" score="5"/>
+                        <skill name="Sleight" score="2"/>
+                        <skill name="Stealth" score="2"/>
+                        <skill name="Throw" score="2"/>
+                    </group>
+
+                    <group name="Knowledges" type="knowledges">
+                        <skill name="Speak Rornic" score="4"/>
+                        <skill name="Speak Brytish" score="4"/>
+                        <skill name="Scribe Rornic" score="4"/>
+                        <skill name="Scribe Brytish" score="3"/>
+                        <skill name="Area lore (Weidany)" score="4"/>
+                        <skill name="Area lore (Bryteland)" score="2"/>
+                    </group>
+
+                    <group name="Profession" type="skills">
+                        <skill name="Trade" score="7"/>
+                        <skill name="Handicraft" score="3"/>
+                        <skill name="Cook" score="2"/>
+                        <skill name="Administration" score="4"/>
+                    </group>
+
+                    <group name="Misc" type="skills">
+                        <skill name="Survival" score="1"/>
+                        <skill name="Ride" score="4"/>
+                    </group>
+                </skills>
+            </character>
+
+            <para>
+                Based out of <qv uri="erlwood">Erlwood</qv>, she owns a town
+                house (actually, just south of the town), 3 wagons, 7 draft
+                horses and a number of slaves.
+            </para>
+
+            <para>
+                Two of the slaves are house slaves. Gwen, a 15 year old, is
+                the household cook. Indeg is only 12, and does the lighter
+                duties around the household. Anstig, a 22 year old, looks
+                after the horses and wagons, and he has some experience with
+                the sword.
+            </para>
+
+            <para>
+                She has a 3 year old daughter named Frythrun.
+            </para>
+        </sect1>
+    </body>
+</article>

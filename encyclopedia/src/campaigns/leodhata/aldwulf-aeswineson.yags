@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Aldwulf Aeswineson</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="erwin-house">House of Erwin</see>
+            <see uri="northwood-shire">Shire of Northwood</see>
+        </references>
+
+        <topics>
+            <subject uri="aldwulf-aeswineson">Aldwulf</subject>
+
+            <category>Warrior</category>
+
+            <topic uri="leodhata">Leodhata</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Aldwulf, son of Aeswine</title>
+
+            <para>
+                Aldwulf was the son of the thegn Aeswine, of the
+                <qv uri="erwin-house">House of Erwin</qv> at the village
+                of Chettisham in the shire of <qv uri="northwood-shire">
+                Northwood</qv>.
+            </para>
+
+            <para>
+                Aldwulf's brother, Cuthwulf, was slain during a raid on a
+                tin mine that belonged to the manor of Holeham. The recent
+                death of the thegn of Holeham's sons was seen to be a ripe
+                opportunity for a land grab. Further problems caused by
+                hauntings at the mine gave them an excuse to intervene.
+            </para>
+
+            <para>
+                Though the law had declared that Cuthwulf's death at the
+                hand of Riahannon, daughter of the thegn of Holeham, was
+                legal and no recourse was permitted, Aldwulf arranged for
+                an attack on Holeham which resulted in the death of the
+                thegn. Later legal proceedings led to a Ordeal by Combat
+                between Riahannon and Aldwulf, resulting in the latter's
+                death.
+            </para>
+
+            <para>
+                The family of Aeswine were banished into exile for Aldwulf's
+                crimes, but his wife <qv uri="sihrith-erlwood">Sihrith</qv>
+                was spared when she is married into Riahannon's family.
+            </para>
+        </sect1>
+    </body>
+</article>
