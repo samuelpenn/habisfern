@@ -87,9 +87,10 @@
 
                     <physical>
                         <para>
-                            Slim, with long blonde hair and green eyes, she
-                            is very good looking. She is generally well
-                            dressed, and has a forceful personality.
+                            Tall and slender, with long blonde hair and
+                            green eyes, she is very good looking.
+                            She is generally well dressed, and has a
+                            forceful personality.
                         </para>
                     </physical>
                 </description>
@@ -97,7 +98,7 @@
                 <attributes size="5" soak="12" luck="2">
                     <attribute name="strength" score="2"/>
                     <attribute name="stamina" score="3"/>
-                    <attribute name="agility" score="3"/>
+                    <attribute name="agility" score="2"/>
                     <attribute name="dexterity" score="3"/>
                     <attribute name="perception" score="3"/>
                     <attribute name="intelligence" score="4"/>
@@ -124,20 +125,36 @@
                         <skill name="Scribe Brytish" score="3"/>
                         <skill name="Area lore (Weidany)" score="4"/>
                         <skill name="Area lore (Bryteland)" score="2"/>
+                        <skill name="Law" score="3"/>
                     </group>
 
                     <group name="Profession" type="skills">
-                        <skill name="Trade" score="7"/>
                         <skill name="Handicraft" score="3"/>
                         <skill name="Cook" score="2"/>
-                        <skill name="Administration" score="4"/>
+                        <skill name="Seneschal" score="4"/>
+                        <skill name="Weaving" score="1"/>
+                    </group>
+
+                    <group name="Merchant" type="skills">
+                        <skill name="Etiquette" score="3"/>
+                        <skill name="Trade" score="7"/>
+                        <skill name="Intrigue" score="3"/>
+                        <skill name="Teamster" score="2"/>
                     </group>
 
                     <group name="Misc" type="skills">
                         <skill name="Survival" score="1"/>
-                        <skill name="Ride" score="4"/>
+                        <skill name="Ride" score="3"/>
+                        <skill name="Perform" score="1"/>
                     </group>
                 </skills>
+
+                <advantages>
+                    <advantage name="Combat paralysis"/>
+                    <advantage name="Light drinker"/>
+                    <advantage name="Beautiful" score="+2"/>
+                    <advantage name="Graceful"/>
+                </advantages>
             </character>
 
             <para>
