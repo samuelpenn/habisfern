@@ -24,9 +24,9 @@
             <text>
                 Permission is granted to copy, distribute and/or
                 modify this document under the terms of the GNU
-                Free Documentation License, Version 1.1 or any
-                later version published by the Free Software
-                Foundation.
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
             </text>
         </license>
 
@@ -54,8 +54,14 @@
             <title>Daughters of Neya</title>
 
             <para>
-                The Daughters of Neya are a religious cult 
-                focused on the worship of Neya in her aspect of Oathkeeper.
+                The Daughters of Neya are a religious cult focused on the
+                worship of Neya in her aspect of Oathkeeper. The cult tends
+                to involve itself with both politics and business, both
+                of which it tends to find profitable. Temples of the
+                Cult are quite common in the larger towns within the
+                Kingdom, and are often at least partially of stone with
+                plenty of statues and tapestries to demonstrate the
+                Temple's wealth.
             </para>
 
             <para>
@@ -81,7 +87,59 @@
                 law, anything witnessed by the Daughters trumps 
                 all else.
             </para>
-
+            
+            <sect2>
+                <title>Clothing and Symbolism</title>
+                
+                <para>
+                    Priestesses of the cult wear blue and white robes,
+                    with the amount of silver or gold finery being
+                    proportional to the wealth of the temple, and the
+                    status of the priestess.
+                </para>
+                
+                <para>
+                    The sacred animal is the dove, and priestesses will
+                    wear a wooden, bronze, silver or golden dove amulet
+                    to denote their rank.
+                </para>
+                
+                <para>
+                    Scrolls tend to feature prominently within ceremonies,
+                    with prayers written upon them and then the scrolls
+                    being burnt as offerings to the goddess. 
+                </para>
+            </sect2>
+            
+            <sect2>
+                <title>Ranks within the Cult</title>
+                
+                <para>
+                    Acolytes are taken in at an early age, are are
+                    expected to become full priestess by the age of 16,
+                    or to leave the cult. Acolytes where wooden dove
+                    amulets to denote their rank. If an acolyte chooses
+                    to leave the cult rather than pursue full cult
+                    membership, then they must swear never to act in
+                    the capacity of a Daughter of Neya. The punishment
+                    for doing so is death by starvation
+                </para>
+                
+                <para>
+                    Priestesses wear bronze dove amulets.
+                </para>
+                
+                <para>
+                    Mistress of the Temple. Silver amulets.
+                </para>
+                
+                <para>
+                    The Eldest Daughter is denoted by her gold amulet. The
+                    Eldest Daughter is head of the local cult, and all
+                    decisions affecting the temple as a whole are referred
+                    to her.
+                </para>
+            </sect2>
         </sect1>
     </body>
 </article>
