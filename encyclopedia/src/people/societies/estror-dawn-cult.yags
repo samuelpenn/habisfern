@@ -171,11 +171,13 @@
                         <skill name="Religion (Estror)"/>
                         
                         <description>
-                            A blessing which may be asked for by a woman
-                            in order to increase or reduce the chance of
-                            conception during intercourse. The blessing is
-                            bestowed during the new moon, and lasts until
-                            the next new moon.
+                            <para>
+                                A blessing which may be asked for by a woman
+                                in order to increase or reduce the chance of
+                                conception during intercourse. The blessing is
+                                bestowed during the new moon, and lasts until
+                                the next new moon.
+                            </para>
                         </description>
                     </advantage>
                     
