@@ -53,26 +53,37 @@ done
 #
 # Now generate the index pages for everything.
 #
-MAINFILE=$TMPDIR/mainfile.html
-for letter in a b c d e f g h i j k l m n o p q r s t u v w x y z
+for topic in $TMPDIR/topics/*
 do
-    file=entries/$letter.html
-    if [ -s $file ]
-    then
-        number=`wc -l $file | awk '{ print $1}'`
-        heading=`echo $letter | tr "a-z" "A-Z"`
-        echo "<h2>$heading</h2>" >> $MAINFILE
-        echo "<p>" >> $MAINFILE
+    MAINFILE=$TMPDIR/mainfile.html
+    rm -f $MAINFILE
+    for letter in a b c d e f g h i j k l m n o p q r s t u v w x y z
+    do
 
-        cat $file | while read entry
-        do
-            echo $entry >> $MAINFILE
-            echo "<br/>" >> $MAINFILE
-        done
-        echo "</p>" >> $MAINFILE
+        file=$topic/$letter
+
+        if [ -s $file ]
+        then
+            number=`wc -l $file | awk '{ print $1}'`
+            heading=`echo $letter | tr "a-z" "A-Z"`
+            echo "<h2>$heading</h2>" >> $MAINFILE
+            echo "<p>" >> $MAINFILE
+
+            cat $file | while read entry
+            do
+                echo $entry >> $MAINFILE
+                echo "<br/>" >> $MAINFILE
+            done
+            echo "</p>" >> $MAINFILE
+        fi
+    done
+    topicfile=entries/`basename $topic | tr "A-Z" "a-z"`.html
+    echo $topicfile
+
+    if [ -s $MAINFILE ]
+    then
+        cat templates/index.html > $topicfile
+        cat $MAINFILE >> $topicfile
+        cat templates/footer.html >> $topicfile
     fi
 done
-
-cat templates/index.html > entries/index.html
-cat $MAINFILE >> entries/index.html
-cat templates/footer.html >> entries/index.html
