@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Hreth</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Daughter of Gruaga</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="hreth-woman">Hreth</subject>
+
+            <category>Mythical</category>
+            
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Hreth</title>
+
+            <para>
+                A mortal woman who was the lover of <qv uri="erol">Erol</qv>,
+                the son of <qv uri="haltan">Haltan</qv> in the Old World,
+                before the coming of the Ice and the fall of civilisation.
+            </para>
+
+            <para>
+                Hreth betrayed Erol, and layed evidence for her crimes
+                that pointed at Erol's mother, <qv uri="enrith">Enrith</qv>.
+                Erol only found out the truth after he had slain his own
+                mother
+            </para>
+            
+            <para>
+                Hreth was the daughter of the god <qv uri="pel">Pel</qv>
+                and the giantess <qv uri="gruaga">Gruaga</qv>. Whether she
+                is the same as the goddess <qv uri="hreth">Hreth</qv> is
+                not known, but similarities between the two lead many to
+                believe that she was.
+            </para>
+        </sect1>
+    </body>
+</article>
