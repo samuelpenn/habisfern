@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Cult of Hreth</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="hreth">Cult of Hreth</subject>
+
+            <category>Cult</category>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Cult of Hreth</title>
+
+            <para>
+                The Cult of Hreth is a secretive organisation, outlawed 
+                in all civilised lands. Followers worship the Ice 
+                Maiden, seeking a permanent return of Her winter. Though 
+                others see her as the betrayer of humanity, her 
+                followers consider her to be the human face of the Ice, 
+                the Divine Temptress who can turn the mind of anyone.
+            </para>
+
+            <para>
+                Most cultists are disaffected with the status quo, and 
+                believe that any change will leave them in a better 
+                position. Others listen to the promises that under Her 
+                rule, there will be equal power for all, for the Ice 
+                seeks conformity and balance in all things. 
+            </para>
+
+            <para>
+                A few believe that Hreth is an alternative to the Ice, 
+                that the Ice is going to consume all no matter what is 
+                done. With sufficient power though, Hreth can provide a 
+                half way state which is sufficient for humans, without 
+                totally sucumbing to the Final Winter. It is these who 
+                are probably the most dangerous, since they are willing 
+                to seek compromise to obtain long term goals, making 
+                them harder to detect.
+            </para>
+
+        </sect1>
+    </body>
+</article>

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Silver Moon Cult</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="silver-moon-cult">Silver Moon Cult</subject>
+
+            <category>Cult</category>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Silver Moon Cult</title>
+
+            <para>
+                The Cult of the Silver Moon is the principle cult of 
+                Fenya Moon Daughter. The cult is open to both men and 
+                women, who celebrate both the beauty and brightness of Fenya.
+            </para>
+
+            <para>
+                The cult is not particularly powerful, being an 
+                attraction to lovers and dreamers, neither of whom tend 
+                to be societies influencers. A few follow her huntress 
+                aspect, but such people are more often drawn to Walgi. 
+                Though Fenya is the official goddess of the hunt (by 
+                royal appointment), in practice Walgi is preferred.
+            </para>
+
+        </sect1>
+    </body>
+</article>
