@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Red Guard</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="red-guard">Red Guard</subject>
+
+            <category>None</category>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Red Guard</title>
+
+            <para>
+                The Red Guard are the Queen of Weidany's personal 
+                bodyguard. They are considered to be amongst the 
+                best fighting order in the Kingdom.  Given that 
+                they are all women, it also helps to keep quiet 
+                any men who object to the ability of a woman to 
+                be Queen.
+            </para>
+
+            <para>
+                There are about three dozen Red Guard which 
+                effectively limits their role to protecting the 
+                person of the Queen herself, rather than a more 
+                general protection of the Queen's affairs.
+            </para>
+
+            <para>
+                The Guard are currently trained by the weapon 
+                master Cenic Daleson, an aging bodyguard himself 
+                who at one point could of claimed to be the 
+                finist swordsman in all the land, without too 
+                much disent from others.
+            </para>
+
+            <para>
+                Four members of the Red Guard accompany the Queen 
+                at all times, and others are always close at hand.
+            </para>
+
+        </sect1>
+    </body>
+</article>

@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Cult of Asabeth</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="asabeth">Asabeth</subject>
+
+            <category>Religion</category>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Cult of Asabeth</title>
+
+            <para>
+                The Cult of Asabeth is a female warrior cult 
+                first formed in Estwed several centuries ago. It 
+                has since been outlawed in several Shires, 
+                including Estwed, and is practically extinct.
+            </para>
+
+            <para>
+                The Cult teaches that anger and hate should be 
+                used to focus a person's actions. Its warriors 
+                are violent and bloodthirsty, and practise human sacrifice.
+            </para>
+
+            <para>
+                Temples of the Cult normally consist of 6 to 12 
+                priestesses, all of whom train in swordcraft. The 
+                most senior is referred to as Mother, and all 
+                decisions are hers, to be carried out with 
+                immediate obedience.
+            </para>
+
+            <para>
+                The goal of the Cult is the protection of 
+                children and women from the cruelties of others. 
+                This is often done by sudden, swift strikes 
+                against those that seen as a threat to the 
+                temple's lands.
+            </para>
+
+            <para>
+                Priestesses are unmarried, and take vows of 
+                chastity before joining. The cult does not accept 
+                members who are younger than 21, and generally 
+                prefers older women, especially those who have 
+                lost a child.
+            </para>
+
+            <para>
+                Priestesses are denoted by two scars on their 
+                left cheek.
+            </para>
+
+            <para>
+                There is currently only one temple of the cult, 
+                in northern Scarondy.
+            </para>
+
+        </sect1>
+    </body>
+</article>
