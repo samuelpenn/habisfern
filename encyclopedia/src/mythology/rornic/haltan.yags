@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Haltan</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>King of the Gods</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+            <partof>daegian</partof>
+        </references>
+
+        <topics>
+            <topic>God</topic>
+            <topic>Religion</topic>
+            <topic>Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Haltan, King of the Gods</title>
+
+            <para>
+                Haltan was created at the dawn of the world. In
+                the beginning, he was lord of the skies above
+                the world. He dealt with the dragons and the
+                birds, and spent much time with
+                <qv uri="thot">Thot the Raven</qv>, for the
+                skies were his domain also.
+            </para>
+            
+            <para>
+                Until the coming of Man, Haltan had little to
+                do with the world itself. After the creation
+                of Man, while the other gods dwelt upon the
+                ground and worked directly with mankind, so
+                Haltan watched from the skies, and from
+                there he could see what the others could
+                not. Man wandered the lands aimlessly,
+                without purpose or direction, much like
+                the animals. 
+            </para>
+            
+            <para>
+                Thinking that it would be better if Man had
+                purpose and structure, he went down amongst
+                them and tried to direct them, to set them
+                to building temples so that he could easily
+                see where they were. But there were so many
+                men, that it took all Haltan's time telling
+                each one where to go, and what to do. Even
+                with the help of Thot to carry instructions
+                to all the Men, Haltan had no time left to
+                sit back and relax, and watch the world from
+                his sky dwellings.
+            </para>
+            
+            <para>
+                So Haltan took a few Men, and instructed
+                them to instruct others. To make it easier
+                for them, he taught them and all other Men
+                language, so that they could talk to each
+                other and organise themselves.
+            </para>
+            
+            <para>
+                In one move, Haltan had given Man both
+                language and organised society. These thegns
+                went out amongst the other men, and carried
+                the word of Haltan to them, organising
+                themselves into great cities.
+            </para>
+
+            <sect2>
+                <title>Interests and Worshippers</title>
+
+                <para>
+                    Haltan is the god of law and justice, of duty
+                    and war. He is the leader of the gods, even
+                    above Rim and Yagma who were the first gods.
+                    He is also god of the sky and weather, so even
+                    those who have no interest in rulership and
+                    war need him for a good harvest. 
+                </para>
+                
+                <para>
+                    All those who rule give thanks to, and seek advice
+                    from, Haltan. By many, he is seen as the most
+                    important of the gods, since he symbolises the
+                    very structure of society.
+                </para>
+            </sect2>
+        </sect1>
+
+    </body>
+
+</article>
+
