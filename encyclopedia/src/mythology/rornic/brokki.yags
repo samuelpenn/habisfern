@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Brokki</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>King of the Ice Giants</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1; with no
+                invariant sections, no Front-Cover Texts, and with
+                no Back-Cover Texts.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="brokki">Brokki</subject>
+
+            <category>Religion</category>
+
+            <topic uri="daegian">Daegian</topic>
+            <topic uri="rornic-mythology">Rornic Mythology</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Brokki</title>
+
+            <para>
+                Brokki was the King of the Ice Giants in Rornic Mythology.
+                He lives in a great castle at the north of the world,
+                fashioned out of the skull of <qv uri="iss">Iss</qv>.
+            </para>
+
+            <para>
+                He is a king, craftsman and warrior, famed for his great
+                strength. He is also the enemy of the gods, and aligned
+                with the Powers of the <qv uri="ice">Ice</qv>.
+            </para>
+
+            <para>
+                In the middle world, the <qv uri="ent">Ents</qv> are said to
+                be his servents.
+            </para>
+        </sect1>
+    </body>
+</article>
