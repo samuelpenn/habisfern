@@ -54,7 +54,7 @@
             <title>Kingdom of Niemstarg</title>
 
             <import-map uri="euressa" scale="2" thumb="240">
-                <area name="Niemstarg" margin="2"/>
+                <area name="Niemstarg" margin="4"/>
             </import-map>
 
             <para>
