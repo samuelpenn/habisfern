@@ -92,31 +92,33 @@
             <sect2>
                 <title>Advantages</title>
 
-                <advantage name="House of Aeddan" type="background">
-                    <cost points="2"/>
-
-                    <description>
-                        <para>
-                            Character is of the House of Aeddan. This
-                            advantage is required before any of the other
-                            advantages of this house can be obtained.
-                        </para>
-                    </description>
-                </advantage>
-
-                <advantage name="Strong at magic" type="advantage">
-                    <cost points="4"/>
-                    <prerequisite>House of Aeddan</prerequisite>
-
-                    <description>
-                        <para>
-                            The House of Aeddan is noted for its members
-                            exceptional ability with magic. Those who take this
-                            advantage gain +1 to intelligence when trying to
-                            learn a new Rune.
-                        </para>
-                    </description>
-                </advantage>
+                <advantages role="background" title="House of Aeddan">
+                    <advantage name="House of Aeddan" type="background">
+                        <cost points="2"/>
+    
+                        <description>
+                            <para>
+                                Character is of the House of Aeddan. This
+                                advantage is required before any of the other
+                                advantages of this house can be obtained.
+                            </para>
+                        </description>
+                    </advantage>
+    
+                    <advantage name="Strong at magic" type="advantage">
+                        <cost points="4"/>
+                        <prerequisite>House of Aeddan</prerequisite>
+    
+                        <description>
+                            <para>
+                                The House of Aeddan is noted for its members
+                                exceptional ability with magic. Those who take this
+                                advantage gain +1 to intelligence when trying to
+                                learn a new Rune.
+                            </para>
+                        </description>
+                    </advantage>
+                </advantages>
             </sect2>
         </sect1>
 
