@@ -1,0 +1,375 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Runes</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="runes">Runes</subject>
+
+            <category>Magic</category>
+
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Rune Magic</title>
+
+            <para>
+                Rune magic is the art of placing enchantments on objects,
+                especially weapons and armour, though other objects can
+                also be affected.
+            </para>
+
+            <sect2>
+                <title>Common Runes</title>
+
+                <sect3>
+                    <title>Simple Weapon Virtues</title>
+
+                    <sect4>
+                        <title>Blade turn</title>
+
+                        <image uri="rune-defence"/>
+
+                        <para>
+                            When set into a weapon or shield, improves the
+                            weapon's ability to turn aside attacks.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>True blow</title>
+
+                        <image uri="rune-attack"/>
+
+                        <para>
+                            When set into a weapon, increases that weapon's
+                            ability to land a blow on the enemy.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>Quickness</title>
+
+                        <image uri="rune-speed"/>
+
+                        <para>
+                            When set upon a weapon, makes that weapon
+                            quicker than before.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>Bite</title>
+
+                        <image uri="rune-damage"/>
+
+                        <para>
+                            When set upon a weapon, the weapon becomes
+                            more capable of injuring a foe, making it
+                            sharper and harder.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>Flight</title>
+
+                        <image uri="rune-distance"/>
+
+                        <para>
+                            If an arrow or spear carries this rune, then
+                            its range is magically increased.
+                        </para>
+                    </sect4>
+                </sect3>
+
+                <sect3>
+                    <title>Simple Armour Virtues</title>
+
+                    <sect4>
+                        <title>Virtue of Absorbtion</title>
+
+                        <image uri="rune-soak"/>
+
+                        <para>
+                            If this rune is worked into armour, then the
+                            ability of the armour to turn aside a blow
+                            is improved.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>Virtue of Silence</title>
+
+                        <image uri="rune-silence"/>
+
+                        <para>
+                            This virtue masks the noice made by armour.
+                            It is quite rare, since there is rarely much
+                            call for it.
+                        </para>
+                    </sect4>
+                </sect3>
+
+                <sect3>
+                    <title>General Virtues</title>
+
+                    <sect4>
+                        <title>Glimmer</title>
+
+                        <image uri="rune-light"/>
+
+                        <para>
+                            An item which carries this rune is always bright.
+                            It does not give off its own light, but is
+                            highly reflective, making it seem to shine in
+                            sunlight, and glimmer even in starlight. It can
+                            only be crafted on metal items.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>Darkness</title>
+
+                        <image uri="rune-darkness"/>
+
+                        <para>
+                            This rune makes an item dark and non-reflective.
+                            The metal will appear black, even in direct
+                            sunlight. It can only be worked into metal items.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>Sharpness</title>
+
+                        <image uri="rune-sharpness"/>
+
+                        <para>
+                            Any item which carries this rune will keep its
+                            edge, resist rust and generally last longer. It
+                            is a very common rune, since it is quite easy
+                            to work.
+                        </para>
+                    </sect4>
+                </sect3>
+
+                <sect3>
+                    <title>The Man Rune</title>
+
+                    <para>
+                        Possibly the most powerful of the runes which can
+                        be placed onto items, this rune binds with others,
+                        and redirects their power onto the user of the item.
+                    </para>
+
+                    <sect4>
+                        <title>The Man Rune</title>
+
+                        <image uri="rune-man"/>
+
+                        <para>
+                            By itself this means nothing, but combined
+                            with other runes, it bestows the virtue upon
+                            the wielder or wearer of the item, rather
+                            than on the item itself.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>Virtue of the Bear</title>
+
+                        <image uri="rune-soak"/>
+                        <image uri="rune-man"/>
+
+                        <para>
+                            Grants strength to the user of the item while
+                            it is being used.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>Virtue of the Panther</title>
+
+                        <image uri="rune-agility"/>
+                        <image uri="rune-man"/>
+
+                        <para>
+                            Grants the user with greater speed and agility.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>Virtue of the Serpent</title>
+
+                        <image uri="rune-dexterity"/>
+                        <image uri="rune-man"/>
+
+                        <para>
+                            Grants the user of the item greater dexterity.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>Virtue of the Troll</title>
+
+                        <image uri="rune-man"/>
+                        <image uri="rune-man"/>
+
+                        <para>
+                            Fills the user with the strength to resist
+                            damage.
+                        </para>
+                    </sect4>
+                </sect3>
+
+                <sect3>
+                    <title>The Necromancy Rune</title>
+
+                    <para>
+                        Also known as the <e>spirit rune</e>, or the
+                        <e>death rune</e>, this affects the spirit of a
+                        person, either to protect or to harm. It is rarely
+                        found, since few smiths have knowledge of the
+                        necromantic arts. Further, it can be difficult to
+                        craft properly, and is rarely wanted.
+                    </para>
+
+                    <sect4>
+                        <title>Necromancy Rune</title>
+
+                        <image uri="rune-necromancy"/>
+
+                        <para>
+                            This rune does nothing, but is instead combined
+                            with others in order to affect the spirit.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>Virtue of Life</title>
+
+                        <image uri="rune-damage"/>
+                        <image uri="rune-necromancy"/>
+
+                        <para>
+                            When placed on a weapon, any wound caused by the
+                            weapon also harms the creature's life force,
+                            draining them of their energy.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>Virtue of Fear</title>
+
+                        <image uri="rune-fear"/>
+                        <image uri="rune-necromancy"/>
+
+                        <para>
+                            When placed on any item, if that item is presented,
+                            then it instills fear in all those that view it.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>Virtue of the Spirit</title>
+
+                        <image uri="rune-ghosts"/>
+                        <image uri="rune-necromancy"/>
+
+                        <para>
+                            When placed on any item, that item becomes more
+                            susceptible to affecting spirits.  Weapons are
+                            able to harm them, armour and shields are able
+                            to protect against them.
+                        </para>
+                    </sect4>
+                </sect3>
+
+                <sect3>
+                    <title>Link Runes</title>
+
+                    <para>
+                        All the runes so far are designed to be carved into
+                        a single item. If multiple items (such as a sword
+                        and a shield) are used together, then effects
+                        combine. The exception to this are runes combined
+                        with the man rune or spirit rune - in such cases
+                        only the greatest magic will prevail.
+                    </para>
+
+                    <para>
+                        The most powerful virtues are difficult to instill
+                        in a single item. Instead, it is possible to split
+                        the magic across two or three items. This makes the
+                        crafting of the item easier, but means that all
+                        items must be used together to activate the
+                        virtues. To do this, two linking runes are used,
+                        which bind together two or three items. They
+                        follow the rune set they are linking, and appear on
+                        all items in the linked set.
+                    </para>
+
+                    <sect4>
+                        <title>Binding rune</title>
+
+                        <image uri="rune-link1"/>
+
+                        <para>
+                            This rune binds a virtue across two items. Both
+                            items must be in use for the virtue to be
+                            activated.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>Binding rune</title>
+
+                        <image uri="rune-link2"/>
+
+                        <para>
+                            This rune binds a virtue across three items. All
+                            three items must be in use for the virtue to be
+                            activated.
+                        </para>
+                    </sect4>
+                </sect3>
+            </sect2>
+
+        </sect1>
+    </body>
+</article>
