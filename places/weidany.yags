@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="/usr/share/xsl/fo/yagsbook.xsl" type="text/xsl"?>
+
+<article
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="yagsbook.xsd">
+
+    <header>
+        <title>Weidany</title>
+        <tagline>Habisfern</tagline>
+
+        <author>
+            <name>Samuel Penn</name>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+        
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+        
+        <licence>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.gnu.org/licenses/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation; with no invariant sections, with no
+                Front-Cover Texts, and with no Back-Cover Texts.
+                A copy of the license is included in the section
+                entitled "GNU Free Documentation License".
+            </text>
+        </licence>
+        
+        <style name="module"/>
+    </header>
+    
+    <front>
+        <maintitle>Weidany</maintitle>
+        <subtitle>The Kingdom of Rorn</subtitle>
+    </front>
+
+    <body>
+        <sect1>
+            <title>The Kingdom of Rorn</title>
+            
+            <quote>
+                In 994, Aelfthryth, daughter of Aethelwulf is made
+                Queen of the Rornish People, at Holbury at Mid Summer.
+                She is but 12 years old, but has great insight into
+                the ways of men and ruling.
+            </quote>
+            
+            <para>
+                So reads the Habisfern Scrolls, which detail the history
+                of the people of Weidany. She came to the throne despite
+                much opposition, for there were many who did not want a
+                woman tolead them. Behind her though were the priestesses
+                of Neya, whom were to become closely bound to the Rornic
+                royal family.
+            </para>
+            
+            <para>
+                Aelfthryth was born into a time of blood feuds, civil
+                war and general chaos. The fact that she, and her
+                successors where so capable at bringing peace to the
+                Kingdom was what convinced enough nobles to finally
+                back her. The backing of many of the priests also gave
+                much strength to the Queen's authority.
+            </para>
+        </sect1>
+    </body>
+
+</article>
+
