@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Taneith</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@bifrost.demon.co.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license>
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <url>http://www.bifrost.demon.co.uk/comp/yagsbook/fdl.html</url>
+            <text>
+                Permission is granted to copy, distribute and/or
+                modify this document under the terms of the GNU
+                Free Documentation License, Version 1.1 or any
+                later version published by the Free Software
+                Foundation.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="taneith">Taneith</subject>
+
+            <category>Country</category>
+
+            <topic uri="taneith">Taneith</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Taneith</title>
+
+            <para>
+                An island to the northwest of Euressa, often 
+                claimed to be magical. Hils and thick forests 
+                hide much of the isle, though there is a strong 
+                human presence in the coastal regions.
+            </para>
+
+            <para>
+                A small number of Ents have a colony here. Trade 
+                is mostly with the mainland kingdoms of Bryteland 
+                and Cancha.
+            </para>
+
+        </sect1>
+    </body>
+</article>
