@@ -37,13 +37,18 @@
         <style name="module"/>
 
         <references>
-            <partof>daegian</partof>
         </references>
 
         <topics>
-            <topic>God</topic>
-            <topic>Religion</topic>
-            <topic>Habisfern</topic>
+            <subject uri="walgi">Walgi</subject>
+
+            <category>Religion</category>
+
+            <topic uri="daegian">Daegian</topic>
+            <topic uri="rornic-mythology">Rornic Mythology</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
         </topics>
     </header>
 
