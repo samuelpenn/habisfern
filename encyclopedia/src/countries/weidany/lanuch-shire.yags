@@ -34,6 +34,7 @@
 
         <references>
             <see uri="cerdicsfield">Cerdicsfield</see>
+            <see uri="caewlin-house">House of Caewlin</see>
         </references>
 
         <topics>
@@ -80,6 +81,21 @@
                 especially given the Shire's high proportion of militia.
             </para>
 
+            <sect2>
+				<title>Politics</title>
+
+				<para>
+					The seat of power of the 
+					<qv uri="caewlin-house">House of Caewlin</qv> is 
+					the Shire of Lanuch, and their nobles own much of
+					the land here. An old boon of the house is that
+					they get to choose the Shire Reeve of Lanuch, which
+					gives them pretty much free reign in the running
+					of the Shire. Needless to say, the Shire Reeve is
+					always a powerful member of the House. Currently it
+					is Orngast Caewlin, brother of the Earldorman.
+                </para>
+			</sect2>
         </sect1>
     </body>
 </article>
