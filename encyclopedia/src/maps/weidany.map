@@ -6459,6 +6459,12 @@
                 <font>2</font>
                 <importance>2</importance>
             </thing>
+            <thing type="7" x="7836" y="1570" rotation="0">
+                <name>Lake Dowfer</name>
+                <description>Unknown</description>
+                <font>2</font>
+                <importance>2</importance>
+            </thing>
         </things>
     </tileset>
 

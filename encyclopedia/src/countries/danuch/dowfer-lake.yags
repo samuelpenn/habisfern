@@ -58,6 +58,10 @@
                 the source of fish for a large community living around its
                 shores.
             </para>
+
+            <import-map uri="weidany" scale="2">
+                <thing name="Lake Dowfer" radius="3"/>
+            </import-map>
         </sect1>
     </body>
 </article>
