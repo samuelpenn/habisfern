@@ -66,26 +66,26 @@
                 oversized and misshapen human, to a gorilla like
                 beast the size of an elephant.
             </para>
-            
+
             <beast name="Ogre">
                 <information>
                     <type>Monster</type>
                     <demeanor>Violent</demeanor>
-        
+
                     <habitat climate="Warm" terrain="Forest"
                              frequency="Very rare"/>
-        
+
                     <organisation group="Solitary" number="1-2"/>
-        
+
                     <origin>Habisfern</origin>
                     <genre>Fantasy</genre>
                 </information>
-        
+
                 <description>
                     <short>
                         Large monstrous humanoids.
                     </short>
-        
+
                     <physical>
                         <para>
                             Ogres look like huge over-muscled men, hairless
@@ -95,7 +95,7 @@
                         </para>
                     </physical>
                 </description>
-        
+
                 <attributes size="10" soak="15">
                     <attribute name="strength" score="15" half="7"/>
                     <attribute name="stamina" score="5"/>
@@ -106,7 +106,7 @@
                     <attribute name="charisma" score="1"/>
                     <attribute name="will" score="2"/>
                 </attributes>
-        
+
                 <skills>
                     <group name="Talents" type="talents">
                         <skill name="Athletics" score="4"/>
@@ -118,12 +118,12 @@
                         <skill name="Stealth" score="2"/>
                         <skill name="Throw" score="4"/>
                     </group>
-        
+
                     <group name="Misc" type="skills">
                         <skill name="Survival" score="4"/>
                     </group>
                 </skills>
-        
+
                 <combat>
                     <combatstyle style="Brawl" skill="Brawl">
                         <primary>None</primary>
@@ -132,7 +132,7 @@
                         <defence attribute="agility" bonus="+9"/>
                         <damage type="stun" bonus="+1"/>
                     </combatstyle>
-        
+
                     <combatstyle style="Club" skill="Brawl">
                         <primary>Club</primary>
                         <initiative attribute="agility" bonus="+10"/>
@@ -140,21 +140,21 @@
                         <defence attribute="agility" bonus="+9"/>
                         <damage type="stun" bonus="+1"/>
                     </combatstyle>
-                    
+
                     <armourstyle style="Base"/>
-        
+
                     <armourstyle style="Natural">
                         <armour name="Hide" protection="+2"/>
                     </armourstyle>
                 </combat>
-        
+
                 <passions>
                     <passion name="Bravery" score="6"/>
                     <passion name="Ego" score="4"/>
                     <passion name="Restraint" score="2"/>
-                    <passion name="Temperence" score="2"/>
+                    <passion name="Temperance" score="1"/>
                 </passions>
-        
+
                 <advantages>
                     <advantage name="High pain threshold"/>
                     <advantage name="Acute sense of smell" score="+2"/>
