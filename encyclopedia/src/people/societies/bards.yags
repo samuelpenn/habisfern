@@ -48,75 +48,75 @@
             <title>Bards</title>
 
             <para>
-                Bards are members of an elite religious order 
-                which dates back to before the original 
-                migrations. They are far more than just singers 
-                and storytellers - they are preservers of culture 
+                Bards are members of an elite religious order
+                which dates back to before the original
+                migrations. They are far more than just singers
+                and storytellers - they are preservers of culture
                 and knowledge which goes back many centuries.
             </para>
 
             <para>
-                Because of their considered importance, bards are 
-                protected by law in many lands. They may be 
-                expelled from a domain - and are expected to 
-                honour such expulsions - but they may not be 
-                harmed or manhandled (the honouring of expulsions 
+                Because of their considered importance, bards are
+                protected by law in many lands. They may be
+                expelled from a domain - and are expected to
+                honour such expulsions - but they may not be
+                harmed or manhandled (the honouring of expulsions
                 is there to ensure that force doesn't become necessary).
             </para>
 
             <para>
-                To back this up, there are plenty of 
-                superstitions around the harming of bards, which 
+                To back this up, there are plenty of
+                superstitions around the harming of bards, which
                 helps to enforce the law amongst the lawless.
             </para>
 
             <para>
-                Bards have no structured organisation. 
-                Apprentices are taught by a master bard, who then 
-                teaches their apprentice and so on. The training 
-                of a bard is considered of upmost importance, for 
-                a badly trained bard can corrupt the knowledges 
+                Bards have no structured organisation.
+                Apprentices are taught by a master bard, who then
+                teaches their apprentice and so on. The training
+                of a bard is considered of utmost importance, for
+                a badly trained bard can corrupt the knowledges
                 they pass on to others.
             </para>
 
             <para>
-                The most famous bards have reputations which go 
-                far and wide, and to be recognised as one who has 
-                studied under such personages will provide a 
-                young bard with much reputation. Indeed, the 
-                lineage of bards, from masters to apprentices is 
-                considered of great importance, if not only to 
+                The most famous bards have reputations which go
+                far and wide, and to be recognised as one who has
+                studied under such personages will provide a
+                young bard with much reputation. Indeed, the
+                lineage of bards, from masters to apprentices is
+                considered of great importance, if not only to
                 check the validity of a bard's claim to the title.
             </para>
 
             <para>
-                Bards are held to be neutral in all disputes, 
-                though this is rarely the case, especially when 
-                the majority are housed by individual lords on a 
+                Bards are held to be neutral in all disputes,
+                though this is rarely the case, especially when
+                the majority are housed by individual lords on a
                 permanent basis.
             </para>
 
             <para>
-                However, bards are not expected to bare arms, or 
-                take up arms against others. Fighting bards do 
-                exist (especially in Bryteland and Tanwall), and 
-                are considered to have waived their special 
+                However, bards are not expected to bare arms, or
+                take up arms against others. Fighting bards do
+                exist (especially in Bryteland and Tanwall), and
+                are considered to have waived their special
                 rights to protection from harm.
             </para>
         </sect1>
-        
+
         <sect1>
             <title>Bardic Knowledge</title>
-            
+
             <sect2>
                 <title>Skills</title>
-                
+
             </sect2>
 
             <sect2>
                 <title>Characters</title>
-                
-                <characters role="package" title="Bards">            
+
+                <characters role="package" title="Bards">
                     <character name="Bard">
                         <description>
                             <short>
@@ -127,7 +127,7 @@
                             fathers may lock away their daughters when a Bard is about.
                             </short>
                         </description>
-                
+
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
@@ -140,7 +140,7 @@
                                     <skill name="Stealth" score="2"/>
                                     <skill name="Throw" score="2"/>
                                 </group>
-                    
+
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
@@ -150,7 +150,7 @@
                                     <skill name="Faerie lore" score="2"/>
                                     <skill name="Religion" score="2"/>
                                 </group>
-                    
+
                                 <group name="Other" type="skills">
                                     <skill name="Ride" score="2"/>
                                     <skill name="Etiquette" score="2"/>
@@ -162,29 +162,29 @@
                     </character>
                 </characters>
             </sect2>
-            
+
             <sect2>
                 <title>Bardic Techniques</title>
-                
+
                 <para>
                     Bards can learn the following techniques if they
                     have a suitable teacher.
                 </para>
-            
+
                 <advantages role="technique" title="Bardic Songs">
                     <description>
                         <para>
                             Bards can learn the following techniques if
                             they have a suitable teacher. Bardic techniques
-                            are used with song and music to enthrall or
-                            motivate their audiance.
+                            are used with song and music to eenthralor
+                            motivate their aaudience
                         </para>
                     </description>
-                    
+
                     <advantage name="Song of Battle" type="technique">
                         <cost points="3"/>
                         <skill name="Perform"/>
-                        
+
                         <description>
                             <para>
                                 A song of passion and battle, which
@@ -196,11 +196,11 @@
                             </para>
                         </description>
                     </advantage>
-                
+
                     <advantage name="Song of Dread" type="technique">
                         <cost points="3"/>
                         <skill name="Perform"/>
-                        
+
                         <description>
                             <para>
                                 A song which inspires fear in the enemy,
@@ -211,7 +211,7 @@
                                 the will x ego of each target with their
                                 own charisma x perform.
                             </para>
-                            
+
                             <para>
                                 Can be combined with <e>Song of Battle</e>
                                 in order to give bonuses to the Bard's
@@ -219,12 +219,12 @@
                             </para>
                         </description>
                     </advantage>
-                    
+
                     <advantage name="Song of War" type="technique">
                         <cost points="5"/>
                         <skill name="Perform"/>
                         <prerequisite>Song of Battle</prerequisite>
-                        
+
                         <description>
                             <para>
                                 As <e>Song of Battle</e>, plus all penalties
@@ -233,12 +233,12 @@
                             </para>
                         </description>
                     </advantage>
-                    
+
                     <advantage name="Song of Terror" type="technique">
                         <cost points="5"/>
                         <skill name="Perform"/>
                         <prerequisite>Song of Dread</prerequisite>
-                        
+
                         <description>
                             <para>
                                 Inspire fear and terror in any enemy who
@@ -248,12 +248,12 @@
                             </para>
                         </description>
                     </advantage>
-                    
+
                     <advantage name="Song of Fury" type="technique">
                         <cost points="7"/>
                         <skill name="Perform"/>
                         <prerequisite>Song of War</prerequisite>
-                        
+
                         <description>
                             <para>
                                 As <e>Song of War</e>, plus those affected
@@ -263,33 +263,33 @@
                             </para>
                         </description>
                     </advantage>
-                    
+
                     <advantage name="Song of Sleep" type="technique">
                         <cost points="3"/>
                         <skill name="Perform"/>
-                        
+
                         <description>
                             <para>
                                 Put people who hear this to sleep. Each
                                 minute the song is played for, listeners
-                                must make a Temperence check or gain a
+                                must make a Temperance check or gain a
                                 point of exhaustion. Listeners who are
                                 engaging in physical activity are always
                                 unaffected.
                             </para>
                         </description>
                     </advantage>
-                    
+
                     <advantage name="Song of Love" type="technique">
                         <cost points="5"/>
                         <skill name="Perform"/>
                         <prerequisite>Song of Sleep</prerequisite>
-                        
+
                         <description>
                             <para>
                                 Make someone fall in love with the player.
                                 It must be targetted at a single target.
-                                They get a Temperence check against the
+                                They get a Temperance check against the
                                 perform skill of the bard, else their
                                 feelings towards the bard shifts by one
                                 category. The bard can choose whether the
@@ -298,59 +298,59 @@
                             </para>
                         </description>
                     </advantage>
-                
+
                     <advantage name="Song of Dreaming" type="technique">
                         <cost points="7"/>
                         <skill name="Perform"/>
                         <prerequisite>Song of Sleep</prerequisite>
-                        
+
                         <description>
                             <para>
                                 Rudimentary painting the picture of the dream.
                             </para>
                         </description>
                     </advantage>
-                
+
                     <advantage name="Entrancement" type="technique">
                         <cost points="5"/>
                         <skill name="Perform"/>
-                        
+
                         <prerequisite>Song of Sleep</prerequisite>
-                
+
                         <description>
                         </description>
                     </advantage>
-                
+
                     <advantage name="Suggestion" type="technique">
                         <cost points="7"/>
                         <skill name="Perform"/>
-                        
+
                         <prerequisite>Entrancement</prerequisite>
-                
+
                         <description>
                         </description>
                     </advantage>
-                
+
                     <advantage name="Geas" type="technique">
                         <cost points="9"/>
                         <skill name="Perform"/>
                         <prerequisite>Suggestion</prerequisite>
-                
+
                         <description>
                         </description>
                     </advantage>
-                
+
                     <advantage name="Greater Geas" type="technique">
                         <cost points="12"/>
                         <skill name="Perform"/>
                         <prerequisite>Geas</prerequisite>
-                
+
                         <description>
                         </description>
                     </advantage>
-                
+
                 </advantages>
-            </sect2>            
+            </sect2>
         </sect1>
     </body>
 </article>
