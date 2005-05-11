@@ -50,31 +50,31 @@
             <title>Cult of Asabeth</title>
 
             <para>
-                The Cult of Asabeth is a female warrior cult 
-                first formed in Estwed several centuries ago. It 
-                has since been outlawed in several Shires, 
+                The Cult of Asabeth is a female warrior cult
+                first formed in Estwed several centuries ago. It
+                has since been outlawed in several Shires,
                 including Estwed, and is practically extinct.
             </para>
 
             <para>
-                The Cult teaches that anger and hate should be 
-                used to focus a person's actions. Its warriors 
+                The Cult teaches that anger and hate should be
+                used to focus a person's actions. Its warriors
                 are violent and bloodthirsty, and practise human sacrifice.
             </para>
 
             <para>
-                Temples of the Cult normally consist of 6 to 12 
-                priestesses, all of whom train in swordcraft. The 
-                most senior is referred to as Mother, and all 
-                decisions are hers, to be carried out with 
+                Temples of the Cult normally consist of 6 to 12
+                priestesses, all of whom train in swordcraft. The
+                most senior is referred to as Mother, and all
+                decisions are hers, to be carried out with
                 immediate obedience.
             </para>
 
             <para>
-                The goal of the Cult is the protection of 
-                children and women from the cruelties of others. 
-                This is often done by sudden, swift strikes 
-                against those that seen as a threat to the 
+                The goal of the Cult is the protection of
+                children and women from the cruelties of others.
+                This is often done by sudden, swift strikes
+                against those that seen as a threat to the
                 temple's lands.
             </para>
 
@@ -91,23 +91,23 @@
             </para>
 
             <para>
-                There is currently only one temple of the cult, 
+                There is currently only one temple of the cult,
                 in <qv uri="red-goddess-house">northern Scarondy</qv>.
             </para>
         </sect1>
-        
+
         <sect1>
             <title>Membership</title>
-            
+
             <para>
                 Cultists are taught the following skills and techniques.
                 Many of the techniques are shared with the Shields of
                 Neya.
             </para>
-            
+
             <sect2>
                 <title>Skills</title>
-            
+
                 <skill-list>
                     <skill name="Religion (Cult of Asabeth)" type="knowledge">
                         <description>
@@ -119,14 +119,14 @@
                     </skill>
                 </skill-list>
             </sect2>
-            
+
             <sect2>
                 <title>Characters</title>
-                
+
                 <para>
                     Priestesses of Asabeth are always female.
                 </para>
-                
+
                 <characters role="package" title="Asabeth Cultists">
                     <character name="Warrior Priestess">
                         <description>
@@ -136,7 +136,7 @@
                                 mostly for their unpredictability and bloodlust.
                             </short>
                         </description>
-                    
+
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
@@ -149,39 +149,39 @@
                                     <skill name="Stealth" score="2"/>
                                     <skill name="Throw" score="3"/>
                                 </group>
-                    
+
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
                                     <skill name="Religion (Asabeth)" score="4"/>
                                 </group>
-                    
+
                                 <group name="Combat" type="skills">
                                     <skill name="Weapon and shield" score="4"/>
                                     <skill name="Single weapon" score="3"/>
                                     <skill name="Great weapon" score="3"/>
                                 </group>
                             </skills>
-                            
+
                             <advantages>
                                 <advantage name="Blessing of Blood"/>
                                 <advantage name="Rage of the Goddess"/>
                             </advantages>
                         </statistics>
-                    </character>                    
+                    </character>
                 </characters>
             </sect2>
-            
+
             <sect2>
                 <title>Rituals</title>
-                
+
                 <para>
                     The rituals of Asabeth reflect her position as goddess
                     of War and Blood. They are generally seen as barbaric,
                     and not all cultists have the stomach for the more
                     powerful rituals.
                 </para>
-                
+
                 <advantages title="Rituals of Asabeth" role="technique">
                     <description>
                         <para>
@@ -190,7 +190,7 @@
                             and barbaric and are one reason for her cult's
                             disfavour in current times.
                         </para>
-                        
+
                         <para>
                             Asabeth looks favourably on those who let their
                             rage control them. For purposes of bonuses
@@ -199,11 +199,11 @@
                             point their <e>Restraint</e> is below four.
                         </para>
                     </description>
-                    
+
                     <advantage name="Blessing of Blood" type="technique">
                         <cost points="1"/>
                         <skill name="Religion (Asabeth)"/>
-                        
+
                         <description>
                             <para>
                                 Painting their exposed body with blood,a cultist
@@ -214,7 +214,7 @@
                                 blood of another, especially a sacrificed
                                 enemy is most desired. Automatic.
                             </para>
-                            
+
                             <para>
                                 Any ritual which has Blessing of Blood as
                                 a (directly, or indirectly) prerequisite
@@ -238,12 +238,12 @@
                             </para>
                         </description>
                     </advantage>
-                    
+
                     <advantage name="Berserker" type="technique">
                         <cost points="5"/>
                         <skill name="Religion (Asabeth)"/>
                         <prerequisite>Rage of the Goddess</prerequisite>
-                        
+
                         <description>
                             <para>
                                 Priestesses of the cult are feared for their
@@ -251,22 +251,22 @@
                                 great that they are, it is said, able to
                                 ignore death itself.
                             </para>
-                            
+
                             <para>
                                 This ritual is similar to the Brytish Berserker
                                 advantage, except the bonus is equal to the
                                 priestesses religion score rather than brawl.
-                                Berserker does not stack with 
+                                Berserker does not stack with
                                 <e>Blessing of Blood</e>.
                             </para>
                         </description>
                     </advantage>
-                    
+
                     <advantage name="Armour of Blood" type="technique">
                         <cost points="3"/>
                         <skill name="Religion (Asabeth)"/>
                         <prerequisite>Blessing of Blood</prerequisite>
-                        
+
                         <description>
                             <para>
                                 In her aspect of dread war goddess, Asabeth
@@ -275,7 +275,7 @@
                                 some of their humanity, giving in to their
                                 animal side of fury and rage.
                             </para>
-                            
+
                             <para>
                                 <e>Armour of Blood</e> involves the painting
                                 the body in human blood - normally that of a
@@ -285,7 +285,7 @@
                                 A priestess may use her own blood if none
                                 other is at hand.
                             </para>
-                            
+
                             <para>
                                 If the priestess puts all her faith in her
                                 goddess, and wears nothing but the blood of
@@ -295,7 +295,7 @@
                                 face bare, then she gets half this. Any more
                                 clothing and all bonuses are lost.
                             </para>
-                            
+
                             <para>
                                 In any case, the priestess always gains the
                                 bonus given by <e>Blessing of Blood</e>, if
@@ -306,12 +306,12 @@
                             </para>
                         </description>
                     </advantage>
-                    
+
                     <advantage name="Sisters in Arms" type="technique">
                         <cost points="5"/>
                         <skill name="Religion (Asabeth)"/>
                         <prerequisite>Blessing of Blood</prerequisite>
-                        
+
                         <description>
                             <para>
                                 When two or more priestesses who know this
@@ -323,12 +323,12 @@
                             </para>
                         </description>
                     </advantage>
-                    
+
                     <advantage name="Strength of the Goddess" type="technique">
                         <cost points="7"/>
                         <skill name="Religion (Asabeth)"/>
                         <prerequisite>Sisters in Arms</prerequisite>
-                        
+
                         <description>
                             <para>
                                 Can be used as a combat technique, giving
@@ -338,12 +338,12 @@
                             </para>
                         </description>
                     </advantage>
-                    
+
                     <advantage name="Shield of the Goddess" type="technique">
                         <cost points="9"/>
                         <skill name="Religion (Asabeth)"/>
                         <prerequisite>Strength of the Goddess</prerequisite>
-                        
+
                         <description>
                             <para>
                                 Knowledge of how to deflect and absorb

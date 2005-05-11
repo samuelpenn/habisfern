@@ -137,17 +137,17 @@
                 </para>
             </sect2>
         </sect1>
-        
+
         <sect1>
             <title>Characters</title>
-            
+
             <para>
                 Cultists are taught the following skills and techniques.
             </para>
-            
+
             <sect2>
                 <title>Skills</title>
-                
+
                 <skill-list>
                     <skill name="Religion (Cult of Tharos)" type="knowledge">
                         <description>
@@ -160,12 +160,12 @@
                     </skill>
                 </skill-list>
             </sect2>
-            
+
             <sect2>
                 <title>Packages</title>
-                
+
                 <characters role="package" title="Cult of Tharos">
-                
+
                     <character name="Shadows of Tharos">
                         <description>
                             <short>
@@ -173,7 +173,7 @@
                                 philosophy of Gebetan. Membership of this
                                 cult is forbiddon.
                             </short>
-                            
+
                             <background>
                                 <para>
                                     Followers of Tharos seek perfection of
@@ -181,7 +181,7 @@
                                     the martial and physical arts to the
                                     best of their ability.
                                 </para>
-                                
+
                                 <para>
                                     To them, the individual self is what
                                     matters. Acts which test their skill
@@ -192,7 +192,7 @@
                                 </para>
                             </background>
                         </description>
-                        
+
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
@@ -205,18 +205,18 @@
                                     <skill name="Stealth" score="4"/>
                                     <skill name="Throw" score="2"/>
                                 </group>
-                    
+
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
                                     <skill name="Religion (Tharos)" score="4"/>
                                 </group>
-                                
+
                                 <group name="Combat" type="skills">
                                     <skill name="Single weapon" score="4"/>
                                 </group>
                             </skills>
-                    
+
                             <equipment>
                                 <item name="Dark clothes"/>
                                 <item name="Long knife"/>
@@ -225,7 +225,7 @@
                     </character>
                 </characters>
             </sect2>
-            
+
             <sect2>
                 <title>Rituals</title>
 
@@ -285,7 +285,7 @@
                         <skill name="Religion (Tharos)"/>
 
                         <prerequisite>Perfection of Body</prerequisite>
-                        
+
                         <description>
                             <para>
                                 Those with an understanding of Gebetan know
@@ -296,7 +296,7 @@
                                 bonus to strength, agility and dexterity for
                                 all actions that round.
                             </para>
-                            
+
                             <para>
                                 At the end of the round, one level of
                                 fatigue is gained, which may be recovered
@@ -318,7 +318,7 @@
                                 as they like, each giving +1 to strength,
                                 agility and dexterity.
                             </para>
-                            
+
                             <para>
                                 If at the end of the round, fatigue is
                                 gained beyond the <e>exhausted</e> level,
@@ -330,11 +330,11 @@
                             </para>
                         </description>
                     </advantage>
-                    
+
                     <advantage name="Cloak of Shadows" type="technique">
                         <cost points="4"/>
                         <skill name="Religion (Tharos)"/>
-                        
+
                         <description>
                             <para>
                                 Tharos may help hide those of his followers
@@ -343,7 +343,7 @@
                                 gain a bonus to stealth rolls equal to their
                                 religion score.
                             </para>
-                            
+
                             <para>
                                 Such cloaks are blessed in rituals to Tharos
                                 and have his symbol inscribed on the hem.
@@ -365,7 +365,7 @@
                             </para>
                         </description>
                     </advantage>
-                    
+
                     <advantage name="Out of Sight" type="technique">
                         <cost points="15"/>
                         <skill name="Religion (Tharos)"/>
@@ -380,7 +380,7 @@
                                 none were watching him when he chose to
                                 hide.
                             </para>
-                            
+
                             <para>
                                 It takes a whole round to prepare this
                                 ritual, but once used, the cultist is

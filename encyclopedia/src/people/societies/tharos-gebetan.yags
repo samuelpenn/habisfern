@@ -34,7 +34,7 @@
         </references>
 
         <topics>
-            <subject uri="gebetan">Gebetan</subject>
+            <subject uri="tharos-gebetan">Gebetan</subject>
 
             <category>Cult</category>
 
@@ -47,11 +47,19 @@
     <body>
         <sect1>
             <title>Gebetan</title>
-            
+
             <para>
-                Gebetan is the philosophy followed by the cult of 
-                Tharos. It teaches personal perfection above all else, 
-                both in body and mind.
+                Gebetan is the philosophy followed by the cult of
+                Tharos. It teaches personal perfection above all else,
+                both in body and mind. A person must continuously push
+                themselves to their limit, for that is seen as the only
+                way to push beyond those limits and improve.
+            </para>
+
+            <para>
+                The Art of Gebetan is also a legendary style of combat,
+                through which a practitioner can achieve physical feats
+                beyond the capability of normal men.
             </para>
         </sect1>
     </body>
