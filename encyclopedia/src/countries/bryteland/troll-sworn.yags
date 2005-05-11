@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Troll Sworn</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2005</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="trolls">Trolls</see>
+        </references>
+
+        <topics>
+            <subject uri="troll-sworn">Troll Sworn</subject>
+
+            <category>People</category>
+
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Troll Sworn</title>
+
+            <para>
+                During the wars against the White Trolls in northern
+                Bryteland, a number of Men fought alongside the Trolls
+                against their own kin. These people were cursed as traitors
+                and named the Troll Sworn.
+            </para>
+
+            <para>
+                The reasons for their defection are unclear, but probably
+                involved the lust for wealth and power. They fought with a
+                savage fury that suggested that their minds had been
+                corrupted, though whether this happened before or after is
+                unknown. It is said that they had a hunger for human flesh,
+                and butchered whole villages, roasting the bodies of the
+                slain in great bonfires before feasting upon them.
+            </para>
+
+            <para>
+                The Brytish hated the Troll Sworn even more than they hate
+                the shape shifters, and it is a term that these days is
+                used mostly as an insult when wanting to start a blood
+                feud.
+            </para>
+        </sect1>
+    </body>
+
+</article>
+
+
+
