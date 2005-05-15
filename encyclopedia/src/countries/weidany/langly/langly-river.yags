@@ -2,7 +2,7 @@
 
 <article>
     <header>
-        <title>Storwood Hills</title>
+        <title>Langly River</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -33,11 +33,14 @@
         </references>
 
         <topics>
-            <subject uri="storwood-hills">Storwood Hills</subject>
+            <subject uri="langly-river">Langly River</subject>
 
-            <category>Hills</category>
+            <category>River</category>
 
             <topic uri="langly-shire">Langly Shire</topic>
+            <topic uri="merrik-shire">Merrik Shire</topic>
+            <topic uri="merkia-shire">Merkia Shire</topic>
+            <topic uri="angsly-shire">Angsly Shire</topic>
             <topic uri="weidany">Weidany</topic>
             <topic uri="euressa">Euressa</topic>
             <topic uri="habisfern">Habisfern</topic>
@@ -46,21 +49,15 @@
 
     <body>
         <sect1>
-            <title>Storwood Hills</title>
+            <title>Langly River</title>
 
             <para>
-                A region of high ground in Langly Shire, the Storwood is
-                also the source of the
-                <qv uri="inling-river">Inling River</qv>. It is a region
-                of steep hills and wooded valleys.
-            </para>
-
-            <para>
-                The northeastern part of the hills is actually lower than
-                the surrounding land, and is covered in warm marsh and
-                mud flats. The region is often shrouded in mist, and
-                there are a few hot springs which are reputed to have
-                medicinal properties.
+                River which runs along the borders of several shires,
+                including Merrik, Merkia, Angsly, Langly and Talmoth.
+                It carries much traffic from Aidan, Northmarch and
+                Strathby down to the coast at Tealmouth (it joins the
+                <qv uri="teal-river">Teal River</qv> soon after
+                intering Northwood Shire.
             </para>
         </sect1>
     </body>
