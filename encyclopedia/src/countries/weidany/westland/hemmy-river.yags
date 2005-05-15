@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Hemmy River</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="hemmy-river">Hemmy River</subject>
+
+            <category>River</category>
+
+            <topic uri="westland-shire">Westland Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Hemmy River</title>
+
+            <para>
+                River in <qv uri="westland-shire">Westland</qv> which
+                empties into Stowell Bay at <qv uri="stowell">Stowell</qv>.
+                It is fed from the <qv uri="inling-river">Inling
+                River</qv>, as well as other minor tributaries.
+            </para>
+
+            <para>
+                It is a deep and wide river, and difficult to cross.
+                A major crossing point is at
+                <qv uri="hemmysford">Hemmysford</qv>, where a great
+                stone bridge has been constructed.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
