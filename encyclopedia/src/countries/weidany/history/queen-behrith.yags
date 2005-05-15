@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Behrith, Queen of Weidany</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2005</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="weidany-queen">Queen of Weidany</see>
+        </references>
+
+        <topics>
+            <subject uri="queen-behrith">Queen Behrith</subject>
+
+            <category>Queen</category>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Queen Behrith</title>
+
+            <para>
+                Queen Behrith was born in 1185, and ascended the throne
+                in 1225. She has four daughters - Eodhild, Wilith,
+                Aelflaed and Aeldith.
+            </para>
+
+            <para>
+                Behrith is a red headed woman in her forties. She is
+                tall (180cm) and striking, though not necessarily
+                beautiful. She is not a warrior queen, though is an
+                excellent diplomat.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

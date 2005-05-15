@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Cunith Battlecrow</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2005</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="sexrun-whiteheart">Sexrun Whiteheart</see>
+            <see uri="queen-frythrun">Queen Frythrun</see>
+        </references>
+
+        <topics>
+            <subject uri="cunith-battlecrow">Cunith Battlecrow</subject>
+
+            <category>Person</category>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Cunith Battlecrow</title>
+
+            <para>
+                First cousin of <qv uri="queen-behrith">Queen Behrith</qv>
+                of Weidany, she was captain of the Red Guard until
+                1195 when she betrayed Queen Frythrun, and sided with
+                those plotting to overthrow her.
+            </para>
+
+            <para>
+                She is slain at the
+                <qv uri="crow-field">Battle of Crow Field</qv> later
+                in the year by <qv uri="sexrun-whiteheart">Sexrun</qv>.
+            </para>
+
+            <para>
+                Cunith was born in 1168, and was a capable warrior
+                and leader, being a Priestess of Neya for most of her
+                life. At the end, she rode under the Red Banner of
+                Asabeth.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+
+<article>
+    <header>
+        <title>Sexrun Whiteheart</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2005</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="cunith-battlecrow">Cunith Battlecrow</see>
+            <see uri="queen-frythrun">Queen Frythrun</see>
+        </references>
+
+        <topics>
+            <subject uri="sexrun-whiteheart">Sexrun Whiteheart</subject>
+
+            <category>Person</category>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Sexrun Whiteheart</title>
+
+            <para>
+                In 1195 Sexrun takes over command of the Red Guard
+                and leads them in a battle against her sister
+                Cynehild and the previous captain of the Guard,
+                Cunith Battlecrow. The latter were plotting against
+                <qv uri="queen-frythrun">Queen Frythrun</qv>.
+            </para>
+
+            <para>
+                Sexrun has the bodies of those who fought against
+                the Queen stripped and mutilated, then hung up in
+                front of the castle at Stowell as a lesson to others.
+                Their remains still hang there to this day.
+            </para>
+
+            <para>
+                She also has the body of the Queen's sister
+                <qv uri="eadgifu-the-white">Eadgifu the White</qv>
+                whipped and dragged through the streets before being
+                hung with her daughters, even though Eadgifu was
+                generally considered to be innocent.
+            </para>
+
+            <para>
+                Before 1195, Sexrun was a reasonably obscure relative
+                of the Queen. After those events, she rose to
+                prominence and notoriety as Captain of the Red Guard
+                until her death in 1221. She took part in several
+                other bloodlettings, including an expedition to the
+                south where she caught up with and killed Cynehild.
+                It is rumoured that she kept Cynehild alive under
+                torture for three weeks before eventually allowing
+                her to die.
+            </para>
+
+            <para>
+                Sexrun had one daughter, Cendrun the Tall, who was
+                conceived whilst Sexrun was in
+                <qv uri="midlaen">Midlaen</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
