@@ -2,7 +2,7 @@
 
 <article>
     <header>
-        <title>Inling River</title>
+        <title>Storwood Hills</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -33,9 +33,9 @@
         </references>
 
         <topics>
-            <subject uri="inling-river">Inling River</subject>
+            <subject uri="storwood-hills">Storwood Hills</subject>
 
-            <category>River</category>
+            <category>Hills</category>
 
             <topic uri="langly-shire">Langly Shire</topic>
             <topic uri="westland-shire">Westland Shire</topic>
@@ -47,29 +47,21 @@
 
     <body>
         <sect1>
-            <title>River Inling</title>
+            <title>Storwood Hills</title>
 
             <para>
-                The River Inling begins in the
-                <qv uri="storwood-hills">Storwood Hills</qv> in central
-                <qv uri="langly-shire">Langly</qv> and runs southwards
-                down into <qv uri="westland-shire">Westland</qv> until
-                it meets the <qv uri="hemmy-river">Hemmy River</qv>.
+                A region of high ground in Langly Shire, the Storwood is
+                also the source of the
+                <qv uri="inling-river">Inling River</qv>. It is a region
+                of steep hills and wooded valleys.
             </para>
 
             <para>
-                Once it has left the Storwood Hills, it is generally
-                slow and shallow, with fords being common along much
-                of its length.
-            </para>
-
-            <para>
-                Traffic along the Inling consists of barges carrying
-                wood, tin and cloth down to the coast, whilst more
-                luxurious goods come North to Milbry. Some of these
-                goods are destined for Merkia, Northwood or Merrik,
-                heading overland once they have reached
-                <qv uri="milbry">Milbry</qv>.
+                The northeastern part of the hills is actually lower than
+                the surrounding land, and is covered in warm marsh and
+                mud flats. The region is often shrouded in mist, and
+                there are a few hot springs which are reputed to have
+                medicinal properties.
             </para>
         </sect1>
     </body>
