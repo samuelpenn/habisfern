@@ -44,26 +44,42 @@
             <title>Tarvallah</title>
 
             <para>
-                Tarvallah was the land promised to the People of 
-                Rorn when they chose to follow 'him out of the 
-                Old World away from the Ice.
+                Tarvallah was the land promised to the People of
+                <qv uri="rorn">Rorn</qv> when they chose to follow him
+                out of the <qv uri="old-world">Old World</qv> away from
+                the <qv uri="ice">Ice</qv>.
             </para>
 
             <para>
-                It was a temperate, fertile land free of Ice. 
-                Rorn however was betrayed by his brother and his 
-                brother's wife, and he was slain. His death 
-                brought fire, famine and disease to Tarvallah. 
-                His blood flowed from the sky a fire, and poisons 
+                It was a temperate, fertile land free of Ice.
+                Rorn however was betrayed by his brother and his
+                brother's wife, and he was slain. His death
+                brought fire, famine and disease to Tarvallah.
+                His blood flowed from the sky a fire, and poisons
                 swept the land of life.
             </para>
 
             <para>
-                The People fled, and fought amongst themselves as 
-                the gods fought in the heavens. Tarvallah was 
+                The People fled, and fought amongst themselves as
+                the gods fought in the heavens. Tarvallah was
                 abandoned, left as a desolate wilderness.
             </para>
 
+            <sect2>
+                <title>The Five Kingdoms</title>
+
+                <para>
+                    Little is now known of Tarvallah, and of the
+                    tales that are told, most have suffered a
+                    thousand years of embellishment.
+                </para>
+
+                <para>
+                    Tarvallah is said to have been formed of
+                    <qv uri="five-kingdoms">Five Kingdoms</qv> for many
+                    years before the <qv uri="betrayal">Betrayal</qv>.
+                </para>
+            </sect2>
         </sect1>
     </body>
 </article>
