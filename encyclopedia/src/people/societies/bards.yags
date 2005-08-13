@@ -291,7 +291,7 @@
                                 lasts until the target has slept.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
                     <y:advantage name="Song of Dreaming" type="technique">
                         <y:cost points="7"/>
