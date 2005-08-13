@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 
-<article xmlns="http://yagsbook.sourceforge.net/xml">
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
     <header>
         <title>Peada, Noble House</title>
         <tagline>Habisfern</tagline>
@@ -63,17 +64,17 @@
                 house members having 'gone native'.
             </para>
         </sect1>
-        
+
         <sect1>
             <title>Characters</title>
-            
+
             <sect2>
                 <title>Advantages</title>
-                
-                <advantages role="background" title="House of Peada">
-                    <advantage name="House of Peada" type="background">
-                        <cost points="5"/>
-                        
+
+                <y:advantages role="background" title="House of Peada">
+                    <y:advantage name="House of Peada" type="background">
+                        <y:cost points="5"/>
+
                         <description>
                             <para>
                                 The character is a member of the House of
@@ -83,8 +84,8 @@
                                 the Kingdom.
                             </para>
                         </description>
-                    </advantage>
-                </advantages>
+                    </y:advantage>
+                </y:advantages>
             </sect2>
         </sect1>
     </body>

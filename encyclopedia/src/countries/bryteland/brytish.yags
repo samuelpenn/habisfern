@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 
-<article xmlns="http://yagsbook.sourceforge.net/xml">
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
     <header>
         <title>Brytish</title>
         <tagline>Habisfern</tagline>
@@ -57,7 +58,7 @@
                 The quickest way out, is to loose the trust of those you
                 claim to rule.
             </para>
-            
+
             <para>
                 Slavery exists, though it is uncommon, and tends to be more
                 due to a temporary financial setback, than a social class.
@@ -65,21 +66,21 @@
                 an agreed upon amount when the person entered slavery.
             </para>
         </sect1>
-        
+
         <sect1>
             <title>Characters</title>
-            
+
             <sect2>
                 <title>Skills</title>
-                
+
                 <para>
                     The following skills are common amongst the Brytish.
                     Unless otherwise noted, anyone can learn them as long
                     as they have had a reasonable opportunity to.
                 </para>
-                
-                <skill-list>
-                    <skill name="Speak Brytish" type="language">
+
+                <y:skill-list>
+                    <y:skill name="Speak Brytish" type="language">
                         <description>
                             <para>
                                 Brytish borrows from the Rornic language,
@@ -88,16 +89,16 @@
                                 to their skill when trying to communicate
                                 with a speaker of the other tongue.
                             </para>
-                            
+
                             <para>
                                 Brytish is quite similar to Tannish, and
                                 speakers are at -1 to their skill when
                                 trying to communicate.
                             </para>
                         </description>
-                    </skill>
-                    
-                    <skill name="Religion (Ashek)" type="knowledge">
+                    </y:skill>
+
+                    <y:skill name="Religion (Ashek)" type="knowledge">
                         <description>
                             <para>
                                 Many Brytish follow the god Ashek, or at
@@ -107,9 +108,9 @@
                                 Lore (Bryteland) skill.
                             </para>
                         </description>
-                    </skill>
-                    
-                    <skill name="Religion (Brytish)" type="knowledge">
+                    </y:skill>
+
+                    <y:skill name="Religion (Brytish)" type="knowledge">
                         <description>
                             <para>
                                 Knowledge of the Brytish pantheon of gods.
@@ -120,20 +121,20 @@
                                 knowledge of the other gods of the Pantheon.
                             </para>
                         </description>
-                    </skill>
-                </skill-list>
+                    </y:skill>
+                </y:skill-list>
             </sect2>
-            
+
             <sect2>
                 <title>Advantages</title>
-                
+
                 <para>
                     Brytish characters may choose from the following
                     advantages at the start of the game. These advantages
                     cannot be obtained later.
                 </para>
-                
-                <advantages role="background" title="Brytish">
+
+                <y:advantages role="background" title="Brytish">
                     <description>
                         <para>
                             Brytish characters may choose from the following
@@ -141,29 +142,29 @@
                             advantages cannot be obtained later.
                         </para>
                     </description>
-                
-                    <advantage name="Brave" type="advantage">
-                        <cost points="2"/>
+
+                    <y:advantage name="Brave" type="advantage">
+                        <y:cost points="2"/>
                         <description>
                             <para>
                                 Gain a +1 bonus to will when making bravery
                                 checks.
                             </para>
                         </description>
-                    </advantage>
-                    
-                    <advantage name="Resistent to magic" type="advantage">
-                        <cost points="3"/>
+                    </y:advantage>
+
+                    <y:advantage name="Resistent to magic" type="advantage">
+                        <y:cost points="3"/>
                         <description>
                             <para>
                                 Gain a +1 bonus to will when resisting any
                                 form of magic, or magically enhanced effect.
                             </para>
                         </description>
-                    </advantage>
-                    
-                    <advantage name="Berserker" type="advantage">
-                        <cost points="4"/>
+                    </y:advantage>
+
+                    <y:advantage name="Berserker" type="advantage">
+                        <y:cost points="4"/>
                         <description>
                             <para>
                                 For the Brytish, the Berserker has a special
@@ -174,7 +175,7 @@
                                 Berserker trait, and cannot gain it after
                                 birth.
                             </para>
-                            
+
                             <para>
                                 A berserker can choose to go berserk at any
                                 time when there is blood to be spilt. No
@@ -185,7 +186,7 @@
                                 the nearest foe, though can choose to fight
                                 towards a hero or leader of the enemy.
                             </para>
-                            
+
                             <para>
                                 The berserker gets a bonus to certain rolls
                                 equal to their Brawl score. The rolls
@@ -193,51 +194,51 @@
                                 Berserker's restraint and temperance
                                 passions. All bonuses are cumulative.
                             </para>
-                            
+
                             <targetlist targetFirst="true">
                                 <targetLabel>Total</targetLabel>
                                 <valueLabel>Bonus to...</valueLabel>
-                                
+
                                 <item target="9+" value="No bonuses."/>
-                                
+
                                 <item target="8" value="Bravery."/>
                                 <item target="7" value="Ego.">
                                     Reduce all wound, stun and fatigue
                                     penalties by one level.
                                 </item>
-                                
+
                                 <item target="6" value="Initiative.">
                                     Reduce penalties by two levels.
                                 </item>
-                                
+
                                 <item target="5" value="Attack.">
                                     Reduce penalties by three levels.
                                 </item>
-                                
+
                                 <item target="4" value="Damage.">
                                     Reduce penalties by four levels.
                                 </item>
-                                
+
                                 <item target="3" value="Defence.">
                                     Ignore all wound, stun and fatigue
                                     penalties.
                                 </item>
-                                
+
                                 <item target="2" value="Death checks.">
                                     Ignore unconsciousness results.
                                 </item>
                             </targetlist>
-                            
+
                             <para>
                                 In order to leave the berserk state, a
                                 will x restraint check is required at the
                                 following difficulties.
                             </para>
-                            
+
                             <targetlist targetFirst="true">
                                 <targetLabel>Target</targetLabel>
                                 <valueLabel>Circumstances</valueLabel>
-                                
+
                                 <item target="10" value="No one in sight."/>
                                 <item target="15" value="No enemies."/>
                                 <item target="20" value="Good reason.">
@@ -247,7 +248,7 @@
                                     important, or an important mission to
                                     accomplish).
                                 </item>
-                                
+
                                 <item target="25" value="Moderate reason.">
                                     Either the battle is almost over or
                                     there is a good reason.
@@ -255,10 +256,10 @@
                                 <item target="30" value=""/>
                             </targetlist>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Hatred (shapechangers)" type="advantage">
-                        <cost points="-2"/>
+                    <y:advantage name="Hatred (shapechangers)" type="advantage">
+                        <y:cost points="-2"/>
                         <description>
                             <para>
                                 All Brytish have a strong dislike of
@@ -276,8 +277,8 @@
                                 to Will and Stamina when making checks.
                             </para>
                         </description>
-                    </advantage>
-                </advantages>
+                    </y:advantage>
+                </y:advantages>
             </sect2>
         </sect1>
 

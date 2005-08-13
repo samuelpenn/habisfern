@@ -77,149 +77,42 @@
                 found she had tatoos across her chest, left shoulder and
                 back, and wouldn't say what had happened.
             </para>
-            
+
             <sect2>
                 <title>People</title>
-                
+
                 <para>
                     Rorn's Vale is quite a way off the major trade
                     routes, and needs to be pretty much self supporting
                     wherever possible. It is a focal point for those
                     who live in and around the Cairn Hills.
                 </para>
-                
+
                 <character name="Berdun">
                     <description>
                         <race>Human</race>
                         <gender>Male</gender>
                         <age>45</age>
-                        
+
                         <short>
                             Middle aged man with dark unkempt hair.
                         </short>
                     </description>
-                    
-                    <attributes size="5">
-                        <attribute name="strength" score="3"/>
-                        <attribute name="stamina" score="3"/>
-                        <attribute name="agility" score="3"/>
-                        <attribute name="dexterity" score="2"/>
-                        <attribute name="perception" score="3"/>
-                        <attribute name="intelligence" score="3"/>
-                        <attribute name="charisma" score="2"/>
-                        <attribute name="will" score="3"/>
-                    </attributes>
-                        
-                    <passions>
-                        <passion name="Bravery" score="4"/>
-                        <passion name="Ego" score="3"/>
-                        <passion name="Restraint" score="4"/>
-                        <passion name="Temperance" score="2"/>
-                    </passions>
-                        
-                    <skills>
-                        <group name="Talents" type="talents">
-                            <skill name="Athletics" score="2"/>
-                            <skill name="Awareness" score="3"/>
-                            <skill name="Brawl" score="4"/>
-                            <skill name="Charm" score="4"/>
-                            <skill name="Guile" score="3"/>
-                            <skill name="Sleight" score="1"/>
-                            <skill name="Stealth" score="2"/>
-                            <skill name="Throw" score="4"/>
-                        </group>
-                            
-                        <group name="Knowledges" type="knowledge">
-                            <skill name="Area lore" score="2"/>
-                            <skill name="Folk lore" score="2"/>
-                            <skill name="Law" score="2"/>
-                        </group>
-                            
-                        <group name="Languages" type="language">
-                            <skill name="Speak Rornic" score="4"/>
-                        </group>
-                        
-                        <group name="Combat" type="skills">
-                            <skill name="Weapon and shield" score="5"/>
-                        </group>
-                        
-                        <group name="Misc" type="skills">
-                            <skill name="Farming" score="3"/>
-                            <skill name="Trade" score="3"/>
-                        </group>
-                    </skills>
-                    
-                    <advantages>
-                        <advantage name="Weakness (alcohol)"/>
-                        <advantage name="Heavy drinker" score="+2"/>
-                    </advantages>
                 </character>
-                
+
                 <character name="Jangi">
                     <description>
                         <race>Human</race>
                         <gender>Female</gender>
                         <age>27</age>
-                        
+
                         <short>
                             Good looking woman with long dark hair.
                         </short>
                     </description>
-                        
-                    <attributes size="5">
-                        <attribute name="strength" score="2"/>
-                        <attribute name="stamina" score="3"/>
-                        <attribute name="agility" score="3"/>
-                        <attribute name="dexterity" score="3"/>
-                        <attribute name="perception" score="3"/>
-                        <attribute name="intelligence" score="3"/>
-                        <attribute name="charisma" score="4"/>
-                        <attribute name="will" score="4"/>
-                    </attributes>
-                        
-                    <passions>
-                        <passion name="Bravery" score="4"/>
-                        <passion name="Ego" score="5"/>
-                        <passion name="Restraint" score="3"/>
-                        <passion name="Temperence" score="6"/>
-                    </passions>
-                        
-                    <skills>
-                        <group name="Talents" type="talents">
-                            <skill name="Athletics" score="4"/>
-                            <skill name="Awareness" score="3"/>
-                            <skill name="Brawl" score="2"/>
-                            <skill name="Charm" score="5"/>
-                            <skill name="Guile" score="3"/>
-                            <skill name="Sleight" score="3"/>
-                            <skill name="Stealth" score="3"/>
-                            <skill name="Throw" score="2"/>
-                        </group>
-                            
-                        <group name="Knowledges" type="knowledge">
-                            <skill name="Area lore" score="2"/>
-                            <skill name="Folk lore" score="3"/>
-                            <skill name="Law" score="1"/>
-                        </group>
-                            
-                        <group name="Languages" type="language">
-                            <skill name="Speak Rornic" score="4"/>
-                        </group>
-                        
-                        <group name="Misc" type="skills">
-                            <skill name="Handicraft" score="4"/>
-                            <skill name="Brewing" score="2"/>
-                            <skill name="Farming" score="2"/>
-                            <skill name="Trade" score="2"/>
-                        </group>
-                    </skills>
-                    
-                    <advantages>
-                        <advantage name="Appearance" score="+1"/>
-                    </advantages>
                 </character>
             </sect2>
-            
+
             <sect2>
                 <title>History</title>
             </sect2>

@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 
-<article xmlns="http://yagsbook.sourceforge.net/xml">
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
     <header>
         <title>Aeddan, Noble House</title>
         <tagline>Habisfern</tagline>
@@ -59,20 +60,20 @@
                 the Elder Races, but now owns little land, and has even
                 less political power.
             </para>
-            
+
             <para>
                 Members of the House have a tradition of choosing
                 Weidanic names, rather than Rornic, though this isn't
                 always observed. Many in the House have some skill at
                 wizardry, though few persue it as their life's goal.
             </para>
-            
+
             <para>
                 It is allied with the House of Oswald, though this is
                 thought more to be for reasons of survival, than genuine
                 friendship.
             </para>
-            
+
             <para>
                 Ealdorman Uwain is lord of this House.
             </para>
@@ -89,29 +90,29 @@
             <sect2>
                 <title>Advantages</title>
 
-                <advantages role="background" title="House of Aeddan">
-                    <advantage name="House of Aeddan" type="background">
-                        <cost points="5"/>
-    
+                <y:advantages role="background" title="House of Aeddan">
+                    <y:advantage name="House of Aeddan" type="background">
+                        <y:cost points="5"/>
+
                         <description>
                             <para>
                                 Character is of the House of Aeddan. This
                                 advantage is required before any of the other
                                 advantages of this house can be obtained.
                             </para>
-                            
+
                             <para>
                                 The House of Aeddan is a minor House, but
                                 the character still has access to friends
                                 and influence they would not otherwise have.
                             </para>
                         </description>
-                    </advantage>
-    
-                    <advantage name="Strong at magic" type="advantage">
-                        <cost points="4"/>
-                        <prerequisite>House of Aeddan</prerequisite>
-    
+                    </y:advantage>
+
+                    <y:advantage name="Strong at magic" type="advantage">
+                        <y:cost points="4"/>
+                        <y:prerequisite>House of Aeddan</y:prerequisite>
+
                         <description>
                             <para>
                                 The House of Aeddan is noted for its members
@@ -120,8 +121,8 @@
                                 learn a new Rune.
                             </para>
                         </description>
-                    </advantage>
-                </advantages>
+                    </y:advantage>
+                </y:advantages>
             </sect2>
         </sect1>
 

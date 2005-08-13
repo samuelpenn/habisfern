@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 
-<article xmlns="http://yagsbook.sourceforge.net/xml">
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
     <header>
         <title>Caewlin, Noble House</title>
         <tagline>Habisfern</tagline>
@@ -81,7 +82,7 @@
                     <familyTree title="House of Caewlin" year="1230">
                         <maleline/>
                         <root>Osrun</root>
-                    
+
                         <person name="Hereric Caewlin">
                             <male/>
                             <born>1170</born>
@@ -90,25 +91,25 @@
                         <person name="Osrun">
                             <born>1178</born>
                         </person>
-                        
+
                         <person name="Hererin">
                             <male/>
                             <born>1195</born>
                         </person>
-                        
+
                         <person name="Osflaen">
                             <born>1197</born>
                         </person>
-                        
+
                         <person name="Osburh">
                             <born>1199</born>
                         </person>
-                        
+
                         <person name="Haerdric">
                             <male/>
                             <born>1203</born>
                         </person>
-                        
+
                         <family mother="Osrun">
                             <children father="Hereric Caewlin">
                                 <child>Hererin</child>
@@ -121,14 +122,14 @@
                 </sect3>
             </sect2>
         </sect1>
-        
+
         <sect1>
             <title>Characters</title>
-            
-            <advantages role="background" title="House of Caewlin">
-                <advantage name="House of Caewlin" type="background">
-                    <cost points="10"/>
-                    
+
+            <y:advantages role="background" title="House of Caewlin">
+                <y:advantage name="House of Caewlin" type="background">
+                    <y:cost points="10"/>
+
                     <description>
                         <para>
                             The character is a member of the House of
@@ -136,12 +137,12 @@
                             Houses of the Kingdom.
                         </para>
                     </description>
-                </advantage>
-                
-                <advantage name="Blackmail" type="background">
-                    <cost points="3"/>
-                    <prerequisite>House of Caewlin</prerequisite>
-                    
+                </y:advantage>
+
+                <y:advantage name="Blackmail" type="background">
+                    <y:cost points="3"/>
+                    <y:prerequisite>House of Caewlin</y:prerequisite>
+
                     <description>
                         <para>
                             The character has knowledge of information
@@ -150,12 +151,12 @@
                             some leverage when requiring favours.
                         </para>
                     </description>
-                </advantage>
-                
-                <advantage name="Quality equipment" type="background">
-                    <cost points="2"/>
-                    <prerequisite>House of Caewlin</prerequisite>
-                    
+                </y:advantage>
+
+                <y:advantage name="Quality equipment" type="background">
+                    <y:cost points="2"/>
+                    <y:prerequisite>House of Caewlin</y:prerequisite>
+
                     <description>
                         <para>
                             The character's starting equipment is of high
@@ -167,12 +168,12 @@
                             they actually are.
                         </para>
                     </description>
-                </advantage>
-                
-                <advantage name="Master of Intrigue" type="background">
-                    <cost points="3"/>
-                    <prerequisite>House of Caewlin</prerequisite>
-                    
+                </y:advantage>
+
+                <y:advantage name="Master of Intrigue" type="background">
+                    <y:cost points="3"/>
+                    <y:prerequisite>House of Caewlin</y:prerequisite>
+
                     <description>
                         <para>
                             The character has been brought up amongst
@@ -182,12 +183,12 @@
                             guile (intrigue) or politics checks.
                         </para>
                     </description>
-                </advantage>
-                
-                <advantage name="Proud Parents" type="background">
-                    <cost points="3"/>
-                    <prerequisite>House of Caewlin</prerequisite>
-                    
+                </y:advantage>
+
+                <y:advantage name="Proud Parents" type="background">
+                    <y:cost points="3"/>
+                    <y:prerequisite>House of Caewlin</y:prerequisite>
+
                     <description>
                         <para>
                             The character's parents have always spoken
@@ -198,8 +199,8 @@
                             normal.
                         </para>
                     </description>
-                </advantage>
-            </advantages>
+                </y:advantage>
+            </y:advantages>
         </sect1>
     </body>
 </article>

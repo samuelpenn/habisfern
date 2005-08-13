@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 
-<article xmlns="http://yagsbook.sourceforge.net/xml">
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
     <header>
         <title>Aethlfryth, Noble House</title>
         <tagline>Habisfern</tagline>
@@ -64,7 +65,7 @@
                 Many of this family who are not close to the throne form
                 the elite royal guard, or join the priest hood of Neya.
             </para>
-            
+
             <sect2>
                 <title>Nobles of House Aethlfryth</title>
 
@@ -77,10 +78,10 @@
                 </para>
             </sect2>
         </sect1>
-        
+
         <sect1>
             <title>Characters</title>
-            
+
             <para>
                 Player characters may not belong to this House.
             </para>

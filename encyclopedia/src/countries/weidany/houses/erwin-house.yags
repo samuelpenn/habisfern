@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 
-<article xmlns="http://yagsbook.sourceforge.net/xml">
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
     <header>
         <title>Erwin, Noble House</title>
         <tagline>Habisfern</tagline>
@@ -109,23 +110,23 @@
                         </physical>
                     </description>
                 </character>
-                
+
                 <sect3>
                     <title>Current Household</title>
-                    
+
                     <para>
                         The current head of the House if Madog.
                     </para>
-                    
+
                     <familyTree  title="House of Erwin">
                         <root>Theodred Erwin</root>
-                        
+
                         <person name="Theodred Erwin">
                             <male/>
                             <born>1111</born>
                             <died>1191</died>
                         </person>
-                        
+
                         <person name="Sexrun the Golden">
                             <born>1113</born>
                             <died>1187</died>
@@ -134,7 +135,7 @@
                                 her time.
                             </short>
                         </person>
-                        
+
                         <family parent="Theodred Erwin">
                             <children parent="Sexrun the Golden">
                                 <child>Theodun Redeyes</child>
@@ -143,7 +144,7 @@
                                 <child>Hardred</child>
                             </children>
                         </family>
-                        
+
                         <person name="Theodun Redeyes">
                             <male/>
                             <born>1138</born>
@@ -152,49 +153,49 @@
                                 Dabbled in magic.
                             </short>
                         </person>
-                        
+
                         <person name="Aethelrun the Stone Witch">
                             <born>1132</born>
                             <short>Known to be a witch.</short>
                         </person>
-                        
+
                         <family parent="Theodun Redeyes">
                             <children parent="Aethelrun the Stone Witch">
                                 <child></child>
-                                <child></child>                               
+                                <child></child>
                                 <child></child>
                             </children>
                         </family>
-                        
+
                         <family parent="Harwulf">
                             <children parent="Plegrun">
                                 <child>Plegwin the Fair</child>
                                 <child>Herthwin</child>
                             </children>
                         </family>
-                        
+
                         <family parent="Herthwin">
                             <children parent="Cadwallon">
                                 <child>Madog Erwin</child>
                                 <child>Cadthar Halfshaven</child>
                             </children>
                         </family>
-                        
-                        
-                        
+
+
+
                         <person name="Cerodorn the Butcher">
                             <male/>
                             <born>1127</born>
                             <died>1164</died>
                             <short>Lost in the Trollwatch.</short>
                         </person>
-                        
+
                         <person name="Cadwallon">
                             <male/>
                             <born>1152</born>
                             <died>1215</died>
                         </person>
-                        
+
                         <person name="Herthwin">
                             <born>1156</born>
                             <died>1218</died>
@@ -203,29 +204,29 @@
                                 previous Ealdorman.
                             </short>
                         </person>
-                        
+
                         <person  name="Madog Erwin">
                             <male/>
                             <born>1177</born>
                         </person>
-                        
+
                         <person name="Elwin">
                             <born>1179</born>
                             <short>Wife of Ealdorman Madog.</short>
                         </person>
-                        
+
                         <person name="Cadthar Halfshaven">
                             <male/>
                             <born>1186</born>
                         </person>
-                        
+
                         <family parent="Cerodorn the Butcher">
                             <children parent="">
                                 <child>Cadwallon</child>
                             </children>
                         </family>
-                        
-                        
+
+
                         <family parent="Madog Erwin">
                             <children parent="Elwin">
                                 <child/>
@@ -234,13 +235,13 @@
                                 <child/>
                             </children>
                         </family>
-                        
+
                         <family parent="Cadthar Halfshaven">
                             <children parent="Helny">
                                 <child/>
                                 <child/>
                             </children>
-                            
+
                             <children parent="Ingfloed">
                                 <child/>
                                 <child/>
@@ -251,10 +252,10 @@
                 </sect3>
             </sect2>
         </sect1>
-        
+
         <sect1>
             <title>Characters</title>
-            
+
             <para>
                 Characters of this House tend to be highly politically
                 motivated, with a large number of connections to the
@@ -262,21 +263,21 @@
                 quo is good to them, and they tend to be conservative
                 in their beliefs and careful in their actions.
             </para>
-            
+
             <para>
                 Because they are near the top of the social heirarchy,
                 there are always those willing to see them fall, and to
                 help them in doing so if the opportunity arises.
             </para>
-            
+
             <sect2>
                 <title>Advantages</title>
-                
-                <advantages role="background" title="House of Erwin">
-                    
-                    <advantage name="House of Erwin" type="background">
-                        <cost points="10"/>
-                        
+
+                <y:advantages role="background" title="House of Erwin">
+
+                    <y:advantage name="House of Erwin" type="background">
+                        <y:cost points="10"/>
+
                         <description>
                             <para>
                                 The character is a member of the great
@@ -285,12 +286,12 @@
                                 some access to this wealth.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Access to Wealth" type="background">
-                        <cost points="3"/>
-                        <prerequisite>House of Erwin</prerequisite>
-                        
+                    <y:advantage name="Access to Wealth" type="background">
+                        <y:cost points="3"/>
+                        <y:prerequisite>House of Erwin</y:prerequisite>
+
                         <description>
                             <para>
                                 The character has access to money beyond
@@ -300,12 +301,12 @@
                                 the extra funds have to be asked for.
                             </para>
                         </description>
-                    </advantage>
-                    
-                    <advantage name="Political Sense" type="background">
-                        <cost points="2"/>
-                        <prerequisite>House of Erwin</prerequisite>
-                        
+                    </y:advantage>
+
+                    <y:advantage name="Political Sense" type="background">
+                        <y:cost points="2"/>
+                        <y:prerequisite>House of Erwin</y:prerequisite>
+
                         <description>
                             <para>
                                 The character has been instilled with lots
@@ -316,12 +317,12 @@
                                 rethink. This House breeds conformity.
                             </para>
                         </description>
-                    </advantage>
-                    
-                    <advantage name="Aura of Reason" type="background">
-                        <cost points="3"/>
-                        <prerequisite>House of Erwin</prerequisite>
-                        
+                    </y:advantage>
+
+                    <y:advantage name="Aura of Reason" type="background">
+                        <y:cost points="3"/>
+                        <y:prerequisite>House of Erwin</y:prerequisite>
+
                         <description>
                             <para>
                                 The character comes across as reasonable
@@ -331,8 +332,8 @@
                                 their charisma.
                             </para>
                         </description>
-                    </advantage>
-                </advantages>
+                    </y:advantage>
+                </y:advantages>
             </sect2>
         </sect1>
     </body>

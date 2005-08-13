@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 
-<article xmlns="http://yagsbook.sourceforge.net/xml">
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
     <header>
         <title>Oswald, Noble House</title>
         <tagline>Habisfern</tagline>
@@ -58,7 +59,7 @@
                  magical might, and some rumours say that it has ties
                  to the House of Aeddan.
             </para>
-            
+
             <para>
                 Its central family is quite secretive in its ambitions,
                 goals and actions, and tends to stay away from a lot of
@@ -85,29 +86,29 @@
                 </para>
             </sect2>
         </sect1>
-        
+
         <sect1>
             <title>Characters</title>
-            
+
             <sect2>
                 <title>Advantages</title>
-                
-                <advantages role="background" title="House of Oswald">
-                    <advantage name="House of Oswald" type="background">
-                        <cost points="10"/>
-                        
+
+                <y:advantages role="background" title="House of Oswald">
+                    <y:advantage name="House of Oswald" type="background">
+                        <y:cost points="10"/>
+
                         <description>
                             <para>
                                 The character is a member of the great
                                 noble House of Oswald.
                             </para>
                         </description>
-                    </advantage>
-                    
-                    <advantage name="Strong at magic" type="advantage">
-                        <cost points="4"/>
-                        <prerequisite>House of Oswald</prerequisite>
-    
+                    </y:advantage>
+
+                    <y:advantage name="Strong at magic" type="advantage">
+                        <y:cost points="4"/>
+                        <y:prerequisite>House of Oswald</y:prerequisite>
+
                         <description>
                             <para>
                                 The House of Aeddan is noted for its members
@@ -116,9 +117,8 @@
                                 learn a new Rune.
                             </para>
                         </description>
-                    </advantage>
-
-                </advantages>
+                    </y:advantage>
+                </y:advantages>
             </sect2>
         </sect1>
     </body>

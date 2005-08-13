@@ -57,13 +57,13 @@
                 the great Ealdormen who head the Noble Houses.
             </para>
         </sect1>
-        
+
         <sect1>
             <title>Characters</title>
-            
+
             <sect2>
                 <title>Packages</title>
-                
+
                 <characters role="package" title="Weidanic Nobles">
                     <character name="Thegn">
                         <description>
@@ -77,7 +77,7 @@
                                 training suffers.
                             </short>
                         </description>
-                
+
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
@@ -90,20 +90,20 @@
                                     <skill name="Stealth" score="2"/>
                                     <skill name="Throw" score="2"/>
                                 </group>
-                    
+
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
                                     <skill name="Law" score="2"/>
                                     <skill name="Heraldry" score="3"/>
                                 </group>
-                    
+
                                 <group name="Profession" type="skills">
                                     <skill name="Farming" score="2"/>
                                     <skill name="Trade" score="2"/>
                                     <skill name="Seneschal" score="4"/>
                                 </group>
-                    
+
                                 <group name="Other" type="skills">
                                     <skill name="Weapon and shield" score="3"/>
                                     <skill name="Great weapon" score="2"/>
@@ -114,11 +114,11 @@
                             </skills>
                         </statistics>
                     </character>
-                
+
                     <character name="Warrior">
                         <description>
                             <socialClass level="+3">Landless noble</socialClass>
-                            
+
                             <short>
                                 Warriors are often the children of thegns.
                                 They have a measure of noble rank, though it
@@ -127,7 +127,7 @@
                                 for arms and lodgings.
                             </short>
                         </description>
-                
+
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
@@ -140,14 +140,14 @@
                                     <skill name="Stealth" score="2"/>
                                     <skill name="Throw" score="3"/>
                                 </group>
-                    
+
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
                                     <skill name="Law" score="1"/>
                                     <skill name="Heraldry" score="2"/>
                                 </group>
-                    
+
                                 <group name="Other" type="skills">
                                     <skill name="Longshaft weapon" score="2"/>
                                     <skill name="Weapon and shield" score="4"/>
@@ -160,7 +160,7 @@
                             </skills>
                         </statistics>
                     </character>
-                
+
                     <character name="Mercenary">
                         <socialClass level="+3">Landless knight</socialClass>
                         <description>
@@ -174,7 +174,7 @@
                                 on the road looking for paid work.
                             </short>
                         </description>
-                
+
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
@@ -187,13 +187,13 @@
                                     <skill name="Stealth" score="2"/>
                                     <skill name="Throw" score="3"/>
                                 </group>
-                    
+
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
                                     <skill name="Heraldry" score="2"/>
                                 </group>
-                    
+
                                 <group name="Other" type="skills">
                                     <skill name="Weapon and shield" score="4"/>
                                     <skill name="Single weapon" score="2"/>
@@ -205,7 +205,7 @@
                             </skills>
                         </statistics>
                     </character>
-                
+
                     <character name="Courtier">
                         <socialClass level="+3">Noble</socialClass>
                         <description>
@@ -216,7 +216,7 @@
                                 important, as is good living and fine wines.
                             </short>
                         </description>
-                
+
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
@@ -229,17 +229,17 @@
                                     <skill name="Stealth" score="2"/>
                                     <skill name="Throw" score="2"/>
                                 </group>
-                    
+
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
                                     <skill name="Heraldry" score="3"/>
                                 </group>
-                    
+
                                 <group name="Profession" type="skills">
                                     <skill name="Seneschal" score="3"/>
                                 </group>
-                    
+
                                 <group name="Other" type="skills">
                                     <skill name="Single weapon" score="2"/>
                                     <skill name="Ride" score="2"/>
@@ -249,8 +249,8 @@
                             </skills>
                         </statistics>
                     </character>
-                
-                
+
+
                     <character name="Lady">
                         <socialClass level="+3">Noble</socialClass>
                         <description>
@@ -266,7 +266,7 @@
                                 running things.
                             </short>
                         </description>
-                
+
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
@@ -279,19 +279,19 @@
                                     <skill name="Stealth" score="2"/>
                                     <skill name="Throw" score="2"/>
                                 </group>
-                    
+
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
                                     <skill name="Law" score="1"/>
                                     <skill name="Heraldry" score="2"/>
                                 </group>
-                    
+
                                 <group name="Profession" type="skills">
                                     <skill name="Handicraft" score="4"/>
                                     <skill name="Seneschal" score="3"/>
                                 </group>
-                    
+
                                 <group name="Other" type="skills">
                                     <skill name="Ride" score="2"/>
                                     <skill name="Etiquette" score="3"/>
@@ -303,7 +303,7 @@
                     </character>
                 </characters>
             </sect2>
-        </sect1>                
+        </sect1>
     </body>
 </article>
 
