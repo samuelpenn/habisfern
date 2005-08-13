@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 
-<article xmlns="http://yagsbook.sourceforge.net/xml">
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
     <header>
         <title>Cult of Asabeth</title>
         <tagline>Habisfern</tagline>
@@ -108,16 +109,16 @@
             <sect2>
                 <title>Skills</title>
 
-                <skill-list>
-                    <skill name="Religion (Cult of Asabeth)" type="knowledge">
+                <y:skill-list>
+                    <y:skill name="Religion (Cult of Asabeth)" type="knowledge">
                         <description>
                             <para>
                                 Gives knowledge of the ideals, mythology and
                                 rituals of the Cult of Asabeth.
                             </para>
                         </description>
-                    </skill>
-                </skill-list>
+                    </y:skill>
+                </y:skill-list>
             </sect2>
 
             <sect2>
@@ -182,7 +183,7 @@
                     powerful rituals.
                 </para>
 
-                <advantages title="Rituals of Asabeth" role="technique">
+                <y:advantages title="Rituals of Asabeth" role="technique">
                     <description>
                         <para>
                             The rituals of Asabeth represent her aspects
@@ -200,9 +201,9 @@
                         </para>
                     </description>
 
-                    <advantage name="Blessing of Blood" type="technique">
-                        <cost points="1"/>
-                        <skill name="Religion (Asabeth)"/>
+                    <y:advantage name="Blessing of Blood" type="technique">
+                        <y:cost points="1"/>
+                        <y:skill name="Religion (Asabeth)"/>
 
                         <description>
                             <para>
@@ -221,12 +222,12 @@
                                 also requires the painting of blood.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Rage of the Goddess" type="technique">
-                        <cost points="3"/>
-                        <skill name="Religion (Asabeth)"/>
-                        <prerequisite>Blessing of Blood</prerequisite>
+                    <y:advantage name="Rage of the Goddess" type="technique">
+                        <y:cost points="3"/>
+                        <y:skill name="Religion (Asabeth)"/>
+                        <y:prerequisite>Blessing of Blood</y:prerequisite>
 
                         <description>
                             <para>
@@ -237,12 +238,12 @@
                                 religion score of the goddess. Automatic.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Berserker" type="technique">
-                        <cost points="5"/>
-                        <skill name="Religion (Asabeth)"/>
-                        <prerequisite>Rage of the Goddess</prerequisite>
+                    <y:advantage name="Berserker" type="technique">
+                        <y:cost points="5"/>
+                        <y:skill name="Religion (Asabeth)"/>
+                        <y:prerequisite>Rage of the Goddess</y:prerequisite>
 
                         <description>
                             <para>
@@ -260,12 +261,12 @@
                                 <e>Blessing of Blood</e>.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Armour of Blood" type="technique">
-                        <cost points="3"/>
-                        <skill name="Religion (Asabeth)"/>
-                        <prerequisite>Blessing of Blood</prerequisite>
+                    <y:advantage name="Armour of Blood" type="technique">
+                        <y:cost points="3"/>
+                        <y:skill name="Religion (Asabeth)"/>
+                        <y:prerequisite>Blessing of Blood</y:prerequisite>
 
                         <description>
                             <para>
@@ -305,12 +306,12 @@
                                 foes.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Sisters in Arms" type="technique">
-                        <cost points="5"/>
-                        <skill name="Religion (Asabeth)"/>
-                        <prerequisite>Blessing of Blood</prerequisite>
+                    <y:advantage name="Sisters in Arms" type="technique">
+                        <y:cost points="5"/>
+                        <y:skill name="Religion (Asabeth)"/>
+                        <y:prerequisite>Blessing of Blood</y:prerequisite>
 
                         <description>
                             <para>
@@ -322,12 +323,12 @@
                                 round, but usage is otherwise automatic.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Strength of the Goddess" type="technique">
-                        <cost points="7"/>
-                        <skill name="Religion (Asabeth)"/>
-                        <prerequisite>Sisters in Arms</prerequisite>
+                    <y:advantage name="Strength of the Goddess" type="technique">
+                        <y:cost points="7"/>
+                        <y:skill name="Religion (Asabeth)"/>
+                        <y:prerequisite>Sisters in Arms</y:prerequisite>
 
                         <description>
                             <para>
@@ -337,12 +338,12 @@
                                 the strike.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Shield of the Goddess" type="technique">
-                        <cost points="9"/>
-                        <skill name="Religion (Asabeth)"/>
-                        <prerequisite>Strength of the Goddess</prerequisite>
+                    <y:advantage name="Shield of the Goddess" type="technique">
+                        <y:cost points="9"/>
+                        <y:skill name="Religion (Asabeth)"/>
+                        <y:prerequisite>Strength of the Goddess</y:prerequisite>
 
                         <description>
                             <para>
@@ -353,8 +354,8 @@
                                 techniques cannot be used.
                             </para>
                         </description>
-                    </advantage>
-                </advantages>
+                    </y:advantage>
+                </y:advantages>
             </sect2>
         </sect1>
     </body>
