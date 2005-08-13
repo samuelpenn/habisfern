@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 
-<article xmlns="http://yagsbook.sourceforge.net/xml">
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
     <header>
         <title>Shields of Neya</title>
         <tagline>Habisfern</tagline>
@@ -56,7 +57,7 @@
                 all purposes, they are considered to be a branch of the
                 Daughters of Neya, and never act alone.
             </para>
-            
+
             <para>
                 The Shields will generally live seperate from the Temple,
                 and have their own training grounds, kitchens and a shrine.
@@ -65,21 +66,21 @@
                 open courtyard between them.
             </para>
         </sect1>
-        
+
         <sect1>
             <title>Characters</title>
-            
+
             <sect2>
                 <title>Skills</title>
-                
+
                 <p>
                     The Shields of Neya are noted for their fighting skills,
                     but they are also trained in Law and Heraldry to some
                     extent as well.
                 </p>
-            
-                <skill-list>
-                    <skill name="Religion (Neya)" type="knowledge">
+
+                <y:skill-list>
+                    <y:skill name="Religion (Neya)" type="knowledge">
                         <description>
                             <para>
                                 Gives knowledge of the ideals, mythology and
@@ -88,13 +89,13 @@
                                 techniques from a suitable teacher.
                             </para>
                         </description>
-                    </skill>
-                </skill-list>                
+                    </y:skill>
+                </y:skill-list>
             </sect2>
-            
+
             <sect2>
                 <title>Packages</title>
-                
+
                 <characters role="package" title="Cult of Neya">
                     <character name="Shield of Neya">
                         <description>
@@ -105,7 +106,7 @@
                             the non-martial priestesses.
                             </short>
                         </description>
-                
+
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
@@ -118,21 +119,21 @@
                                     <skill name="Stealth" score="2"/>
                                     <skill name="Throw" score="2"/>
                                 </group>
-                    
+
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
                                     <skill name="Law" score="2"/>
                                     <skill name="Religion (Neya)" score="4"/>
                                 </group>
-                    
+
                                 <group name="Other" type="skills">
                                     <skill name="Etiquette" score="2"/>
                                     <skill name="Intimidation" score="4"/>
                                     <skill name="Weapon and shield" score="4"/>
                                 </group>
                             </skills>
-                    
+
                             <equipment>
                                 <item name="Good clothes"/>
                                 <item name="Battle sword"/>
@@ -145,17 +146,17 @@
                     </character>
                 </characters>
             </sect2>
-                                    
+
             <sect2>
                 <title>Rituals</title>
-                
-                <advantages title="Rituals of the Shields of Neya"
+
+                <y:advantages title="Rituals of the Shields of Neya"
                             role="technique">
 
-                    <advantage name="Oath of Neya" type="technique">
-                        <cost points="4"/>
-                        <skill name="Religion (Neya)"/>
-                        
+                    <y:advantage name="Oath of Neya" type="technique">
+                        <y:cost points="4"/>
+                        <y:skill name="Religion (Neya)"/>
+
                         <description>
                             <para>
                                 This ceremony is used when several people
@@ -165,7 +166,7 @@
                                 swearing. Its power lasts up to one year
                                 per point of skill.
                             </para>
-                            
+
                             <para>
                                 If any who swear the oath breaks it, then
                                 they may not use Luck, and have a penalty
@@ -174,18 +175,18 @@
                                 been made to the satisfaction of all
                                 concerned.
                             </para>
-                            
+
                             <para>
                                 Such oaths are often sworn as part of
                                 political or business agreements.
                             </para>
                         </description>
-                    </advantage>
-                    
-                    <advantage name="Aura of Authority" type="technique">
-                        <cost points="4"/>
-                        <skill name="Religion (Neya)"/>
-                        
+                    </y:advantage>
+
+                    <y:advantage name="Aura of Authority" type="technique">
+                        <y:cost points="4"/>
+                        <y:skill name="Religion (Neya)"/>
+
                         <description>
                             <para>
                                 Neya represents Authority, and those who
@@ -194,12 +195,12 @@
                                 rolls equal to the religion score.
                             </para>
                         </description>
-                    </advantage>
-                    
-                    <advantage name="Sisters in Arms" type="technique">
-                        <cost points="4"/>
-                        <skill name="Religion (Neya)"/>
-                        
+                    </y:advantage>
+
+                    <y:advantage name="Sisters in Arms" type="technique">
+                        <y:cost points="4"/>
+                        <y:skill name="Religion (Neya)"/>
+
                         <description>
                             <para>
                                 When two or more priestesses who know this
@@ -210,13 +211,13 @@
                                 round, but usage is otherwise automatic.
                             </para>
                         </description>
-                    </advantage>
-                    
-                    <advantage name="Strength of the Goddess" type="technique">
-                        <cost points="8"/>
-                        <skill name="Religion (Neya)"/>
-                        <prerequisite>Sisters in Arms</prerequisite>
-                        
+                    </y:advantage>
+
+                    <y:advantage name="Strength of the Goddess" type="technique">
+                        <y:cost points="8"/>
+                        <y:skill name="Religion (Neya)"/>
+                        <y:prerequisite>Sisters in Arms</y:prerequisite>
+
                         <description>
                             <para>
                                 Can be used as a combat technique, giving
@@ -225,13 +226,13 @@
                                 technique is being used.
                             </para>
                         </description>
-                    </advantage>
-                    
-                    <advantage name="Shield of the Goddess" type="technique">
-                        <cost points="12"/>
-                        <skill name="Religion (Neya)"/>
-                        <prerequisite>Strength of the Goddess</prerequisite>
-                        
+                    </y:advantage>
+
+                    <y:advantage name="Shield of the Goddess" type="technique">
+                        <y:cost points="12"/>
+                        <y:skill name="Religion (Neya)"/>
+                        <y:prerequisite>Strength of the Goddess</y:prerequisite>
+
                         <description>
                             <para>
                                 Knowledge of how to deflect and absorb
@@ -241,8 +242,8 @@
                                 techniques cannot be used.
                             </para>
                         </description>
-                    </advantage>
-                </advantages>
+                    </y:advantage>
+                </y:advantages>
             </sect2>
         </sect1>
     </body>

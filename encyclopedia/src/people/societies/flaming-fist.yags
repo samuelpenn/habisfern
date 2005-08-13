@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 
-<article xmlns="http://yagsbook.sourceforge.net/xml">
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
     <header>
         <title>Flaming Fist</title>
         <tagline>Habisfern</tagline>

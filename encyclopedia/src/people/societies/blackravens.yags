@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 
-<article xmlns="http://yagsbook.sourceforge.net/xml">
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
     <header>
         <title>Cult of the Black Raven</title>
         <tagline>Habisfern</tagline>
@@ -81,10 +82,10 @@
                 regular basis, and even has a sub cult (the Golden Ravens)
                 based at Stowell, in the royal castle.
             </para>
-            
+
             <sect2>
                 <title>What Others Know</title>
-                
+
                 <para>
                     The <e>Ravens</e> are mistrusted by everyone, though
                     seen to be highly useful by those in power. It is
@@ -93,10 +94,10 @@
                     known to be around.
                 </para>
             </sect2>
-            
+
             <sect2>
                 <title>Temples and Worship</title>
-                
+
                 <para>
                     There are few Temples constructed in the name of Thot,
                     for he is a god of wanderers and rogues, who do not
@@ -107,7 +108,7 @@
                     <qv uri="midlaen">Midlaen</qv>, though little is
                     known of these.
                 </para>
-                
+
                 <para>
                     Rituals and prayers to Thot tend to be short and simple
                     with little in the way of trappings. Prayers are given
@@ -124,23 +125,23 @@
             <sect2>
                 <title>Skills</title>
 
-                <skill-list>
-                    <skill name="Religion (Black Ravens)" type="knowledge">
+                <y:skill-list>
+                    <y:skill name="Religion (Black Ravens)" type="knowledge">
                         <description>
                             <para>
                                 Gives knowledge of the ideals, mythology and
                                 rituals of this Cult of Thot.
                             </para>
                         </description>
-                    </skill>
-                </skill-list>
+                    </y:skill>
+                </y:skill-list>
             </sect2>
-            
+
             <sect2>
                 <title>Packages</title>
 
                 <characters role="package" title="Cult of Thot">
-                
+
                     <character name="Eye of the Raven">
                         <description>
                             <short>
@@ -149,7 +150,7 @@
                                 service of their cult, or of those who
                                 employ their services.
                             </short>
-                            
+
                             <background>
                                 <para>
                                     The Eyes of Thot are probably the most
@@ -164,7 +165,7 @@
                                     who break this trust break the trust of
                                     the Cult, and are sentenced to death.
                                 </para>
-                                
+
                                 <para>
                                     The <e>Eyes</e> normally have a trained
                                     raven which they use both as a scout,
@@ -173,7 +174,7 @@
                                     by law and tradition within the
                                     Kingdom.
                                 </para>
-                                
+
                                 <para>
                                     As well as being messengers, <e>Eyes</e>
                                     also act as scouts. Some of them patrol
@@ -189,7 +190,7 @@
                                 </para>
                             </background>
                         </description>
-                        
+
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
@@ -202,25 +203,25 @@
                                     <skill name="Stealth" score="3"/>
                                     <skill name="Throw" score="2"/>
                                 </group>
-                    
+
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
                                     <skill name="Religion (Thot)" score="3"/>
                                 </group>
-                                
+
                                 <group name="Combat" type="skills">
                                     <skill name="Bow" score="3"/>
                                     <skill name="Single weapon" score="2"/>
                                 </group>
-                    
+
                                 <group name="Other" type="skills">
                                     <skill name="Survival" score="3"/>
                                     <skill name="Falconry" score="4"/>
                                     <skill name="Ride" score="3"/>
                                 </group>
                             </skills>
-                    
+
                             <equipment>
                                 <item name="Travelling clothes"/>
                                 <item name="Black cloak"/>
@@ -230,7 +231,7 @@
                             </equipment>
                         </statistics>
                     </character>
-                
+
                     <character name="Voice of the Raven">
                         <description>
                             <short>
@@ -238,7 +239,7 @@
                                 or advisors, operating within the courts
                                 of the Kingdom.
                             </short>
-                            
+
                             <background>
                                 <para>
                                     Some followers of Thot take the path of
@@ -260,7 +261,7 @@
                                 </para>
                             </background>
                         </description>
-                        
+
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
@@ -273,21 +274,21 @@
                                     <skill name="Stealth" score="3"/>
                                     <skill name="Throw" score="2"/>
                                 </group>
-                    
+
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
                                     <skill name="Heraldry" score="2"/>
                                     <skill name="Religion (Thot)" score="4"/>
                                 </group>
-                    
+
                                 <group name="Other" type="skills">
                                     <skill name="Etiquette" score="3"/>
                                     <skill name="Politics" score="4"/>
                                     <skill name="Streetwise" score="2"/>
                                 </group>
                             </skills>
-                    
+
                             <equipment>
                                 <item name="Travelling clothes"/>
                                 <item name="Black cloak"/>
@@ -300,7 +301,7 @@
 
             <sect2>
                 <title>Rituals</title>
-                
+
                 <para>
                     The following rituals and abilities are taught by the
                     Cult of the Black Raven to its members. Unlike many
@@ -308,7 +309,7 @@
                     of progression is flexible.
                 </para>
 
-                <advantages title="Rituals of Thot" role="technique">
+                <y:advantages title="Rituals of Thot" role="technique">
                     <description>
                         <para>
                             These rituals are taught by the Cult of the
@@ -317,10 +318,10 @@
                             the path of progression is flexible.
                         </para>
                     </description>
-                    
-                    <advantage name="Signs of the Raven" type="technique">
-                        <cost points="2"/>
-                        <skill name="Religion (Thot)"/>
+
+                    <y:advantage name="Signs of the Raven" type="technique">
+                        <y:cost points="2"/>
+                        <y:skill name="Religion (Thot)"/>
 
                         <description>
                             <para>
@@ -334,7 +335,7 @@
                                 order, or words within speech may be
                                 stressed in a particular way.
                             </para>
-                            
+
                             <para>
                                 Typically, it is <e>moderate</e> difficulty
                                 to communicate a simple concept such as
@@ -347,11 +348,11 @@
                                 for a Raven to notice and understand.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Hidden Memory" type="technique">
-                        <cost points="3"/>
-                        <skill name="Religion (Thot)"/>
+                    <y:advantage name="Hidden Memory" type="technique">
+                        <y:cost points="3"/>
+                        <y:skill name="Religion (Thot)"/>
 
                         <description>
                             <para>
@@ -362,12 +363,12 @@
                                 and message delivered.
                             </para>
                         </description>
-                    </advantage>
-                    
-                    <advantage name="Flight of the Raven" type="technique">
-                        <cost points="4"/>
-                        <skill name="Religion (Thot)"/>
-                        
+                    </y:advantage>
+
+                    <y:advantage name="Flight of the Raven" type="technique">
+                        <y:cost points="4"/>
+                        <y:skill name="Religion (Thot)"/>
+
                         <description>
                             <para>
                                 When travelling on foot over large
@@ -376,12 +377,12 @@
                                 their Religion skill.
                             </para>
                         </description>
-                    </advantage>
-                    
-                    <advantage name="Eyes of the Hunter" type="technique">
-                        <cost points="4"/>
-                        <skill name="Religion (Thot)"/>
-                        
+                    </y:advantage>
+
+                    <y:advantage name="Eyes of the Hunter" type="technique">
+                        <y:cost points="4"/>
+                        <y:skill name="Religion (Thot)"/>
+
                         <description>
                             <para>
                                 Those blessed by the Raven God can see
@@ -391,10 +392,8 @@
                                 conditions.
                             </para>
                         </description>
-                    </advantage>
-                        
-                </advantages>
-                
+                    </y:advantage>
+                </y:advantages>
             </sect2>
         </sect1>
     </body>

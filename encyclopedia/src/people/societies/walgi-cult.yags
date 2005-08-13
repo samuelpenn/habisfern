@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 
-<article xmlns="http://yagsbook.sourceforge.net/xml">
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
     <header>
         <title>Cult of Walgi</title>
         <tagline>Habisfern</tagline>
@@ -46,18 +47,18 @@
             <title>Cult of Walgi</title>
 
             <para>
-                The Mother of Wolves is a goddess of beasts and wild 
-                places, and few humans have an interest in her, beyond a 
-                desire to avoid her attentions. When sheep are taken by 
-                wolves, or a child is lost in the woods, then it is 
+                The Mother of Wolves is a goddess of beasts and wild
+                places, and few humans have an interest in her, beyond a
+                desire to avoid her attentions. When sheep are taken by
+                wolves, or a child is lost in the woods, then it is
                 Walgi who is cursed.
             </para>
 
             <para>
-                However, there are a few who know her ways. She is a 
-                huntress as well as guardian of beasts, and she knows 
-                well the laws of the wild. Men who hunt with respect are 
-                shown respect in return, and the followers of the Cult 
+                However, there are a few who know her ways. She is a
+                huntress as well as guardian of beasts, and she knows
+                well the laws of the wild. Men who hunt with respect are
+                shown respect in return, and the followers of the Cult
                 of the She Wolf teach and practise these ways.
             </para>
 
@@ -65,56 +66,56 @@
                 <title>The Grey Hunters</title>
 
                 <para>
-                    The Grey Hunters are followers of Walgi in her hunting 
-                    aspect. They are woodsmen who wish the protection of the 
-                    beast goddess whilst learning her secrets. They normally 
+                    The Grey Hunters are followers of Walgi in her hunting
+                    aspect. They are woodsmen who wish the protection of the
+                    beast goddess whilst learning her secrets. They normally
                     form small cults made up of huntsmen from several villages.
                 </para>
-    
+
                 <para>
-                    Caves are used as shrines by the Huntsman, with 
-                    offerings of livestock when sacrifices are made. Mostly 
+                    Caves are used as shrines by the Huntsman, with
+                    offerings of livestock when sacrifices are made. Mostly
                     they seek protection of their homes from the wild.
                 </para>
             </sect2>
-            
+
             <sect2>
                 <title>The Red Hunters</title>
-            
+
                 <para>
-                    The cult of Walgi is two faced. Whilst the Grey Hunters 
-                    are the repectable side, there is a second, darker path 
+                    The cult of Walgi is two faced. Whilst the Grey Hunters
+                    are the repectable side, there is a second, darker path
                     which a few followers of the cult sometimes take.
                 </para>
-    
+
                 <para>
-                    Walgi the Beast Goddess leads her followers away from 
-                    civilisation, towards the bestial side of their nature, 
+                    Walgi the Beast Goddess leads her followers away from
+                    civilisation, towards the bestial side of their nature,
                     slowly stripping their humanity from them.
                 </para>
             </sect2>
         </sect1>
-        
+
         <sect1>
             <title>Character</title>
-            
+
             <sect2>
                 <title>Skills</title>
-            
-                <skill-list>
-                    <skill name="Religion (Walgi)" type="knowledge">
+
+                <y:skill-list>
+                    <y:skill name="Religion (Walgi)" type="knowledge">
                         <description>
                             <para>
                                 Gives knowledge of the ideals, mythology and
                                 rituals of the cult of Walgi.
                             </para>
                         </description>
-                    </skill>
-                </skill-list>
-                
+                    </y:skill>
+                </y:skill-list>
+
                 <sect3>
                     <title>Suggested skills</title>
-                    
+
                     <para>
                         Members of the cult will often have <e>beast lore</e>
                         and <e>animal care</e> skills, as well as having some
@@ -122,10 +123,10 @@
                     </para>
                 </sect3>
             </sect2>
-            
+
             <sect2>
                 <title>Packages</title>
-                
+
                 <characters role="package" title="Cult of Walgi">
                     <character name="Grey Hunter">
                         <description>
@@ -135,7 +136,7 @@
                                 beast goddess, and maybe a small part of her power.
                             </short>
                         </description>
-                
+
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
@@ -148,7 +149,7 @@
                                     <skill name="Stealth" score="4"/>
                                     <skill name="Throw" score="3"/>
                                 </group>
-                    
+
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
@@ -156,14 +157,14 @@
                                     <skill name="Beast lore" score="3"/>
                                     <skill name="Animal care" score="3"/>
                                 </group>
-                    
+
                                 <group name="Other" type="skills">
                                     <skill name="Survival" score="4"/>
                                     <skill name="Longshaft weapon" score="2"/>
                                     <skill name="Bow" score="3"/>
                                 </group>
                             </skills>
-                    
+
                             <equipment>
                                 <item name="Woodsman clothes"/>
                                 <item name="Dagger"/>
@@ -174,15 +175,15 @@
                     </character>
                 </characters>
             </sect2>
-            
+
             <sect2>
                 <title>Rituals</title>
-                
-                <advantages role="techniques">
-                    <advantage name="Befriend animals" type="technique">
-                        <cost points="2"/>
-                        <skill name="Religion (Walgi)"/>
-                        
+
+                <y:advantages role="techniques">
+                    <y:advantage name="Befriend animals" type="technique">
+                        <y:cost points="2"/>
+                        <y:skill name="Religion (Walgi)"/>
+
                         <description>
                             <para>
                                 Animals are friendly towards the character,
@@ -190,11 +191,11 @@
                                 result.
                             </para>
                         </description>
-                    </advantage>
-                </advantages>
-                
+                    </y:advantage>
+                </y:advantages>
+
             </sect2>
-                
+
         </sect1>
     </body>
 </article>

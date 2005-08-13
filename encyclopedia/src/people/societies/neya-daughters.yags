@@ -62,55 +62,55 @@
             </para>
 
             <para>
-                The cult consists of both political and martial 
-                branches, and both are tied in closely with the 
-                Queen of Weidany. This closeness is disliked by 
-                some, who say that the Daughters cannot be 
-                trusted not to side with the Queen. However, few 
+                The cult consists of both political and martial
+                branches, and both are tied in closely with the
+                Queen of Weidany. This closeness is disliked by
+                some, who say that the Daughters cannot be
+                trusted not to side with the Queen. However, few
                 wish to tempt the wrath of the goddess openly.
             </para>
 
             <para>
-                Daughters are used as witnesses to agreements 
-                between untrusted parties. The will of the 
-                goddess is said to enforce any agreement made 
-                (for a small donation), and to curse anyone who 
+                Daughters are used as witnesses to agreements
+                between untrusted parties. The will of the
+                goddess is said to enforce any agreement made
+                (for a small donation), and to curse anyone who
                 does break it.
             </para>
 
             <para>
-                More reliably, the Daughters will have a trusted 
-                record of the agreement. According to Weidanic 
-                law, anything witnessed by the Daughters trumps 
+                More reliably, the Daughters will have a trusted
+                record of the agreement. According to Weidanic
+                law, anything witnessed by the Daughters trumps
                 all else.
             </para>
-            
+
             <sect2>
                 <title>Clothing and Symbolism</title>
-                
+
                 <para>
                     Priestesses of the cult wear blue and white robes,
                     with the amount of silver or gold finery being
                     proportional to the wealth of the temple, and the
                     status of the priestess.
                 </para>
-                
+
                 <para>
                     The sacred animal is the dove, and priestesses will
                     wear a wooden, bronze, silver or golden dove amulet
                     to denote their rank.
                 </para>
-                
+
                 <para>
                     Scrolls tend to feature prominently within ceremonies,
                     with prayers written upon them and then the scrolls
-                    being burnt as offerings to the goddess. 
+                    being burnt as offerings to the goddess.
                 </para>
             </sect2>
-            
+
             <sect2>
                 <title>Ranks within the Cult</title>
-                
+
                 <para>
                     Acolytes are taken in at an early age, are are
                     expected to become full priestess by the age of 16,
@@ -121,15 +121,15 @@
                     the capacity of a Daughter of Neya. The punishment
                     for doing so is death by starvation
                 </para>
-                
+
                 <para>
                     Priestesses wear bronze dove amulets.
                 </para>
-                
+
                 <para>
                     Mistress of the Temple. Silver amulets.
                 </para>
-                
+
                 <para>
                     The Eldest Daughter is denoted by her gold amulet. The
                     Eldest Daughter is head of the local cult, and all
@@ -138,13 +138,13 @@
                 </para>
             </sect2>
         </sect1>
-        
+
         <sect1>
             <title>Characters</title>
-            
+
             <sect2>
                 <title>Packages</title>
-                
+
                 <characters role="package" title="Cult of Neya">
                     <character name="Daughter of Neya">
                         <description>
@@ -157,7 +157,7 @@
                                 occassionally, enforcers.
                             </short>
                         </description>
-                
+
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
@@ -170,7 +170,7 @@
                                     <skill name="Stealth" score="2"/>
                                     <skill name="Throw" score="2"/>
                                 </group>
-                    
+
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
@@ -178,14 +178,14 @@
                                     <skill name="Heraldry" score="2"/>
                                     <skill name="Religion (Neya)" score="4"/>
                                 </group>
-                    
+
                                 <group name="Other" type="skills">
                                     <skill name="Etiquette" score="3"/>
                                     <skill name="Intimidation" score="3"/>
                                     <skill name="Longshaft weapon" score="2"/>
                                 </group>
                             </skills>
-                    
+
                             <equipment>
                                 <item name="Good clothes"/>
                                 <item name="Staff"/>
@@ -201,7 +201,7 @@
                                 trade and business.
                             </short>
                         </description>
-                
+
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
@@ -214,14 +214,14 @@
                                     <skill name="Stealth" score="2"/>
                                     <skill name="Throw" score="2"/>
                                 </group>
-                    
+
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
                                     <skill name="Law" score="3"/>
                                     <skill name="Religion (Neya)" score="4"/>
                                 </group>
-                    
+
                                 <group name="Other" type="skills">
                                     <skill name="Etiquette" score="3"/>
                                     <skill name="Intimidation" score="2"/>
@@ -229,7 +229,7 @@
                                     <skill name="Longshaft weapon" score="1"/>
                                 </group>
                             </skills>
-                    
+
                             <equipment>
                                 <item name="Good clothes"/>
                                 <item name="Staff"/>

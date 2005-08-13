@@ -46,20 +46,20 @@
             <title>Cult of Yagma</title>
 
             <para>
-                Yagma is the Earth Mother, goddess of nature, life and 
-                death. The cult of Yagma is closely related to that of 
+                Yagma is the Earth Mother, goddess of nature, life and
+                death. The cult of Yagma is closely related to that of
                 <qv uri="estror-dawn-cult">Estror</qv>.
             </para>
 
             <para>
-                Priests of Yagma tend to be both male and female. They 
-                play an important role in the agricultural activities of 
+                Priests of Yagma tend to be both male and female. They
+                play an important role in the agricultural activities of
                 society, and are far more common in rural areas than in
                 towns.
             </para>
 
             <para>
-                Priests of Yagma preside at funerals, acting in the name 
+                Priests of Yagma preside at funerals, acting in the name
                 of Rim.
             </para>
 
@@ -81,13 +81,13 @@
                 </para>
             </sect2>
         </sect1>
-        
+
         <sect1>
             <title>Characters</title>
-            
+
             <sect2>
                 <title>Packages</title>
-                
+
                 <characters role="package" title="Cult of Yagma">
                     <character name="Child of Yagma">
                         <description>
@@ -99,7 +99,7 @@
                                 fail and people would starve.
                             </short>
                         </description>
-                
+
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
@@ -112,7 +112,7 @@
                                     <skill name="Stealth" score="2"/>
                                     <skill name="Throw" score="2"/>
                                 </group>
-                    
+
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
@@ -124,7 +124,7 @@
                                     <skill name="Herb lore" score="3"/>
                                 </group>
                             </skills>
-                    
+
                             <equipment>
                                 <item name="Good clothes"/>
                                 <item name="Staff"/>
@@ -133,7 +133,7 @@
                     </character>
                 </characters>
             </sect2>
-        </sect1>                
+        </sect1>
     </body>
 </article>
 

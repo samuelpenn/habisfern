@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 
-<article xmlns="http://yagsbook.sourceforge.net/xml">
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
     <header>
         <title>Cult of the Law Maker</title>
         <tagline>Habisfern</tagline>
@@ -57,14 +58,14 @@
             <para>
                 The official name of the cult is the Order of Lahwitan,
                 though most people know it as the Cult of the Law Maker.
-		It is common throughout the Kingdom of Weidany, and can
-		be found in Bryteland as well. The Cult represents the
-		enforcement of law and justice - as opposed to the 
-		Daughters of Neya who represent the interpretation of
-		the Law. If the Daughters are the lawyers, then the
-		Lahwitan are the police. As police however, they
-		have the authority to act as judges and executioners
-		as well if necessary.
+                It is common throughout the Kingdom of Weidany, and can
+                be found in Bryteland as well. The Cult represents the
+                enforcement of law and justice - as opposed to the
+                Daughters of Neya who represent the interpretation of
+                the Law. If the Daughters are the lawyers, then the
+                Lahwitan are the police. As police however, they
+                have the authority to act as judges and executioners
+                as well if necessary.
             </para>
 
             <sect2>
@@ -131,19 +132,19 @@
                 </para>
             </sect2>
         </sect1>
-        
+
         <sect1>
             <title>Membership</title>
-            
+
             <para>
                 Members of the cult are able to learn the following skills.
             </para>
-            
+
             <sect2>
                 <title>Skills</title>
-            
-                <skill-list>
-                    <skill name="Religion (Haltan)" type="knowledge">
+
+                <y:skill-list>
+                    <y:skill name="Religion (Haltan)" type="knowledge">
                         <description>
                             <para>
                                 Gives knowledge of the ideals, mythology and
@@ -151,13 +152,13 @@
                                 religious cult of Haltan.
                             </para>
                         </description>
-                    </skill>
-                </skill-list>
+                    </y:skill>
+                </y:skill-list>
             </sect2>
-            
+
             <sect2>
                 <title>Packages</title>
-                
+
                 <characters role="package" title="Cult of Haltan">
                     <character name="Brotherhood of the Law Maker">
                         <description>
@@ -166,7 +167,7 @@
                                 to enfore the Queen's Law wherever it is
                                 needed.
                             </short>
-                            
+
                             <background>
                                 <para>
                                     The Brotherhood of the Law Maker is a
@@ -176,7 +177,7 @@
                                     Law has broken down (due to corruption
                                     or civil war for instance).
                                 </para>
-                                
+
                                 <para>
                                     All members are expected to be skilled
                                     at arms, to have knowledge of the law,
@@ -184,7 +185,7 @@
                                 </para>
                             </background>
                         </description>
-                
+
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
@@ -197,14 +198,14 @@
                                     <skill name="Stealth" score="2"/>
                                     <skill name="Throw" score="2"/>
                                 </group>
-                    
+
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
                                     <skill name="Law" score="3"/>
                                     <skill name="Religion (Haltan)" score="3"/>
                                 </group>
-                    
+
                                 <group name="Other" type="skills">
                                     <skill name="Etiquette" score="2"/>
                                     <skill name="Intimidation" score="4"/>
@@ -214,7 +215,7 @@
                                     <skill name="Ride" score="2"/>
                                 </group>
                             </skills>
-                    
+
                             <equipment>
                                 <item name="Good clothes"/>
                                 <item name="Broad sword"/>
@@ -227,23 +228,23 @@
                         </statistics>
                     </character>
                 </characters>
-            </sect2>                
-            
+            </sect2>
+
             <sect2>
                 <title>Rituals</title>
-                
+
                 <para>
                     The following rituals are taught by the cult to those
                     who learn the ways of Haltan the Law Maker. They are
                     principally associated with leadership and law, though
                     also cover battle and war as well.
                 </para>
-                
-                <advantages role="technique" title="Rituals of the Lawmaker">
-                    <advantage name="Aura of Authority" type="technique">
-                        <cost points="3"/>
-                        <skill name="Religion (Haltan)"/>
-                        
+
+                <y:advantages role="technique" title="Rituals of the Lawmaker">
+                    <y:advantage name="Aura of Authority" type="technique">
+                        <y:cost points="3"/>
+                        <y:skill name="Religion (Haltan)"/>
+
                         <description>
                             <para>
                                 Haltan is the god of Law and Authority, and
@@ -253,13 +254,13 @@
                                 rolls equal to the religion score.
                             </para>
                         </description>
-                    </advantage>
-                    
-                    <advantage name="Trial of Combat" type="technique">
-                        <cost points="5"/>
-                        <skill name="Religion (Haltan)"/>
-                        <prerequisite>Aura of Authority</prerequisite>
-                        
+                    </y:advantage>
+
+                    <y:advantage name="Trial of Combat" type="technique">
+                        <y:cost points="5"/>
+                        <y:skill name="Religion (Haltan)"/>
+                        <y:prerequisite>Aura of Authority</y:prerequisite>
+
                         <description>
                             <para>
                                 Trial by combat is reserved for the nobility,
@@ -267,7 +268,7 @@
                                 is performed on two warriors who fight to
                                 the death, the winner was in the right.
                             </para>
-                            
+
                             <para>
                                 Both warriors must accept the performance of
                                 ritual. The one which is seen to be in the
@@ -277,13 +278,13 @@
                                 be used only in the combat.
                             </para>
                         </description>
-                    </advantage>
-                    
-                    <advantage name="Warrior's Blessing" type="technique">
-                        <cost points="5"/>
-                        <skill name="Religion (Haltan)"/>
-                        <prerequisite>Aura of Authority</prerequisite>
-                        
+                    </y:advantage>
+
+                    <y:advantage name="Warrior's Blessing" type="technique">
+                        <y:cost points="5"/>
+                        <y:skill name="Religion (Haltan)"/>
+                        <y:prerequisite>Aura of Authority</y:prerequisite>
+
                         <description>
                             <para>
                                 The priest and up to one comrade per point
@@ -293,19 +294,19 @@
                                 equal bonus to initiative,  for the
                                 duration of the battle.
                             </para>
-                            
+
                             <para>
                                 Prayers must be said before battle is joined,
                                 which takes about five minutes.
                             </para>
                         </description>
-                    </advantage>
-                    
-                    <advantage name="Blessing of War" type="technique">
-                        <cost points="7"/>
-                        <skill name="Religion (Haltan)"/>
-                        <prerequisite>Warrior's Blessing</prerequisite>
-                        
+                    </y:advantage>
+
+                    <y:advantage name="Blessing of War" type="technique">
+                        <y:cost points="7"/>
+                        <y:skill name="Religion (Haltan)"/>
+                        <y:prerequisite>Warrior's Blessing</y:prerequisite>
+
                         <description>
                             <para>
                                 Activated and used similarly to <e>Warrior's
@@ -316,22 +317,21 @@
                                 score.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-		    <advantage name="Hand of Fate" type="technique">
-		        <cost points="7"/>
-                        <skill name="Religion (Haltan)"/>
-                        <prerequisite>Trial by Combat</prerequisite>
-                        
+                    <y:advantage name="Hand of Fate" type="technique">
+                        <y:cost points="7"/>
+                        <y:skill name="Religion (Haltan)"/>
+                        <y:prerequisite>Trial by Combat</y:prerequisite>
+
                         <description>
                             <para>
-			        Get an idea of what the right thing to do is.
-				This ritual takes eight hours to perform.
-			    </para>
+                                Get an idea of what the right thing to do is.
+                                This ritual takes eight hours to perform.
+                            </para>
                         </description>
-		    </advantage>
-
-                </advantages>
+                    </y:advantage>
+                </y:advantages>
             </sect2>
         </sect1>
     </body>

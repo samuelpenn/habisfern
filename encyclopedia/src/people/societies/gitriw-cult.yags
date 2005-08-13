@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 
-<article xmlns="http://yagsbook.sourceforge.net/xml">
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
     <header>
         <title>Cult of Gitriw</title>
         <tagline>Habisfern</tagline>
@@ -55,37 +56,37 @@
                 and to never lie, either by omission or comission.
             </para>
         </sect1>
-        
+
         <sect1>
             <title>Membership</title>
-            
+
             <para>
                 Cultists are taught the following skills and techniques.
             </para>
-            
+
             <sect2>
                 <title>Skills</title>
-            
-                <skill-list>
-                    <skill name="Religion (Cult of Gitriw)" type="knowledge">
+
+                <y:skill-list>
+                    <y:skill name="Religion (Cult of Gitriw)" type="knowledge">
                         <description>
                             <para>
                                 Gives knowledge of the ideals, mythology and
                                 rituals of the Cult of Gitriw.
                             </para>
                         </description>
-                    </skill>
-                </skill-list>
+                    </y:skill>
+                </y:skill-list>
             </sect2>
-            
+
             <sect2>
                 <title>Rituals</title>
-                
-                <advantages role="technique" title="Rituals of Gitriw">
-                    <advantage name="Oath of Truth" type="technique">
-                        <cost points="2"/>
-                        <skill name="Religion (Gitriw)"/>
-                        
+
+                <y:advantages role="technique" title="Rituals of Gitriw">
+                    <y:advantage name="Oath of Truth" type="technique">
+                        <y:cost points="2"/>
+                        <y:skill name="Religion (Gitriw)"/>
+
                         <description>
                             <para>
                                 This ritual is a two edged sword, for it
@@ -95,7 +96,7 @@
                                 all involved wash their hands and faces in
                                 holy water.
                             </para>
-                            
+
                             <para>
                                 Once invoked, all who are part of it will
                                 know if another within the ritual speaks a
@@ -105,20 +106,20 @@
                                 ensure that a Priest of Gitriw speaks the
                                 truth.
                             </para>
-                            
+
                             <para>
                                 A religion roll is made with charisma, and
                                 this adds to guile when detecting lies and
                                 subtracts when telling a lie.
                             </para>
                         </description>
-                    </advantage>
-                    
-                    <advantage name="Trial of Combat" type="technique">
-                        <cost points="4"/>
-                        <skill name="Religion (Gitriw)"/>
-                        <prerequisite>Oath of Truth</prerequisite>
-                        
+                    </y:advantage>
+
+                    <y:advantage name="Trial of Combat" type="technique">
+                        <y:cost points="4"/>
+                        <y:skill name="Religion (Gitriw)"/>
+                        <y:prerequisite>Oath of Truth</y:prerequisite>
+
                         <description>
                             <para>
                                 Trial by combat is reserved for the nobility,
@@ -126,7 +127,7 @@
                                 is performed on two warriors who fight to
                                 the death, the winner was in the right.
                             </para>
-                            
+
                             <para>
                                 Both warriors must accept the performance of
                                 ritual. The one which is seen to be in the
@@ -136,20 +137,20 @@
                                 be used only in the combat.
                             </para>
                         </description>
-                    </advantage>
-                    
-                    <advantage name="Truth sight" type="technique">
-                        <cost points="6"/>
-                        <skill name="Religion (Gitriw)"/>
-                        <prerequisite>Oath of Truth</prerequisite>
-                        
+                    </y:advantage>
+
+                    <y:advantage name="Truth sight" type="technique">
+                        <y:cost points="6"/>
+                        <y:skill name="Religion (Gitriw)"/>
+                        <y:prerequisite>Oath of Truth</y:prerequisite>
+
                         <description>
                             <para>
                                 A ceremony to Gitriw is performed, and all
                                 those who swear on the priest's holy staff
                                 are less capable of telling believable lies.
                             </para>
-                            
+
                             <para>
                                 Any who so swears to tell the truth, for the
                                 duration of the ceremony, opens themselves to
@@ -158,14 +159,14 @@
                                 charisma x religion roll.
                             </para>
                         </description>
-                    </advantage>
-                    
-                    <advantage name="Sight of Gitriw" type="technique">
-                        <cost points="9"/>
-                        <skill name="Religion (Gitriw)"/>
-                        <prerequisite>Truth sight</prerequisite>
-                        <luck temporary="1"/>
-                        
+                    </y:advantage>
+
+                    <y:advantage name="Sight of Gitriw" type="technique">
+                        <y:cost points="9"/>
+                        <y:skill name="Religion (Gitriw)"/>
+                        <y:prerequisite>Truth sight</y:prerequisite>
+                        <y:luck temporary="1"/>
+
                         <description>
                             <para>
                                 As <e>Truth sight</e>, but the priest also
@@ -174,8 +175,8 @@
                                 the target is lying.
                             </para>
                         </description>
-                    </advantage>
-                </advantages>
+                    </y:advantage>
+                </y:advantages>
             </sect2>
         </sect1>
     </body>

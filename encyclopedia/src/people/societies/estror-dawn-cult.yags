@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 
-<article xmlns="http://yagsbook.sourceforge.net/xml">
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
     <header>
         <title>Cult of the Dawn</title>
         <tagline>Habisfern</tagline>
@@ -46,20 +47,20 @@
             <title>Cult of the Dawn</title>
 
             <para>
-                The Cult of the Dawn is a loosely knit group of 
-                priestesses who follow the Dawn Goddess. They are 
+                The Cult of the Dawn is a loosely knit group of
+                priestesses who follow the Dawn Goddess. They are
                 healers and midwives, taking vows to never bring harm to
                 anyone.
             </para>
 
             <para>
-                Members of the Cult are common, being found in most 
-                villages across the Kingdom of Weidany. Most members are 
-                relatively low level, being spinsters or widows. There 
-                is no requirement for cult members to be women, though 
+                Members of the Cult are common, being found in most
+                villages across the Kingdom of Weidany. Most members are
+                relatively low level, being spinsters or widows. There
+                is no requirement for cult members to be women, though
                 by far the majority are.
             </para>
-            
+
             <para>
                 Many cult members will also be members of the
                 <qv uri="yagma-cult">Cult of Yagma</qv>, with priestesses
@@ -67,17 +68,17 @@
                 dedicated to both goddesses, though this is never done
                 on a Cult's holy day.
             </para>
-            
+
             <sect2>
                 <title>Clothing and Symbolism</title>
-                
+
                 <para>
                     During ceremonies, cultists will generally wear clean
                     white robes, after purifying themselves in clean water.
                     The robes are simple one peice garments, leaving the
                     arms and neck bare.
                 </para>
-                
+
                 <para>
                     The symbol of Estror is the egg, and an egg is often
                     used during ceremonies. For richer cult members, a
@@ -85,39 +86,39 @@
                     the metal egg must be solid and pure - a gold plated
                     egg is considered worse than a simple hen's egg.
                 </para>
-                
+
                 <para>
                     The sacred animal is the rabbit, which is sometimes
                     sacrificed during the ceremony.
                 </para>
             </sect2>
         </sect1>
-        
+
         <sect1>
             <title>Membership</title>
-            
+
             <para>
                 Cultists are taught the following skills and techniques.
             </para>
-            
+
             <sect2>
                 <title>Skills</title>
-            
-                <skill-list>
-                    <skill name="Religion (Cult of Estror)" type="knowledge">
+
+                <y:skill-list>
+                    <y:skill name="Religion (Cult of Estror)" type="knowledge">
                         <description>
                             <para>
                                 Gives knowledge of the ideals, mythology and
                                 rituals of the Cult of Estror.
                             </para>
                         </description>
-                    </skill>
-                </skill-list>
+                    </y:skill>
+                </y:skill-list>
             </sect2>
-            
+
             <sect2>
                 <title>Packages</title>
-                
+
                 <characters role="package" title="Cult of Estror">
                     <character name="Daughter of the Dawn">
                         <description>
@@ -127,7 +128,7 @@
                                 anybody.
                             </short>
                         </description>
-                
+
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
@@ -140,7 +141,7 @@
                                     <skill name="Stealth" score="2"/>
                                     <skill name="Throw" score="2"/>
                                 </group>
-                    
+
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
@@ -150,7 +151,7 @@
                                     <skill name="Herb lore" score="3"/>
                                 </group>
                             </skills>
-                    
+
                             <equipment>
                                 <item name="Clean white robes"/>
                                 <item name="Staff"/>
@@ -158,17 +159,17 @@
                         </statistics>
                     </character>
                 </characters>
-            </sect2>                
-            
+            </sect2>
+
             <sect2>
                 <title>Rituals</title>
-                
-                <advantages role="technique" title="Rituals of Estror">
-                    <advantage name="Blessing of Conception"
+
+                <y:advantages role="technique" title="Rituals of Estror">
+                    <y:advantage name="Blessing of Conception"
                                type="technique">
-                        <cost points="2"/>
-                        <skill name="Religion (Estror)"/>
-                        
+                        <y:cost points="2"/>
+                        <y:skill name="Religion (Estror)"/>
+
                         <description>
                             <para>
                                 A blessing which may be asked for by a woman
@@ -178,12 +179,12 @@
                                 the next new moon.
                             </para>
                         </description>
-                    </advantage>
-                    
-                    <advantage name="Caring hands" type="technique">
-                        <cost points="2"/>
-                        <skill name="Religion (Estror)"/>
-                        
+                    </y:advantage>
+
+                    <y:advantage name="Caring hands" type="technique">
+                        <y:cost points="2"/>
+                        <y:skill name="Religion (Estror)"/>
+
                         <description>
                             <para>
                                 When making a first aid roll, get a bonus
@@ -192,8 +193,8 @@
                                 cleansed with holy water.
                             </para>
                         </description>
-                    </advantage>
-                </advantages>
+                    </y:advantage>
+                </y:advantages>
             </sect2>
         </sect1>
     </body>

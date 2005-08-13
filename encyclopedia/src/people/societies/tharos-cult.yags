@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 
-<article xmlns="http://yagsbook.sourceforge.net/xml">
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
     <header>
         <title>Cult of Tharos</title>
         <tagline>Habisfern</tagline>
@@ -148,8 +149,8 @@
             <sect2>
                 <title>Skills</title>
 
-                <skill-list>
-                    <skill name="Religion (Cult of Tharos)" type="knowledge">
+                <y:skill-list>
+                    <y:skill name="Religion (Cult of Tharos)" type="knowledge">
                         <description>
                             <para>
                                 Gives knowledge of the ideals, mythology and
@@ -157,8 +158,8 @@
                                 knowledge of the philosophy of Gebetan.
                             </para>
                         </description>
-                    </skill>
-                </skill-list>
+                    </y:skill>
+                </y:skill-list>
             </sect2>
 
             <sect2>
@@ -229,12 +230,12 @@
             <sect2>
                 <title>Rituals</title>
 
-                <advantages role="technique" title="Rituals of Tharos">
-                    <advantage name="Heightened Reflexes" type="technique">
-                        <cost points="3"/>
-                        <skill name="Religion (Tharos)"/>
+                <y:advantages role="technique" title="Rituals of Tharos">
+                    <y:advantage name="Heightened Reflexes" type="technique">
+                        <y:cost points="3"/>
+                        <y:skill name="Religion (Tharos)"/>
 
-                        <prerequisite>Quickdraw</prerequisite>
+                        <y:prerequisite>Quickdraw</y:prerequisite>
 
                         <description>
                             <para>
@@ -244,13 +245,13 @@
                                 combat.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Perfection of Body" type="technique">
-                        <cost points="5"/>
-                        <skill name="Religion (Tharos)"/>
+                    <y:advantage name="Perfection of Body" type="technique">
+                        <y:cost points="5"/>
+                        <y:skill name="Religion (Tharos)"/>
 
-                        <prerequisite>Heightened Reflexes</prerequisite>
+                        <y:prerequisite>Heightened Reflexes</y:prerequisite>
 
                         <description>
                             <para>
@@ -259,14 +260,14 @@
                                 checks involving acrobatics.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Lightning Reflexes" type="technique">
-                        <cost points="9"/>
-                        <skill name="Religion (Tharos)"/>
+                    <y:advantage name="Lightning Reflexes" type="technique">
+                        <y:cost points="9"/>
+                        <y:skill name="Religion (Tharos)"/>
 
-                        <prerequisite>Heightened Reflexes</prerequisite>
-                        <prerequisite>Whirlwind defence</prerequisite>
+                        <y:prerequisite>Heightened Reflexes</y:prerequisite>
+                        <y:prerequisite>Whirlwind defence</y:prerequisite>
 
                         <description>
                             <para>
@@ -278,13 +279,13 @@
                                 defending against, even in combat.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Beyond Limits" type="technique">
-                        <cost points="7"/>
-                        <skill name="Religion (Tharos)"/>
+                    <y:advantage name="Beyond Limits" type="technique">
+                        <y:cost points="7"/>
+                        <y:skill name="Religion (Tharos)"/>
 
-                        <prerequisite>Perfection of Body</prerequisite>
+                        <y:prerequisite>Perfection of Body</y:prerequisite>
 
                         <description>
                             <para>
@@ -303,13 +304,13 @@
                                 normally as per combat fatigue.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="No Limits" type="technique">
-                        <cost points="9"/>
-                        <skill name="Religion (Tharos)"/>
+                    <y:advantage name="No Limits" type="technique">
+                        <y:cost points="9"/>
+                        <y:skill name="Religion (Tharos)"/>
 
-                        <prerequisite>Beyond Limits</prerequisite>
+                        <y:prerequisite>Beyond Limits</y:prerequisite>
 
                         <description>
                             <para>
@@ -329,11 +330,11 @@
                                 stamina check must be made to remain alive.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Cloak of Shadows" type="technique">
-                        <cost points="4"/>
-                        <skill name="Religion (Tharos)"/>
+                    <y:advantage name="Cloak of Shadows" type="technique">
+                        <y:cost points="4"/>
+                        <y:skill name="Religion (Tharos)"/>
 
                         <description>
                             <para>
@@ -349,13 +350,13 @@
                                 and have his symbol inscribed on the hem.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Face of Friendship" type="technique">
-                        <cost points="9"/>
-                        <skill name="Religion (Tharos)"/>
+                    <y:advantage name="Face of Friendship" type="technique">
+                        <y:cost points="9"/>
+                        <y:skill name="Religion (Tharos)"/>
 
-                        <prerequisite>Cloak of Shadows</prerequisite>
+                        <y:prerequisite>Cloak of Shadows</y:prerequisite>
 
                         <description>
                             <para>
@@ -364,13 +365,13 @@
                                 Tharos to mask their true appearance.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Out of Sight" type="technique">
-                        <cost points="15"/>
-                        <skill name="Religion (Tharos)"/>
+                    <y:advantage name="Out of Sight" type="technique">
+                        <y:cost points="15"/>
+                        <y:skill name="Religion (Tharos)"/>
 
-                        <prerequisite>Face of Friendship</prerequisite>
+                        <y:prerequisite>Face of Friendship</y:prerequisite>
 
                         <description>
                             <para>
@@ -388,8 +389,8 @@
                                 stealth roll is doubled.
                             </para>
                         </description>
-                    </advantage>
-                </advantages>
+                    </y:advantage>
+                </y:advantages>
             </sect2>
         </sect1>
     </body>

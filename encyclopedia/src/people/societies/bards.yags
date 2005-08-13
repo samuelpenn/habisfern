@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 
-<article xmlns="http://yagsbook.sourceforge.net/xml">
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
     <header>
         <title>Bards</title>
         <tagline>Habisfern</tagline>
@@ -171,35 +172,42 @@
                     have a suitable teacher.
                 </para>
 
-                <advantages role="technique" title="Bardic Songs">
+                <y:advantages role="technique" title="Bardic Songs">
                     <description>
                         <para>
                             Bards can learn the following techniques if
                             they have a suitable teacher. Bardic techniques
-                            are used with song and music to eenthralor
+                            are used with song and music to enthral or
                             motivate their aaudience
                         </para>
                     </description>
 
-                    <advantage name="Song of Battle" type="technique">
-                        <cost points="3"/>
-                        <skill name="Perform"/>
+                    <y:advantage name="Song of Battle" type="technique">
+                        <y:cost points="3"/>
+                        <y:skill name="Perform"/>
 
                         <description>
                             <para>
                                 A song of passion and battle, which
-                                inspires comrades to greater glory. All those
-                                within stamina x 10m receive a bonus to their
-                                initiative and bravery rolls equal to the
-                                Bard's Perform skill. Lasts as long as the
-                                Bard is singing.
+                                inspires comrades to greater glory.
+                                Everyone affected gains a bonus to bravery
+                                and morale checks equal to the Bard's
+                                <e>Perform</e> score, and total penalties
+                                due to wounds, stuns and fatigue are
+                                reduced by the same amount.
+                            </para>
+
+                            <para>
+                                Lasts as long as the Bard is singing, and
+                                affects all friendly people within
+                                stamina x 10m of the Bard.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Song of Dread" type="technique">
-                        <cost points="3"/>
-                        <skill name="Perform"/>
+                    <y:advantage name="Song of Dread" type="technique">
+                        <y:cost points="3"/>
+                        <y:skill name="Perform"/>
 
                         <description>
                             <para>
@@ -218,26 +226,12 @@
                                 comrades at the same time.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Song of War" type="technique">
-                        <cost points="5"/>
-                        <skill name="Perform"/>
-                        <prerequisite>Song of Battle</prerequisite>
-
-                        <description>
-                            <para>
-                                As <e>Song of Battle</e>, plus all penalties
-                                due to wounds, stuns and fatigue are each
-                                reduced by the Perform score of the bard.
-                            </para>
-                        </description>
-                    </advantage>
-
-                    <advantage name="Song of Terror" type="technique">
-                        <cost points="5"/>
-                        <skill name="Perform"/>
-                        <prerequisite>Song of Dread</prerequisite>
+                    <y:advantage name="Song of Terror" type="technique">
+                        <y:cost points="5"/>
+                        <y:skill name="Perform"/>
+                        <y:prerequisite>Song of Dread</y:prerequisite>
 
                         <description>
                             <para>
@@ -247,12 +241,12 @@
                                 Automatically combines with Song of Dread.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Song of Fury" type="technique">
-                        <cost points="7"/>
-                        <skill name="Perform"/>
-                        <prerequisite>Song of War</prerequisite>
+                    <y:advantage name="Song of Fury" type="technique">
+                        <y:cost points="5"/>
+                        <y:skill name="Perform"/>
+                        <y:prerequisite>Song of Battle</y:prerequisite>
 
                         <description>
                             <para>
@@ -262,11 +256,11 @@
                                 the song) equal to the Bard's Perform score.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Song of Sleep" type="technique">
-                        <cost points="3"/>
-                        <skill name="Perform"/>
+                    <y:advantage name="Song of Sleep" type="technique">
+                        <y:cost points="3"/>
+                        <y:skill name="Perform"/>
 
                         <description>
                             <para>
@@ -278,12 +272,12 @@
                                 unaffected.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Song of Love" type="technique">
-                        <cost points="5"/>
-                        <skill name="Perform"/>
-                        <prerequisite>Song of Sleep</prerequisite>
+                    <y:advantage name="Song of Love" type="technique">
+                        <y:cost points="5"/>
+                        <y:skill name="Perform"/>
+                        <y:prerequisite>Song of Sleep</y:prerequisite>
 
                         <description>
                             <para>
@@ -299,57 +293,57 @@
                         </description>
                     </advantage>
 
-                    <advantage name="Song of Dreaming" type="technique">
-                        <cost points="7"/>
-                        <skill name="Perform"/>
-                        <prerequisite>Song of Sleep</prerequisite>
+                    <y:advantage name="Song of Dreaming" type="technique">
+                        <y:cost points="7"/>
+                        <y:skill name="Perform"/>
+                        <y:prerequisite>Song of Sleep</y:prerequisite>
 
                         <description>
                             <para>
                                 Rudimentary painting the picture of the dream.
                             </para>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Entrancement" type="technique">
-                        <cost points="5"/>
-                        <skill name="Perform"/>
+                    <y:advantage name="Entrancement" type="technique">
+                        <y:cost points="5"/>
+                        <y:skill name="Perform"/>
 
-                        <prerequisite>Song of Sleep</prerequisite>
-
-                        <description>
-                        </description>
-                    </advantage>
-
-                    <advantage name="Suggestion" type="technique">
-                        <cost points="7"/>
-                        <skill name="Perform"/>
-
-                        <prerequisite>Entrancement</prerequisite>
+                        <y:prerequisite>Song of Sleep</y:prerequisite>
 
                         <description>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                    <advantage name="Geas" type="technique">
-                        <cost points="9"/>
-                        <skill name="Perform"/>
-                        <prerequisite>Suggestion</prerequisite>
+                    <y:advantage name="Suggestion" type="technique">
+                        <y:cost points="7"/>
+                        <y:skill name="Perform"/>
 
-                        <description>
-                        </description>
-                    </advantage>
-
-                    <advantage name="Greater Geas" type="technique">
-                        <cost points="12"/>
-                        <skill name="Perform"/>
-                        <prerequisite>Geas</prerequisite>
+                        <y:prerequisite>Entrancement</y:prerequisite>
 
                         <description>
                         </description>
-                    </advantage>
+                    </y:advantage>
 
-                </advantages>
+                    <y:advantage name="Geas" type="technique">
+                        <y:cost points="9"/>
+                        <y:skill name="Perform"/>
+                        <y:prerequisite>Suggestion</y:prerequisite>
+
+                        <description>
+                        </description>
+                    </y:advantage>
+
+                    <y:advantage name="Greater Geas" type="technique">
+                        <y:cost points="12"/>
+                        <y:skill name="Perform"/>
+                        <y:prerequisite>Geas</y:prerequisite>
+
+                        <description>
+                        </description>
+                    </y:advantage>
+
+                </y:advantages>
             </sect2>
         </sect1>
     </body>
