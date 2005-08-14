@@ -31,12 +31,13 @@
         <style name="module"/>
 
         <references>
+            <see uri="dreams-of-iss">Dreams of Iss</see>
         </references>
 
         <topics>
             <subject uri="firistwinter">Firistwinter</subject>
 
-            <category>Religion</category>
+            <category>Legends</category>>>
 
             <topic uri="rornic-mythology">Rornic Mythology</topic>
             <topic uri="weidany">Weidany</topic>

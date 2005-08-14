@@ -35,7 +35,11 @@
         <topics>
             <subject uri="shortfolk">Shortfolk</subject>
 
-            <category>None</category>
+            <category>Priests</category>
+
+            <topic uri="nailand">Nailand</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
         </topics>
     </header>
 
@@ -44,30 +48,30 @@
             <title>Matriarchs of the Shortfolk</title>
 
             <para>
-                The short folk are governed by their eldest 
-                women, who act as law makers and priestesses to 
-                their tribe. Though age confers rank, it is not 
+                The short folk are governed by their eldest
+                women, who act as law makers and priestesses to
+                their tribe. Though age confers rank, it is not
                 the only factor, and those who are too senile are ignored.
             </para>
 
             <para>
-                The women follow the traditions of the Five 
-                Mothers - the earth goddesses who are the 
+                The women follow the traditions of the Five
+                Mothers - the earth goddesses who are the
                 foundation of their religion.
             </para>
 
             <para>
-                The goddesses are Akarok, Belok, Kernok, Mejenok 
-                and Semok. They are principally death goddesses, 
+                The goddesses are Akarok, Belok, Kernok, Mejenok
+                and Semok. They are principally death goddesses,
                 each with connections to birth and life.
             </para>
 
             <para>
-                All women are given the chance of becoming a 
-                priestess at the age of 11. There is a test of 
-                physical endurance which must be passed, failure 
-                resulting in death. A woman may opt to not take 
-                the test, in which case they effectivel take on 
+                All women are given the chance of becoming a
+                priestess at the age of 11. There is a test of
+                physical endurance which must be passed, failure
+                resulting in death. A woman may opt to not take
+                the test, in which case they effectivel take on
                 the social status of a slave.
             </para>
 

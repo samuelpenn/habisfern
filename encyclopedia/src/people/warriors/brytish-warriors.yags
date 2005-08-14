@@ -31,9 +31,13 @@
         <style name="module"/>
 
         <topics>
-            <topic>Warriors</topic>
-            <topic>People</topic>
-            <topic>Habisfern</topic>
+            <subject uri="bryteland">Bryteland</subject>
+
+            <category>Warriors</category>
+
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
         </topics>
 
     </header>

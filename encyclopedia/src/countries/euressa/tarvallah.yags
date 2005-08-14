@@ -35,7 +35,10 @@
         <topics>
             <subject uri="tarvallah">Tarvallah</subject>
 
-            <category>Religion</category>
+            <category>Legends</category>
+
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
         </topics>
     </header>
 

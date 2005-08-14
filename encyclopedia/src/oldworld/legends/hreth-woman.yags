@@ -35,8 +35,8 @@
         <topics>
             <subject uri="hreth-woman">Hreth</subject>
 
-            <category>Mythical</category>
-            
+            <category>Heroes</category>
+
             <topic uri="old-world">Old World</topic>
         </topics>
     </header>
@@ -57,7 +57,7 @@
                 Erol only found out the truth after he had slain his own
                 mother
             </para>
-            
+
             <para>
                 Hreth was the daughter of the god <qv uri="pel">Pel</qv>
                 and the giantess <qv uri="gruaga">Gruaga</qv>. Whether she

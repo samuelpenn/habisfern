@@ -19,43 +19,205 @@
     </stylesheets>
 
     <categories>
-        <category>Places</category>
+        <category name="Places">
+            <title>Places and Regions</title>
 
-        <category parent="Places">Landscape</category>
-        <category parent="Landscape">Hills</category>
-        <category parent="Landscape">Mountains</category>
-        <category parent="Landscape">Forests</category>
-        <category parent="Landscape">Woods</category>
+            <category name="Geography">
+                <title>Geographical features</title>
 
-        <category parent="Places">Water</category>
-        <category parent="Water">Oceans</category>
-        <category parent="Water">Seas</category>
-        <category parent="Water">Rivers</category>
-        <category parent="Water">Lakes</category>
-        <category parent="Water">Islands</category>
+                <category name="Hills">
+                    <title>Hills</title>
+                </category>
 
-        <category parent="Places">Settlement</category>
-        <category parent="Settlement">City</category>
-        <category parent="Settlement">Town</category>
-        <category parent="Settlement">Village</category>
+                <category name="Mountains">
+                    <title>Mountains and Peaks</title>
+                </category>
 
-        <category parent="Places">Regions</category>
-        <category parent="Regions">Kingdoms</category>
-        <category parent="Regions">Shires</category>
+                <category name="Woods">
+                    <title>Woods and Forests</title>
+                </category>
 
-        <category>Beasts</category>
+                <category name="Marshes">
+                    <title>Marshes, Swamps and Fens</title>
+                </category>
 
-        <category>People</category>
-        <category parent="People">Warrior</category>
-        <category parent="People">Wizard</category>
-        <category parent="People">King</category>
-        <category parent="People">Noble</category>
-        <category parent="People">Craftsman</category>
+                <category name="Moors">
+                    <title>Moors and Heath</title>
+                </category>
 
-        <category>Organisation</category>
-        <category parent="Organisation">Cult</category>
+                <category name="Caves">
+                    <title>Caves</title>
+                </category>
 
-        <category>Items</category>
+                <category name="Seas">
+                    <title>Seas and Oceans</title>
+                </category>
+
+                <category name="Lakes">
+                    <title>Lakes</title>
+                </category>
+
+                <category name="Rivers">
+                    <title>Rivers</title>
+                </category>
+
+                <category name="Islands">
+                    <title>Islands</title>
+                </category>
+            </category>
+
+            <category name="Settlements">
+                <title>Towns, Castles and Ruins</title>
+
+                <category name="Cities">
+                    <title>Cities</title>
+                </category>
+
+                <category name="Towns">
+                    <title>Towns</title>
+                </category>
+
+                <category name="Villages">
+                    <title>Villages and Hamlets</title>
+                </category>
+
+                <category name="Castles">
+                    <title>Castles and Fortifications</title>
+                </category>
+
+                <category name="Ruins">
+                    <title>Ruins</title>
+                </category>
+
+                <category name="Henges">
+                    <title>Henges, Barrows and Mounds</title>
+                </category>
+
+                <category name="Temples">
+                    <title>Temples and Religious Buildings</title>
+                </category>
+            </category>
+
+            <category name="Regions">
+                <title>Regions, Countries and Areas</title>
+
+                <category name="Kingdoms">
+                    <title>Kingdoms and Empires</title>
+                </category>
+
+                <category name="Shires">
+                    <title>Shires and Counties</title>
+                </category>
+
+                <category name="Countries">
+                    <title>Countries</title>
+                </category>
+            </category>
+        </category>
+
+        <category name="Organisations">
+            <title>Organisations, Societies and Religions</title>
+
+            <category name="Cults">
+                <title>Religious Cults and Orders</title>
+            </category>
+
+            <category name="Societies">
+                <title>Societies</title>
+            </category>
+        </category>
+
+        <category name="People">
+            <title>People</title>
+
+            <category name="Races">
+                <title>Races</title>
+            </category>
+
+            <category name="Kings">
+                <title>Kings, Queens and Other Royalty</title>
+            </category>
+
+            <category name="Nobles">
+                <title>Nobility and Land Owners</title>
+            </category>
+
+            <category name="Warriors">
+                <title>Warriors</title>
+            </category>
+
+            <category name="Wizards">
+                <title>Wizards, Sorcerers and Witches</title>
+            </category>
+
+            <category name="Priests">
+                <title>Priests and Religious Leaders</title>
+            </category>
+
+            <category name="Craftsmen">
+                <title>Craftsmen and Other Professionals</title>
+            </category>
+
+            <category name="Merchants">
+                <title>Merchants and Bankers</title>
+            </category>
+        </category>
+
+        <category name="Mythology">
+            <title>Myths, Legends and Gods</title>
+
+            <category name="Gods">
+                <title>Gods and Divine Creatures</title>
+            </category>
+
+            <category name="Legends">
+                <title>Legends and Myths</title>
+            </category>
+
+            <category name="Heroes">
+                <title>Ancient Heroes of the Past</title>
+            </category>
+
+            <category name="Astrology">
+                <title>The Stars and Heavens</title>
+            </category>
+        </category>
+
+        <category name="Beasts">
+            <title>Beasts, Animals and Monsters</title>
+
+            <category name="Spirits">
+                <title>Spirits, Faeries and Elementals</title>
+            </category>
+        </category>
+
+        <category name="Items">
+            <title>Items of Worth</title>
+
+            <category name="Arms">
+                <title>Arms and Armour</title>
+            </category>
+        </category>
+
+        <category name="Lore">
+            <title>Lore</title>
+
+            <category name="History">
+                <title>Historical Events</title>
+            </category>
+
+            <category name="Battles">
+                <title>Battles</title>
+            </category>
+
+            <category name="Languages">
+                <title>Languages and Writing</title>
+            </category>
+
+            <category name="Magic">
+                <title>Magic</title>
+            </category>
+        </category>
     </categories>
 
 

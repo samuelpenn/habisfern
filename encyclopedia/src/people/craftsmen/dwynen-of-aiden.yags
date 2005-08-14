@@ -31,9 +31,13 @@
         <style name="module"/>
 
         <topics>
-            <topic>Craft</topic>
-            <topic>People</topic>
-            <topic>Habisfern</topic>
+            <subject uri="dwynen-of-aiden">Dwynen of Aiden</subject>
+            <category>Craftsmen</category>
+
+            <topic uri="aiden-shire">Aiden</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
         </topics>
 
     </header>
@@ -41,7 +45,7 @@
     <body>
         <sect1>
             <title>Dwynen of Aiden</title>
-            
+
             <para>
                 Dwynen was a 12th century female magesmith and warrior. She
                 spent most of her time in Aiden, and made a number of
