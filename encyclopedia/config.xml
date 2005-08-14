@@ -7,20 +7,55 @@
         <template name="mainpage" path="templates/index.html"/>
         <template name="footer" path="templates/footer.html"/>
     </templates>
-    
+
     <website>
         <homepage href="/habisfern/index.html"/>
         <counter href="/counters/habisfern.php"/>
     </website>
 
     <stylesheets>
-        <stylesheet name="entry" 
-                    location="/usr/share/xml/yagsbook/article/xslt/html/encyclopedia.xsl"/>
+        <stylesheet name="entry"
+            location="/usr/share/xml/yagsbook/article/xslt/html/encyclopedia.xsl"/>
     </stylesheets>
 
     <categories>
-        <category class="Landscape">Hill</category>
-        <category class="Landscape">Mountain</category>
+        <category>Places</category>
+
+        <category parent="Places">Landscape</category>
+        <category parent="Landscape">Hills</category>
+        <category parent="Landscape">Mountains</category>
+        <category parent="Landscape">Forests</category>
+        <category parent="Landscape">Woods</category>
+
+        <category parent="Places">Water</category>
+        <category parent="Water">Oceans</category>
+        <category parent="Water">Seas</category>
+        <category parent="Water">Rivers</category>
+        <category parent="Water">Lakes</category>
+        <category parent="Water">Islands</category>
+
+        <category parent="Places">Settlement</category>
+        <category parent="Settlement">City</category>
+        <category parent="Settlement">Town</category>
+        <category parent="Settlement">Village</category>
+
+        <category parent="Places">Regions</category>
+        <category parent="Regions">Kingdoms</category>
+        <category parent="Regions">Shires</category>
+
+        <category>Beasts</category>
+
+        <category>People</category>
+        <category parent="People">Warrior</category>
+        <category parent="People">Wizard</category>
+        <category parent="People">King</category>
+        <category parent="People">Noble</category>
+        <category parent="People">Craftsman</category>
+
+        <category>Organisation</category>
+        <category parent="Organisation">Cult</category>
+
+        <category>Items</category>
     </categories>
 
 
