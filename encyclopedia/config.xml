@@ -265,15 +265,6 @@
         </p>
 
         <p>
-            <image href="/images/header-bar.png" width="100%" height="39"
-                   style="position: fixed; top: 0mm; left: 0mm;"/>
-
-            <image href="/images/glendale.png" width="187" height="39"
-                   alt="Glendale" title="Playing free games"
-                   style="position: fixed; top: 0mm;"/>
-        </p>
-
-        <p>
         </p>
     </body>
 </configuration>
