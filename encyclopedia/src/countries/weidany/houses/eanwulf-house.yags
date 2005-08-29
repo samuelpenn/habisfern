@@ -58,7 +58,9 @@
                 The House was once the rulers of the Kingdom of Estwed,
                 in the days before the rise of the Cult of Asabeth in
                 those lands. It has regained some of its power and
-                influence since those glory days, but not all.
+                influence since those glory days, but not all. It is
+                still considered to be one of the major Houses, though
+                is probably the weakest of those that are.
             </para>
         </sect1>
 
@@ -71,7 +73,7 @@
                 <y:advantages role="background" title="House of Eanwulf">
 
                     <y:advantage name="House of Eanwulf" type="background">
-                        <y:cost points="5"/>
+                        <y:cost points="10"/>
 
                         <description>
                             <para>

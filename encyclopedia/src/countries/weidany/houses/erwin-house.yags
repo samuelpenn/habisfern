@@ -72,6 +72,24 @@
             </para>
 
             <sect2>
+                <title>Land</title>
+
+                <para>
+                    The seat of power of the House of Erwin is at
+                    <qv uri="abbyton">Abbyton</qv> in the
+                    <qv uri="merrik-shire">Shire of Merrik</qv>.
+                    Much of the central and northern parts of Merrik
+                    belong to this house, as do parts of
+                    <qv uri="northwood-shire">Northwood</qv>.
+                </para>
+
+                <para>
+                    Erwin's other main powerbase is in northern
+                    <qv uri="ornwold-shire">Ornwold</qv>.
+                </para>
+            </sect2>
+
+            <sect2>
                 <title>Nobles of House Erwin</title>
 
                 <para>
@@ -115,10 +133,10 @@
                     <title>Current Household</title>
 
                     <para>
-                        The current head of the House if Madog.
+                        The current head of the House is Madog.
                     </para>
 
-                    <familyTree  title="House of Erwin">
+                    <familyTree title="House of Erwin">
                         <root>Theodred Erwin</root>
 
                         <person name="Theodred Erwin">

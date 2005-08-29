@@ -55,7 +55,7 @@
         <topics>
             <subject uri="weidany">Weidany</subject>
 
-            <category>Countries</category>>
+            <category>Kingdoms</category>>
 
             <topic uri="weidany">Weidany</topic>
             <topic uri="euressa">Euressa</topic>
@@ -331,7 +331,10 @@
                         Currently, both Midlaen and Weidany are happy to
                         trade with each other, and there is no sign of an
                         attempt to reclaim the old shire being desired by
-                        the Kingdom in the near future.
+                        the Kingdom in the near future, though
+                        <qv uri="hrulgar-house">the House of Hrulgar</qv>
+                        would be more than willing to make the attempt
+                        if anyone else would let them.
                     </para>
                 </sect3>
             </sect2>

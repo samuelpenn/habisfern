@@ -47,7 +47,7 @@
     <body>
         <sect1>
             <title>The Shire of Talmoth</title>
-                        
+
             <para>
                 Located around the <qv uri="talmoth-hills">Talmoth
                 Hills</qv>, and named for the old
@@ -56,11 +56,16 @@
                 lead mines in the hills, as well as horse breeding,
                 the latter of which Talmoth is famous for.
             </para>
-            
+
             <para>
                 The shire town is <qv uri="heath-castle">Heath</qv>,
                 which is a grand stone castle dating back to the old
                 kingdom.
+            </para>
+
+            <para>
+                Most of the shire is under the control of the
+                <qv uri="merin-house">House of Merin</qv>.
             </para>
         </sect1>
     </body>
