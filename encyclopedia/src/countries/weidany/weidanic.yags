@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Weidanic Commoners</title>
+        <title>Weidanic People</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -975,7 +975,7 @@
             </sect2>
 
             <sect2>
-                <title>Common folk</title>
+                <title>Rural Common Folk</title>
 
                 <para>
                     The following character packages represent commoners
@@ -993,6 +993,26 @@
                                 from his Lord to sustain himself and his
                                 family.
                             </short>
+
+                            <background>
+                                <para>
+                                    A typical freeman farmer who is wealthy
+                                    enough to live off their own land,
+                                    possibly with enough left over food to
+                                    sell for luxuries.
+                                    Ceorl's are considered to be part of
+                                    their father's household until they
+                                    marry, at which point they are given
+                                    their own land to work themselves.
+                                </para>
+
+                                <para>
+                                    A Player Character may choose to have
+                                    their own land, but this ties them to
+                                    the responsibilities of their wife and
+                                    land, restricting their freedoms.
+                                </para>
+                            </background>
                         </description>
 
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
@@ -1009,7 +1029,7 @@
                                 </group>
 
                                 <group name="Knowledges" type="knowledges">
-                                    <skill name="Speak own" score="4"/>
+                                    <skill name="Speak Rornic" score="4"/>
                                     <skill name="Area lore" score="4"/>
                                 </group>
 
@@ -1021,26 +1041,61 @@
                                 <group name="Other" type="skills">
                                     <skill name="Game (any)" score="2"/>
                                     <skill name="Longshaft weapon" score="3"/>
-                                    <skill name="Weapon and shield" score="2"/>
+                                    <skill name="Weapon and shield" score="3"/>
                                     <skill name="Ride" score="1"/>
                                     <skill name="Etiquette" score="1"/>
-                                    <skill name="Bow" score="2"/>
+                                    <skill name="Bow" score="1"/>
                                 </group>
                             </skills>
+
+                            <advantages>
+                                <advantage name="Shield wall" cost="2"
+                                           skill="Weapon and shield"/>
+                                <advantage name="Spearman" cost="2"
+                                           skill="Longshaft weapon"/>
+                            </advantages>
+
                         </statistics>
+
+                        <equipment>
+                            <cash value="20d"/>
+                            <item name="War spear"/>
+                            <item name="Round shield"/>
+                            <item name="Scramasax"/>
+                            <item name="Clothes"/>
+                        </equipment>
                     </character>
 
                     <character name="Free woman">
                         <description>
                             <short>
-                                Women are often tied to their husbands or
-                                family, but the occasionly free spirited
-                                woman can make a name for herself. This is
-                                normally done by commerce (running an inn
-                                is common), or just being able to know
-                                things (and turn them to her advantage)
-                                before the men find out.
+                                A woman of a free household, either married
+                                or unmarried.
                             </short>
+
+                            <background>
+                                <para>
+                                    Women are often tied to their husbands or
+                                    family, but the occasionly free spirited
+                                    woman can make a name for herself. This is
+                                    normally done by commerce (running an inn
+                                    is common), or just being able to know
+                                    things (and turn them to her advantage)
+                                    before the men find out.
+                                </para>
+
+                                <para>
+                                    Player Characters are best playing
+                                    unmarried women due to the restrictions
+                                    in Rornic culture placed on those who are
+                                    married. However, a wife <e>can</e> be
+                                    relatively independent, especially in a
+                                    merchant household. If the husband is
+                                    away, the wife is expected to manage the
+                                    household and any business herself,
+                                    which may involve going away herself.
+                                </para>
+                            </background>
                         </description>
 
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
@@ -1057,25 +1112,30 @@
                                 </group>
 
                                 <group name="Knowledges" type="knowledges">
-                                    <skill name="Speak own" score="4"/>
+                                    <skill name="Speak Rornic" score="4"/>
                                     <skill name="Area lore" score="4"/>
                                 </group>
 
                                 <group name="Profession" type="skills">
+                                    <skill name="Handicraft" score="4"/>
+                                    <skill name="Weaving" score="2"/>
                                     <skill name="Farming" score="2"/>
-                                    <skill name="Trade" score="3"/>
-                                    <skill name="Handicraft" score="2"/>
+                                    <skill name="Brewing" score="2"/>
+                                    <skill name="Trade" score="2"/>
                                 </group>
 
                                 <group name="Other" type="skills">
-                                    <skill name="Single weapon" score="2"/>
-                                    <skill name="Ride" score="1"/>
                                     <skill name="Etiquette" score="1"/>
-                                    <skill name="Bow" score="2"/>
                                     <skill name="Intrigue" score="2"/>
                                 </group>
                             </skills>
                         </statistics>
+
+                        <equipment>
+                            <cash value="20d"/>
+                            <item name="Clothes"/>
+                            <item name="Dagger"/>
+                        </equipment>
                     </character>
 
                     <character name="Woodsman">
@@ -1092,7 +1152,7 @@
                             <skills>
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>
-                                    <skill name="Awareness" score="2"/>
+                                    <skill name="Awareness" score="3"/>
                                     <skill name="Brawl" score="2"/>
                                     <skill name="Charm" score="2"/>
                                     <skill name="Guile" score="2"/>
@@ -1113,10 +1173,10 @@
                                 </group>
 
                                 <group name="Other" type="skills">
-                                    <skill name="Bow" score="3"/>
-                                    <skill name="Single weapon" score="3"/>
-                                    <skill name="Survival" score="3"/>
-                                    <skill name="Hunting" score="3"/>
+                                    <skill name="Bow" score="4"/>
+                                    <skill name="Single weapon" score="2"/>
+                                    <skill name="Survival" score="2"/>
+                                    <skill name="Hunting" score="2"/>
                                     <skill name="Herb lore" score="1"/>
                                     <skill name="First aid" score="1"/>
                                 </group>
@@ -1141,7 +1201,7 @@
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>
                                     <skill name="Awareness" score="2"/>
-                                    <skill name="Brawl" score="3"/>
+                                    <skill name="Brawl" score="2"/>
                                     <skill name="Charm" score="2"/>
                                     <skill name="Guile" score="2"/>
                                     <skill name="Sleight" score="2"/>
@@ -1158,16 +1218,35 @@
                                     <skill name="Farming" score="2"/>
                                 </group>
 
-                                <group name="Other" type="skills">
-                                    <skill name="Bow" score="1"/>
-                                    <skill name="Weapon and shield" score="4"/>
-                                    <skill name="Survival" score="1"/>
-                                    <skill name="First aid" score="2"/>
+                                <group name="Combat" type="skills">
                                     <skill name="Battle" score="2"/>
-                                    <skill name="Longshaft weapon" score="3"/>
+                                    <skill name="Bow" score="1"/>
+                                    <skill name="Longshaft weapon" score="4"/>
+                                    <skill name="Weapon and shield" score="4"/>
                                 </group>
                             </skills>
+
+                            <advantages>
+                                <advantage name="Shield wall" cost="2"
+                                           skill="Weapon and shield"/>
+                                <advantage name="Spearman" cost="2"
+                                           skill="Longshaft weapon"/>
+                                <advantage name="Two rank fighting" cost="4"
+                                           skill="Longshaft weapon"/>
+                            </advantages>
                         </statistics>
+
+                        <equipment>
+                            <cash value="5d"/>
+                            <item name="Round shield"/>
+                            <item name="War spear"/>
+                            <item name="Long spear"/>
+                            <item name="Broad sword"/>
+                            <item name="Soft leather trousers"/>
+                            <item name="Soft leather jacket"/>
+                            <item name="Metal helm"/>
+                            <item name="Mail habergeon"/>
+                        </equipment>
                     </character>
 
                     <character name="Merchant">
@@ -1187,8 +1266,8 @@
                                     <skill name="Athletics" score="2"/>
                                     <skill name="Awareness" score="2"/>
                                     <skill name="Brawl" score="2"/>
-                                    <skill name="Charm" score="3"/>
-                                    <skill name="Guile" score="3"/>
+                                    <skill name="Charm" score="4"/>
+                                    <skill name="Guile" score="4"/>
                                     <skill name="Sleight" score="2"/>
                                     <skill name="Stealth" score="2"/>
                                     <skill name="Throw" score="2"/>
@@ -1201,17 +1280,24 @@
 
                                 <group name="Profession" type="skills">
                                     <skill name="Trade" score="4"/>
-                                    <skill name="Teamster" score="3"/>
+                                    <skill name="Teamster" score="4"/>
                                 </group>
 
                                 <group name="Other" type="skills">
                                     <skill name="Ride" score="2"/>
-                                    <skill name="Single weapon" score="2"/>
                                     <skill name="Etiquette" score="2"/>
                                     <skill name="Law" score="1"/>
                                 </group>
                             </skills>
                         </statistics>
+
+                        <equipment>
+                            <cash value="40d"/>
+                            <item name="Good clothes"/>
+                            <item name="Dagger"/>
+                            <item name="Donkey"/>
+                            <item name="Cart"/>
+                        </equipment>
                     </character>
 
                     <character name="Craftsman">
@@ -1221,18 +1307,24 @@
                                 often much in demand. They are generally
                                 freemen, but accorded more respect than
                                 normal because they can do things normal
-                                people can't. Metalsmiths especially are
-                                held in high esteem, especially if they
-                                can craft weapons and armour (which makes
-                                their customers the nobility).
+                                people can't.
                             </short>
+
+                            <background>
+                                <para>
+                                    Metalsmiths especially are
+                                    held in high esteem, especially if they
+                                    can craft weapons and armour (which makes
+                                    their customers the nobility).
+                                </para>
+                            </background>
                         </description>
 
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>
-                                    <skill name="Awareness" score="3"/>
+                                    <skill name="Awareness" score="2"/>
                                     <skill name="Brawl" score="2"/>
                                     <skill name="Charm" score="3"/>
                                     <skill name="Guile" score="3"/>
@@ -1258,22 +1350,41 @@
                                 </group>
                             </skills>
                         </statistics>
+
+                        <equipment>
+                            <cash value="20d"/>
+                            <item name="Dagger"/>
+                            <item name="Craft tools"/>
+                            <item name="Good clothes"/>
+                            <item name="Riding horse"/>
+                        </equipment>
                     </character>
 
 
                     <character name="Cunning folk">
-                        <socialClass level="-1">Kotsetla</socialClass>
                         <description>
                             <short>
                                 Cunning folk are repositories of knowledge
                                 about the natural and supernatural world.
-                                They are often unmarried women, though some
-                                are men. Those who have Second Sight or some
-                                similar supernatural ability will often be
-                                trained by the local cunning folk. Much of
-                                what they do is sleight of hand and verbal
-                                trickery.
                             </short>
+
+                            <background>
+                                <para>
+                                    Cunningfolk are often unmarried women,
+                                    though a few are men. They generally
+                                    live on the outskirts of a village,
+                                    supported by donations of food and
+                                    goods by villagers in return for
+                                    medical aid, advice and magical
+                                    blessings.
+                                </para>
+
+                                <para>
+                                    Cunningfolk tend to be old, and most
+                                    Player Characters will actually be an
+                                    apprentice to a Cunningfolk.
+                                </para>
+                            </background>
                         </description>
 
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
@@ -1284,7 +1395,7 @@
                                     <skill name="Brawl" score="2"/>
                                     <skill name="Charm" score="3"/>
                                     <skill name="Guile" score="4"/>
-                                    <skill name="Sleight" score="3"/>
+                                    <skill name="Sleight" score="2"/>
                                     <skill name="Stealth" score="2"/>
                                     <skill name="Throw" score="2"/>
                                 </group>
@@ -1294,8 +1405,7 @@
                                     <skill name="Area lore" score="4"/>
                                     <skill name="Herb lore" score="4"/>
                                     <skill name="First aid" score="3"/>
-                                    <skill name="Faerie lore" score="3"/>
-                                    <skill name="Religion" score="3"/>
+                                    <skill name="Faerie lore" score="2"/>
                                     <skill name="Legend lore" score="2"/>
                                     <skill name="Astrology" score="2"/>
                                 </group>
@@ -1305,6 +1415,10 @@
                                     <skill name="Survival" score="2"/>
                                 </group>
                             </skills>
+
+                            <advantages>
+                                <advantage name="Second sight" cost="5"/>
+                            </advantages>
                         </statistics>
                     </character>
                 </characters>

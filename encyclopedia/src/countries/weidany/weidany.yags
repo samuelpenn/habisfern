@@ -173,6 +173,20 @@
                         <item target="+6" value="Ealdorman"/>
                         <item target="+7" value="King"/>
                     </targetlist>
+
+                    <para>
+                        Most of the population consists of
+                        <qv uri="weidanic">commoners</qv>, who are free
+                        (or mostly free) people who make up the farmers,
+                        craftsmen and townsfolk of the Kingdom.
+                    </para>
+
+                    <para>
+                        The <qv uri="weidany-nobles">nobility</qv> are
+                        those who own enough land to farm it out to others
+                        (mostly commoners). Most noble positions aren't
+                        actually heriditary.
+                    </para>
                 </sect3>
             </sect2>
 
