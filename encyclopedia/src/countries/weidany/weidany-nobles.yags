@@ -65,17 +65,43 @@
                 <title>Packages</title>
 
                 <characters role="package" title="Weidanic Nobles">
+
                     <character name="Thegn">
                         <description>
                             <socialClass level="+4">Thegn</socialClass>
                             <short>
-                                A thegn is the ruler of a manor. They have
-                                knowledge of both warcraft and statecraft.
-                                Technically, they are the warrior lord of
-                                their estate, though the requirements of
-                                bureacracy often means that their martial
-                                training suffers.
+                                A thegn is the ruler of a manor.
                             </short>
+
+                            <background>
+                                <para>
+                                    A thegn is a local lord who rules one or
+                                    more villages. They have knowledge of
+                                    both warcraft and statecraft.
+                                    Technically, they are the warrior lord of
+                                    their estate, though the requirements of
+                                    bureacracy often means that their martial
+                                    training suffers.
+                                </para>
+
+                                <para>
+                                    A Player Character may be an actual thegn,
+                                    or a thegn's son. The former will have
+                                    more power, but also responsibility, and
+                                    if they run off seeking adventure and
+                                    excitement, they will probably loose their
+                                    status. A son has more freedom of action,
+                                    but less authority.
+                                </para>
+
+                                <para>
+                                    A thegn may be woman - they are rare, but
+                                    not unheard of. Also, the wife of a thegn
+                                    is expected to take up her husband's duties
+                                    when he is away, and though many delegate
+                                    martial affairs to others, some do not.
+                                </para>
+                            </background>
                         </description>
 
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
@@ -98,21 +124,31 @@
                                     <skill name="Heraldry" score="3"/>
                                 </group>
 
-                                <group name="Profession" type="skills">
-                                    <skill name="Farming" score="2"/>
-                                    <skill name="Trade" score="2"/>
-                                    <skill name="Seneschal" score="4"/>
+                                <group name="Combat" type="skills">
+                                    <skill name="Weapon and shield" score="3"/>
+                                    <skill name="Great weapon" score="2"/>
+                                    <skill name="Battle" score="2"/>
                                 </group>
 
                                 <group name="Other" type="skills">
-                                    <skill name="Weapon and shield" score="3"/>
-                                    <skill name="Great weapon" score="2"/>
+                                    <skill name="Farming" score="2"/>
+                                    <skill name="Trade" score="2"/>
+                                    <skill name="Seneschal" score="2"/>
                                     <skill name="Ride" score="2"/>
                                     <skill name="Etiquette" score="3"/>
-                                    <skill name="Battle" score="2"/>
                                 </group>
                             </skills>
                         </statistics>
+
+                        <equipment>
+                            <cash value="40d"/>
+                            <item name="Broadsword"/>
+                            <item name="Mail hauberk"/>
+                            <item name="Soft leather trousers"/>
+                            <item name="Soft leather jacket"/>
+                            <item name="Metal helm"/>
+                            <item name="Riding horse"/>
+                        </equipment>
                     </character>
 
                     <character name="Warrior">
@@ -120,12 +156,18 @@
                             <socialClass level="+3">Landless noble</socialClass>
 
                             <short>
-                                Warriors are often the children of thegns.
-                                They have a measure of noble rank, though it
-                                is not heriditary. The either serve in the
-                                Queen's army or serve another Lord in return
-                                for arms and lodgings.
+                                A noble warrior dedicated to the art of war.
                             </short>
+
+                            <background>
+                                <para>
+                                    Warriors are of a similar social class
+                                    to <e>thegns</e>, however they do not
+                                    have the burdens of running a manor to
+                                    worry about. They may be the child of
+                                    a thegn, or serve one as a retainer.
+                                </para>
+                            </background>
                         </description>
 
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
@@ -138,41 +180,60 @@
                                     <skill name="Guile" score="2"/>
                                     <skill name="Sleight" score="2"/>
                                     <skill name="Stealth" score="2"/>
-                                    <skill name="Throw" score="3"/>
+                                    <skill name="Throw" score="4"/>
                                 </group>
 
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
-                                    <skill name="Law" score="1"/>
                                     <skill name="Heraldry" score="2"/>
+                                    <skill name="Law" score="1"/>
                                 </group>
 
                                 <group name="Other" type="skills">
+                                    <skill name="Ride" score="2"/>
+                                    <skill name="Etiquette" score="1"/>
+                                </group>
+
+                                <group name="Combat" type="skills">
                                     <skill name="Longshaft weapon" score="2"/>
                                     <skill name="Weapon and shield" score="4"/>
                                     <skill name="Single weapon" score="2"/>
                                     <skill name="Great weapon" score="2"/>
-                                    <skill name="Ride" score="2"/>
-                                    <skill name="Etiquette" score="2"/>
                                     <skill name="Battle" score="2"/>
                                 </group>
                             </skills>
                         </statistics>
+
+                        <equipment>
+                            <cash value="10d"/>
+                            <item name="Broadsword"/>
+                            <item name="Mail hauberk"/>
+                            <item name="Soft leather trousers"/>
+                            <item name="Soft leather jacket"/>
+                            <item name="Metal helm"/>
+                            <item name="Riding horse"/>
+                        </equipment>
                     </character>
 
                     <character name="Mercenary">
-                        <socialClass level="+3">Landless knight</socialClass>
                         <description>
+                            <socialClass level="+3">Landless knight</socialClass>
                             <short>
-                                Mercenaries can come from many backgrounds,
-                                though by far the majority are from noble
-                                families. If their own family cannot afford
-                                to support them, and there are no
-                                requirements for full time huscurls, the
-                                youngest noble sons often find themselves
-                                on the road looking for paid work.
+                                A warrior working for money rather than loyalty.
                             </short>
+
+                            <background>
+                                <para>
+                                    Mercenaries can come from many backgrounds,
+                                    though by far the majority are from noble
+                                    families. If their own family cannot afford
+                                    to support them, and there are no
+                                    requirements for full time huscurls, the
+                                    youngest noble sons often find themselves
+                                    on the road looking for paid work.
+                                </para>
+                            </background>
                         </description>
 
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
@@ -191,30 +252,61 @@
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
-                                    <skill name="Heraldry" score="2"/>
+                                    <skill name="Heraldry" score="1"/>
                                 </group>
 
                                 <group name="Other" type="skills">
-                                    <skill name="Weapon and shield" score="4"/>
-                                    <skill name="Single weapon" score="2"/>
-                                    <skill name="Great weapon" score="2"/>
                                     <skill name="Ride" score="2"/>
                                     <skill name="Etiquette" score="1"/>
+                                    <skill name="Survival" score="2"/>
+                                </group>
+
+                                <group name="Combat" type="skills">
+                                    <skill name="Weapon and shield" score="4"/>
+                                    <skill name="Longshaft weapon" score="2"/>
+                                    <skill name="Single weapon" score="2"/>
+                                    <skill name="Great weapon" score="2"/>
                                     <skill name="Battle" score="2"/>
+                                    <skill name="Bow" score="2"/>
                                 </group>
                             </skills>
                         </statistics>
+
+                        <equipment>
+                            <cash value="5d"/>
+                            <item name="Broadsword"/>
+                            <item name="Mail hauberk"/>
+                            <item name="Soft leather trousers"/>
+                            <item name="Soft leather jacket"/>
+                            <item name="Metal helm"/>
+                            <item name="Riding horse"/>
+                        </equipment>
                     </character>
 
                     <character name="Courtier">
-                        <socialClass level="+3">Noble</socialClass>
                         <description>
+                            <socialClass level="+3">Noble</socialClass>
                             <short>
                                 A typical noble's son who has no wish to
                                 take up warfare but seeks a more relaxed
-                                life. Status and ambition are all
-                                important, as is good living and fine wines.
+                                life.
                             </short>
+
+                            <background>
+                                <para>
+                                    Courtiers can be either nobles or high
+                                    ranking freemen who, either through skill
+                                    or knowing the right people, has a job
+                                    helping to keep the administration of the
+                                    local area running smoothly.
+                                </para>
+
+                                <para>
+                                    Courtier's generally try to avoid fighting
+                                    or physical labor, prefering to get others
+                                    to do their dirty work.
+                                </para>
+                            </background>
                         </description>
 
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
@@ -244,27 +336,49 @@
                                     <skill name="Single weapon" score="2"/>
                                     <skill name="Ride" score="2"/>
                                     <skill name="Etiquette" score="4"/>
-                                    <skill name="Intrigue" score="3"/>
+                                    <skill name="Politics" score="4"/>
                                 </group>
                             </skills>
+
+                            <advantages>
+                                <advantage name="Literate" score="4"/>
+                            </advantages>
                         </statistics>
+
+                        <equipment>
+                            <cash value="15d"/>
+                            <item name="Good clothes"/>
+                            <item name="Dagger"/>
+                        </equipment>
                     </character>
 
 
                     <character name="Lady">
-                        <socialClass level="+3">Noble</socialClass>
                         <description>
+                            <socialClass level="+3">Noble</socialClass>
                             <short>
-                                A Lady is the wife or daughter of a
-                                nobleman. Though they are expected to take
-                                little interest in the affairs of the
-                                manor, they are expected to administer it
-                                in the absence of their husband. This
-                                requires the skill of dropping hints
-                                and making suggestions about what should be
-                                done, without appearing to be actually
-                                running things.
+                                A Lady is the wife or daughter of a nobleman.
                             </short>
+
+                            <background>
+                                <para>
+                                    Noblewomen are for the most part
+                                    considered to be there to provide sons
+                                    for their husband. However, they are
+                                    expected to run their husband's
+                                    estates when he is away, to entertain
+                                    important guests and ensure the smooth
+                                    running of the household.
+                                </para>
+
+                                <para>
+                                    It is not expected that a Lady takes up
+                                    arms in place of their husband, however
+                                    it is not unknown for this to happen,
+                                    and such a thing is considered to be
+                                    proper behaviour.
+                                </para>
+                            </background>
                         </description>
 
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
@@ -288,15 +402,15 @@
                                 </group>
 
                                 <group name="Profession" type="skills">
-                                    <skill name="Handicraft" score="4"/>
+                                    <skill name="Handicraft" score="3"/>
                                     <skill name="Seneschal" score="3"/>
                                 </group>
 
                                 <group name="Other" type="skills">
                                     <skill name="Ride" score="2"/>
-                                    <skill name="Etiquette" score="3"/>
-                                    <skill name="Perform" score="1"/>
-                                    <skill name="Intrigue" score="3"/>
+                                    <skill name="Etiquette" score="4"/>
+                                    <skill name="Perform" score="2"/>
+                                    <skill name="Politics" score="2"/>
                                 </group>
                             </skills>
                         </statistics>
