@@ -144,34 +144,72 @@
                     <title>Social Classes</title>
 
                     <para>
-                        The full range of social classes in the Kingdom is
-                        as follows.
+                        The Kingdom is heavily class orientated, and there
+                        is a large distinction in the freedoms and rights
+                        of the higher classes compared to the lower
+                        classes. However, a person's class is not fixed in
+                        stone, and it is possible (though very rare) for
+                        a slave to rise to be a thegn.
                     </para>
 
-                    <targetlist>
+                    <para>
+                        With the exception of Outlaws, nobody may be slain
+                        without reason. Even slaves have a right to life,
+                        even if they don't have much else. The penalty for
+                        killing (or harming) a slave is much less severe
+                        than the penalty for harming a thegn is however.
+                    </para>
+
+                    <targetlist bold="true" targetFirst="true">
                         <targetLabel>Level</targetLabel>
                         <valueLabel>Social class</valueLabel>
 
-                        <item target="-4" value="Outlaw"/>
-                        <item target="-3" value="Slave"/>
-                        <item target="-2" value="Serf"/>
-                        <item target="-1" value="Kotsetla"/>
-                        <item target="+0" value="Ceorl"/>
-                        <item target="+1" value="Craftsman"/>
-                        <item target="+2" value="Priest"/>
-                        <item target="+3" value="Low noble">
+                        <item target="-4" value="Outlaw.">
+                            Outlaws have been cast from society and are
+                            considered to have no rights. Anybody may
+                            kill an outlaw, and it is even illegal to
+                            seek revenge if an outlaw is killed
+                        </item>
+
+                        <item target="-3" value="Slaves.">
+                            Slaves own no land, and are total dependant
+                            on their lords for food and shelter. They may
+                            buy their own freedom, and are allowed to own
+                            goods and make money.
+                        </item>
+
+                        <item target="-2" value="Gebur.">
+                            The lowest of the 'free' classes. He has three
+                            acres of land, and must work for his lord for
+                            food and protection.
+                        </item>
+
+                        <item target="-1" value="Kotsetla.">
+                            Like the Gebur, the Kotsetla is dependant on
+                            their lord for enough food to survive. They
+                            must work their lord's land, though have five
+                            acres of land themselves.
+                        </item>
+
+                        <item target="+0" value="Geneat.">
+                            The geneat are the upper classes of the ceorl,
+                            fully independant.
+                        </item>
+                        <item target="+1" value="Craftsman."/>
+                        <item target="+2" value="Priest."/>
+                        <item target="+3" value="Low noble.">
                             The lowest rank of nobility, normally a direct
                             relation of a landed noble, such as a child or
                             spouse.
                         </item>
-                        <item target="+4" value="Landed noble">
+                        <item target="+4" value="Landed noble.">
                             A noble who owns at least a manor worth of land.
                             The title is not heriditary, and can be stripped
                             at any time.
                         </item>
-                        <item target="+5" value="High noble"/>
-                        <item target="+6" value="Ealdorman"/>
-                        <item target="+7" value="King"/>
+                        <item target="+5" value="High noble."/>
+                        <item target="+6" value="Ealdorman."/>
+                        <item target="+7" value="King."/>
                     </targetlist>
 
                     <para>
@@ -257,14 +295,74 @@
             </sect2>
 
             <sect2>
-                <title>Society</title>
+                <title>Settlements</title>
 
-                <para>
-                    The majority of the poulation is rural, living in small
-                    villages of 100-150 people.
-                </para>
+                <sect3>
+                    <title>Villages</title>
 
-                <image uri="a-frame-photo"/>
+                    <image uri="a-frame-photo"/>
+
+                    <para>
+                        The majority of the poulation (about 90%) is rural,
+                        living in small villages of 100-150 people. Small
+                        personal farms are also common, though these will
+                        normally belong to a nearby manor.
+                    </para>
+
+                    <para>
+                        Every village is ruled by a <qv uri="thegn">thegn</qv>,
+                        who governs in the name of the Queen. Their manoral
+                        holdings consists of the village and any surrounding
+                        settlements, such as hamlets and individual holdings.
+                        The size of a manor is measured in <e>hides</e> of
+                        land, each approximately 120 acres - enough to support
+                        a single household. In fertile regions, a hide can
+                        be a much smaller area. Most manors consist of five
+                        hides, since this is considered a suitable size to
+                        support the military obligations of the thegn.
+                    </para>
+
+                    <para>
+                        Households have their own internal structure, and
+                        will consist of several closely related families.
+                        The head of the household will be the ceorl who
+                        is most respected. The rest of the household will
+                        consist of sons, aged parents and dependants -
+                        <e>kotsetla</e> (poor freemen) and slaves.
+                    </para>
+
+                    <para>
+                        Building materials consist mostly of wood, thatch and
+                        some wattle-and-daub. Villages consist of a mixture of
+                        A-Frame houses and timber buildings, sometimes with a
+                        stone walled smithy.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Towns</title>
+
+                    <para>
+                        Towns are often little more than villages which have
+                        grown in size due to the presence of a market. Some
+                        are walled (generally a mixture of earth and wood),
+                        though the majority aren't.
+                    </para>
+
+                    <para>
+                        Unlike villages, towns tend not to be completely
+                        self sufficient. Food will be delivered in from
+                        nearby villages as needed, with the shortfall
+                        growing with the size of the town.
+                    </para>
+
+                    <para>
+                        In the central regions of Weidany, towns tend to be
+                        found every three or four leagues, which is about
+                        the right distance for all villages to be within
+                        half a day's travel of a town.
+                    </para>
+                </sect3>
             </sect2>
 
             <sect2>
