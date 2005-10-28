@@ -30,6 +30,8 @@
         <style name="module"/>
 
         <references>
+            <see uri="pavnik">Pavnik</see>
+            <see uri="sarse">Sarse</see>
         </references>
 
         <topics>
@@ -50,7 +52,27 @@
                 <qv uri="euressa">Euressa</qv>. The run from the south coast
                 right up to the northern peninsula of
                 <qv uri="vorlov">Vorlov</qv>. The mountains split east from
-                west from geographically, and culturally.
+                west both geographically and culturally. Both eastern and
+                western slopes are covered in rivers of glacial ice, and
+                the upper peaks are considered to be home to several
+                Powers of the Ice.
+            </para>
+
+            <para>
+                The mountains are considered to be uncivilised, though
+                small groups of people do live there. The mountain people
+                of <qv uri="pavnik">Pavnik</qv> dwell on the eastern
+                slopes of the Withrican, and are said to know of a few
+                secret paths.
+            </para>
+
+            <para>
+                The options for travellers are to either go around the
+                southern end of the range, or use the road between
+                <qv uri="urazen">Urazen</qv> and
+                <qv uri="pavnik">Pavnik</qv>, which is well guarded,
+                both to protect caravans from mountain bandits and also
+                to extract tolls from travellers.
             </para>
         </sect1>
     </body>
