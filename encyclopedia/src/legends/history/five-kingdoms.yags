@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Five Kingdoms</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>The legendary kingdoms of Tarvallah.</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2005</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="betrayal">The Betrayal</see>
+        </references>
+
+        <topics>
+            <subject uri="tarvallah">Tarvallah</subject>
+
+            <category>Legends</category>
+
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Five Kingdoms</title>
+
+            <para>
+                Before the <qv uri="betrayal">Betrayal</qv>, the land of
+                <qv uri="tarvallah">Tarvallah</qv> was divided into five
+                great kingdoms.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Betrayal</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>The killing of Rorn and the fall of Tarvallah.</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2005</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="rorn">Rorn the Wanderer</see>
+            <see uri="tarvallah">Tarvallah</see>
+            <see uri="haltan">Haltan</see>
+            <see uri="five-kingdoms">The Five Kingdoms</see>
+        </references>
+
+        <topics>
+            <subject uri="betrayal">The Betrayal</subject>
+
+            <category>Legends</category>
+
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Betrayal</title>
+
+            <para>
+                The <e>Betrayal of Rorn</e> by his brother
+                <qv uri="haltan">Haltan</qv> brought an end to the years
+                of plenty for the People of Rorn. The land was corrupted
+                by the blood of the Wanderer, and disease and famine
+                swept across the land.
+            </para>
+
+            <para>
+                Murder in the heavens was mirrored in the Middle Earth,
+                and the Temple of Rorn was sacked.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
