@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Aelflaed, Queen of Weidany</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>The second Queen of the Kingdom of Weidany.</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2005</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="weidany-queen">Queen of Weidany</see>
+        </references>
+
+        <topics>
+            <subject uri="queen-aelflaed">Queen Aelflaed</subject>
+
+            <category>Kings</category>>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Queen Aelflaed</title>
+
+            <para>
+                Queen Aelflaed was the first daughter of Aelthryth, the
+                first and founding Queen of the Kingdom of Weidany. She
+                was born in 998, and took the thrown when she was 41
+                in 1039. Aelflaed was a bastard child of Aelthryth, and
+                the Earldorman of Lanuch refuses to accept her rule,
+                and started rising an army even before her mother was
+                dead.
+            </para>
+
+            <para>
+                The sudden death of her mother (it is said, by Aelflaed's
+                own sword) allows Aelflaed to march on Lanuch with her
+                own army, surprising and defeating him before news had
+                even reached him of the change in Queens. Her bloody
+                massacre of over two score nobles leaves no doubt in
+                anybody's minds that Aelflaed was capable of enforcing
+                her rule.
+            </para>
+
+            <para>
+                Her rule is almost cut short though with the barbarian
+                invasion from Merkia, and she is forced to move her
+                residence from Holbury to Stowell. 16 years of warfare
+                follow, until eventually she gains victory over the
+                Merkians.
+            </para>
+
+            <para>
+                She dies two years later in 1059, all her children having
+                been killed in the war, leaving the throne to her sister.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
