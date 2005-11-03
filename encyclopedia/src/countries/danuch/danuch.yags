@@ -65,7 +65,7 @@
             </para>
 
             <para>
-                Danuch is a hilly, lightly forested land, heavily 
+                Danuch is a hilly, lightly forested land, heavily
                 populated compared to neighbouring regions. During
                 the 960s, a great plague swept across the southern
                 half of the kingdom, killing many people. The
@@ -78,7 +78,7 @@
 
             <sect2>
                 <title>Geography</title>
-                
+
                 <para>
                     Glas Caer, the Grey Wall, is the western boundary
                     of Danuch. It is foothills and heathland generally
@@ -90,10 +90,27 @@
 
                 <para>
                     The eastern boundary is mostly defined by either
-                    of the Scaedwen or Tuffin woods.
+                    of the Scaedwen or Tuffin woods. The latter is
+                    made up of typical woodland, and the edges are
+                    used as a source of timber. Attempts to encroach
+                    too far into the woods are driven back by the
+                    <qv uri="rangers">Rangers</qv>.
+                </para>
+
+                <para>
+                    The <qv uri="scaedwen-forest">Scaedwen forst</qv>
+                    is a different matter entirely, and is generally
+                    considered to be home to dark spirits and fell
+                    beasts.
+                </para>
+
+                <para>
+                    The rest of Danuch is fertile and heavily populated.
+                    There are few large towns however, for most of the
+                    population is rural. Travel and trade is limited.
                 </para>
             </sect2>
-            
+
             <sect2>
                 <title>Politics and Government</title>
 
@@ -102,7 +119,7 @@
                     who is the nominal ruler of the country. In
                     the case of Danuch however, the king is dead.
                     He sits on his throne in his hall, and presides
-                    at important metings of government. He has
+                    at important meetings of government. He has
                     done so for as long as anyone can remember.
                     Officially he is alive and well, served by
                     his chief advisor the Arch Druid. Unofficially
@@ -116,7 +133,20 @@
                     Du Caerfa</qv>.
                 </para>
             </sect2>
-            
+
+            <sect2>
+                <title>The People</title>
+
+                <para>
+                    The Druids rule Danuch, using fear and tradition to
+                    keep a tight control over what everyone does. It has
+                    been this way for at least 500 years, and the Druids
+                    are descended from those who worshipped the
+                    <qv uri="elders">Elders</qv> since before the time of
+                    the <qv uri="betrayel">Betrayel</qv>.
+                </para>
+
+            </sect2>
         </sect1>
     </body>
 </article>
