@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Druids of Dannuch</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Ruling class of the land of Danuch.</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2005</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="danuch">Danuch</see>
+            <see uri="yammath">Yammath</see>
+            <see uri="druids">Druids</see>
+        </references>
+
+        <topics>
+            <subject uri="druids">Druids</subject>
+
+            <category>Cults</category>
+
+            <topic uri="druids">Druids</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Druids of Danuch</title>
+
+            <para>
+                With the destruction of the last of the
+                <qv uri="elders">Elders</qv>, the power of the Druids was
+                shattered in Weidany, and the gods of Rorn took power.
+                Those Druids who remained fled far from the invaders,
+                loosing much of their power and organisation. Because of
+                this, there are many different groups which claim
+                descendance from the original <qv uri="druids">Druids</qv>.
+                Those that now rule in Danuch are described here.
+            </para>
+
+            <sect2>
+                <title>The Rise of the Druids</title>
+
+                <!-- Cafell: oracle, Banon: queen -->
+
+                <para>
+                    Around the beginning of the 7th century the Druids of
+                    Danuch looked to <qv uri="banon-cafell">Banon Cafell</qv>
+                    for their leadership. She was the High Priestess of
+                    Yammath, considered to be her avatar in the middle
+                    world. As a priestess of Yammath she had been fertile,
+                    and born seven sons and seven daughters. Their names
+                    are unrecorded, except for Trahern, who was her first
+                    son and fourth child.
+                </para>
+
+                <para>
+                    As was normal, her daughters were taught the ways of
+                    the Druids and became Priestesses. Trahern and his
+                    brothers were raised as Temple Guards, their lives
+                    dedicated to dutifully serving their mothers and
+                    sisters at <qv uri="du-caerfa">Du Caerfa</qv>
+                </para>
+
+                <para>
+                    At some point Trahern staged an uprising. He had learnt
+                    magic from the Wizards, and took power from his mother,
+                    imprisoning her beneath the temple shrine. His sisters,
+                    and many of the other priestesses, he had raped and
+                    murdered.
+                </para>
+
+                <para>
+                    Trahern became the Arch Druid, and the old Druid ways
+                    were overthrown.
+                </para>
+            </sect2>
+        </sect1>
+
+    </body>
+</article>
+
+

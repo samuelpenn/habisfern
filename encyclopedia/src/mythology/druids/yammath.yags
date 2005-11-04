@@ -5,7 +5,7 @@
         <title>Yammath</title>
         <tagline>Habisfern</tagline>
 
-        <slugline/>
+        <slugline>Goddess of Life and Death.</slugline>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -33,12 +33,14 @@
             <see uri="danuch">Danuch</see>
             <see uri="trinity-of-powers">Trinity of Powers</see>
             <see uri="yagma">Yagma</see>
+            <see uri="druids">Druids</see>
+            <see uri="druids-danuch">Druids of Danuch</see>
         </references>
 
         <topics>
-            <subject uri="druids">Druids</subject>
+            <subject uri="yammath">Yammath</subject>
 
-            <category>Gods</category>>>
+            <category>Gods</category>
 
             <topic uri="druids">Druids</topic>
             <topic uri="euressa">Euressa</topic>
@@ -84,7 +86,7 @@
 
                 <para>
                     In <qv uri="cadwold">Cadwold</qv> the worship of
-                    Yammath is still led by the druids, who are now
+                    Yammath is still led by the Druids, who are now
                     always male. Part of the old female traditions still
                     exist amongst the outlaws in <qv uri="tuffin-wood">
                     Tuffin Wood</qv>, though they now worship
@@ -118,14 +120,16 @@
                     </para>
 
                     <para>
-                        In Danuch, things are different. The Rornic invasions
-                        forced the Druids to ally with the Elders, and to
-                        take an active roll in the defense of their lands.
-                        With magical power, came legal power.
+                        In <qv uri="druids-danuch">Danuch</qv>, things are
+                        different. The Rornic invasions forced the Druids
+                        to ally with the Elders, and to take an active roll
+                        in the defense of their lands. With magical power,
+                        came legal power.
                     </para>
                 </sect3>
             </sect2>
         </sect1>
+
     </body>
 </article>
 
