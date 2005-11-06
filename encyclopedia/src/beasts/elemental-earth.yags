@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Earth Elemental</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>An elemental spirit of the earth.</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2005</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="elemental">Elemental</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="faerie">Faeries</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Earth Elemental</title>
+
+            <para>
+                Elementals are spirits of nature, often summoned by the
+                magic of wizards.
+            </para>
+
+
+        </sect1>
+
+        <sect1>
+            <title>Elemental Bestiary</title>
+
+            <bestiary role="bestiary" title="Earth Elementals">
+                <beast name="Earth Elemental" primary="true">
+                    <information>
+                        <type>Elemental</type>
+                        <demeanor>Unintelligent</demeanor>
+
+                        <habitat climate="Any" terrain="Any"
+                                 frequency="very rare"/>
+
+                        <origin>Habisfern</origin>
+                        <genre>Fantasy</genre>
+                    </information>
+
+                    <description>
+                        <short>
+                            Earth elementals are creatures of earth and
+                            rock.
+                        </short>
+
+                        <physical>
+                            <para>
+                                Lumpy and hard.
+                            </para>
+                        </physical>
+                    </description>
+                </beast>
+
+                <beast name="Earth Elemental I">
+                    <information>
+                        <type>Elemental</type>
+                        <demeanor>Unintelligent</demeanor>
+
+                        <habitat climate="Any" terrain="Any"
+                                 frequency="very rare"/>
+
+                        <origin>Habisfern</origin>
+                        <genre>Fantasy</genre>
+                    </information>
+
+                    <description>
+                        <short>
+                            Earth elementals are creatures of earth and
+                            rock.
+                        </short>
+
+                        <physical>
+                            <para>
+                                The smallest and weakest of the earth
+                                elementals, this type are sometimes known
+                                as imps. They have the appearance of a
+                                small monkey, with stony skin, black eyes
+                                and sharp claws.
+                            </para>
+                        </physical>
+                    </description>
+
+                    <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                        <attributes size="2" soak="10">
+                            <attribute name="strength" score="2"/>
+                            <attribute name="stamina" score="5"/>
+                            <attribute name="agility" score="4"/>
+                            <attribute name="dexterity" score="2"/>
+                            <attribute name="perception" score="2"/>
+                            <attribute name="intelligence" score="1"/>
+                            <attribute name="charisma" score="1"/>
+                            <attribute name="will" score="2"/>
+                        </attributes>
+
+                        <skills>
+                            <group name="Talents" type="talents">
+                                <skill name="Athletics" score="4"/>
+                                <skill name="Awareness" score="2"/>
+                                <skill name="Brawl" score="2"/>
+                                <skill name="Charm" score="1"/>
+                                <skill name="Guile" score="1"/>
+                                <skill name="Sleight" score="4"/>
+                                <skill name="Stealth" score="4"/>
+                                <skill name="Throw" score="1"/>
+                            </group>
+                        </skills>
+
+                        <combat>
+                            <combatstyle style="Claw" skill="Brawl">
+                                <attack attribute="agility" bonus="+0"/>
+                                <defence attribute="agility" bonus="+0"/>
+                                <damage type="mixed" bonus="+1"/>
+                            </combatstyle>
+                        </combat>
+
+                        <passions>
+                            <passion name="Bravery" score="2"/>
+                            <passion name="Ego" score="2"/>
+                            <passion name="Restraint" score="2"/>
+                            <passion name="Temperance" score="2"/>
+                        </passions>
+
+                        <advantages>
+                            <advantage name="Elemental"/>
+                        </advantages>
+                    </statistics>
+                </beast>
+
+                <beast name="Earth Elemental II">
+                    <information>
+                        <type>Elemental</type>
+                        <demeanor>Unintelligent</demeanor>
+
+                        <habitat climate="Any" terrain="Any"
+                                 frequency="very rare"/>
+
+                        <origin>Habisfern</origin>
+                        <genre>Fantasy</genre>
+                    </information>
+
+                    <description>
+                        <short>
+                            Earth elementals are creatures of earth and
+                            rock.
+                        </short>
+
+                        <physical>
+                            <para>
+                                Lumpy and hard.
+                            </para>
+                        </physical>
+                    </description>
+
+                    <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                        <attributes size="4" soak="15">
+                            <attribute name="strength" score="4"/>
+                            <attribute name="stamina" score="6"/>
+                            <attribute name="agility" score="3"/>
+                            <attribute name="dexterity" score="2"/>
+                            <attribute name="perception" score="2"/>
+                            <attribute name="intelligence" score="1"/>
+                            <attribute name="charisma" score="1"/>
+                            <attribute name="will" score="2"/>
+                        </attributes>
+
+                        <skills>
+                            <group name="Talents" type="talents">
+                                <skill name="Athletics" score="4"/>
+                                <skill name="Awareness" score="2"/>
+                                <skill name="Brawl" score="2"/>
+                                <skill name="Charm" score="1"/>
+                                <skill name="Guile" score="1"/>
+                                <skill name="Sleight" score="4"/>
+                                <skill name="Stealth" score="4"/>
+                                <skill name="Throw" score="1"/>
+                            </group>
+                        </skills>
+
+                        <combat>
+                            <combatstyle style="Claw" skill="Brawl">
+                                <attack attribute="strength" bonus="+7"/>
+                                <defence attribute="agility" bonus="+3"/>
+                                <damage type="mixed" bonus="+3"/>
+                            </combatstyle>
+                        </combat>
+
+                        <passions>
+                            <passion name="Bravery" score="2"/>
+                            <passion name="Ego" score="2"/>
+                            <passion name="Restraint" score="2"/>
+                            <passion name="Temperance" score="2"/>
+                        </passions>
+
+                        <advantages>
+                            <advantage name="Elemental"/>
+                        </advantages>
+                    </statistics>
+                </beast>
+
+            </bestiary>
+        </sect1>
+    </body>
+</article>
+
+
