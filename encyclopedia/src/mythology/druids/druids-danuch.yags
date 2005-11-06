@@ -116,14 +116,86 @@
                         Every village in Danuch has its own Druid. The
                         Druid leads religious rituals, provides knowledge,
                         enforces the law and generally aids in the
-                        well being of the settlement.
+                        well being of the settlement. Where a Druid stands
+                        in relation to the local Lord varies from settlement
+                        to settlement, and depends very much on the
+                        personality of the two. In theory, the Druid
+                        outranks the Lord, however the Lord is left to do
+                        as he pleases in matters not related to religion.
                     </para>
 
                     <para>
                         Such Druids answer to no-one, and run things pretty
-                        much how they please.
+                        much how they please. A Druid will normally have
+                        an apprentice, to whom they will teach the secret
+                        knowledge of their craft.
                     </para>
                 </sect3>
+            </sect2>
+
+            <sect2>
+                <title>Characters</title>
+
+                <characters role="package" title="Druids">
+                    <character name="Druid">
+                        <description>
+                            <age>25</age>
+                            <gender>Male</gender>
+                            <short>Priest of Yammath.</short>
+
+                            <background>
+                                <para>
+                                    A Druid that has just finished their
+                                    apprenticeship.
+                                </para>
+                            </background>
+                        </description>
+
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                                <skills>
+                                    <group name="Talents" type="talents">
+                                        <skill name="Athletics" score="2"/>
+                                        <skill name="Awareness" score="3"/>
+                                        <skill name="Brawl" score="2"/>
+                                        <skill name="Charm" score="3"/>
+                                        <skill name="Guile" score="4"/>
+                                        <skill name="Sleight" score="2"/>
+                                        <skill name="Stealth" score="2"/>
+                                        <skill name="Throw" score="2"/>
+                                    </group>
+
+                                    <group name="Knowledges" type="knowledges">
+                                        <skill name="Speak own" score="4"/>
+                                        <skill name="Area lore" score="4"/>
+                                        <skill name="Religion (Yammath)" score="4"/>
+                                        <skill name="Herb lore" score="3"/>
+                                        <skill name="First aid" score="2"/>
+                                        <skill name="Genealogy" score="4"/>
+                                        <skill name="Astrology" score="4"/>
+                                        <skill name="Law" score="4"/>
+                                        <skill name="Legend law" score="4"/>
+                                    </group>
+
+                                    <group name="Combat" type="skills">
+                                        <skill name="Longshaft weapon" score="2"/>
+                                    </group>
+
+                                    <group name="Other" type="skills">
+                                        <skill name="Farming" score="2"/>
+                                        <skill name="Survival" score="2"/>
+                                        <skill name="Perform" score="2"/>
+                                        <skill name="Oratory" score="3"/>
+                                        <skill name="Poetry" score="3"/>
+                                    </group>
+                                </skills>
+
+                                <equipment>
+                                    <item name="Druid robes"/>
+                                    <item name="Long knife"/>
+                                </equipment>
+                            </statistics>
+                    </character>
+                </characters>
             </sect2>
         </sect1>
 
