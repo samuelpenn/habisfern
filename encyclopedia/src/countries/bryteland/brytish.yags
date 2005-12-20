@@ -143,96 +143,80 @@
                         </para>
                     </description>
 
-                    <y:advantage name="Brave" type="advantage">
-                        <y:cost points="2"/>
+                    <y:advantage name="Fearless" type="advantage">
+                        <y:cost points="1"/>
                         <description>
                             <para>
-                                Gain a +1 bonus to will when making bravery
-                                checks.
-                            </para>
-                        </description>
-                    </y:advantage>
-
-                    <y:advantage name="Resistent to magic" type="advantage">
-                        <y:cost points="3"/>
-                        <description>
-                            <para>
-                                Gain a +1 bonus to will when resisting any
-                                form of magic, or magically enhanced effect.
+                                You are a fearless, descended from the ancient
+                                warriors of old. You gain +1 to your Valorous
+                                trait (or gain it at 1, if you don't already
+                                have it). May not be combined with Cowardice.
                             </para>
                         </description>
                     </y:advantage>
 
                     <y:advantage name="Berserker" type="advantage">
-                        <y:cost points="4"/>
+                        <y:cost points="5"/>
                         <description>
                             <para>
-                                For the Brytish, the Berserker has a special
-                                status in society. They are considered to be
-                                gifted by the god Voltan, and though their
-                                lives may be short, they are considered the
-                                stuff of legends. A person is born with the
-                                Berserker trait, and cannot gain it after
-                                birth.
+                                You are a <e>Berserker</e>, one of an elite
+                                few in Brytish society who has been touched
+                                by the madness of the god Voltan. Your life
+                                may be short, but many long stories will
+                                undoubtably be told about it. Berserkers are
+                                born, not made, so this advantage cannot be
+                                taken after character creation.
                             </para>
 
                             <para>
-                                A berserker can choose to go berserk at any
-                                time when there is blood to be spilt. No
-                                roll is required, it is automatic. While
-                                berserk, the character can only use the
-                                aggressive stance, and is limited to only
-                                one defence roll. They must always attack
-                                the nearest foe, though can choose to fight
-                                towards a hero or leader of the enemy.
+                                When in combat, you may choose to go berserk.
+                                This is automatic, and no roll is required.
+                                Whilst berserk, you may only ever use the
+                                aggressive stance, and may only make a
+                                single defence. You must also only attack
+                                your nearest foe, unless there is a clear
+                                route to a hero or leader worthy of your
+                                bloodlust.
                             </para>
 
                             <para>
-                                The berserker gets a bonus to certain rolls
-                                equal to their Brawl score. The rolls
-                                effected depends on the total of the
-                                Berserker's restraint and temperance
-                                passions. All bonuses are cumulative.
+                                You gain a bonus to certain rolls and checks
+                                equal to your <e>Brawl</e> score. What this
+                                bonus applies to depends on the total of
+                                your Valour and Ferocity traits, plus the
+                                lowest of Lust and Gluttony. All bonuses are
+                                cumulative.
                             </para>
 
                             <targetlist targetFirst="true">
                                 <targetLabel>Total</targetLabel>
                                 <valueLabel>Bonus to...</valueLabel>
 
-                                <item target="9+" value="No bonuses."/>
+                                <item target="3 or less" value="No bonuses."/>
 
-                                <item target="8" value="Bravery."/>
-                                <item target="7" value="Ego.">
+                                <item target="4-5" value="Fear and stamina checks.">
                                     Reduce all wound, stun and fatigue
                                     penalties by one level.
                                 </item>
 
-                                <item target="6" value="Initiative.">
-                                    Reduce penalties by two levels.
-                                </item>
-
-                                <item target="5" value="Attack.">
+                                <item target="6-7" value="Initiative and attack.">
                                     Reduce penalties by three levels.
                                 </item>
 
-                                <item target="4" value="Damage.">
-                                    Reduce penalties by four levels.
-                                </item>
-
-                                <item target="3" value="Defence.">
+                                <item target="8-9" value="Damage rolls.">
                                     Ignore all wound, stun and fatigue
                                     penalties.
                                 </item>
 
-                                <item target="2" value="Death checks.">
+                                <item target="10+" value="All skill checks.">
                                     Ignore unconsciousness results.
                                 </item>
                             </targetlist>
 
                             <para>
                                 In order to leave the berserk state, a
-                                will x restraint check is required at the
-                                following difficulties.
+                                will check is required (modified by ferocity)
+                                at the following difficulties.
                             </para>
 
                             <targetlist targetFirst="true">
@@ -259,22 +243,21 @@
                     </y:advantage>
 
                     <y:advantage name="Hatred (shapechangers)" type="advantage">
-                        <y:cost points="-2"/>
+                        <y:cost points="-3"/>
                         <description>
                             <para>
                                 All Brytish have a strong dislike of
                                 shapechangers, especially those who follow
-                                the Animal Powers. Some have a particularly
+                                the Animal Powers. You have a particularly
                                 strong hatred which drives them into a fury
                                 against their foe.
                             </para>
 
                             <para>
-                                Those with this advantage get a -2 to Will
-                                if rolling against Restraint passions when
-                                shapechangers are involved. When acting
-                                against a shapechanger, they get a +1 bonus
-                                to Will and Stamina when making checks.
+                                When knowingly encountering a shapechanger,
+                                you must make a trait check against restraint
+                                at a target of 20. Failure means your actions
+                                are clouded by hate and a desire for violence.
                             </para>
                         </description>
                     </y:advantage>

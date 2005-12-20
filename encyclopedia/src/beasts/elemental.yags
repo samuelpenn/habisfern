@@ -49,11 +49,28 @@
             <title>Elemental</title>
 
             <para>
-                Elementals are spirits of nature, often summoned by the
-                magic of wizards. They are often unintellligent, though
-                a sacrificed soul can be used to give them greater
-                intellect. Such a practise is seen as evil, especially
-                if a human subject is used.
+                Elements are spirits of nature given body and form by
+                either magic or strong will. They are constructed from
+                the element they represent - elementals of earth are
+                of rock and mud, whilst elementals of the air can range
+                from a small breeze to a towering whirlwind than can
+                rip apart a town.
+            </para>
+
+            <para>
+                Elementals are unintelligent, and when formed by the will
+                of an angered soul, they are driven only by rage and anger.
+                Those summoned by magic are govered by the will of the
+                wizard that called them, though they can be provided with
+                a fresh soul which strengthens their mind.
+            </para>
+
+            <para>
+                Some elementals have the ability to possess the body of
+                a living, or recently dead, creature, merging with them
+                and creating something which is both animal and elemental,
+                providing it with cunning and intelligence it would not
+                otherwise have.
             </para>
         </sect1>
     </body>

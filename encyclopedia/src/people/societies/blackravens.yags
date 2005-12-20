@@ -207,7 +207,7 @@
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
-                                    <skill name="Religion (Thot)" score="3"/>
+                                    <skill name="Religion (Rorn)" score="3"/>
                                 </group>
 
                                 <group name="Combat" type="skills">
@@ -248,7 +248,11 @@
                                     who are the Voice of the Raven work within
                                     the courts of the land, using their grasp
                                     of information to advance themselves and
-                                    their patrons politically. Almost without
+                                    their patrons politically.
+                                </para>
+
+                                <para>
+                                    Almost without
                                     exception, a <e>Voice</e> will always be
                                     working for a patron, normally in a long
                                     term capacity. A Raven who has declared
@@ -279,7 +283,7 @@
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
                                     <skill name="Heraldry" score="2"/>
-                                    <skill name="Religion (Thot)" score="4"/>
+                                    <skill name="Religion (Rorn)" score="4"/>
                                 </group>
 
                                 <group name="Other" type="skills">
@@ -288,6 +292,12 @@
                                     <skill name="Streetwise" score="2"/>
                                 </group>
                             </skills>
+
+                            <advantages>
+                                <advantage name="Ceremonies" cost="2"
+                                           skill="Religion (Rorn)"/>
+                            </advantages>
+
 
                             <equipment>
                                 <item name="Travelling clothes"/>
@@ -320,8 +330,8 @@
                     </description>
 
                     <y:advantage name="Signs of the Raven" type="technique">
-                        <y:cost points="2"/>
-                        <y:skill name="Religion (Thot)"/>
+                        <y:cost points="1"/>
+                        <y:skill name="Religion (Rorn)"/>
 
                         <description>
                             <para>
@@ -352,36 +362,39 @@
 
                     <y:advantage name="Hidden Memory" type="technique">
                         <y:cost points="3"/>
-                        <y:skill name="Religion (Thot)"/>
+                        <y:skill name="Religion (Rorn)"/>
 
                         <description>
                             <para>
                                 Messages taken under oath of secrecy can
                                 only be revealed to the designated person.
-                                The message is remembered perfectly, and
-                                will be forgotten until the target is met
-                                and message delivered.
+                                The <e>Raven</e> uses a form of self-hypnosis
+                                to commit the message to memory, and then
+                                hide it from their conscious thoughts. When
+                                the specified conditions are met, the
+                                message will come to mind, and will be
+                                remembered perfectly.
                             </para>
                         </description>
                     </y:advantage>
 
                     <y:advantage name="Flight of the Raven" type="technique">
-                        <y:cost points="4"/>
-                        <y:skill name="Religion (Thot)"/>
+                        <y:cost points="5"/>
+                        <y:skill name="Religion (Rorn)"/>
 
                         <description>
                             <para>
                                 When travelling on foot over large
                                 distances, a Black Raven may increase
-                                their travel speed by 10 0x3cer point of
+                                their travel speed by 10% per point of
                                 their Religion skill.
                             </para>
                         </description>
                     </y:advantage>
 
                     <y:advantage name="Eyes of the Hunter" type="technique">
-                        <y:cost points="4"/>
-                        <y:skill name="Religion (Thot)"/>
+                        <y:cost points="5"/>
+                        <y:skill name="Religion (Rorn)"/>
 
                         <description>
                             <para>

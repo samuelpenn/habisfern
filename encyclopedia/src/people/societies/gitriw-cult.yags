@@ -55,6 +55,18 @@
                 joining, they must take a vow to always speak the truth,
                 and to never lie, either by omission or comission.
             </para>
+
+            <para>
+                Most members of the cult are women, with men being but
+                about a fifth of the membership. Members are normally
+                indoctrinated into the cult at an early age - the
+                most common being 7 to 10 years. To tell a lie is
+                considered the ultimate sin. Acolytes who do so are
+                severely punished (normally by solitary confinement,
+                such as being locked into a small box), and Priests
+                suffer removal of the tongue and being cast from the
+                Cult.
+            </para>
         </sect1>
 
         <sect1>
@@ -71,8 +83,8 @@
                     <y:skill name="Religion (Cult of Gitriw)" type="knowledge">
                         <description>
                             <para>
-                                Gives knowledge of the ideals, mythology and
-                                rituals of the Cult of Gitriw.
+                                Gives knowledge specific to the ideals,
+                                mythology and rituals of the goddess Gitriw.
                             </para>
                         </description>
                     </y:skill>
@@ -80,12 +92,98 @@
             </sect2>
 
             <sect2>
+                <title>Characters</title>
+
+                <characters role="package" title="Gitriw Cultists">
+                    <character name="Truth Speaker">
+                        <description>
+                            <age>16</age>
+                            <short>
+                                A Priest of Gitriw Truth Speaker, who is
+                                geased to always speak the truth.
+                            </short>
+
+                            <background>
+                                <para>
+                                    Priests of Gitriw, who are commonly
+                                    female, are seekers of the Truth.
+                                    They are said to be able to see into
+                                    the hearts of men in order to dig out
+                                    the lies and mistruths which are
+                                    abhorrent to them.
+                                </para>
+
+                                <para>
+                                    Priests are often employed by legal
+                                    courts throughout the Kingdom, and
+                                    though they do not have the power to
+                                    enforce the law, they do have the power
+                                    to interpret it.
+                                </para>
+                            </background>
+                        </description>
+
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                            <skills>
+                                <group name="Talents" type="talents">
+                                    <skill name="Athletics" score="2"/>
+                                    <skill name="Awareness" score="3"/>
+                                    <skill name="Brawl" score="2"/>
+                                    <skill name="Charm" score="2"/>
+                                    <skill name="Guile" score="4"/>
+                                    <skill name="Sleight" score="2"/>
+                                    <skill name="Stealth" score="2"/>
+                                    <skill name="Throw" score="2"/>
+                                </group>
+
+                                <group name="Knowledges" type="knowledges">
+                                    <skill name="Speak own" score="4"/>
+                                    <skill name="Area lore" score="4"/>
+                                    <skill name="Religion (Rornic)" score="4"/>
+                                    <skill name="Law" score="4"/>
+                                </group>
+
+                                <group name="Misc" type="skills">
+                                    <skill name="Etiquette" score="3"/>
+                                    <skill name="Dream lore" score="2"/>
+                                    <skill name="Politics" score="2"/>
+                                    <skill name="Intimidation" score="3"/>
+                                </group>
+                            </skills>
+
+                            <advantages>
+                                <advantage name="Ceremonies" cost="2"
+                                           skill="Religion (Rorn)"/>
+                                <advantage name="Oath of truth" cost="1"
+                                           skill="Religion (Rorn)"/>
+                                <advantage name="Trial of combat" cost="3"
+                                           skill="Religion (Rorn)"/>
+
+                                <advantage name="Terrible liar"/>
+                            </advantages>
+                        </statistics>
+                    </character>
+                </characters>
+            </sect2>
+
+            <sect2>
                 <title>Rituals</title>
 
                 <y:advantages role="technique" title="Rituals of Gitriw">
-                    <y:advantage name="Oath of Truth" type="technique">
-                        <y:cost points="2"/>
-                        <y:skill name="Religion (Gitriw)"/>
+
+                    <description>
+                        <para>
+                            The rituals of Gitriw are based around the
+                            seeking of truth. Several of them require the
+                            cooperation of everybody involved in order
+                            for them to work, which makes them most
+                            suited when used in a court of Law.
+                        </para>
+                    </description>
+
+                    <y:advantage name="Oath of truth" type="technique">
+                        <y:cost points="1"/>
+                        <y:skill name="Religion (Rornic)"/>
 
                         <description>
                             <para>
@@ -94,30 +192,25 @@
                                 has power over them as well. When used,
                                 prayers are said in honour of Gitriw, and
                                 all involved wash their hands and faces in
-                                holy water.
+                                pure rain water.
                             </para>
 
                             <para>
-                                Once invoked, all who are part of it will
-                                know if another within the ritual speaks a
-                                lie. All who are part of the ritual must
-                                know the ritual, so it is not a universal
-                                answer to finding the truth, but it does
-                                ensure that a Priest of Gitriw speaks the
-                                truth.
-                            </para>
-
-                            <para>
-                                A religion roll is made with charisma, and
-                                this adds to guile when detecting lies and
-                                subtracts when telling a lie.
+                                All who take part in the ritual must know
+                                it, so it only works on Priests of Gitriw.
+                                Once bound by the ritual, all participants
+                                know whether they each speak the truth.
+                                All members suffer a penalty when trying to
+                                deceive, and a bonus to detect the same.
+                                This bonus is equal to the total religion
+                                score of all members of the ritual.
                             </para>
                         </description>
                     </y:advantage>
 
                     <y:advantage name="Trial of Combat" type="technique">
-                        <y:cost points="4"/>
-                        <y:skill name="Religion (Gitriw)"/>
+                        <y:cost points="3"/>
+                        <y:skill name="Religion (Rornic)"/>
                         <y:prerequisite>Oath of Truth</y:prerequisite>
 
                         <description>
@@ -132,47 +225,64 @@
                                 Both warriors must accept the performance of
                                 ritual. The one which is seen to be in the
                                 right according to the Laws of Haltan gains
-                                a number of temporary luck points equal to
-                                the <e>religion</e> of the priest, which may
-                                be used only in the combat.
+                                a bonus to initiative, attack, defence and
+                                damage equal to the religion score of the
+                                priest presiding over the combat.
                             </para>
                         </description>
                     </y:advantage>
 
-                    <y:advantage name="Truth sight" type="technique">
-                        <y:cost points="6"/>
-                        <y:skill name="Religion (Gitriw)"/>
-                        <y:prerequisite>Oath of Truth</y:prerequisite>
+                    <y:advantage name="Truth sense" type="technique">
+                        <y:cost points="3"/>
+                        <y:skill name="Religion (Rornic)"/>
+                        <y:prerequisite>Oath of truth</y:prerequisite>
+
+                        <description>
+                            <para>
+                                A Priest of Gitriw is trained to recognise
+                                the unconscious actions of someone who is
+                                lying. They get a bonus to all attempts
+                                to detect lies equal to their religion
+                                score.
+                            </para>
+                        </description>
+                    </y:advantage>
+
+                    <y:advantage name="Binding of truth" type="technique">
+                        <y:cost points="5"/>
+                        <y:skill name="Religion (Rornic)"/>
+                        <y:prerequisite>Truth sense</y:prerequisite>
 
                         <description>
                             <para>
                                 A ceremony to Gitriw is performed, and all
                                 those who swear on the priest's holy staff
-                                are less capable of telling believable lies.
+                                are less geased to tell the truth.
                             </para>
 
                             <para>
                                 Any who so swears to tell the truth, for the
-                                duration of the ceremony, opens themselves to
-                                the priest, and he gains a bonus to any guile
-                                rolls to perceive lies equal to one half a
-                                charisma x religion roll.
+                                duration of the ceremony, suffers a penalty
+                                to all attempts to mislead equal to the
+                                religion score of the priest. Further, if
+                                they attempt to tell a direct lie, then
+                                they gain a trait of Cursed +1 (or loose a
+                                level of Luck, if they have that trait).
                             </para>
                         </description>
                     </y:advantage>
 
                     <y:advantage name="Sight of Gitriw" type="technique">
-                        <y:cost points="9"/>
-                        <y:skill name="Religion (Gitriw)"/>
-                        <y:prerequisite>Truth sight</y:prerequisite>
-                        <y:luck temporary="1"/>
+                        <y:cost points="7"/>
+                        <y:skill name="Religion (Rornic)"/>
+                        <y:prerequisite>Binding of truth</y:prerequisite>
 
                         <description>
                             <para>
-                                As <e>Truth sight</e>, but the priest also
-                                has a vision which points towards the truth,
-                                and gives some indication of how, and why,
-                                the target is lying.
+                                As <e>Binding of truth</e>, but the priest
+                                also has a vision which points towards the
+                                truth, and gives some indication of how,
+                                and why, the target is lying.
                             </para>
                         </description>
                     </y:advantage>

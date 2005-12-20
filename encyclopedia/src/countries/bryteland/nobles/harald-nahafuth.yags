@@ -48,19 +48,19 @@
             <title>Harald Nahafuth</title>
 
             <para>
-                Harald Nahafuth is the young King of <qv 
-                uri="nethvollr">Nethvollr</qv> in Bryteland. He is 
-                quick, strong, handsome and has a keen wit. He is also 
-                rash and liable to fly into a viscious temper when 
-                provoked. This has earned him the nomiker Harald No 
+                Harald Nahafuth is the young King of <qv
+                uri="nethvollr">Nethvollr</qv> in Bryteland. He is
+                quick, strong, handsome and has a keen wit. He is also
+                rash and liable to fly into a viscious temper when
+                provoked. This has earned him the nomiker Harald No
                 Head, or Harald the Headless.
             </para>
 
             <para>
-                Harald was fostered with <qv uri="osric-edgarson">Osric 
-                Edgarson</qv>, the current King of <qv 
-                uri="vitrgifing">Vitrgifing</qv>, and obtained his 
-                passion of hunting and raiding whilst with him. 
+                Harald was fostered with <qv uri="osric-edgarson">Osric
+                Edgarson</qv>, the current King of <qv
+                uri="vitrgifing">Vitrgifing</qv>, and obtained his
+                passion of hunting and raiding whilst with him.
             </para>
 
             <character name="Harald Nahafuth">
@@ -70,7 +70,7 @@
                     <short>
                         Fair haired, well built man with a fiery temper.
                     </short>
-                    
+
                     <detail units="metric">
                         <height>190</height>
                         <weight>95</weight>
@@ -83,7 +83,7 @@
 
                         <build>medium</build>
                     </detail>
-                    
+
                     <physical>
                         <para>
                             A tall, good looking man with long blond hair and
@@ -92,7 +92,7 @@
                             He does take care to ensure he is clean.
                         </para>
                     </physical>
-                    
+
                     <background>
                         <para>
                             King of Nethvollr, and the youngest King of
@@ -100,9 +100,9 @@
                         </para>
                     </background>
                 </description>
-                
+
                 <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
-                    <attributes size="5" soak="12" luck="4">
+                    <attributes size="5" soak="12">
                         <attribute name="strength" score="5"/>
                         <attribute name="stamina" score="4"/>
                         <attribute name="agility" score="3"/>
@@ -112,14 +112,15 @@
                         <attribute name="charisma" score="5"/>
                         <attribute name="will" score="5"/>
                     </attributes>
-                    
-                    <passions>
-                        <passion name="Bravery" score="8"/>
-                        <passion name="Ego" score="5"/>
-                        <passion name="Restraint" score="2"/>
-                        <passion name="Temperance" score="3"/>
+
+                    <traits>
+                        <trait name="Valour" score="4"/>
+                        <trait name="Ego" score="2"/>
+                        <trait name="Lust" score="2"/>
+                        <trait name="Vengeance" score="2"/>
+                        <trait name="Luck" score="3"/>
                     </passions>
-                    
+
                     <skills>
                         <group name="Talents" type="talents">
                             <skill name="Athletics" score="4"/>
@@ -131,20 +132,20 @@
                             <skill name="Stealth" score="5"/>
                             <skill name="Throw" score="5"/>
                         </group>
-                        
+
                         <group name="Knowledges" type="knowledges">
                             <skill name="Speak Brytish" score="4"/>
                             <skill name="Speak Rornic" score="2"/>
                             <skill name="Area lore (Bryteland)" score="5"/>
                             <skill name="Law" score="2"/>
                         </group>
-                        
+
                         <group name="Social" type="skills">
                             <skill name="Politics" score="2"/>
                             <skill name="Etiquette" score="2"/>
                             <skill name="Intimidation" score="5"/>
                         </group>
-                        
+
                         <group name="Combat" type="skills">
                             <skill name="Battle" score="4"/>
                             <skill name="Weapon and shield" score="8"/>
@@ -153,7 +154,7 @@
                             <skill name="Two weapons" score="4"/>
                             <skill name="Longshaft weapon" score="4"/>
                         </group>
-                        
+
                         <group name="Other" type="skills">
                             <skill name="Ride" score="4"/>
                             <skill name="Hunting" score="5"/>
@@ -161,7 +162,7 @@
                             <skill name="Survival" score="3"/>
                         </group>
                     </skills>
-                    
+
                     <combat>
                         <combatstyle style="Brawl" skill="Brawl">
                             <primary>Fist</primary>
@@ -170,7 +171,7 @@
                             <defence attribute="agility">+0</defence>
                             <damage type="stun">+0</damage>
                         </combatstyle>
-                        
+
                         <combatstyle style="Broadsword and shield" skill="Weapon and shield">
                             <primary>Broad sword</primary>
                             <shield>Round shield</shield>
@@ -179,13 +180,13 @@
                             <defence/>
                             <damage/>
                         </combatstyle>
-                        
+
                         <armourstyle style="Hunting">
                             <armour name="Soft leather jacket"/>
                             <armour name="Soft leather trousers"/>
                             <armour name="Mail habergeon"/>
                         </armourstyle>
-                        
+
                         <armourstyle style="Ready for war">
                             <armour name="Mail hauberk"/>
                             <armour name="Mail leggings"/>
@@ -194,62 +195,36 @@
                             <armour name="Metal helm"/>
                         </armourstyle>
                     </combat>
-                    
+
                     <equipment>
                         <item name="Sword">
                         </item>
                     </equipment>
                 </statistics>
-
-                <statistics xmlns="http://yagsbook.sourceforge.net/xml/d20">
-                    <classes xp="80000" level="13">
-                        <class name="fighter" level="5"/>
-                        <class name="barbarian" level="8"/>
-                    </classes>
-                    
-                    <attributes>
-                        <attribute name="strength" score="22"/>
-                        <attribute name="constitution" score="19"/>
-                        <attribute name="dexterity" score="16"/>
-                        <attribute name="intelligence" score="12"/>
-                        <attribute name="wisdom" score="8"/>
-                        <attribute name="charisma" score="17"/>
-                    </attributes>
-                    
-                    <misc>
-                        <hitpoints>120</hitpoints>
-                        <armourclass>13</armourclass>
-                    </misc>
-                    
-                    <feats>
-                        <feat>Dodge</feat>
-                        <feat>Cleave</feat>
-                    </feats>
-                </statistics>
             </character>
-            
+
             <weapon name="Lifesinger">
                 <category>Arms</category>>
                 <importance>3</importance>
                 <class>single</class>
-    
+
                 <description>
                     <para>
                         A broad sword, marked with runes.
                     </para>
                 </description>
-    
+
                 <combat>
                     <initiative>+5</initiative>
                     <attack>+7</attack>
                     <defence>+5</defence>
                     <damage>+14</damage>
                 </combat>
-    
+
                 <strength>3</strength>
                 <load>4</load>
                 <reach>3</reach>
-                
+
                 <properties>
                     <exceptional/>
                     <rune name="rune-attack" value="2">

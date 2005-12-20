@@ -68,6 +68,99 @@
                 life. At the end, she rode under the Red Banner of
                 Asabeth.
             </para>
+
+            <character name="Cunith Battlecrow">
+                <description>
+                    <gender>Female</gender>
+                    <born>1168</born>
+                    <died>1195</died>
+
+                    <short>Captain of the Red Guard who betrayed her queen.</short>
+
+                    <physical>
+                        <para>
+                            Cunith was a tall, dark haired woman. Though not
+                            beautiful, she had a confidence and passion
+                            which made many men desire her. She was strong,
+                            athletic and battle hardened.
+                        </para>
+                    </physical>
+                </description>
+
+                <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                    <attributes size="5" soak="12">
+                        <attribute name="strength" score="4"/>
+                        <attribute name="stamina" score="5"/>
+                        <attribute name="agility" score="5"/>
+                        <attribute name="dexterity" score="7"/>
+                        <attribute name="perception" score="3"/>
+                        <attribute name="intelligence" score="3"/>
+                        <attribute name="charisma" score="4"/>
+                        <attribute name="will" score="5"/>
+                    </attributes>
+
+                    <traits>
+                        <trait name="Valour" score="3"/>
+                        <trait name="Lust" score="2"/>
+                        <trait name="Vengeance" score="2"/>
+                    </traits>
+
+                    <skills>
+                        <group name="Talents" type="talents">
+                            <skill name="Athletics" score="5"/>
+                            <skill name="Awareness" score="5"/>
+                            <skill name="Brawl" score="7"/>
+                            <skill name="Charm" score="4"/>
+                            <skill name="Guile" score="5"/>
+                            <skill name="Sleight" score="2"/>
+                            <skill name="Stealth" score="6"/>
+                            <skill name="Throw" score="8"/>
+                        </group>
+
+                        <group name="Knowledges" type="knowledges">
+                            <skill name="Speak Rornic" score="4"/>
+                            <skill name="Area lore (Weidany)" score="5"/>
+                            <skill name="Law" score="4"/>
+                            <skill name="Religion (Neya)" score="8"/>
+                            <skill name="Religion (Asabeth)" score="6"/>
+                        </group>
+
+                        <group name="Social" type="skills">
+                            <skill name="Politics" score="3"/>
+                            <skill name="Etiquette" score="3"/>
+                            <skill name="Intimidation" score="4"/>
+                        </group>
+
+                        <group name="Combat" type="skills">
+                            <skill name="Battle" score="6"/>
+                            <skill name="Longshaft weapon" score="14"/>
+                            <skill name="Great weapon" score="11"/>
+                            <skill name="Weapon and shield" score="11"/>
+                            <skill name="Single weapon" score="9"/>
+                            <skill name="Two weapons" score="6"/>
+                        </group>
+
+                        <group name="Other" type="skills">
+                            <skill name="Ride" score="6"/>
+                            <skill name="Hunting" score="6"/>
+                            <skill name="Survival" score="2"/>
+                        </group>
+                    </skills>
+
+                    <advantages>
+                        <advantage name="Combat reflexes" skill="Melee" cost="2"/>
+
+                        <advantage name="Aura of authority" cost="4"
+                                   skill="Religion (Neya)"/>
+                        <advantage name="Oath of Neya" cost="4"
+                                   skill="Religion (Neya)"/>
+                        <advantage name="Sisters in arms" cost="4"
+                                   skill="Religion (Neya)"/>
+                        <advantage name="Strength of the goddess" cost="8"
+                                   skill="Religion (Neya)"/>
+                    </advantages>
+                </statistics>
+            </character>
         </sect1>
     </body>
 </article>

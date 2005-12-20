@@ -47,11 +47,19 @@
             <title>Earth Elemental</title>
 
             <para>
-                Elementals are spirits of nature, often summoned by the
-                magic of wizards.
+                Elementals of earth are probably the most common sort, for
+                they are easy to summon and control, and are readily
+                formed from earth, mud, sand or rock - all of which are
+                plentiful in all places except the high seas.
             </para>
 
-
+            <para>
+                Elementals of earth are also the most common to be found
+                in the wild, for sometimes a great spilling of blood can
+                awaken the spirits of the ground, which take it as a
+                sacrifice to power their form. Such free-willed spirits
+                are known as <e>goblins</e>.
+            </para>
         </sect1>
 
         <sect1>
@@ -78,7 +86,18 @@
 
                         <physical>
                             <para>
-                                Lumpy and hard.
+                                Earth elementals may be formed of many
+                                different materials, and this effects their
+                                physical properties. The strongest are of
+                                rock, the weakest of sand or mud.
+                            </para>
+
+                            <para>
+                                The statistics given below assume that the
+                                elementals are formed from Earth. If they
+                                are formed from sand or mud, then their
+                                soak is halved, if they are formed from
+                                rock, then add 50% to their soak.
                             </para>
                         </physical>
                     </description>
@@ -107,33 +126,33 @@
                                 The smallest and weakest of the earth
                                 elementals, this type are sometimes known
                                 as imps. They have the appearance of a
-                                small monkey, with stony skin, black eyes
-                                and sharp claws.
+                                small monkey, with stony skin, black eyes,
+                                sharp claws and a very human face.
                             </para>
                         </physical>
                     </description>
 
                     <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                         <attributes size="2" soak="10">
-                            <attribute name="strength" score="2"/>
+                            <attribute name="strength" score="1"/>
                             <attribute name="stamina" score="5"/>
                             <attribute name="agility" score="4"/>
                             <attribute name="dexterity" score="2"/>
                             <attribute name="perception" score="2"/>
-                            <attribute name="intelligence" score="1"/>
+                            <attribute name="intelligence" score="*"/>
                             <attribute name="charisma" score="1"/>
                             <attribute name="will" score="2"/>
                         </attributes>
 
                         <skills>
                             <group name="Talents" type="talents">
-                                <skill name="Athletics" score="4"/>
+                                <skill name="Athletics" score="5"/>
                                 <skill name="Awareness" score="2"/>
-                                <skill name="Brawl" score="2"/>
+                                <skill name="Brawl" score="4"/>
                                 <skill name="Charm" score="1"/>
                                 <skill name="Guile" score="1"/>
                                 <skill name="Sleight" score="4"/>
-                                <skill name="Stealth" score="4"/>
+                                <skill name="Stealth" score="5"/>
                                 <skill name="Throw" score="1"/>
                             </group>
                         </skills>
@@ -147,10 +166,10 @@
                         </combat>
 
                         <passions>
-                            <passion name="Bravery" score="2"/>
-                            <passion name="Ego" score="2"/>
-                            <passion name="Restraint" score="2"/>
-                            <passion name="Temperance" score="2"/>
+                            <passion name="Bravery" score="10"/>
+                            <passion name="Ego" score="1"/>
+                            <passion name="Restraint" score="1"/>
+                            <passion name="Temperance" score="1"/>
                         </passions>
 
                         <advantages>
@@ -179,49 +198,53 @@
 
                         <physical>
                             <para>
-                                Lumpy and hard.
+                                This type of Earth Elemental looks like a
+                                short human, though its skin is rocky, and
+                                its movements jerky. It has black stony
+                                eyes, thick four fingered hands and wide
+                                feet.
                             </para>
                         </physical>
                     </description>
 
                     <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                         <attributes size="4" soak="15">
-                            <attribute name="strength" score="4"/>
+                            <attribute name="strength" score="3"/>
                             <attribute name="stamina" score="6"/>
-                            <attribute name="agility" score="3"/>
+                            <attribute name="agility" score="2"/>
                             <attribute name="dexterity" score="2"/>
                             <attribute name="perception" score="2"/>
-                            <attribute name="intelligence" score="1"/>
+                            <attribute name="intelligence" score="*"/>
                             <attribute name="charisma" score="1"/>
-                            <attribute name="will" score="2"/>
+                            <attribute name="will" score="3"/>
                         </attributes>
 
                         <skills>
                             <group name="Talents" type="talents">
-                                <skill name="Athletics" score="4"/>
+                                <skill name="Athletics" score="3"/>
                                 <skill name="Awareness" score="2"/>
-                                <skill name="Brawl" score="2"/>
+                                <skill name="Brawl" score="4"/>
                                 <skill name="Charm" score="1"/>
                                 <skill name="Guile" score="1"/>
-                                <skill name="Sleight" score="4"/>
-                                <skill name="Stealth" score="4"/>
+                                <skill name="Sleight" score="2"/>
+                                <skill name="Stealth" score="3"/>
                                 <skill name="Throw" score="1"/>
                             </group>
                         </skills>
 
                         <combat>
-                            <combatstyle style="Claw" skill="Brawl">
-                                <attack attribute="strength" bonus="+7"/>
-                                <defence attribute="agility" bonus="+3"/>
-                                <damage type="mixed" bonus="+3"/>
+                            <combatstyle style="Fist" skill="Brawl">
+                                <attack attribute="agility" bonus="+2"/>
+                                <defence attribute="agility" bonus="+0"/>
+                                <damage type="mixed" bonus="+1"/>
                             </combatstyle>
                         </combat>
 
                         <passions>
-                            <passion name="Bravery" score="2"/>
-                            <passion name="Ego" score="2"/>
-                            <passion name="Restraint" score="2"/>
-                            <passion name="Temperance" score="2"/>
+                            <passion name="Bravery" score="10"/>
+                            <passion name="Ego" score="4"/>
+                            <passion name="Restraint" score="1"/>
+                            <passion name="Temperance" score="1"/>
                         </passions>
 
                         <advantages>
@@ -230,6 +253,155 @@
                     </statistics>
                 </beast>
 
+
+                <beast name="Earth Elemental III">
+                    <information>
+                        <type>Elemental</type>
+                        <demeanor>Unintelligent</demeanor>
+
+                        <habitat climate="Any" terrain="Any"
+                                 frequency="very rare"/>
+
+                        <origin>Habisfern</origin>
+                        <genre>Fantasy</genre>
+                    </information>
+
+                    <description>
+                        <short>
+                            Earth elementals are creatures of earth and
+                            rock.
+                        </short>
+
+                        <physical>
+                            <para>
+                                Looking like a large human with stony skin,
+                                this type of elemental is strong and tough.
+                                It's arms end in three fingered hands which
+                                are little use for anything other than basic
+                                grasping or smashing.
+                            </para>
+                        </physical>
+                    </description>
+
+                    <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                        <attributes size="6" soak="20">
+                            <attribute name="strength" score="6"/>
+                            <attribute name="stamina" score="7"/>
+                            <attribute name="agility" score="2"/>
+                            <attribute name="dexterity" score="1"/>
+                            <attribute name="perception" score="2"/>
+                            <attribute name="intelligence" score="*"/>
+                            <attribute name="charisma" score="1"/>
+                            <attribute name="will" score="4"/>
+                        </attributes>
+
+                        <skills>
+                            <group name="Talents" type="talents">
+                                <skill name="Athletics" score="2"/>
+                                <skill name="Awareness" score="2"/>
+                                <skill name="Brawl" score="4"/>
+                                <skill name="Charm" score="1"/>
+                                <skill name="Guile" score="1"/>
+                                <skill name="Sleight" score="1"/>
+                                <skill name="Stealth" score="2"/>
+                                <skill name="Throw" score="1"/>
+                            </group>
+                        </skills>
+
+                        <combat>
+                            <combatstyle style="Fist" skill="Brawl">
+                                <attack attribute="strength" bonus="+5"/>
+                                <defence attribute="agility" bonus="+3"/>
+                                <damage type="mixed" bonus="+6"/>
+                            </combatstyle>
+                        </combat>
+
+                        <passions>
+                            <passion name="Bravery" score="10"/>
+                            <passion name="Ego" score="6"/>
+                            <passion name="Restraint" score="1"/>
+                            <passion name="Temperance" score="1"/>
+                        </passions>
+
+                        <advantages>
+                            <advantage name="Elemental"/>
+                        </advantages>
+                    </statistics>
+                </beast>
+
+                <beast name="Earth Elemental IV">
+                    <information>
+                        <type>Elemental</type>
+                        <demeanor>Unintelligent</demeanor>
+
+                        <habitat climate="Any" terrain="Any"
+                                 frequency="very rare"/>
+
+                        <origin>Habisfern</origin>
+                        <genre>Fantasy</genre>
+                    </information>
+
+                    <description>
+                        <short>
+                            Elemental lord of great size.
+                        </short>
+
+                        <physical>
+                            <para>
+                                Looking like a large human with stony skin,
+                                this type of elemental is strong and tough.
+                                It's arms end in three fingered hands which
+                                are little use for anything other than basic
+                                grasping or smashing.
+                            </para>
+                        </physical>
+                    </description>
+
+                    <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                        <attributes size="9" soak="30">
+                            <attribute name="strength" score="10" half="7"/>
+                            <attribute name="stamina" score="8"/>
+                            <attribute name="agility" score="1"/>
+                            <attribute name="dexterity" score="1"/>
+                            <attribute name="perception" score="2"/>
+                            <attribute name="intelligence" score="*"/>
+                            <attribute name="charisma" score="1"/>
+                            <attribute name="will" score="5"/>
+                        </attributes>
+
+                        <skills>
+                            <group name="Talents" type="talents">
+                                <skill name="Athletics" score="1"/>
+                                <skill name="Awareness" score="2"/>
+                                <skill name="Brawl" score="4"/>
+                                <skill name="Charm" score="1"/>
+                                <skill name="Guile" score="1"/>
+                                <skill name="Sleight" score="1"/>
+                                <skill name="Stealth" score="1"/>
+                                <skill name="Throw" score="1"/>
+                            </group>
+                        </skills>
+
+                        <combat>
+                            <combatstyle style="Fist" skill="Brawl">
+                                <attack attribute="strength" bonus="+10"/>
+                                <defence attribute="agility" bonus="+5"/>
+                                <damage type="mixed" bonus="+10"/>
+                            </combatstyle>
+                        </combat>
+
+                        <passions>
+                            <passion name="Bravery" score="10"/>
+                            <passion name="Ego" score="8"/>
+                            <passion name="Restraint" score="1"/>
+                            <passion name="Temperance" score="1"/>
+                        </passions>
+
+                        <advantages>
+                            <advantage name="Elemental"/>
+                        </advantages>
+                    </statistics>
+                </beast>
             </bestiary>
         </sect1>
     </body>

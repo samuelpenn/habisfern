@@ -83,8 +83,8 @@
                 Priestesses are unmarried, and take vows of chastity before
                 joining, though the cult prefers priestesses not to be
                 virgins. The cult does not accept members who are younger
-                than 21, and generally prefers older women, especially those
-                who have lost a child.
+                than 21, and generally prefers older women, especially
+                those who have lost a child.
             </para>
 
             <para>
@@ -129,7 +129,8 @@
                 </para>
 
                 <characters role="package" title="Asabeth Cultists">
-                    <character name="Warrior Priestess">
+                    <character name="Warrior Priestess of Asabeth">
+                        <age>21</age>
                         <description>
                             <short>
                                 Priestesses of Asabeth are always female, and
@@ -154,7 +155,7 @@
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
-                                    <skill name="Religion (Asabeth)" score="4"/>
+                                    <skill name="Religion (Rorn)" score="4"/>
                                 </group>
 
                                 <group name="Combat" type="skills">
@@ -165,8 +166,17 @@
                             </skills>
 
                             <advantages>
-                                <advantage name="Blessing of Blood"/>
-                                <advantage name="Rage of the Goddess"/>
+                                <advantage name="Valour" score="2" cost="3"/>
+                                <advantage name="Ferocity" score="2" cost="-3"/>
+
+                                <advantage name="Ceremonies" cost="2"
+                                           skill="Religion (Rorn)"/>
+
+                                <advantage name="Blessing of Blood" cost="1"
+                                           skill="Religion (Rorn)"/>
+
+                                <advantage name="Rage of the Goddess" cost="3"
+                                           skill="Religion (Rorn)"/>
                             </advantages>
                         </statistics>
                     </character>
@@ -179,7 +189,7 @@
                 <para>
                     The rituals of Asabeth reflect her position as goddess
                     of War and Blood. They are generally seen as barbaric,
-                    and not all cultists have the stomach for the more
+                    and not all cultists have the stomach for her more
                     powerful rituals.
                 </para>
 
@@ -197,23 +207,22 @@
                             rage control them. For purposes of bonuses
                             gained from these rituals, the priestess gets
                             a bonus of +1 to their Religion score for each
-                            point their <e>Restraint</e> is below four.
+                            point of Valour and Ferocity.
                         </para>
                     </description>
 
                     <y:advantage name="Blessing of Blood" type="technique">
                         <y:cost points="1"/>
-                        <y:skill name="Religion (Asabeth)"/>
+                        <y:skill name="Religion (Rorn)"/>
 
                         <description>
                             <para>
                                 Painting their exposed body with blood,a cultist
                                 gains the life force of the Goddess, giving
-                                them a bonus to initiative, bravery and ego
-                                checks equal to their religion score. A
-                                priestess may use her own blood, but the
-                                blood of another, especially a sacrificed
-                                enemy is most desired. Automatic.
+                                them a bonus to initiative, fear checks and
+                                stamina checks. A priestess may use her own
+                                blood, but the blood of another, especially
+                                a sacrificed enemy is most desired. Automatic.
                             </para>
 
                             <para>
@@ -226,7 +235,7 @@
 
                     <y:advantage name="Rage of the Goddess" type="technique">
                         <y:cost points="3"/>
-                        <y:skill name="Religion (Asabeth)"/>
+                        <y:skill name="Religion (Rorn)"/>
                         <y:prerequisite>Blessing of Blood</y:prerequisite>
 
                         <description>
@@ -242,7 +251,7 @@
 
                     <y:advantage name="Berserker" type="technique">
                         <y:cost points="5"/>
-                        <y:skill name="Religion (Asabeth)"/>
+                        <y:skill name="Religion (Rorn)"/>
                         <y:prerequisite>Rage of the Goddess</y:prerequisite>
 
                         <description>
@@ -258,14 +267,14 @@
                                 advantage, except the bonus is equal to the
                                 priestesses religion score rather than brawl.
                                 Berserker does not stack with
-                                <e>Blessing of Blood</e>.
+                                <e>Blessing of Blood</e>, but replaces it.
                             </para>
                         </description>
                     </y:advantage>
 
                     <y:advantage name="Armour of Blood" type="technique">
                         <y:cost points="3"/>
-                        <y:skill name="Religion (Asabeth)"/>
+                        <y:skill name="Religion (Rorn)"/>
                         <y:prerequisite>Blessing of Blood</y:prerequisite>
 
                         <description>
@@ -310,7 +319,7 @@
 
                     <y:advantage name="Sisters in Arms" type="technique">
                         <y:cost points="5"/>
-                        <y:skill name="Religion (Asabeth)"/>
+                        <y:skill name="Religion (Rorn)"/>
                         <y:prerequisite>Blessing of Blood</y:prerequisite>
 
                         <description>
@@ -327,7 +336,7 @@
 
                     <y:advantage name="Strength of the Goddess" type="technique">
                         <y:cost points="7"/>
-                        <y:skill name="Religion (Asabeth)"/>
+                        <y:skill name="Religion (Rorn)"/>
                         <y:prerequisite>Sisters in Arms</y:prerequisite>
 
                         <description>
@@ -342,7 +351,7 @@
 
                     <y:advantage name="Shield of the Goddess" type="technique">
                         <y:cost points="9"/>
-                        <y:skill name="Religion (Asabeth)"/>
+                        <y:skill name="Religion (Rorn)"/>
                         <y:prerequisite>Strength of the Goddess</y:prerequisite>
 
                         <description>
