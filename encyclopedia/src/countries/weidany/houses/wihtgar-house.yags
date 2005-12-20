@@ -70,7 +70,7 @@
 
                 <y:advantages role="background" title="House of Wihtgar">
                     <y:advantage name="House of Wihtgar" type="background">
-                        <y:cost points="5"/>
+                        <y:cost points="3"/>
 
                         <description>
                             <para>

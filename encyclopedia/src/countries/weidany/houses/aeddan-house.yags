@@ -102,25 +102,31 @@
 
                 <y:advantages role="background" title="House of Aeddan">
                     <y:advantage name="House of Aeddan" type="background">
-                        <y:cost points="5"/>
+                        <y:cost points="3"/>
 
                         <description>
                             <para>
-                                Character is of the House of Aeddan. This
-                                advantage is required before any of the other
-                                advantages of this house can be obtained.
+                                You are of the bloodline of the
+                                <e>House of Aeddan</e>, one of the (minor)
+                                noble houses of the Kingdom of Weidany. As
+                                such, you can expect to be treated with
+                                respect, and to have access to friends and
+                                family who are willing to help you out when
+                                things get tricky. Of course, they may also
+                                call on you for aid when they require it.
                             </para>
 
                             <para>
-                                The House of Aeddan is a minor House, but
-                                the character still has access to friends
-                                and influence they would not otherwise have.
+                                The House of Aeddan was once one of the most
+                                powerful of the noble houses, but it has
+                                since fallen into decline. It is associated
+                                with magic and mystery.
                             </para>
                         </description>
                     </y:advantage>
 
                     <y:advantage name="Strong at magic" type="advantage">
-                        <y:cost points="4"/>
+                        <y:cost points="1"/>
                         <y:prerequisite>House of Aeddan</y:prerequisite>
 
                         <description>
@@ -129,6 +135,35 @@
                                 exceptional ability with magic. Those who take this
                                 advantage gain +1 to intelligence when trying to
                                 learn a new Rune.
+                            </para>
+                        </description>
+                    </y:advantage>
+
+                    <y:advantage name="Second sight" type="advantage">
+                        <y:cost points="3"/>
+                        <y:prerequisite>House of Aeddan</y:prerequisite>
+
+                        <description>
+                            <para>
+                                As per the standard <e>Second Sight</e>
+                                advantage, except it only costs 3 points.
+                                Those of the bloodline of Aeddan have a
+                                reputation of being mystical.
+                            </para>
+                        </description>
+                    </y:advantage>
+
+                    <y:advantage name="Death sight" type="advantage">
+                        <y:cost points="3"/>
+                        <y:prerequisite>House of Aeddan</y:prerequisite>
+
+                        <description>
+                            <para>
+                                Those of the House of Aeddan sometimes have
+                                the ability to fortell the death of others.
+                                It is not always accurate, and can be
+                                avoided. When someone is met who is fated to
+                                die, then you may get a vision of their fate.
                             </para>
                         </description>
                     </y:advantage>

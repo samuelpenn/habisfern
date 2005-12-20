@@ -77,7 +77,7 @@
 
                 <y:advantages role="background" title="House of Merin">
                     <y:advantage name="House of Merin" type="background">
-                        <y:cost points="5"/>
+                        <y:cost points="3"/>
 
                         <description>
                             <para>

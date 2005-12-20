@@ -128,7 +128,7 @@
 
             <y:advantages role="background" title="House of Caewlin">
                 <y:advantage name="House of Caewlin" type="background">
-                    <y:cost points="10"/>
+                    <y:cost points="5"/>
 
                     <description>
                         <para>
@@ -140,21 +140,26 @@
                 </y:advantage>
 
                 <y:advantage name="Blackmail" type="background">
-                    <y:cost points="3"/>
+                    <y:cost points="1"/>
                     <y:prerequisite>House of Caewlin</y:prerequisite>
 
                     <description>
                         <para>
-                            The character has knowledge of information
+                            You have knowledge of information
                             that another noble would not want to be made
                             public knowledge. This gives the character
                             some leverage when requiring favours.
+                        </para>
+
+                        <para>
+                            If the noble is pushed too much however, then
+                            they may consider it easier to kill you.
                         </para>
                     </description>
                 </y:advantage>
 
                 <y:advantage name="Quality equipment" type="background">
-                    <y:cost points="2"/>
+                    <y:cost points="1"/>
                     <y:prerequisite>House of Caewlin</y:prerequisite>
 
                     <description>

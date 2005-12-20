@@ -294,7 +294,7 @@
                 <y:advantages role="background" title="House of Erwin">
 
                     <y:advantage name="House of Erwin" type="background">
-                        <y:cost points="10"/>
+                        <y:cost points="5"/>
 
                         <description>
                             <para>
@@ -322,7 +322,7 @@
                     </y:advantage>
 
                     <y:advantage name="Political Sense" type="background">
-                        <y:cost points="2"/>
+                        <y:cost points="1"/>
                         <y:prerequisite>House of Erwin</y:prerequisite>
 
                         <description>
@@ -338,7 +338,7 @@
                     </y:advantage>
 
                     <y:advantage name="Aura of Reason" type="background">
-                        <y:cost points="3"/>
+                        <y:cost points="1"/>
                         <y:prerequisite>House of Erwin</y:prerequisite>
 
                         <description>

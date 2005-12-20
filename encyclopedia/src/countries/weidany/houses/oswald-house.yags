@@ -95,7 +95,7 @@
 
                 <y:advantages role="background" title="House of Oswald">
                     <y:advantage name="House of Oswald" type="background">
-                        <y:cost points="10"/>
+                        <y:cost points="5"/>
 
                         <description>
                             <para>
@@ -106,7 +106,7 @@
                     </y:advantage>
 
                     <y:advantage name="Strong at magic" type="advantage">
-                        <y:cost points="4"/>
+                        <y:cost points="3"/>
                         <y:prerequisite>House of Oswald</y:prerequisite>
 
                         <description>

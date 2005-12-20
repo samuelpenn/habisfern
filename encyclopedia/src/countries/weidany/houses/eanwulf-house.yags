@@ -73,11 +73,13 @@
                 <y:advantages role="background" title="House of Eanwulf">
 
                     <y:advantage name="House of Eanwulf" type="background">
-                        <y:cost points="10"/>
+                        <y:cost points="5"/>
 
                         <description>
                             <para>
-                                A member of the House of Eanwulf.
+                                You are a member of the House of Eanwulf,
+                                one of the major noble Houses of the
+                                Kingdom of Weidany.
                             </para>
                         </description>
                     </y:advantage>

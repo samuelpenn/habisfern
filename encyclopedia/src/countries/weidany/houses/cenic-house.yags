@@ -71,11 +71,11 @@
 
                 <y:advantages role="background" title="House of Cenic">
                     <y:advantage name="House of Cenic" type="background">
-                        <y:cost points="5"/>
+                        <y:cost points="3"/>
 
                         <description>
                             <para>
-                                Character belongs to the House of Cenic.
+                                You belongs to the House of Cenic.
                                 This is a minor noble house, but nevertheless
                                 affords the character some respect and status.
                             </para>
