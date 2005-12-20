@@ -102,7 +102,7 @@
                     <traits>
                         <trait name="Valour" score="3"/>
                         <trait name="Lust" score="2"/>
-                        <trait name="Vengeance" score="2"/>
+                        <trait name="Ferocity" score="2"/>
                     </traits>
 
                     <skills>
@@ -121,8 +121,7 @@
                             <skill name="Speak Rornic" score="4"/>
                             <skill name="Area lore (Weidany)" score="5"/>
                             <skill name="Law" score="4"/>
-                            <skill name="Religion (Neya)" score="8"/>
-                            <skill name="Religion (Asabeth)" score="6"/>
+                            <skill name="Religion (Rorn)" score="9"/>
                         </group>
 
                         <group name="Social" type="skills">
