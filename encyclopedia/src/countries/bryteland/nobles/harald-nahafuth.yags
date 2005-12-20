@@ -119,7 +119,7 @@
                         <trait name="Lust" score="2"/>
                         <trait name="Vengeance" score="2"/>
                         <trait name="Luck" score="3"/>
-                    </passions>
+                    </traits>
 
                     <skills>
                         <group name="Talents" type="talents">
