@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Osric of Aeddan</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="aeddan-house">House of Aeddan</see>
+            <see uri="northwood-shire">Shire of Northwood</see>
+            <see uri="erlwood">Erlwood</see>
+        </references>
+
+        <topics>
+            <subject uri="osric-aeddan">Osric of Aeddan</subject>
+
+            <category>Merchants</category>>
+
+            <topic uri="leodhata">Leodhata</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Osric of Aeddan</title>
+
+            <para>
+                Osric is a merchant of the House of Aeddan, and cousin to
+                <qv uri="riahannon-aeddan">Riahannon</qv>. He has been a
+                merchant of small success, though is soon to marry
+                <qv uri="sihrith-erlwood">Sihrith of Erlwood</qv>, who
+                will provide him with a small merchant company.
+            </para>
+
+            <character name="Osric of Aeddan">
+                <description>
+                    <race>Human</race>
+                    <age>26</age>
+                    <gender>Male</gender>
+                    <short>
+                        A charming young merchant adventurer.
+                    </short>
+
+                    <meta>
+                        <player>Daryl Tose</player>
+                    </meta>
+
+                    <physical>
+                        <para>
+                            Some description.
+                        </para>
+                    </physical>
+
+                    <background>
+                        <para>
+                            Married Sihrith.
+                        </para>
+                    </background>
+                </description>
+
+                <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                    <attributes size="5" soak="12">
+                        <attribute name="strength" score="3"/>
+                        <attribute name="stamina" score="3"/>
+                        <attribute name="agility" score="3"/>
+                        <attribute name="dexterity" score="4"/>
+                        <attribute name="perception" score="3"/>
+                        <attribute name="intelligence" score="3"/>
+                        <attribute name="charisma" score="4"/>
+                        <attribute name="will" score="2"/>
+                    </attributes>
+
+                    <skills>
+                        <group name="Talents" type="talents">
+                            <skill name="Athletics" score="2" xp="1"/>
+                            <skill name="Awareness" score="2" xp="1"/>
+                            <skill name="Brawl" score="2" xp="1"/>
+                            <skill name="Charm" score="4"/>
+                            <skill name="Guile" score="2"/>
+                            <skill name="Sleight" score="2"/>
+                            <skill name="Stealth" score="2"/>
+                            <skill name="Throw" score="2"/>
+                        </group>
+
+                        <group name="Knowledges" type="knowledges">
+                            <skill name="Speak Rornic" score="4"/>
+                            <skill name="Speak Brytish" score="1"/>
+                            <skill name="Area lore (Weidany)" score="4"/>
+                            <skill name="Faerie lore" score="1" xp="1"/>
+                        </group>
+
+                        <group name="Merchant" type="skills">
+                            <skill name="Trade" score="4" xp="3"/>
+                        </group>
+
+                        <group name="Combat" type="skills">
+                            <skill name="Bow" score="5" xp="3"/>
+                            <skill name="Two weapons" score="5" xp="1"/>
+                        </group>
+
+                        <group name="Misc" type="skills">
+                            <skill name="Falconry" score="3" xp="1"/>
+                            <skill name="Ride" score="1"/>
+                            <skill name="Survival" score="1"/>
+                        </group>
+                    </skills>
+
+                    <traits>
+                        <trait name="Luck" score="1"/>
+                        <trait name="Lust" score="2"/>
+                    </traits>
+
+                    <advantages>
+                        <advantage name="Combat reflexes" skill="Melee" cost="2"/>
+                        <advantage name="Carousing" skill="Social" cost="2"/>
+                        <advantage name="Seduction" skill="Social" cost="4"/>
+
+                        <advantages name="Absent minded"/>
+                        <advantages name="Honest"/>
+                        <advantages name="Short attention span"/>
+                        <advantages name="Reputation"/>
+                    </advantages>
+                </statistics>
+            </character>
+
+        </sect1>
+    </body>
+</article>
+
+
