@@ -49,8 +49,99 @@
 
             <para>
                 A Brytish warrior who lives in <qv uri="alstoth">
-                Alstoth</qv>. He is brother to Thengeld.
+                Alstoth</qv>. He is brother to
+                <qv uri="thengeld-hardradason">Thengeld</qv>.
             </para>
+
+            <character name="Thorthda Hardradason">
+                <description>
+                    <race>Human</race>
+                    <age>35</age>
+                    <gender>Male</gender>
+                    <short>
+                        A tall handsome man, well dressed and a capable
+                        warrior and tradesman.
+                    </short>
+
+                    <physical>
+                        <para>
+                        </para>
+                    </physical>
+
+                    <background>
+                        <para>
+                        </para>
+                    </background>
+                </description>
+
+                <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                    <attributes size="5" soak="12">
+                        <attribute name="strength" score="4"/>
+                        <attribute name="stamina" score="3"/>
+                        <attribute name="agility" score="3"/>
+                        <attribute name="dexterity" score="4"/>
+                        <attribute name="perception" score="3"/>
+                        <attribute name="intelligence" score="4"/>
+                        <attribute name="charisma" score="4"/>
+                        <attribute name="will" score="3"/>
+                    </attributes>
+
+                    <skills>
+                        <group name="Talents" type="talents">
+                            <skill name="Athletics" score="3"/>
+                            <skill name="Awareness" score="4"/>
+                            <skill name="Brawl" score="5"/>
+                            <skill name="Charm" score="5"/>
+                            <skill name="Guile" score="6"/>
+                            <skill name="Sleight" score="3"/>
+                            <skill name="Stealth" score="3"/>
+                            <skill name="Throw" score="3"/>
+                        </group>
+
+                        <group name="Knowledges" type="knowledges">
+                            <skill name="Speak Brytish" score="4"/>
+                            <skill name="Scribe Brytish" score="4"/>
+                            <skill name="Speak Rornic" score="4"/>
+                            <skill name="Scribe Rornic" score="3"/>
+                            <skill name="Area lore (Bryteland)" score="4"/>
+                            <skill name="Area lore (Weidany)" score="4"/>
+                            <skill name="Area lore (Taneith)" score="2"/>
+                        </group>
+
+                        <group name="Merchant" type="skills">
+                            <skill name="Trade" score="5"/>
+                            <skill name="Etiquette" score="2"/>
+                            <skill name="Seneschal" score="4"/>
+                            <skill name="Seamanship" score="3"/>
+                            <skill name="Navigation" score="3"/>
+                        </group>
+
+                        <group name="Combat" type="skills">
+                            <skill name="Great weapon" score="5"/>
+                            <skill name="Weapon and shield" score="4"/>
+                            <skill name="Single weapon" score="6"/>
+                            <skill name="Longshaft weapon" score="3"/>
+                        </group>
+
+                        <group name="Misc" type="skills">
+                            <skill name="Survival" score="2"/>
+                            <skill name="Ride" score="3"/>
+                        </group>
+                    </skills>
+
+                    <traits>
+                        <trait name="Luck" score="2"/>
+                        <trait name="Gluttony" score="2"/>
+                        <trait name="Valour" score="2"/>
+                        <trait name="Lust" score="2"/>
+                    </traits>
+
+                    <advantages>
+                        <advantage name="Heavy drinker"/>
+                        <advantage name="Beautiful"/>
+                    </advantages>
+                </statistics>
+            </character>
         </sect1>
     </body>
 </article>
