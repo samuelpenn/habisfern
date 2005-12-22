@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Rornic Warriors</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="weidany">Weidany</subject>
+
+            <category>Warriors</category>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Rornic Warriors</title>
+
+            <para>
+                The majority of the war trained people of
+                <qv uri="weidany">the Kingdom</qv> are either nobles or
+                freemen. Together, they make up the
+                <qv uri="fyrd">Fyrd</qv> - an army raised during times of
+                war to protect the land.
+            </para>
+
+            <para>
+                Because armies are only raised when needed, the number
+                of professional warriors is quite low. Most freemen know
+                how to use a spear, and practise on the village common
+                once a month - enough to know how to form a shield wall
+                for instance.
+            </para>
+        </sect1>
+
+        <sect1>
+            <title>Warriors</title>
+
+            <characters role="stock" title="Rornic Warriors">
+                <character name="Ceorl Spearmen">
+                    <description>
+                        <short>Spearmen</short>
+                    </description>
+
+                    <statistics xmlns="http://yagsbook.sourceforge.net/xml/warhammer">
+                        <attributes unit="Spearman" points="4">
+                            <attribute name="m" score="4"/>
+                            <attribute name="ws" score="3"/>
+                            <attribute name="bs" score="3"/>
+                            <attribute name="s" score="3"/>
+                            <attribute name="t" score="3"/>
+                            <attribute name="w" score="1"/>
+                            <attribute name="i" score="3"/>
+                            <attribute name="a" score="1"/>
+                            <attribute name="ld" score="5"/>
+                        </attributes>
+
+                        <special>
+                            <properties>
+                                <shieldwall/>
+                                <warband/>
+                            </properties>
+                        </special>
+
+                        <equipment>
+                            <item name="Throwing spear"/>
+                            <item name="Spear"/>
+                            <item name="Shield"/>
+                        </equipment>
+                    </statistics>
+                </character>
+
+                <character name="Huscurl">
+                </character>
+
+                <character name="Thegn">
+                </character>
+
+                <character name="Geburs">
+                </character>
+            </characters>
+        </sect1>
+
+    </body>
+</article>
+
+
