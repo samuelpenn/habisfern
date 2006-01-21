@@ -178,7 +178,7 @@
                             Bards can learn the following techniques if
                             they have a suitable teacher. Bardic techniques
                             are used with song and music to enthral or
-                            motivate their aaudience
+                            motivate their audience
                         </para>
                     </description>
 
@@ -186,21 +186,18 @@
                         <y:cost points="3"/>
                         <y:skill name="Perform"/>
 
+                        <y:restriction>Bards</y:restriction>
+
                         <description>
                             <para>
                                 A song of passion and battle, which
                                 inspires comrades to greater glory.
-                                Everyone affected gains a bonus to bravery
-                                and morale checks equal to the Bard's
-                                <e>Perform</e> score, and total penalties
-                                due to wounds, stuns and fatigue are
-                                reduced by the same amount.
-                            </para>
-
-                            <para>
-                                Lasts as long as the Bard is singing, and
-                                affects all friendly people within
-                                stamina x 10m of the Bard.
+                                As long as you are singing, all allies
+                                within <t>Stamina</t> x 10m of you gain a
+                                bonus equal to your <e>Perform</e> score
+                                to their initiative and morale checks. All
+                                penalties due to wounds, stuns and fatigues
+                                are reduced by an equal amount.
                             </para>
                         </description>
                     </y:advantage>
@@ -209,21 +206,21 @@
                         <y:cost points="3"/>
                         <y:skill name="Perform"/>
 
+                        <y:restriction>Bards</y:restriction>
+
                         <description>
                             <para>
                                 A song which inspires fear in the enemy,
                                 giving a penalty to their initiative and
-                                bravery rolls equal to the Bard's Perform
-                                skill. The enemy must be within stamina x 10m
-                                of the bard, and the bard must overcome
-                                the will x ego of each target with their
-                                own charisma x perform.
+                                morale checks equal to your <e>Perform</e>
+                                as long as they are within <t>Stamina</t>
+                                x 10m of you.
                             </para>
 
                             <para>
                                 Can be combined with <e>Song of Battle</e>
-                                in order to give bonuses to the Bard's
-                                comrades at the same time.
+                                in order to give bonuses to your allies at
+                                the same time.
                             </para>
                         </description>
                     </y:advantage>
@@ -233,12 +230,15 @@
                         <y:skill name="Perform"/>
                         <y:prerequisite>Song of Dread</y:prerequisite>
 
+                        <y:restriction>Bards</y:restriction>
+
                         <description>
                             <para>
-                                Inspire fear and terror in any enemy who
-                                hear this song. Forces a morale check to
-                                be made during any battle this is sung in.
-                                Automatically combines with Song of Dread.
+                                With this song you can instill fear and
+                                terror in your enemies. Forces a morale
+                                check to be made when the song is first
+                                used in a battle. Automatically combines
+                                with Song of Dread.
                             </para>
                         </description>
                     </y:advantage>
@@ -247,6 +247,8 @@
                         <y:cost points="5"/>
                         <y:skill name="Perform"/>
                         <y:prerequisite>Song of Battle</y:prerequisite>
+
+                        <y:restriction>Bards</y:restriction>
 
                         <description>
                             <para>
@@ -262,14 +264,16 @@
                         <y:cost points="3"/>
                         <y:skill name="Perform"/>
 
+                        <y:restriction>Bards</y:restriction>
+
                         <description>
                             <para>
-                                Put people who hear this to sleep. Each
-                                minute the song is played for, listeners
-                                must make a Temperance check or gain a
-                                point of exhaustion. Listeners who are
-                                engaging in physical activity are always
-                                unaffected.
+                                Your music or singing is able to put people
+                                to sleep. Every minute a person who is not
+                                physically active hears your song, they
+                                must make a <t>Will</t> check against your
+                                <t>Charisma</t>. Failure puts them into a
+                                light sleep.
                             </para>
                         </description>
                     </y:advantage>
@@ -279,67 +283,19 @@
                         <y:skill name="Perform"/>
                         <y:prerequisite>Song of Sleep</y:prerequisite>
 
-                        <description>
-                            <para>
-                                Make someone fall in love with the player.
-                                It must be targetted at a single target.
-                                They get a Temperance check against the
-                                perform skill of the bard, else their
-                                feelings towards the bard shifts by one
-                                category. The bard can choose whether the
-                                desire felt is platonic or physical. It
-                                lasts until the target has slept.
-                            </para>
-                        </description>
-                    </y:advantage>
-
-                    <y:advantage name="Song of Dreaming" type="technique">
-                        <y:cost points="7"/>
-                        <y:skill name="Perform"/>
-                        <y:prerequisite>Song of Sleep</y:prerequisite>
+                        <y:restriction>Bards</y:restriction>
 
                         <description>
                             <para>
-                                Rudimentary painting the picture of the dream.
+                                You can make somebody fall in love with you
+                                through your music. The song must be
+                                targetted at a single person, who must be
+                                able to hear it clearly. The target gets a
+                                <t>Will</t> check against your
+                                <t>Charisma</t> in order to resist. It takes
+                                about five minutes, and lasts until they
+                                sleep.
                             </para>
-                        </description>
-                    </y:advantage>
-
-                    <y:advantage name="Entrancement" type="technique">
-                        <y:cost points="5"/>
-                        <y:skill name="Perform"/>
-
-                        <y:prerequisite>Song of Sleep</y:prerequisite>
-
-                        <description>
-                        </description>
-                    </y:advantage>
-
-                    <y:advantage name="Suggestion" type="technique">
-                        <y:cost points="7"/>
-                        <y:skill name="Perform"/>
-
-                        <y:prerequisite>Entrancement</y:prerequisite>
-
-                        <description>
-                        </description>
-                    </y:advantage>
-
-                    <y:advantage name="Geas" type="technique">
-                        <y:cost points="9"/>
-                        <y:skill name="Perform"/>
-                        <y:prerequisite>Suggestion</y:prerequisite>
-
-                        <description>
-                        </description>
-                    </y:advantage>
-
-                    <y:advantage name="Greater Geas" type="technique">
-                        <y:cost points="12"/>
-                        <y:skill name="Perform"/>
-                        <y:prerequisite>Geas</y:prerequisite>
-
-                        <description>
                         </description>
                     </y:advantage>
 
