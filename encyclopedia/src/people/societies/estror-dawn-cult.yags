@@ -145,7 +145,7 @@
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
-                                    <skill name="Religion (Estror)" score="4"/>
+                                    <skill name="Religion (Rorn)" score="4"/>
                                     <skill name="First aid" score="4"/>
                                     <skill name="Midwifery" score="4"/>
                                     <skill name="Herb lore" score="3"/>

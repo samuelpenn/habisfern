@@ -92,7 +92,7 @@
             </para>
 
             <para>
-                There is currently only one temple of the cult,
+                There is currently only one temple of the cult remaining,
                 in <qv uri="red-goddess-house">northern Scarondy</qv>.
             </para>
         </sect1>
@@ -107,21 +107,6 @@
             </para>
 
             <sect2>
-                <title>Skills</title>
-
-                <y:skill-list>
-                    <y:skill name="Religion (Cult of Asabeth)" type="knowledge">
-                        <description>
-                            <para>
-                                Gives knowledge of the ideals, mythology and
-                                rituals of the Cult of Asabeth.
-                            </para>
-                        </description>
-                    </y:skill>
-                </y:skill-list>
-            </sect2>
-
-            <sect2>
                 <title>Characters</title>
 
                 <para>
@@ -133,10 +118,25 @@
                         <description>
                             <age>21</age>
                             <short>
-                                Priestesses of Asabeth are always female, and
-                                at least 21 years old. They are feared warriors,
-                                mostly for their unpredictability and bloodlust.
+                                A Priestess of the goddess of war and
+                                vengeance.
                             </short>
+
+                            <background>
+                                <para>
+                                    All priests of Asabeth are female, and
+                                    must be at least 21 before they are
+                                    allowed to become a full priestess.
+                                </para>
+
+                                <para>
+                                    As followers of the Red Goddess, her
+                                    priestesses are expected to let passion
+                                    and ferocity guide their actions. All
+                                    priestesses must take vows of chastity
+                                    with men before joining.
+                                </para>
+                            </background>
                         </description>
 
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
@@ -159,9 +159,12 @@
                                 </group>
 
                                 <group name="Combat" type="skills">
-                                    <skill name="Weapon and shield" score="4"/>
-                                    <skill name="Single weapon" score="3"/>
-                                    <skill name="Great weapon" score="3"/>
+                                    <skill name="First weapon skill" score="4"/>
+                                    <skill name="Second weapon skill" score="2"/>
+                                </group>
+
+                                <group name="Other" type="skills">
+                                    <skill name="Ride" score="2"/>
                                 </group>
                             </skills>
 
@@ -169,7 +172,7 @@
                                 <advantage name="Valour" score="2" cost="3"/>
                                 <advantage name="Ferocity" score="2" cost="-3"/>
 
-                                <advantage name="Ceremonies" cost="2"
+                                <advantage name="Ceremonies of Asabeth" cost="2"
                                            skill="Religion (Rorn)"/>
 
                                 <advantage name="Blessing of Blood" cost="1"
@@ -179,6 +182,11 @@
                                            skill="Religion (Rorn)"/>
                             </advantages>
                         </statistics>
+
+                        <equipment>
+                            <item name="Weapon"/>
+                            <item name="Riding horse"/>
+                        </equipment>
                     </character>
                 </characters>
             </sect2>
@@ -202,6 +210,20 @@
                             disfavour in current times.
                         </para>
                     </description>
+
+                    <y:advantage name="Ceremonies of Asabeth" type="technique">
+                        <y:cost points="2"/>
+                        <y:skill name="Religion (Rorn)"/>
+
+                        <y:short>Rituals of Asabeth</y:short>
+
+                        <description>
+                            <para>
+                                Knowledge of the rituals and ceremonies of
+                                the cults of Asabeth.
+                            </para>
+                        </description>
+                    </y:advantage>
 
                     <y:advantage name="Blessing of Blood" type="technique">
                         <y:cost points="1"/>

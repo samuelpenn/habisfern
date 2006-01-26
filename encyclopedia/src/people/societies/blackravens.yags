@@ -123,21 +123,6 @@
             <title>Characters</title>
 
             <sect2>
-                <title>Skills</title>
-
-                <y:skill-list>
-                    <y:skill name="Religion (Black Ravens)" type="knowledge">
-                        <description>
-                            <para>
-                                Gives knowledge of the ideals, mythology and
-                                rituals of this Cult of Thot.
-                            </para>
-                        </description>
-                    </y:skill>
-                </y:skill-list>
-            </sect2>
-
-            <sect2>
                 <title>Packages</title>
 
                 <characters role="package" title="Cult of Thot">
@@ -207,12 +192,11 @@
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
-                                    <skill name="Religion (Rorn)" score="3"/>
+                                    <skill name="Religion (Rorn)" score="2"/>
                                 </group>
 
                                 <group name="Combat" type="skills">
-                                    <skill name="Bow" score="3"/>
-                                    <skill name="Single weapon" score="2"/>
+                                    <skill name="Bow" score="2"/>
                                 </group>
 
                                 <group name="Other" type="skills">
@@ -222,14 +206,23 @@
                                 </group>
                             </skills>
 
-                            <equipment>
-                                <item name="Travelling clothes"/>
-                                <item name="Black cloak"/>
-                                <item name="Long knife"/>
-                                <item name="Horse"/>
-                                <item name="Trained Raven"/>
-                            </equipment>
+                            <advantages>
+                                <advantage name="Ceremonies of Thot" cost="2"
+                                           skill="Religion (Rorn)"/>
+
+                                <advantage name="Signs of the Raven" cost="1"
+                                           skill="Religion (Rorn)"/>
+                            </advantages>
                         </statistics>
+
+                        <equipment>
+                            <cash value="10d"/>
+                            <item name="Travelling clothes"/>
+                            <item name="Black cloak"/>
+                            <item name="Long knife"/>
+                            <item name="Horse"/>
+                            <item name="Trained Raven"/>
+                        </equipment>
                     </character>
 
                     <character name="Voice of the Raven">
@@ -270,7 +263,7 @@
                             <skills>
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>
-                                    <skill name="Awareness" score="3"/>
+                                    <skill name="Awareness" score="2"/>
                                     <skill name="Brawl" score="2"/>
                                     <skill name="Charm" score="3"/>
                                     <skill name="Guile" score="4"/>
@@ -287,24 +280,26 @@
                                 </group>
 
                                 <group name="Other" type="skills">
-                                    <skill name="Etiquette" score="3"/>
+                                    <skill name="Etiquette" score="2"/>
                                     <skill name="Politics" score="4"/>
                                     <skill name="Streetwise" score="2"/>
                                 </group>
                             </skills>
 
                             <advantages>
-                                <advantage name="Ceremonies" cost="2"
+                                <advantage name="Ceremonies of Thot" cost="2"
+                                           skill="Religion (Rorn)"/>
+                                <advantage name="Signs of the Raven" cost="1"
                                            skill="Religion (Rorn)"/>
                             </advantages>
-
-
-                            <equipment>
-                                <item name="Travelling clothes"/>
-                                <item name="Black cloak"/>
-                                <item name="Long knife"/>
-                            </equipment>
                         </statistics>
+
+                        <equipment>
+                            <cash value="15d"/>
+                            <item name="Travelling clothes"/>
+                            <item name="Black cloak"/>
+                            <item name="Long knife"/>
+                        </equipment>
                     </character>
                 </characters>
             </sect2>
@@ -329,9 +324,26 @@
                         </para>
                     </description>
 
+                    <y:advantage name="Ceremonies of Thot" type="technique">
+                        <y:cost points="2"/>
+                        <y:skill name="Religion (Rorn)"/>
+
+                        <y:short>The Rituals of of Thot</y:short>
+
+                        <description>
+                            <para>
+                                Covers the rituals and ceremonies involved
+                                in the worship of Thot.
+                            </para>
+                        </description>
+                    </y:advantage>
+
+
                     <y:advantage name="Signs of the Raven" type="technique">
                         <y:cost points="1"/>
                         <y:skill name="Religion (Rorn)"/>
+
+                        <y:prerequisite>Ceremonies of Thot</y:prerequisite>
 
                         <description>
                             <para>
@@ -364,6 +376,8 @@
                         <y:cost points="3"/>
                         <y:skill name="Religion (Rorn)"/>
 
+                        <y:prerequisite>Ceremonies of Thot</y:prerequisite>
+
                         <description>
                             <para>
                                 Messages taken under oath of secrecy can
@@ -382,6 +396,8 @@
                         <y:cost points="5"/>
                         <y:skill name="Religion (Rorn)"/>
 
+                        <y:prerequisite>Ceremonies of Thot</y:prerequisite>
+
                         <description>
                             <para>
                                 When travelling on foot over large
@@ -395,6 +411,8 @@
                     <y:advantage name="Eyes of the Hunter" type="technique">
                         <y:cost points="5"/>
                         <y:skill name="Religion (Rorn)"/>
+
+                        <y:prerequisite>Ceremonies of Thot</y:prerequisite>
 
                         <description>
                             <para>
