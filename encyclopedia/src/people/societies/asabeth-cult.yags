@@ -169,7 +169,7 @@
                             </skills>
 
                             <advantages>
-                                <advantage name="Valour" score="1" cost="+1"/>
+                                <advantage name="Valour" score="1" cost="1"/>
                                 <advantage name="Ferocity" score="2" cost="-3"/>
 
                                 <advantage name="Ceremonies of Asabeth" cost="2"
