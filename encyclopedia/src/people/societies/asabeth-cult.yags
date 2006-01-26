@@ -144,7 +144,7 @@
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="3"/>
                                     <skill name="Awareness" score="2"/>
-                                    <skill name="Brawl" score="4"/>
+                                    <skill name="Brawl" score="3"/>
                                     <skill name="Charm" score="2"/>
                                     <skill name="Guile" score="2"/>
                                     <skill name="Sleight" score="2"/>
@@ -159,8 +159,8 @@
                                 </group>
 
                                 <group name="Combat" type="skills">
-                                    <skill name="First weapon skill" score="4"/>
-                                    <skill name="Second weapon skill" score="2"/>
+                                    <skill name="Weapon and shield" score="4"/>
+                                    <skill name="Longshaft weapon" score="2"/>
                                 </group>
 
                                 <group name="Other" type="skills">
@@ -169,7 +169,7 @@
                             </skills>
 
                             <advantages>
-                                <advantage name="Valour" score="2" cost="3"/>
+                                <advantage name="Valour" score="1" cost="+1"/>
                                 <advantage name="Ferocity" score="2" cost="-3"/>
 
                                 <advantage name="Ceremonies of Asabeth" cost="2"
@@ -177,15 +177,17 @@
 
                                 <advantage name="Blessing of Blood" cost="1"
                                            skill="Religion (Rorn)"/>
-
-                                <advantage name="Rage of the Goddess" cost="3"
-                                           skill="Religion (Rorn)"/>
                             </advantages>
                         </statistics>
 
                         <equipment>
-                            <item name="Weapon"/>
+                            <cash amount="5d"/>
+                            <item name="Broadsword"/>
+                            <item name="Round shield"/>
                             <item name="Riding horse"/>
+                            <item name="Red cloak"/>
+                            <item name="Standard clothes"/>
+                            <item name="Soft leather armour"/>
                         </equipment>
                     </character>
                 </characters>
