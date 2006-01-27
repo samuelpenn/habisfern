@@ -153,11 +153,26 @@
                             <short>
                                 The Daughters of Neya are a religious cult
                                 who follow Neya, the Keeper of Oaths.
-                                Twinned with the Swords of Neya, the
-                                Daughters are the legal side of the cult,
-                                acting as judges, lawmasters and,
-                                occassionally, enforcers.
                             </short>
+
+                            <background>
+                                <para>
+                                    As a <e>Daughter of Neya</e> you are a
+                                    lawyer and investigator for the Cult
+                                    of Neya, and through them for the Queen.
+                                    Your duty is to act as a judge, and to
+                                    investigate crimes against the Kingdom.
+                                </para>
+
+                                <para>
+                                    Within the <e>Kingdom of Weidany</e>,
+                                    you have special Royal dispensation to
+                                    obtain goods, services and hospitality
+                                    at no cost. You are expected to use
+                                    this only for your immediate needs and
+                                    as required to carry out your duties.
+                                </para>
+                            </background>
                         </description>
 
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
@@ -182,17 +197,24 @@
                                 </group>
 
                                 <group name="Other" type="skills">
-                                    <skill name="Etiquette" score="3"/>
-                                    <skill name="Intimidation" score="3"/>
+                                    <skill name="Etiquette" score="2"/>
+                                    <skill name="Intimidation" score="4"/>
                                     <skill name="Longshaft weapon" score="2"/>
+                                    <skill name="Ride" score="1"/>
                                 </group>
                             </skills>
 
-                            <equipment>
-                                <item name="Good clothes"/>
-                                <item name="Staff"/>
-                            </equipment>
+                            <advantages>
+                                <advantage name="Ceremonies of Neya" cost="2"
+                                           skill="Religion (Rorn)"/>
+                            </advantages>
                         </statistics>
+
+                        <equipment>
+                            <item name="Good clothes"/>
+                            <item name="Staff"/>
+                            <item name="Riding horse"/>
+                        </equipment>
                     </character>
 
                     <character name="Silver Daughter">
@@ -204,15 +226,26 @@
                                 Neya who have skills and interests in
                                 trade and business.
                             </short>
+
+                            <background>
+                                <para>
+                                    Much of the power and wealth of the
+                                    Cult of Neya comes from their interest
+                                    in trade and taxes. As a <e>Silver
+                                    Daughter</e>, it is your duty to
+                                    investigate fraud, tax evasion and
+                                    other similar crimes.
+                                </para>
+                            </background>
                         </description>
 
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>
-                                    <skill name="Awareness" score="4"/>
+                                    <skill name="Awareness" score="3"/>
                                     <skill name="Brawl" score="2"/>
-                                    <skill name="Charm" score="4"/>
+                                    <skill name="Charm" score="3"/>
                                     <skill name="Guile" score="4"/>
                                     <skill name="Sleight" score="2"/>
                                     <skill name="Stealth" score="2"/>
@@ -222,7 +255,7 @@
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
-                                    <skill name="Law" score="3"/>
+                                    <skill name="Law" score="2"/>
                                     <skill name="Religion (Neya)" score="4"/>
                                 </group>
 
@@ -230,15 +263,16 @@
                                     <skill name="Etiquette" score="3"/>
                                     <skill name="Intimidation" score="2"/>
                                     <skill name="Trade" score="4"/>
-                                    <skill name="Longshaft weapon" score="1"/>
                                 </group>
                             </skills>
 
-                            <equipment>
-                                <item name="Good clothes"/>
-                                <item name="Staff"/>
-                            </equipment>
                         </statistics>
+
+                        <equipment>
+                            <cash amount="30d"/>
+                            <item name="Good clothes"/>
+                            <item name="Staff"/>
+                        </equipment>
                     </character>
                 </characters>
             </sect2>
