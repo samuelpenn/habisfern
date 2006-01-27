@@ -148,6 +148,8 @@
                 <characters role="package" title="Cult of Neya">
                     <character name="Daughter of Neya">
                         <description>
+                            <gender>Female</gender>
+                            <age>21</age>
                             <short>
                                 The Daughters of Neya are a religious cult
                                 who follow Neya, the Keeper of Oaths.
@@ -162,9 +164,9 @@
                             <skills>
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>
-                                    <skill name="Awareness" score="3"/>
+                                    <skill name="Awareness" score="2"/>
                                     <skill name="Brawl" score="2"/>
-                                    <skill name="Charm" score="3"/>
+                                    <skill name="Charm" score="2"/>
                                     <skill name="Guile" score="4"/>
                                     <skill name="Sleight" score="2"/>
                                     <skill name="Stealth" score="2"/>
@@ -176,7 +178,7 @@
                                     <skill name="Area lore" score="4"/>
                                     <skill name="Law" score="4"/>
                                     <skill name="Heraldry" score="2"/>
-                                    <skill name="Religion (Neya)" score="4"/>
+                                    <skill name="Religion (Rorn)" score="4"/>
                                 </group>
 
                                 <group name="Other" type="skills">
@@ -195,6 +197,8 @@
 
                     <character name="Silver Daughter">
                         <description>
+                            <gender>Female</gender>
+                            <age>21</age>
                             <short>
                                 The Silver Daughters are priestesses of
                                 Neya who have skills and interests in
