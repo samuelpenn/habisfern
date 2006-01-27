@@ -102,24 +102,9 @@
             </para>
 
             <sect2>
-                <title>Skills</title>
-
-                <y:skill-list>
-                    <y:skill name="Religion (Cult of Estror)" type="knowledge">
-                        <description>
-                            <para>
-                                Gives knowledge of the ideals, mythology and
-                                rituals of the Cult of Estror.
-                            </para>
-                        </description>
-                    </y:skill>
-                </y:skill-list>
-            </sect2>
-
-            <sect2>
                 <title>Packages</title>
 
-                <characters role="package" title="Cult of Estror">
+                <characters role="none" title="Cult of Estror">
                     <character name="Daughter of the Dawn">
                         <description>
                             <short>
@@ -197,6 +182,7 @@
                 </y:advantages>
             </sect2>
         </sect1>
+
     </body>
 </article>
 

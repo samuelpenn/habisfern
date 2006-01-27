@@ -129,6 +129,7 @@
 
                     <character name="Eye of the Raven">
                         <description>
+                            <age>18</age>
                             <short>
                                 Some followers of Thot take the role of
                                 messengers or scouts, ranging far in the
@@ -179,7 +180,7 @@
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
-                                    <skill name="Athletics" score="4"/>
+                                    <skill name="Athletics" score="2"/>
                                     <skill name="Awareness" score="4"/>
                                     <skill name="Brawl" score="2"/>
                                     <skill name="Charm" score="2"/>
@@ -227,6 +228,7 @@
 
                     <character name="Voice of the Raven">
                         <description>
+                            <age>18</age>
                             <short>
                                 Such followers of Thot are diplomats, spies
                                 or advisors, operating within the courts
@@ -276,12 +278,12 @@
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
                                     <skill name="Heraldry" score="2"/>
-                                    <skill name="Religion (Rorn)" score="4"/>
+                                    <skill name="Religion (Rorn)" score="3"/>
                                 </group>
 
                                 <group name="Other" type="skills">
                                     <skill name="Etiquette" score="2"/>
-                                    <skill name="Politics" score="4"/>
+                                    <skill name="Politics" score="3"/>
                                     <skill name="Streetwise" score="2"/>
                                 </group>
                             </skills>

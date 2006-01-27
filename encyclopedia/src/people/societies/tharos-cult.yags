@@ -169,6 +169,7 @@
 
                     <character name="Shadows of Tharos">
                         <description>
+                            <age>21</age>
                             <short>
                                 A follower of Tharos, who practises the
                                 philosophy of Gebetan. Membership of this
@@ -210,7 +211,7 @@
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
-                                    <skill name="Religion (Tharos)" score="4"/>
+                                    <skill name="Religion (Rorn)" score="2"/>
                                 </group>
 
                                 <group name="Combat" type="skills">

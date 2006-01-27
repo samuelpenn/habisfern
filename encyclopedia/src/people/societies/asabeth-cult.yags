@@ -116,6 +116,7 @@
                 <characters role="package" title="Asabeth Cultists">
                     <character name="Warrior Priestess of Asabeth">
                         <description>
+                            <gender>Female</gender>
                             <age>21</age>
                             <short>
                                 A Priestess of the goddess of war and

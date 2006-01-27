@@ -79,10 +79,10 @@
             <sect2>
                 <title>Characters</title>
 
-                <characters role="package" title="Gitriw Cultists">
+                <characters role="none" title="Priest of Gitriw">
                     <character name="Truth Speaker">
                         <description>
-                            <age>16</age>
+                            <age>18</age>
                             <short>
                                 A Priest of Gitriw Truth Speaker, who is
                                 geased to always speak the truth.
@@ -112,7 +112,7 @@
                             <skills>
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>
-                                    <skill name="Awareness" score="3"/>
+                                    <skill name="Awareness" score="2"/>
                                     <skill name="Brawl" score="2"/>
                                     <skill name="Charm" score="2"/>
                                     <skill name="Guile" score="4"/>
@@ -125,7 +125,7 @@
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
                                     <skill name="Religion (Rornic)" score="4"/>
-                                    <skill name="Law" score="4"/>
+                                    <skill name="Law" score="2"/>
                                 </group>
 
                                 <group name="Misc" type="skills">
@@ -139,10 +139,8 @@
                                            skill="Religion (Rorn)"/>
                                 <advantage name="Oath of truth" cost="1"
                                            skill="Religion (Rorn)"/>
-                                <advantage name="Trial of combat" cost="3"
-                                           skill="Religion (Rorn)"/>
 
-                                <advantage name="Terrible liar" score="-3"/>
+                                <advantage name="Major vow (never lie)" score="-3"/>
                             </advantages>
                         </statistics>
                     </character>
