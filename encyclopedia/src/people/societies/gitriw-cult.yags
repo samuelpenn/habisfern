@@ -77,21 +77,6 @@
             </para>
 
             <sect2>
-                <title>Skills</title>
-
-                <y:skill-list>
-                    <y:skill name="Religion (Cult of Gitriw)" type="knowledge">
-                        <description>
-                            <para>
-                                Gives knowledge specific to the ideals,
-                                mythology and rituals of the goddess Gitriw.
-                            </para>
-                        </description>
-                    </y:skill>
-                </y:skill-list>
-            </sect2>
-
-            <sect2>
                 <title>Characters</title>
 
                 <characters role="package" title="Gitriw Cultists">
@@ -144,22 +129,20 @@
                                 </group>
 
                                 <group name="Misc" type="skills">
-                                    <skill name="Etiquette" score="3"/>
-                                    <skill name="Dream lore" score="2"/>
-                                    <skill name="Politics" score="2"/>
-                                    <skill name="Intimidation" score="3"/>
+                                    <skill name="Etiquette" score="2"/>
+                                    <skill name="Dream lore" score="3"/>
                                 </group>
                             </skills>
 
                             <advantages>
-                                <advantage name="Ceremonies" cost="2"
+                                <advantage name="Ceremonies of Gitriw" cost="2"
                                            skill="Religion (Rorn)"/>
                                 <advantage name="Oath of truth" cost="1"
                                            skill="Religion (Rorn)"/>
                                 <advantage name="Trial of combat" cost="3"
                                            skill="Religion (Rorn)"/>
 
-                                <advantage name="Terrible liar"/>
+                                <advantage name="Terrible liar" score="-3"/>
                             </advantages>
                         </statistics>
                     </character>
@@ -184,6 +167,7 @@
                     <y:advantage name="Oath of truth" type="technique">
                         <y:cost points="1"/>
                         <y:skill name="Religion (Rornic)"/>
+                        <y:prerequisite>Ceremonies of Gitriw</y:prerequisite>
 
                         <description>
                             <para>
