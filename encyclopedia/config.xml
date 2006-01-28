@@ -161,6 +161,10 @@
             <category name="Merchants">
                 <title>Merchants and Bankers</title>
             </category>
+
+            <category name="Rogues">
+                <title>Rogues and Thieves</title>
+            </category>
         </category>
 
         <category name="Mythology">
