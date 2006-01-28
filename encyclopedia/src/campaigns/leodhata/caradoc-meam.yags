@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Caradoc of Meam</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2006</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="veilwood">Veilwood</subject>
+
+            <category>Merchants</category>>
+
+            <topic uri="leodhata">Leodhata</topic>
+            <topic uri="northwood-shire">Shire of Northwood</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Caradoc of Meam</title>
+
+            <para>
+                Located in the swampy parts of the Ceilwood is a small
+                village that had largely escaped the notice of the
+                outside world until the early part of 1229, when a group
+                of cultists of <qv uri="meam">Meam</qv>, led by Caradoc,
+                turned up and took over.
+            </para>
+
+            <sect2>
+                <title>The Village</title>
+
+                <para>
+                    The village has a population of about 80, and consists
+                    of fifteen small huts surrounded by a wooden wall about
+                    two metres tall. A few farms surround the village,
+                    though the farming is not good here and the village
+                    has always had problems supporting itself. However, it
+                    didn't have to pay taxes or take orders from anyone.
+                </para>
+
+                <para>
+                    The old reeve of the village was Hraldwulf, and his
+                    young wife Nia was taken by Caradoc for his own use
+                    and their eldest son was killed. His other sons were
+                    held hostage.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Caradoc and the Cultists</title>
+
+                <para>
+                    Caradoc led a small band of about a dozen outlaws
+                    who all followed him out of fear. He was a devout
+                    follower of Meam, and was cruel, vindictive and
+                    blood thirsty. On arrival at the village, they
+                    decided to make it their own, killing anyone who
+                    resisted and bullying the rest.
+                </para>
+
+                <para>
+                    When Caradoc arrived at the village he had under
+                    his power two trolls, which he governed using a
+                    knotted whip which had some enchantment he did
+                    not understand, though he had realised it allowed
+                    him to control trolls.
+                </para>
+
+                <para>
+                    Some months later, the group captured a couple of
+                    <qv uri="ents">Ents</qv> which they intended to use
+                    as sacrifices for their god. However, the whip is
+                    stolen by some bandits, and a few weeks later those
+                    the bandits had caused trouble for came looking for
+                    the source of the problem. Caradoc was slain and
+                    his cultists fled or were killed.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+
