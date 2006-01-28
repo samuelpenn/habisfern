@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Dengest of Aeddan</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Powerful thegn of the House of Aeddan</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2006</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="dengest-aeddan">Dengest</subject>
+
+            <category>Nobles</category>>
+
+            <topic uri="leodhata">Leodhata</topic>
+            <topic uri="northwood-shire">Northwood</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+
+    </header>
+
+    <body>
+        <sect1>
+            <title>Thegn Dengest</title>
+
+            <para>
+                Dengest is the lord of
+                <qv uri="derham-northwood">Derham</qv>, a hundred
+                town in <qv uri="northwood-shire">Northwood Shire</qv>.
+                He is probably the most powerful thegn of the
+                <qv uri="aeddan-house">House of Aeddan</qv> in that shire,
+                and has a lot of connections to powerful people.
+            </para>
+
+            <characters>
+                <character name="Thegn Dengest">
+                    <description>
+                        <gender>Male</gender>
+                        <age>45</age>
+                        <short>A powerful thegn.</short>
+
+                        <physical>
+                            <para>
+                                Dengest is a 45 year old man, tall but not
+                                heavily built. He has dark brown hair and
+                                a simple moustache.
+                            </para>
+                        </physical>
+
+                        <background>
+                            <para>
+                                Raised a warrior, Dengest settled down to
+                                a more sedate life in his early twenties.
+                                He has built up his lands through political
+                                intrigue, not military strength.
+                            </para>
+                        </background>
+                    </description>
+
+                    <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                        <attributes size="5" soak="12">
+                            <attribute name="strength" score="3"/>
+                            <attribute name="stamina" score="4"/>
+                            <attribute name="agility" score="3"/>
+                            <attribute name="dexterity" score="3"/>
+                            <attribute name="perception" score="3"/>
+                            <attribute name="intelligence" score="4"/>
+                            <attribute name="charisma" score="5"/>
+                            <attribute name="will" score="3"/>
+                        </attributes>
+
+                        <skills>
+                            <group name="Talents" type="talents">
+                                <skill name="Athletics" score="3"/>
+                                <skill name="Awareness" score="4"/>
+                                <skill name="Brawl" score="5"/>
+                                <skill name="Charm" score="5"/>
+                                <skill name="Guile" score="6"/>
+                                <skill name="Sleight" score="2"/>
+                                <skill name="Stealth" score="2"/>
+                                <skill name="Throw" score="3"/>
+                            </group>
+
+                            <group name="Knowledges" type="knowledges">
+                                <skill name="Area lore" score="6"/>
+                                <skill name="Speak Rornic" score="4"/>
+                                <skill name="Read Rornic" score="3"/>
+                                <skill name="Speak Brytish" score="2"/>
+                                <skill name="Religion (Rornic)" score="2"/>
+                            </group>
+
+                            <group name="Other" type="skills">
+                                <skill name="Tactics" score="5"/>
+                                <skill name="Weapon and shield" score="4"/>
+                                <skill name="Longshaft weapon" score="3"/>
+                                <skill name="Ride" score="3"/>
+                                <skill name="Hunting" score="4"/>
+                            </group>
+
+                            <group name="Politics" type="skills">
+                                <skill name="Trade" score="3"/>
+                                <skill name="Law" score="2"/>
+                                <skill name="Etiquette" score="4"/>
+                                <skill name="Politics" score="8"/>
+                                <skill name="Administration" score="6"/>
+                            </group>
+                        </skills>
+
+                        <traits>
+                            <trait name="Luck" score="1"/>
+                            <trait name="Ego" score="1"/>
+                        </traits>
+                    </statistics>
+                </character>
+            </characters>
+        </sect1>
+    </body>
+</article>
+
+
+

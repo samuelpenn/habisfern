@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Chettisham</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Hundred town in Northwood</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2006</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="chettisham-northwood">Chettisham</subject>
+
+            <category>Nobles</category>>
+
+            <topic uri="leodhata">Leodhata</topic>
+            <topic uri="northwood-shire">Northwood</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+
+    </header>
+
+    <body>
+        <sect1>
+            <title>Chettisham</title>
+
+            <para>
+                A hundred town in the
+                <qv uri="northwood-shire">Shire of Northwood</qv>, a couple
+                of leagues north of <qv uri="erlwood">Erlwood</qv>. It has a
+                population of about 450.
+            </para>
+
+            <sect2>
+                <title>Recent Events</title>
+
+                <para>
+                    Recently in 1229 <qv uri="riahannon-aeddan">Riahannon</qv>,
+                    a young woman of the House of Aeddan arrives to accuse
+                    <qv uri="aldwulf-aeswineson">Aldwulf of Erwin</qv> of the
+                    murder of her father, the Thegn of
+                    <qv uri="holham-northwood">Holham</qv>.
+                </para>
+
+                <para>
+                    Since it was the word of her and her cousin against that
+                    of Aldwulf, a trial by combat was arranged, in which
+                    Aldwulf was slain. His family was outlawed, and a
+                    wergild of twenty five pounds was awarded from the
+                    remains of his estate. Ten pounds was granted direct to
+                    Rhiannon as a future dowry, and fifteen to her family
+                    for the future running of Holham.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>People</title>
+
+                <para>
+                    The Lord of the town was Lord Aeswine of the
+                    <qv uri="erwin-house">House of Erwin</qv>. He was
+                    outlawed after his son Aldwulf murdered another thegn
+                    to avenge the killing of his brother Cuthwulf.
+                    Currently the priest Caelin and the reeve Godrun are
+                    running the town until a replacement thegn can be
+                    found.
+                </para>
+
+                <characters>
+                    <character name="Caelin">
+                        <description>
+                            <gender>Male</gender>
+                            <age>54</age>
+                            <short>A priest of Haltan.</short>
+
+                            <physical>
+                                <para>
+                                    Caelin is a tall brown haired man with
+                                    a rugged, well weathered look. His eyes
+                                    are dark grey, almost black, and he has
+                                    a loud voice.
+                                </para>
+                            </physical>
+
+                            <background>
+                                <para>
+                                    A Priest of Haltan for the village of
+                                    Chettisham. He is mostly well respected
+                                    in the community, though has the habit
+                                    of telling people that they are stupid
+                                    when they are, so he has made a few
+                                    enemies (mostly of stupid people).
+                                </para>
+
+                                <para>
+                                    He is married to Acha (who is 56), and
+                                    has had five children survive long enough
+                                    to grow up and find marriage elsewhere.
+                                    He gets on well with Godrun, but was a
+                                    close friend of Aeswine.
+                                </para>
+                            </background>
+                        </description>
+                    </character>
+
+                    <character name="Godrun the Reeve">
+                        <description>
+                            <gender>Female</gender>
+                            <age>45</age>
+                            <short>Reeve of the hundred</short>
+
+                            <physical>
+                                <para>
+                                    Godrun has long hair which was once dark
+                                    but which now is starting to grey. She
+                                    looks stern and humourless.
+                                </para>
+                            </physical>
+
+                            <background>
+                                <para>
+                                    Godrun became the reeve of the hundred
+                                    on the death of her husband three years
+                                    ago. She was trained as an accolyte of
+                                    Neya as a child, but decided not to
+                                    stay with the cult.
+                                </para>
+                            </background>
+                        </description>
+                    </character>
+                </characters>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+
+
