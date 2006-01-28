@@ -29,7 +29,7 @@
 
 
         <style name="module"/>
-        
+
         <references>
         </references>
 
@@ -45,15 +45,388 @@
         </topics>
 
     </header>
-    
+
     <body>
         <sect1>
             <title>Erlwood</title>
 
             <para>
                 Erlwood is the shire town of Northwood, in the Kingdom of
-                Weidany. It has a population of around 2,500.
+                Weidany. It has a population of around 2,500. It has
+                several temples, a stone keep and is an important market
+                town, being on the main overland trade route between
+                <qv uri="bryteland">Bryteland</qv> and central
+                <qv uri="weidany">Weidany</qv>.
             </para>
+
+            <para>
+                The lord of the town is Thegn Redwald of the
+                <qv uri="oswald-house">House of Oswald</qv>. He is an old
+                warrior, and now enjoys a comfortable life at Erlwood.
+                The Shire-reeve of <qv uri="northwood-shire">Northwood</qv>
+                is also based here. He is Eapwald Ricbertson.
+            </para>
+
+            <sect2>
+                <title>Politics</title>
+            </sect2>
+
+            <sect2>
+                <title>Temples and Shrines</title>
+
+                <sect3>
+                    <title>Temple of Haltan</title>
+
+                    <para>
+                        This is a simple temple of Haltan. There are three
+                        priests and four acolytes.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Shrine of Reas</title>
+
+                    <para>
+                        The Shrine of Reas is tended by two priests. The
+                        aspect of <e>Reas the Craftsman</e> is the focus
+                        of this shrine.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Temple of Neya</title>
+
+                    <para>
+                        The Temple of Neya is the main temple of this town.
+                        The bottom half is crafted from stone, with wood
+                        and thatch making up the upper story.
+                    </para>
+
+                    <para>
+                        The temple is run by the Silver Daughter Acha, and
+                        a second priestess, Cuthburh, is a Shield of Neya.
+                    </para>
+
+                    <para>
+                        There are also four acolytes - Sihrith (13),
+                        Hereswith (15), Beohild (16) and Adwen (16). The
+                        youngest of these was an orphan found wandering lost
+                        along the northern road by a merchant and his
+                        daughter ten years ago. She was named after the
+                        merchant's daughter.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Shrine of Estror</title>
+
+                    <para>
+                        There is a single priestess tending this shrine,
+                        and two acolytes.
+                    </para>
+                </sect3>
+            </sect2>
+
+            <sect2>
+                <title>Guards and Defence</title>
+            </sect2>
+
+            <sect2>
+                <title>Places of Note</title>
+
+                <sect3>
+                    <title>The Welcome Heart</title>
+
+                    <para>
+                        A large inn just outside the town walls to the
+                        south. It caters for caravans and merchants, and
+                        has several good quality rooms.
+                    </para>
+                </sect3>
+            </sect2>
+
+            <sect2>
+                <title>People</title>
+
+                <sect3>
+                    <title>Nobles</title>
+
+                    <characters>
+                        <character name="Thegn Redwald">
+                            <description>
+                                <gender>Male</gender>
+                                <age>52</age>
+                                <short>A frail old warrior.</short>
+                            </description>
+
+                            <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                                <attributes size="5" soak="12">
+                                    <attribute name="strength" score="2"/>
+                                    <attribute name="stamina" score="2"/>
+                                    <attribute name="agility" score="2"/>
+                                    <attribute name="dexterity" score="3"/>
+                                    <attribute name="perception" score="3"/>
+                                    <attribute name="intelligence" score="3"/>
+                                    <attribute name="charisma" score="4"/>
+                                    <attribute name="will" score="3"/>
+                                </attributes>
+
+                                <skills>
+                                    <group name="Talents" type="talents">
+                                        <skill name="Athletics" score="2"/>
+                                        <skill name="Awareness" score="4"/>
+                                        <skill name="Brawl" score="3"/>
+                                        <skill name="Charm" score="4"/>
+                                        <skill name="Guile" score="6"/>
+                                        <skill name="Sleight" score="2"/>
+                                        <skill name="Stealth" score="2"/>
+                                        <skill name="Throw" score="4"/>
+                                    </group>
+
+                                    <group name="Knowledges" type="knowledges">
+                                        <skill name="Area lore" score="5"/>
+                                        <skill name="Speak Rornic" score="4"/>
+                                        <skill name="Read Rornic" score="4"/>
+                                        <skill name="Speak Brytish" score="3"/>
+                                        <skill name="Religion (Rornic)" score="2"/>
+                                    </group>
+
+                                    <group name="Other" type="skills">
+                                        <skill name="Tactics" score="4"/>
+                                        <skill name="Weapon and shield" score="4"/>
+                                        <skill name="Ride" score="3"/>
+                                        <skill name="Hunting" score="2"/>
+                                        <skill name="Gambling" score="2"/>
+                                        <skill name="Gaming" score="6"/>
+                                    </group>
+
+                                    <group name="Politics" type="skills">
+                                        <skill name="Trade" score="5"/>
+                                        <skill name="Law" score="4"/>
+                                        <skill name="Etiquette" score="4"/>
+                                        <skill name="Politics" score="6"/>
+                                        <skill name="Administration" score="5"/>
+                                        <skill name="Perform" score="2"/>
+                                    </group>
+                                </skills>
+
+                                <advantages>
+                                    <advantage name="Luck" score="1"/>
+                                    <advantage name="Valour" score="1"/>
+                                    <advantage name="Gluttony" score="1"/>
+                                </advantages>
+                            </statistics>
+                        </character>
+
+
+                        <character name="Earpwald Ricbertson">
+                            <description>
+                                <gender>Male</gender>
+                                <age>61</age>
+                                <short>Shire-reeve of Northwood</short>
+                            </description>
+
+                            <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                                <attributes size="5" soak="12">
+                                    <attribute name="strength" score="3"/>
+                                    <attribute name="stamina" score="2"/>
+                                    <attribute name="agility" score="3"/>
+                                    <attribute name="dexterity" score="3"/>
+                                    <attribute name="perception" score="2"/>
+                                    <attribute name="intelligence" score="4"/>
+                                    <attribute name="charisma" score="4"/>
+                                    <attribute name="will" score="4"/>
+                                </attributes>
+
+                                <skills>
+                                    <group name="Talents" type="talents">
+                                        <skill name="Athletics" score="2"/>
+                                        <skill name="Awareness" score="3"/>
+                                        <skill name="Brawl" score="2"/>
+                                        <skill name="Charm" score="5"/>
+                                        <skill name="Guile" score="7"/>
+                                        <skill name="Sleight" score="2"/>
+                                        <skill name="Stealth" score="2"/>
+                                        <skill name="Throw" score="2"/>
+                                    </group>
+
+                                    <group name="Knowledges" type="knowledges">
+                                        <skill name="Area lore" score="6"/>
+                                        <skill name="Speak Rornic" score="4"/>
+                                        <skill name="Read Rornic" score="4"/>
+                                        <skill name="Speak Brytish" score="4"/>
+                                        <skill name="Read Brytish" score="2"/>
+                                        <skill name="Religion (Rornic)" score="2"/>
+                                    </group>
+
+                                    <group name="Combat" type="skills">
+                                        <skill name="Tactics" score="2"/>
+                                        <skill name="Single weapon" score="2"/>
+                                        <skill name="Ride" score="5"/>
+                                        <skill name="Hunting" score="4"/>
+                                    </group>
+
+                                    <group name="Politics" type="skills">
+                                        <skill name="Trade" score="3"/>
+                                        <skill name="Law" score="5"/>
+                                        <skill name="Etiquette" score="3"/>
+                                        <skill name="Politics" score="4"/>
+                                        <skill name="Administration" score="5"/>
+                                        <skill name="Intimidation" score="3"/>
+                                        <skill name="Gambling" score="3"/>
+                                        <skill name="Gaming" score="2"/>
+                                    </group>
+                                </skills>
+                            </statistics>
+                        </character>
+                    </characters>
+                </sect3>
+
+                <sect3>
+                    <title>Priests</title>
+
+                    <characters>
+                        <character name="Acha of Neya">
+                            <description>
+                                <gender>Female</gender>
+                                <age>42</age>
+                                <short>Silver Daughter of Neya</short>
+                            </description>
+
+                            <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                                <attributes size="5" soak="12">
+                                    <attribute name="strength" score="2"/>
+                                    <attribute name="stamina" score="2"/>
+                                    <attribute name="agility" score="3"/>
+                                    <attribute name="dexterity" score="3"/>
+                                    <attribute name="perception" score="2"/>
+                                    <attribute name="intelligence" score="4"/>
+                                    <attribute name="charisma" score="4"/>
+                                    <attribute name="will" score="2"/>
+                                </attributes>
+
+                                <skills>
+                                    <group name="Talents" type="talents">
+                                        <skill name="Athletics" score="3"/>
+                                        <skill name="Awareness" score="5"/>
+                                        <skill name="Brawl" score="3"/>
+                                        <skill name="Charm" score="6"/>
+                                        <skill name="Guile" score="5"/>
+                                        <skill name="Sleight" score="2"/>
+                                        <skill name="Stealth" score="2"/>
+                                        <skill name="Throw" score="2"/>
+                                    </group>
+
+                                    <group name="Knowledges" type="knowledges">
+                                        <skill name="Area lore" score="4"/>
+                                        <skill name="Speak Rornic" score="4"/>
+                                        <skill name="Read Rornic" score="4"/>
+                                        <skill name="Religion (Rornic)" score="6"/>
+                                    </group>
+
+                                    <group name="Other" type="skills">
+                                        <skill name="Law" score="4"/>
+                                        <skill name="Trade" score="5"/>
+                                        <skill name="Politics" score="3"/>
+                                        <skill name="Etiquette" score="2"/>
+                                        <skill name="Falconry" score="2"/>
+                                        <skill name="Gambling" score="2"/>
+                                    </group>
+                                </skills>
+
+                                <advantages>
+                                    <advantage name="Ceremonies of Neya" cost="2"
+                                               skill="Religion (Rorn)"/>
+                                    <advantage name="Aura of Authority" cost="4"
+                                               skill="Religion (Rorn)"/>
+                                    <advantage name="Oath of Neya" cost="4"
+                                               skill="Religion (Rorn)"/>
+                                </advantages>
+                            </statistics>
+                        </character>
+
+                        <character name="Cuthburh of Neya">
+                            <description>
+                                <gender>Female</gender>
+                                <age>27</age>
+                                <short>Silver Daughter of Neya</short>
+                            </description>
+
+                            <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                                <attributes size="5" soak="12">
+                                    <attribute name="strength" score="4"/>
+                                    <attribute name="stamina" score="3"/>
+                                    <attribute name="agility" score="4"/>
+                                    <attribute name="dexterity" score="3"/>
+                                    <attribute name="perception" score="3"/>
+                                    <attribute name="intelligence" score="3"/>
+                                    <attribute name="charisma" score="3"/>
+                                    <attribute name="will" score="2"/>
+                                </attributes>
+
+                                <skills>
+                                    <group name="Talents" type="talents">
+                                        <skill name="Athletics" score="5"/>
+                                        <skill name="Awareness" score="4"/>
+                                        <skill name="Brawl" score="4"/>
+                                        <skill name="Charm" score="3"/>
+                                        <skill name="Guile" score="2"/>
+                                        <skill name="Sleight" score="2"/>
+                                        <skill name="Stealth" score="3"/>
+                                        <skill name="Throw" score="2"/>
+                                    </group>
+
+                                    <group name="Knowledges" type="knowledges">
+                                        <skill name="Area lore" score="4"/>
+                                        <skill name="Speak Rornic" score="4"/>
+                                        <skill name="Read Rornic" score="4"/>
+                                        <skill name="Religion (Rornic)" score="4"/>
+                                    </group>
+
+                                    <group name="Combat">
+                                        <skill name="Tactics" score="2"/>
+                                        <skill name="Longshaft weapon" score="5"/>
+                                        <skill name="Single weapon" score="5"/>
+                                        <skill name="Weapon and shield" score="4"/>
+                                    </group>
+
+                                    <group name="Other" type="skills">
+                                        <skill name="Law" score="1"/>
+                                        <skill name="Trade" score="1"/>
+                                        <skill name="Etiquette" score="2"/>
+                                        <skill name="Intimidation" score="4"/>
+                                        <skill name="Falconry" score="1"/>
+                                    </group>
+                                </skills>
+
+                                <advantages>
+                                    <advantage name="Ceremonies of Neya" cost="2"
+                                               skill="Religion (Rorn)"/>
+                                    <advantage name="Aura of Authority" cost="4"
+                                               skill="Religion (Rorn)"/>
+                                    <advantage name="Oath of Neya" cost="4"
+                                               skill="Religion (Rorn)"/>
+                                </advantages>
+                            </statistics>
+                        </character>
+                    </characters>
+                </sect3>
+
+                <sect3>
+                    <title>Artists</title>
+
+                    <characters>
+                        <character name="Baric">
+                            <description>
+                                <gender>Male</gender>
+                                <age>29</age>
+
+                                <short>A handsome bard.</short>
+                            </description>
+                        </character>
+                    </characters>
+                </sect3>
+            </sect2>
         </sect1>
 
     </body>

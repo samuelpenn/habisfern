@@ -128,7 +128,7 @@
 
             <y:advantages role="background" title="House of Caewlin">
                 <y:advantage name="House of Caewlin" type="background">
-                    <y:cost points="5"/>
+                    <y:cost points="3"/>
 
                     <description>
                         <para>
@@ -176,7 +176,7 @@
                 </y:advantage>
 
                 <y:advantage name="Master of Intrigue" type="background">
-                    <y:cost points="3"/>
+                    <y:cost points="1"/>
                     <y:prerequisite>House of Caewlin</y:prerequisite>
 
                     <description>
@@ -191,7 +191,7 @@
                 </y:advantage>
 
                 <y:advantage name="Proud Parents" type="background">
-                    <y:cost points="3"/>
+                    <y:cost points="1"/>
                     <y:prerequisite>House of Caewlin</y:prerequisite>
 
                     <description>

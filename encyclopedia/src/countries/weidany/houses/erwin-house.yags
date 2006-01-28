@@ -294,7 +294,7 @@
                 <y:advantages role="background" title="House of Erwin">
 
                     <y:advantage name="House of Erwin" type="background">
-                        <y:cost points="5"/>
+                        <y:cost points="3"/>
 
                         <description>
                             <para>
@@ -307,7 +307,7 @@
                     </y:advantage>
 
                     <y:advantage name="Access to Wealth" type="background">
-                        <y:cost points="3"/>
+                        <y:cost points="1"/>
                         <y:prerequisite>House of Erwin</y:prerequisite>
 
                         <description>

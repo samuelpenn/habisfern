@@ -100,7 +100,7 @@
 
                 <y:advantages role="background" title="House of Gwern">
                     <y:advantage name="House of Gwern" type="background">
-                        <y:cost points="3"/>
+                        <y:cost points="1"/>
 
                         <description>
                             <para>

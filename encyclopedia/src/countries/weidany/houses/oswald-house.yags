@@ -95,23 +95,25 @@
 
                 <y:advantages role="background" title="House of Oswald">
                     <y:advantage name="House of Oswald" type="background">
-                        <y:cost points="5"/>
+                        <y:cost points="1"/>
 
                         <description>
                             <para>
                                 The character is a member of the great
-                                noble House of Oswald.
+                                noble House of Oswald. The House is known
+                                for its skill at magic, but also its love
+                                of wealth and comfort.
                             </para>
                         </description>
                     </y:advantage>
 
                     <y:advantage name="Strong at magic" type="advantage">
-                        <y:cost points="3"/>
+                        <y:cost points="1"/>
                         <y:prerequisite>House of Oswald</y:prerequisite>
 
                         <description>
                             <para>
-                                The House of Aeddan is noted for its members
+                                The House of Oswald is noted for its members
                                 exceptional ability with magic. Those who take this
                                 advantage gain +1 to intelligence when trying to
                                 learn a new Rune.

@@ -77,12 +77,14 @@
 
                 <y:advantages role="background" title="House of Merin">
                     <y:advantage name="House of Merin" type="background">
-                        <y:cost points="3"/>
+                        <y:cost points="1"/>
 
                         <description>
                             <para>
                                 The character is a member of the House of
-                                Merin.
+                                Merin, which is known for its conservative
+                                politics. Members of the House try to be
+                                friends with everyone.
                             </para>
                         </description>
                     </y:advantage>

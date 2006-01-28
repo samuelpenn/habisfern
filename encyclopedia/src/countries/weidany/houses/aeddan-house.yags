@@ -102,7 +102,7 @@
 
                 <y:advantages role="background" title="House of Aeddan">
                     <y:advantage name="House of Aeddan" type="background">
-                        <y:cost points="3"/>
+                        <y:cost points="1"/>
 
                         <description>
                             <para>
@@ -135,20 +135,6 @@
                                 exceptional ability with magic. Those who take this
                                 advantage gain +1 to intelligence when trying to
                                 learn a new Rune.
-                            </para>
-                        </description>
-                    </y:advantage>
-
-                    <y:advantage name="Second sight" type="advantage">
-                        <y:cost points="3"/>
-                        <y:prerequisite>House of Aeddan</y:prerequisite>
-
-                        <description>
-                            <para>
-                                As per the standard <e>Second Sight</e>
-                                advantage, except it only costs 3 points.
-                                Those of the bloodline of Aeddan have a
-                                reputation of being mystical.
                             </para>
                         </description>
                     </y:advantage>
