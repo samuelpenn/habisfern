@@ -78,6 +78,49 @@
                 crimes, but his wife <qv uri="sihrith-erlwood">Sihrith</qv>
                 was spared when she is married into Riahannon's family.
             </para>
+
+            <sect2>
+                <title>Family</title>
+
+                <characters>
+                    <character name="Aeswine">
+                        <description>
+                            <gender>Male</gender>
+                            <age>54</age>
+
+                            <short>Father, now outlawed.</short>
+                        </description>
+                    </character>
+
+                    <character name="Eodhild">
+                        <description>
+                            <gender>Female</gender>
+                            <age>48</age>
+
+                            <short>Mother, now outlawed.</short>
+                        </description>
+                    </character>
+
+                    <character name="Raedburh">
+                        <description>
+                            <gender>Female</gender>
+                            <age>28</age>
+
+                            <short>Widowed sister, now outlawed.</short>
+                        </description>
+                    </character>
+
+                    <character name="Cuthwulf">
+                        <description>
+                            <gender>Male</gender>
+                            <age>25</age>
+
+                            <short>Brother who started it all, now dead.</short>
+                        </description>
+                    </character>
+                </characters>
+
+            </sect2>
         </sect1>
     </body>
 </article>
