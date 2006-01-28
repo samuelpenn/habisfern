@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Black Toad Marsh</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Marsh in the Veilwood</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2006</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="black-toad-marsh">Black Toad Marsh</subject>
+
+            <category>Marshes</category>>
+
+            <topic uri="northwood-shire">Northwood</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+
+    </header>
+
+    <body>
+        <sect1>
+            <title>Black Toad Marsh</title>
+
+            <para>
+                This marsh, located in the western edge of the
+                <qv uri="veilwood">Veilwood</qv>, consists of a marshy
+                lake with an island in the middle. The lake isn't
+                particularly large - a couple of hundred metres long
+                by about fifty metres wide, but the marsh is considered
+                to be the sleeping place of some forgotton Power.
+            </para>
+
+            <para>
+                Upon the island is the remains of a wooden hut, and
+                the shores of it is circled with wooden stakes which
+                have human skulls atop them and a few bits of faded
+                cloth tied to them. It is possibly the remanents of
+                some form of worship or black magic.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+
