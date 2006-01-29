@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Valad sah Humi</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2006</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="veilwood">Veilwood</subject>
+
+            <category>Warriors</category>>
+
+            <topic uri="leodhata">Leodhata</topic>
+            <topic uri="northwood-shire">Shire of Northwood</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Valad sah Humi</title>
+
+            <para>
+                An <qv uri="ent">Ent</qv> who was captured by a group of
+                <qv uri="meam">Meam Cultists</qv> led by a outlaw named
+                <qv uri="caradoc-meam">Caradoc</qv>. He was rescued after
+                the cultists were killed or driven off, and he gave his
+                soul stone to one of his rescuers,
+                <qv uri="riahannon-aeddan">Riahannon</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
