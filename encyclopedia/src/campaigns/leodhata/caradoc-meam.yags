@@ -30,6 +30,8 @@
         <style name="module"/>
 
         <references>
+            <see uri="valad-sah-humi">Valad sah Humi</see>
+            <see uri="meam">Cult of Meam</see>
         </references>
 
         <topics>
