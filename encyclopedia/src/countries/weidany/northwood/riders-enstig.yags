@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Riders of King Enstig</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Spirits of cursed warriors</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2006</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="cairn-hills">Cairn Hills</subject>
+
+            <category>Spirits</category>>
+
+            <topic uri="northwood-shire">Northwood</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+
+    </header>
+
+    <body>
+        <sect1>
+            <title>Riders of King Enstig</title>
+
+            <para>
+                In the <qv uri="cairn-hills">Cairn Hills</qv> are sometimes
+                seen ghostly huscurls riding as if for battle. Some have
+                also said of seeing horsemen of flesh and blood, who have
+                thundered past then vanished as if into a mist. Whether
+                these riders are incorporeal, or can take on physical form
+                is unknown.
+            </para>
+
+            <para>
+                The <e>riders</e> are thought to be the cursed men of
+                King Enstig of the Hill, a powerful lord who, 300 years
+                ago, made a deal with an <qv uri="elf">Elf King</qv>
+                for power and a wife of unearthly beauty. His influence
+                grew over many years, but his interest in riding and
+                battle grew whilst his interest in his wife wained. One
+                morning he returned from a night's riding to find his
+                wife in the arms of another. He struck her, and she
+                cursed him to never leave his horse for as long as he
+                lived. Since then he and his men have ridden on hunts
+                in the Cairn Hills, never setting foot on the ground.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+
