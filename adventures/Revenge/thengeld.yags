@@ -83,6 +83,46 @@
             </para>
 
             <sect2>
+                <title>Backplot</title>
+
+                <para>
+                    Cannedd is a powerful Druid in southern Danuch. He is
+                    planning on becoming Arch Druid real soon. He needs
+                    support for this, and requires something to win
+                    over the warriors who may support him. For this, he
+                    wants some of the items made by the old Druidic
+                    smiths, one of these being <e>Persecutor</e>.
+                </para>
+
+                <para>
+                    He has delegated charge of finding <e>Persecutor</e> to
+                    his daughter, Leith. She put out contacts asking amongst
+                    the Bards. She finally tracked it down to Holeham.
+                </para>
+
+                <para>
+                    She had a dream: Two warriors sacrificed to a red haird
+                    goddess who drank from their souls. The goddess drew a
+                    sword from their bodies and with it pierced the body
+                    of a dragon.
+                </para>
+
+                <para>
+                    Her interpretation: The sacrifice of warriors is
+                    needed to activate the red haired goddess. The sword is
+                    <e>Persecutor</e>, the dragon is the Waezgerat. Kill
+                    her brothers and she will wield the sword for the
+                    Druids.
+                </para>
+
+                <para>
+                    She sent a dream to a Druid based in Bryteland called
+                    Gellir.
+                </para>
+            </sect2>
+
+
+            <sect2>
                 <title>Characters</title>
 
                 <characters>
@@ -520,6 +560,64 @@
                             </background>
                         </description>
                     </character>
+
+                    <character name="Leith">
+                        <description>
+                            <gender>Female</gender>
+                            <age>25</age>
+                            <short>
+                                Druidic prophet, daughter of Cannedd.
+                            </short>
+
+                            <physical>
+                                <para>
+                                    She is a beautiful woman with long dark
+                                    hair. She is slim and pale skinned.
+                                </para>
+                            </physical>
+
+                        </description>
+
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                            <attributes size="5" soak="12">
+                                <attribute name="strength" score="2"/>
+                                <attribute name="stamina" score="2"/>
+                                <attribute name="agility" score="3"/>
+                                <attribute name="dexterity" score="3"/>
+                                <attribute name="perception" score="4"/>
+                                <attribute name="intelligence" score="3"/>
+                                <attribute name="charisma" score="4"/>
+                                <attribute name="will" score="4"/>
+                            </attributes>
+
+                            <skills>
+                                <group name="Talents" type="talents">
+                                    <skill name="Athletics" score="2"/>
+                                    <skill name="Awareness" score="4"/>
+                                    <skill name="Brawl" score="2"/>
+                                    <skill name="Charm" score="6"/>
+                                    <skill name="Guile" score="6"/>
+                                    <skill name="Sleight" score="2"/>
+                                    <skill name="Stealth" score="2"/>
+                                    <skill name="Throw" score="2"/>
+                                </group>
+
+                                <group name="Knowledges" type="knowledges">
+                                    <skill name="Area lore (Danuch)" score="4"/>
+                                    <skill name="Speak Danuch" score="4"/>
+                                    <skill name="Religion (Druids)" score="6"/>
+                                </group>
+
+                            </skills>
+
+                            <advantages>
+                                <advantage name="Beautiful"/>
+                                <advantage name="Prophet"/>
+                            </advantages>
+                        </statistics>
+                    </character>
+
+
                 </characters>
             </sect2>
         </sect1>
