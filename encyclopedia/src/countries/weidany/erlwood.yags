@@ -67,8 +67,28 @@
                 is also based here. He is Eapwald Ricbertson.
             </para>
 
+            <para>
+                The town has been built up on a small hill, it's sides
+                protected by a ditch and wooden wall. The keep stands
+                on the highest point at the northeastern end of the
+                walled town, and their are several clusters of buildings
+                built up around other high points on the hill. To the
+                south, there is a loose sprawl of houses, inns and
+                outbuildings. These are actually where some of the
+                wealthiest members of the town live.
+            </para>
+
             <sect2>
                 <title>Politics</title>
+
+                <para>
+                    The town is run by the Thegn, and the loyalty of the
+                    huscurls to him ensures that his control of the town
+                    is quite tight. The Shire-reeve, though he has a say
+                    in the running of the shire (and, more importantly,
+                    the collection of taxes), does not have much control
+                    over the town itself.
+                </para>
             </sect2>
 
             <sect2>
@@ -157,6 +177,16 @@
                         has several good quality rooms.
                     </para>
                 </sect3>
+
+                <sect3>
+                    <title>The Keep</title>
+
+                    <para>
+                        A small stone keep with three floors. The huscurls
+                        live here, and there is a stables and a smithy
+                        just outside the keep gate.
+                    </para>
+                </sect3>
             </sect2>
 
             <sect2>
@@ -238,6 +268,14 @@
                                 <gender>Male</gender>
                                 <age>61</age>
                                 <short>Shire-reeve of Northwood</short>
+
+                                <background>
+                                    <para>
+                                        Known as Earpwald Two-Fisted, because
+                                        of the way he keeps hold of everything
+                                        of worth, especially money.
+                                    </para>
+                                </background>
                             </description>
 
                             <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
