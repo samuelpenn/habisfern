@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Reeve</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Administrator of a Hundred.</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2006</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+            <see uri="weidany">Kingdom of Weidany</see>
+            <see uri="hundred">Hundred</see>
+            <see uri="hundred-town">Hundred Town</see>
+        </references>
+
+        <topics>
+            <subject uri="hundred">Reeve</subject>
+
+            <category>Glossary</category>>
+
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+
+    </header>
+
+    <body>
+        <sect1>
+            <title>Reeves</title>
+
+            <para>
+                In the Kingdom of Weidany, a Reeve is appointed by the
+                Queen to administer a <qv uri="hundred">Hundred</qv> in
+                her name. They are often the most senior person in
+                the Hundred Town, though this will vary according to
+                competency and popularity.
+            </para>
+
+            <para>
+                The duties of a Reeve is to act as a Judge in the
+                Queen's Court, collect taxes and act as a balance to
+                the power of the Thegns. In reality, it is the thegns
+                who control the warriors, and so if it comes down to
+                a big disagreement, the thegn will normally get their
+                way. A respected and competent thegn (or simply one
+                with a lot of powerful friends) can often get away
+                with doing this.
+            </para>
+
+            <para>
+                The split of responsibility between reeves and thegns
+                can sometimes be complicated. Generally, a thegn is
+                responsible for legal affairs on their own manor,
+                whilst a reeve will handle disputes between manors,
+                between thegns, and where a freeman has a dispute
+                with their thegn, or wishes to challenge the ruling
+                of a thegn.
+            </para>
+        </sect1>
+    </body>
+</article>
+
