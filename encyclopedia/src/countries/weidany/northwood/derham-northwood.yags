@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Chettisham</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>Hundred town in Northwood</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2006</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="derham-northwood">Derham</subject>
+
+            <category>Towns</category>>
+
+            <topic uri="leodhata">Leodhata</topic>
+            <topic uri="northwood-shire">Northwood</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+
+    </header>
+
+    <body>
+        <sect1>
+            <title>Derham</title>
+
+            <para>
+                Derham is a <qv uri="hundred-town">hundred town</qv> in the
+                <qv uri="northwood-shire">Shire of Northwood</qv>. It's
+                lord is <qv uri="dengest-aeddan">Thegn Dengest</qv>.
+                It is most notable for its <e>Stone Princess</e>, a four
+                metre tall stone block carved very crudly into the shape
+                of a woman.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+

@@ -36,7 +36,7 @@
         <topics>
             <subject uri="chettisham-northwood">Chettisham</subject>
 
-            <category>Nobles</category>>
+            <category>Towns</category>>
 
             <topic uri="leodhata">Leodhata</topic>
             <topic uri="northwood-shire">Northwood</topic>
@@ -52,7 +52,7 @@
             <title>Chettisham</title>
 
             <para>
-                A hundred town in the
+                A <qv uri="hundred-town">hundred town</qv> in the
                 <qv uri="northwood-shire">Shire of Northwood</qv>, a couple
                 of leagues north of <qv uri="erlwood">Erlwood</qv>. It has a
                 population of about 450.
