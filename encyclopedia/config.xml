@@ -165,6 +165,10 @@
             <category name="Rogues">
                 <title>Rogues and Thieves</title>
             </category>
+
+            <category name="Bards">
+                <title>Bards and Other Performers</title>
+            </category>
         </category>
 
         <category name="Mythology">
@@ -221,6 +225,10 @@
             <category name="Magic">
                 <title>Magic</title>
             </category>
+        </category>
+
+        <category name="Glossary">
+            <title>Glossary of Miscellaneous Terms</title>
         </category>
     </categories>
 
