@@ -34,7 +34,7 @@
         </references>
 
         <topics>
-            <subject uri="cairn-hills">Cairn Hills</subject>
+            <subject uri="cairnhills">Cairn Hills</subject>
 
             <category>Spirits</category>>
 
@@ -71,6 +71,11 @@
                 cursed him to never leave his horse for as long as he
                 lived. Since then he and his men have ridden on hunts
                 in the Cairn Hills, never setting foot on the ground.
+            </para>
+
+            <para>
+                The Riders are reported about every 10 years. The King
+                is sometimes known as King Enstig Longhair.
             </para>
         </sect1>
     </body>
