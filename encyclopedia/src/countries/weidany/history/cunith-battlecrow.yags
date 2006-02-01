@@ -102,7 +102,7 @@
                     <traits>
                         <trait name="Valour" score="3"/>
                         <trait name="Lust" score="2"/>
-                        <trait name="Ferocity" score="2"/>
+                        <trait name="Ferocity" score="4"/>
                     </traits>
 
                     <skills>
@@ -131,12 +131,13 @@
                         </group>
 
                         <group name="Combat" type="skills">
-                            <skill name="Battle" score="6"/>
+                            <skill name="Tactics" score="6"/>
                             <skill name="Longshaft weapon" score="14"/>
                             <skill name="Great weapon" score="11"/>
-                            <skill name="Weapon and shield" score="11"/>
+                            <skill name="Weapon and shield" score="7"/>
                             <skill name="Single weapon" score="9"/>
                             <skill name="Two weapons" score="6"/>
+                            <skill name="Bow" score="5"/>
                         </group>
 
                         <group name="Other" type="skills">
@@ -147,7 +148,62 @@
                     </skills>
 
                     <advantages>
-                        <advantage name="Combat reflexes" skill="Melee" cost="2"/>
+                        <advantage name="Graceful"/>
+                        <advantage name="Reflexes"/>
+                        <advantage name="Wyrd"/>
+
+                        <advantage name="Ambush" cost="2"
+                                   skill="Stealth"/>
+                        <advantage name="Combat ambush" cost="4"
+                                   skill="Stealth"/>
+                        <advantage name="Blind fighting" cost="4"
+                                   skill="Awareness"/>
+
+                        <advantage name="Hard to kill" cost="2"
+                                   skill="Brawl"/>
+                        <advantage name="Tough" cost="4"
+                                   skill="Brawl"/>
+
+                        <advantage name="Cleave" cost="2"
+                                   skill="Great weapon"/>
+                        <advantage name="Great blow" cost="4"
+                                   skill="Great weapon"/>
+                        <advantage name="Mighty blow" cost="6"
+                                   skill="Great weapon"/>
+
+                        <advantage name="Combat reflexes" cost="2"
+                                   skill="Melee"/>
+                        <advantage name="Reflex dodge" cost="4"
+                                   skill="Melee"/>
+                        <advantage name="Skilled strike" cost="6"
+                                   skill="Melee"/>
+                        <advantage name="Deadly strike" cost="6"
+                                   skill="Melee"/>
+                        <advantage name="Unstoppable attack" cost="8"
+                                   skill="Melee"/>
+                        <advantage name="Double attack" cost="10"
+                                   skill="Melee"/>
+                        <advantage name="Careful defence" cost="12"
+                                   skill="Melee"/>
+
+                        <advantage name="Shield wall" cost="2"
+                                   skill="Weapon and shield"/>
+                        <advantage name="Shield bash" cost="4"
+                                   skill="Weapon and shield"/>
+                        <advantage name="Shielded attack" cost="6"
+                                   skill="Weapon and shield"/>
+
+                        <advantage name="Spearman" cost="2"
+                                   skill="Longshaft weapon"/>
+                        <advantage name="Sweep attack" cost="4"
+                                   skill="Longshaft weapon"/>
+                        <advantage name="Defensive reach" cost="6"
+                                   skill="Longshaft weapon"/>
+                        <advantage name="Deadly reach" cost="8"
+                                   skill="Longshaft weapon"/>
+                        <advantage name="Impaling attack" cost="10"
+                                   skill="Longshaft weapon"/>
+
 
                         <advantage name="Aura of authority" cost="4"
                                    skill="Religion (Neya)"/>
