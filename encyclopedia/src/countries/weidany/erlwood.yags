@@ -148,6 +148,21 @@
             </sect2>
 
             <sect2>
+                <title>Craftsmen</title>
+
+                <para>
+                    There are a number of blacksmiths, weaponsmiths and
+                    armourers in the town, for it supplies much of the
+                    Shire with arms and armour.
+                </para>
+
+                <para>
+                    There are two skilled blacksmiths, two highly skilled
+                    weaponsmiths and an armourer.
+                </para>
+            </sect2>
+
+            <sect2>
                 <title>Guards and Defence</title>
 
                 <para>
@@ -402,6 +417,21 @@
                                 <gender>Female</gender>
                                 <age>27</age>
                                 <short>Silver Daughter of Neya</short>
+
+                                <background>
+                                    <para>
+                                        Cuthburh helps manage the day to day
+                                        running of the temple. When she can,
+                                        she enjoys being able to leave the
+                                        town and enjoy the wild, for she loves
+                                        riding and falconry.
+                                    </para>
+
+                                    <para>
+                                        She has a falcon named Sable of whom
+                                        she is very fond.
+                                    </para>
+                                </background>
                             </description>
 
                             <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
@@ -447,7 +477,11 @@
                                         <skill name="Trade" score="1"/>
                                         <skill name="Etiquette" score="2"/>
                                         <skill name="Intimidation" score="4"/>
-                                        <skill name="Falconry" score="1"/>
+                                        <skill name="Falconry" score="4"/>
+                                        <skill name="Survival" score="2"/>
+                                        <skill name="Ride" score="3"/>
+                                        <skill name="Swim" score="2"/>
+                                        <skill name="Hunting" score="2"/>
                                     </group>
                                 </skills>
 
@@ -459,6 +493,69 @@
                                     <advantage name="Oath of Neya" cost="4"
                                                skill="Religion (Rorn)"/>
                                 </advantages>
+                            </statistics>
+                        </character>
+                    </characters>
+                </sect3>
+
+                <sect3>
+                    <title>Merchants</title>
+
+                    <characters>
+                        <character name="Llywel">
+                            <description>
+                                <gender>Male</gender>
+                                <age>37</age>
+                                <short>Dark haired, weasly fellow.</short>
+
+                                <background>
+                                    <para>
+                                        A trader who runs caravans down to
+                                        Stowell, mostly through the Teal
+                                        Valley. Deals in some wines and
+                                        quality pottery, but mostly dyed
+                                        cloth and wool.
+                                    </para>
+                                </background>
+                            </description>
+
+                            <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                                <attributes size="4" soak="12">
+                                    <attribute name="strength" score="2"/>
+                                    <attribute name="stamina" score="2"/>
+                                    <attribute name="agility" score="2"/>
+                                    <attribute name="dexterity" score="3"/>
+                                    <attribute name="perception" score="3"/>
+                                    <attribute name="intelligence" score="3"/>
+                                    <attribute name="charisma" score="3"/>
+                                    <attribute name="will" score="4"/>
+                                </attributes>
+
+                                <skills>
+                                    <group name="Talents" type="talents">
+                                        <skill name="Athletics" score="2"/>
+                                        <skill name="Awareness" score="4"/>
+                                        <skill name="Brawl" score="2"/>
+                                        <skill name="Charm" score="3"/>
+                                        <skill name="Guile" score="7"/>
+                                        <skill name="Sleight" score="3"/>
+                                        <skill name="Stealth" score="2"/>
+                                        <skill name="Throw" score="2"/>
+                                    </group>
+
+                                    <group name="Knowledges" type="knowledges">
+                                        <skill name="Area lore" score="4"/>
+                                        <skill name="Speak Rornic" score="4"/>
+                                        <skill name="Read Rornic" score="4"/>
+                                    </group>
+
+                                    <group name="Other" type="skills">
+                                        <skill name="Law" score="1"/>
+                                        <skill name="Trade" score="6"/>
+                                        <skill name="Etiquette" score="2"/>
+                                        <skill name="Ride" score="2"/>
+                                    </group>
+                                </skills>
                             </statistics>
                         </character>
                     </characters>
