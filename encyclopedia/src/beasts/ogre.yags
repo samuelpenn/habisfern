@@ -49,20 +49,20 @@
             <title>Ogre</title>
 
             <para>
-                Ogres are mutant crossbreads of men and monstrous beasts. 
-                They are also known as the Children of Meam for they 
+                Ogres are mutant crossbreads of men and monstrous beasts.
+                They are also known as the Children of Meam for they
                 have his looks and demeanor.
             </para>
 
             <para>
-                Ogres tend to be large and strong, more so than 
-                Trolls in some cases. However, they are slow 
-                witted, violent and ugly. Unlike Trolls, they can 
+                Ogres tend to be large and strong, more so than
+                Trolls in some cases. However, they are slow
+                witted, violent and ugly. Unlike Trolls, they can
                 understand and speak the languages of man.
             </para>
 
             <para>
-                Their actual appearance can vary greatly, from an 
+                Their actual appearance can vary greatly, from an
                 oversized and misshapen human, to a gorilla like
                 beast the size of an elephant.
             </para>
@@ -103,7 +103,7 @@
                     <attribute name="dexterity" score="2"/>
                     <attribute name="perception" score="3"/>
                     <attribute name="intelligence" score="1"/>
-                    <attribute name="charisma" score="1"/>
+                    <attribute name="empathy" score="1"/>
                     <attribute name="will" score="2"/>
                 </attributes>
 

@@ -105,12 +105,12 @@
                     <attributes size="5" soak="12">
                         <attribute name="strength" score="5"/>
                         <attribute name="stamina" score="4"/>
-                        <attribute name="agility" score="3"/>
+                        <attribute name="agility" score="4"/>
                         <attribute name="dexterity" score="5"/>
                         <attribute name="perception" score="3"/>
-                        <attribute name="intelligence" score="3"/>
-                        <attribute name="charisma" score="5"/>
-                        <attribute name="will" score="5"/>
+                        <attribute name="intelligence" score="4"/>
+                        <attribute name="empathy" score="3"/>
+                        <attribute name="will" score="3"/>
                     </attributes>
 
                     <traits>

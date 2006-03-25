@@ -95,7 +95,7 @@
                         <attribute name="dexterity" score="7"/>
                         <attribute name="perception" score="3"/>
                         <attribute name="intelligence" score="3"/>
-                        <attribute name="charisma" score="4"/>
+                        <attribute name="empathy" score="4"/>
                         <attribute name="will" score="5"/>
                     </attributes>
 

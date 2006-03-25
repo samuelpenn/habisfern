@@ -47,20 +47,20 @@
     <body>
         <sect1>
             <title>Madog Erwin</title>
-            
+
             <para>
                 Ealdorman Madog of the House of Erwin has a wife,  Elwin,
-                and four children. He lives at 
+                and four children. He lives at
                 <qv uri="abbyton">Abbyton</qv> and rarely leaves.
             </para>
-            
+
             <para>
                 His household consists of his wife and children, and also
                 his sister in law, Plegwin, who has the gift of sight,
                 though who has become blind to the normal world during
                 her old age.
             </para>
-            
+
             <character name="Ealdorman Madog Erwin">
                 <description>
                     <gender>Male</gender>
@@ -75,7 +75,7 @@
                             not very fit.
                         </para>
                     </physical>
-                    
+
                     <background>
                         <para>
                             Madog's father, Cadwallon, married into the
@@ -90,7 +90,7 @@
                         </para>
                     </background>
                 </description>
-                
+
                 <statistics ruleset="yags">
                     <attributes size="5" soak="12">
                         <attribute name="strength" score="3"/>
@@ -99,10 +99,10 @@
                         <attribute name="dexterity" score="3"/>
                         <attribute name="perception" score="3"/>
                         <attribute name="intelligence" score="4"/>
-                        <attribute name="charisma" score="4"/>
+                        <attribute name="empathy" score="4"/>
                         <attribute name="will" score="4"/>
                     </attributes>
-                    
+
                     <skills>
                         <group name="Talents" type="talents">
                             <skill name="Athletics" score="2"/>
@@ -114,7 +114,7 @@
                             <skill name="Stealth" score="2"/>
                             <skill name="Throw" score="3"/>
                         </group>
-            
+
                         <group name="Knowledges" type="knowledges">
                             <skill name="Speak Rornic" score="4"/>
                             <skill name="Area lore (Weidany)" score="6"/>
@@ -127,7 +127,7 @@
                             <skill name="Politics" score="8"/>
                             <skill name="Trade" score="2"/>
                         </group>
-            
+
                         <group name="Other" type="skills">
                             <skill name="Game (Hnefatafl)" score="7"/>
                             <skill name="Weapon and shield" score="3"/>
@@ -135,7 +135,7 @@
                             <skill name="Hunting" score="4"/>
                         </group>
                     </skills>
-                    
+
                     <advantages>
                         <advantage name="Appearance" score="+1"/>
                         <advantage name="House of Erwin"/>
@@ -162,7 +162,7 @@
                             dressed, often in greens or whites.
                         </para>
                     </physical>
-                    
+
                     <background>
                         <para>
                             Elwin is the wife of Madog Erwin, and behaves
@@ -174,7 +174,7 @@
                         </para>
                     </background>
                 </description>
-                
+
                 <statistics ruleset="yags">
                     <attributes size="5" soak="12">
                         <attribute name="strength" score="2"/>
@@ -183,10 +183,10 @@
                         <attribute name="dexterity" score="4"/>
                         <attribute name="perception" score="3"/>
                         <attribute name="intelligence" score="5"/>
-                        <attribute name="charisma" score="4"/>
+                        <attribute name="empathy" score="4"/>
                         <attribute name="will" score="4"/>
                     </attributes>
-                    
+
                     <skills>
                         <group name="Talents" type="talents">
                             <skill name="Athletics" score="2"/>
@@ -198,7 +198,7 @@
                             <skill name="Stealth" score="3"/>
                             <skill name="Throw" score="2"/>
                         </group>
-            
+
                         <group name="Knowledges" type="knowledges">
                             <skill name="Speak Rornic" score="4"/>
                             <skill name="Area lore (Weidany)" score="7"/>
@@ -213,20 +213,20 @@
                             <skill name="Trade" score="3"/>
                             <skill name="Seneschel" score="4"/>
                         </group>
-            
+
                         <group name="Other" type="skills">
                             <skill name="Ride" score="3"/>
                             <skill name="Falconry" score="4"/>
                         </group>
                     </skills>
-                    
+
                     <advantages>
                         <advantage name="Unusual appearance"/>
                         <advantage name="House of Erwin"/>
                     </advantages>
                 </statistics>
             </character>
-                            
+
         </sect1>
     </body>
 </article>

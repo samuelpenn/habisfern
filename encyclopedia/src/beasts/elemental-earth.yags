@@ -140,7 +140,7 @@
                             <attribute name="dexterity" score="2"/>
                             <attribute name="perception" score="2"/>
                             <attribute name="intelligence" score="*"/>
-                            <attribute name="charisma" score="1"/>
+                            <attribute name="empathy" score="1"/>
                             <attribute name="will" score="2"/>
                         </attributes>
 
@@ -215,7 +215,7 @@
                             <attribute name="dexterity" score="2"/>
                             <attribute name="perception" score="2"/>
                             <attribute name="intelligence" score="*"/>
-                            <attribute name="charisma" score="1"/>
+                            <attribute name="empathy" score="1"/>
                             <attribute name="will" score="3"/>
                         </attributes>
 
@@ -291,7 +291,7 @@
                             <attribute name="dexterity" score="1"/>
                             <attribute name="perception" score="2"/>
                             <attribute name="intelligence" score="*"/>
-                            <attribute name="charisma" score="1"/>
+                            <attribute name="empathy" score="1"/>
                             <attribute name="will" score="4"/>
                         </attributes>
 
@@ -365,7 +365,7 @@
                             <attribute name="dexterity" score="1"/>
                             <attribute name="perception" score="2"/>
                             <attribute name="intelligence" score="*"/>
-                            <attribute name="charisma" score="1"/>
+                            <attribute name="empathy" score="1"/>
                             <attribute name="will" score="5"/>
                         </attributes>
 

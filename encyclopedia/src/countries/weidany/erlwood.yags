@@ -226,7 +226,7 @@
                                     <attribute name="dexterity" score="3"/>
                                     <attribute name="perception" score="3"/>
                                     <attribute name="intelligence" score="3"/>
-                                    <attribute name="charisma" score="4"/>
+                                    <attribute name="empathy" score="4"/>
                                     <attribute name="will" score="3"/>
                                 </attributes>
 
@@ -301,7 +301,7 @@
                                     <attribute name="dexterity" score="3"/>
                                     <attribute name="perception" score="2"/>
                                     <attribute name="intelligence" score="4"/>
-                                    <attribute name="charisma" score="4"/>
+                                    <attribute name="empathy" score="4"/>
                                     <attribute name="will" score="4"/>
                                 </attributes>
 
@@ -368,7 +368,7 @@
                                     <attribute name="dexterity" score="3"/>
                                     <attribute name="perception" score="2"/>
                                     <attribute name="intelligence" score="4"/>
-                                    <attribute name="charisma" score="4"/>
+                                    <attribute name="empathy" score="4"/>
                                     <attribute name="will" score="2"/>
                                 </attributes>
 
@@ -442,7 +442,7 @@
                                     <attribute name="dexterity" score="3"/>
                                     <attribute name="perception" score="3"/>
                                     <attribute name="intelligence" score="3"/>
-                                    <attribute name="charisma" score="3"/>
+                                    <attribute name="empathy" score="3"/>
                                     <attribute name="will" score="2"/>
                                 </attributes>
 
@@ -527,7 +527,7 @@
                                     <attribute name="dexterity" score="3"/>
                                     <attribute name="perception" score="3"/>
                                     <attribute name="intelligence" score="3"/>
-                                    <attribute name="charisma" score="3"/>
+                                    <attribute name="empathy" score="3"/>
                                     <attribute name="will" score="4"/>
                                 </attributes>
 

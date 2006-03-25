@@ -58,28 +58,28 @@
                 <information>
                     <type>Elemental</type>
                     <demeanor>Selfish</demeanor>
-        
+
                     <habitat climate="Warm" terrain="Forest"
                              frequency="Very rare"/>
-        
+
                     <organisation group="Solitary" number="1"/>
-        
+
                     <origin>Habisfern</origin>
                     <genre>Fantasy</genre>
                 </information>
-        
+
                 <description>
                     <short>
                         Beautiful female woodland spirits.
                     </short>
-        
+
                     <physical>
                         <para>
                             Very pretty.
                         </para>
                     </physical>
                 </description>
-        
+
                 <attributes size="5" soak="12">
                     <attribute name="strength" score="4"/>
                     <attribute name="stamina" score="5"/>
@@ -87,10 +87,10 @@
                     <attribute name="dexterity" score="5"/>
                     <attribute name="perception" score="5"/>
                     <attribute name="intelligence" score="3"/>
-                    <attribute name="charisma" score="5"/>
+                    <attribute name="empathy" score="5"/>
                     <attribute name="will" score="5"/>
                 </attributes>
-        
+
                 <skills>
                     <group name="Talents" type="talents">
                         <skill name="Athletics" score="4"/>
@@ -102,21 +102,21 @@
                         <skill name="Stealth" score="9"/>
                         <skill name="Throw" score="3"/>
                     </group>
-        
+
                     <group name="Misc" type="skills">
                         <skill name="Herb lore" score="6"/>
                         <skill name="Beast lore" score="6"/>
                         <skill name="Seduction" score="9"/>
                     </group>
                 </skills>
-        
+
                 <passions>
                     <passion name="Bravery" score="4"/>
                     <passion name="Ego" score="6"/>
                     <passion name="Restraint" score="4"/>
                     <passion name="Temperance" score="3"/>
                 </passions>
-        
+
                 <advantages>
                     <advantage name="Beautiful" score="+3"/>
                 </advantages>
