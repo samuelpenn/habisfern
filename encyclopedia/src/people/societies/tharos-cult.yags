@@ -328,7 +328,7 @@
                                 to the <e>total number</e> of fatigue
                                 gained (not the excess). If this takes the
                                 character to fatal level or beyond, then a
-                                stamina check must be made to remain alive.
+                                health check must be made to remain alive.
                             </para>
                         </description>
                     </y:advantage>

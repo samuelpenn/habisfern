@@ -98,7 +98,7 @@
 
                 <attributes size="10" soak="15">
                     <attribute name="strength" score="15" half="7"/>
-                    <attribute name="stamina" score="5"/>
+                    <attribute name="health" score="5"/>
                     <attribute name="agility" score="2"/>
                     <attribute name="dexterity" score="2"/>
                     <attribute name="perception" score="3"/>

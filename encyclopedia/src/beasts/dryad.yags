@@ -82,7 +82,7 @@
 
                 <attributes size="5" soak="12">
                     <attribute name="strength" score="4"/>
-                    <attribute name="stamina" score="5"/>
+                    <attribute name="health" score="5"/>
                     <attribute name="agility" score="5"/>
                     <attribute name="dexterity" score="5"/>
                     <attribute name="perception" score="5"/>

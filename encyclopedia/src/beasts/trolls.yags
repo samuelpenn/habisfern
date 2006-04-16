@@ -184,7 +184,7 @@
                     <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                         <attributes size="7" soak="15">
                             <attribute name="strength" score="7" half="5"/>
-                            <attribute name="stamina" score="4"/>
+                            <attribute name="health" score="4"/>
                             <attribute name="agility" score="3"/>
                             <attribute name="dexterity" score="2"/>
                             <attribute name="perception" score="4"/>
@@ -266,7 +266,7 @@
                     <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                         <attributes size="7" soak="15">
                             <attribute name="strength" score="8" half="5"/>
-                            <attribute name="stamina" score="4"/>
+                            <attribute name="health" score="4"/>
                             <attribute name="agility" score="3"/>
                             <attribute name="dexterity" score="2"/>
                             <attribute name="perception" score="4"/>

@@ -135,7 +135,7 @@
                     <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                         <attributes size="2" soak="10">
                             <attribute name="strength" score="1"/>
-                            <attribute name="stamina" score="5"/>
+                            <attribute name="health" score="5"/>
                             <attribute name="agility" score="4"/>
                             <attribute name="dexterity" score="2"/>
                             <attribute name="perception" score="2"/>
@@ -210,7 +210,7 @@
                     <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                         <attributes size="4" soak="15">
                             <attribute name="strength" score="3"/>
-                            <attribute name="stamina" score="6"/>
+                            <attribute name="health" score="6"/>
                             <attribute name="agility" score="2"/>
                             <attribute name="dexterity" score="2"/>
                             <attribute name="perception" score="2"/>
@@ -286,7 +286,7 @@
                     <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                         <attributes size="6" soak="20">
                             <attribute name="strength" score="6"/>
-                            <attribute name="stamina" score="7"/>
+                            <attribute name="health" score="7"/>
                             <attribute name="agility" score="2"/>
                             <attribute name="dexterity" score="1"/>
                             <attribute name="perception" score="2"/>
@@ -360,7 +360,7 @@
                     <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                         <attributes size="9" soak="30">
                             <attribute name="strength" score="10" half="7"/>
-                            <attribute name="stamina" score="8"/>
+                            <attribute name="health" score="8"/>
                             <attribute name="agility" score="1"/>
                             <attribute name="dexterity" score="1"/>
                             <attribute name="perception" score="2"/>

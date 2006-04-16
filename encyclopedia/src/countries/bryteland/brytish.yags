@@ -194,7 +194,7 @@
 
                                 <item target="3 or less" value="No bonuses."/>
 
-                                <item target="4-5" value="Fear and stamina checks.">
+                                <item target="4-5" value="Fear and health checks.">
                                     Reduce all wound, stun and fatigue
                                     penalties by one level.
                                 </item>
