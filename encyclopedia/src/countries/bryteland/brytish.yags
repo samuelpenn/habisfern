@@ -263,6 +263,120 @@
                     </y:advantage>
                 </y:advantages>
             </sect2>
+
+            <sect2>
+                <title>Packages</title>
+
+                <characters role="package" title="Brytish">
+                    <character name="Skald">
+                        <description>
+                            <age>21</age>
+                            <gender>Male</gender>
+
+                            <short>A brytish lore master and poet.</short>
+
+                            <background>
+                                <para>
+                                    Skalds are the Brytish equivalent of
+                                    Bards. They are loremasters first,
+                                    entertainers second. They are greatly
+                                    respected by the Brytish, and always
+                                    shown good hospitality.
+                                </para>
+
+                                <para>
+                                    Skalds are always male. Women who wish
+                                    to take up such pursuits join the
+                                    <e>Sisterhood of Jorda</e>.
+                                </para>
+                            </background>
+                        </description>
+
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                            <skills>
+                                <group name="Talents" type="talents">
+                                    <skill name="Athletics" score="2"/>
+                                    <skill name="Awareness" score="2"/>
+                                    <skill name="Brawl" score="2"/>
+                                    <skill name="Charm" score="3"/>
+                                    <skill name="Guile" score="2"/>
+                                    <skill name="Sleight" score="2"/>
+                                    <skill name="Stealth" score="2"/>
+                                    <skill name="Throw" score="2"/>
+                                </group>
+
+                                <group name="Knowledges" type="knowledges">
+                                    <skill name="Speak own" score="4"/>
+                                    <skill name="Area lore" score="4"/>
+                                    <skill name="Law" score="4"/>
+                                    <skill name="Legend lore" score="3"/>
+                                    <skill name="Faerie lore" score="3"/>
+                                </group>
+
+                                <group name="Social" type="skills">
+                                    <skill name="Perform" score="4"/>
+                                    <skill name="Etiquette" score="2"/>
+                                </group>
+
+                                <group name="Magic" type="skills">
+                                    <skill name="Spirit" score="2"/>
+                                </group>
+                            </skills>
+                        </statistics>
+                    </character>
+
+                    <character name="Berserker">
+                        <description>
+                            <age>16</age>
+
+                            <short>Half crazed warriors..</short>
+
+                            <background>
+                                <para>
+                                    The berserkers are a feared breed of
+                                    warrior found in Bryteland.
+                                </para>
+                            </background>
+                        </description>
+
+                        <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                            <skills>
+                                <group name="Talents" type="talents">
+                                    <skill name="Athletics" score="3"/>
+                                    <skill name="Awareness" score="3"/>
+                                    <skill name="Brawl" score="4"/>
+                                    <skill name="Charm" score="2"/>
+                                    <skill name="Guile" score="2"/>
+                                    <skill name="Sleight" score="2"/>
+                                    <skill name="Stealth" score="2"/>
+                                    <skill name="Throw" score="4"/>
+                                </group>
+
+                                <group name="Knowledges" type="knowledges">
+                                    <skill name="Speak own" score="4"/>
+                                    <skill name="Area lore" score="4"/>
+                                </group>
+
+                                <group name="Combat" type="skills">
+                                    <skill name="Great weapon" cost="4"/>
+                                    <skill name="Weapon and shield" cost="4"/>
+                                    <skill name="Single weapon" cost="2"/>
+                                </group>
+                            </skills>
+
+                            <advantages>
+                                <advantage name="Berserker" cost="5"/>
+                                <advantage name="Valorous" score="2" cost="3"/>
+                                <advantage name="Bloodlust" score="2" cost="-3"/>
+                                <advantage name="Lustful" score="1" cost="-1"/>
+                                <advantage name="Gluttony" score="1" cost="-1"/>
+
+                                <advantage name="Combat reflexes"
+                                           skill="Melee" cost="2"/>
+                            </advantages>
+                        </statistics>
+                    </character>
+               </characters>
         </sect1>
 
     </body>
