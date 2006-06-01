@@ -271,7 +271,7 @@
                     <y:advantage name="Lord of Authority" type="technique">
                         <y:cost points="1"/>
                         <y:skill name="Religion (Rornic)"/>
-                        <y:prequisite>Ceremonies of Haltan</y:prerequisite>
+                        <y:prerequisite>Ceremonies of Haltan</y:prerequisite>
 
                         <description>
                             <para>
