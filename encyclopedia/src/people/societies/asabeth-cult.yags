@@ -145,11 +145,11 @@
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="3"/>
                                     <skill name="Awareness" score="2"/>
-                                    <skill name="Brawl" score="3"/>
+                                    <skill name="Brawl" score="4"/>
                                     <skill name="Charm" score="2"/>
                                     <skill name="Guile" score="2"/>
                                     <skill name="Sleight" score="2"/>
-                                    <skill name="Stealth" score="2"/>
+                                    <skill name="Stealth" score="3"/>
                                     <skill name="Throw" score="3"/>
                                 </group>
 
@@ -161,7 +161,7 @@
 
                                 <group name="Combat" type="skills">
                                     <skill name="Weapon and shield" score="4"/>
-                                    <skill name="Longshaft weapon" score="2"/>
+                                    <skill name="Longshaft weapon" score="4"/>
                                 </group>
 
                                 <group name="Other" type="skills">
@@ -170,8 +170,10 @@
                             </skills>
 
                             <advantages>
+                                <advantage name="Good attribute (dexterity)"/>
                                 <advantage name="Valour" score="1" cost="1"/>
                                 <advantage name="Ferocity" score="2" cost="-3"/>
+                                <advantage name="Indulgent" score="1" cost="-1"/>
                                 <advantage name="Minor vow" cost="-1"/>
 
                                 <advantage name="Ceremonies of Asabeth" cost="2"
@@ -223,8 +225,8 @@
 
                         <description>
                             <para>
-                                Knowledge of the rituals and ceremonies of
-                                the cults of Asabeth.
+                                You have been indoctrinated in the ceremonies
+                                and rituals of the Cult of Asabeth.
                             </para>
                         </description>
                     </y:advantage>
@@ -232,15 +234,31 @@
                     <y:advantage name="Blessing of Blood" type="technique">
                         <y:cost points="1"/>
                         <y:skill name="Religion (Rorn)"/>
+                        <y:prerequisite>Ceremonies of Asabeth</y:prerequisite>
 
                         <description>
                             <para>
-                                Painting their exposed body with blood,a cultist
-                                gains the life force of the Goddess, giving
-                                them a bonus to initiative, fear checks and
-                                health checks. A priestess may use her own
-                                blood, but the blood of another, especially
-                                a sacrificed enemy is most desired. Automatic.
+                                As a priestess of Asabeth, you gain power
+                                from blood. By painting your exposed skin
+                                with blood you gain a bonus to initiative,
+                                health and fear checks. This bonus applies
+                                automatically whilst you are so decorated.
+                            </para>
+
+                            <para>
+                                The base bonus is equal to your <e>religion</e>
+                                score, and assumes that all your body is
+                                exposed and painted (i.e., no clothing or
+                                armour is being worn). If only your face,
+                                arms and legs are exposed, then the bonus is
+                                halved.
+                            </para>
+
+                            <para>
+                                The blood can be yours, or another's. If it
+                                is from an enemy sacrificed in a ritual
+                                dedicated to Asabeth, then the bonus is
+                                increased by 50%.
                             </para>
 
                             <para>
@@ -258,11 +276,12 @@
 
                         <description>
                             <para>
-                                When in battle and adorned with blood, the
-                                strength of the goddess fills the warrior
-                                with bloodthirsty glee. All wound, stun
-                                and fatigue penalties are reduced by the
-                                religion score of the goddess. Automatic.
+                                When you are in battle and adorned with
+                                blood, the strength of your goddess fills
+                                you with bloodthirsty glee. All penalties
+                                due to wounds, stuns and fatigue are
+                                reduced by double your blood bonus.
+                                Automatic.
                             </para>
                         </description>
                     </y:advantage>
@@ -281,11 +300,21 @@
                             </para>
 
                             <para>
-                                This ritual is similar to the Brytish Berserker
-                                advantage, except the bonus is equal to the
-                                priestesses religion score rather than brawl.
-                                Berserker does not stack with
-                                <e>Blessing of Blood</e>, but replaces it.
+                                You may add the lowest two of <e>Ferocity</e>,
+                                <e>Valour</e>, <e>Lust</e> and
+                                <e>Indulgence</e> traits to your blood
+                                bonus. Your blood bonus also adds to damage
+                                and attack rolls whilst berserk.
+                            </para>
+
+                            <para>
+                                Whilst berserking, you may not retreat from
+                                combat and may not fight defensive. After
+                                the battle is finished, if there are allies
+                                within range who are not also priestesses
+                                of Asabeth, then you must make a will check
+                                at a target of 10 to not attack them (your
+                                will is modified by your ferocity).
                             </para>
                         </description>
                     </y:advantage>
@@ -305,32 +334,12 @@
                             </para>
 
                             <para>
-                                <e>Armour of Blood</e> involves the painting
-                                the body in human blood - normally that of a
-                                sacrificed enemy. The ritual infuses the
-                                priestess with the strength of her goddess,
-                                providing protection against physical harm.
-                                A priestess may use her own blood if none
-                                other is at hand.
-                            </para>
-
-                            <para>
-                                If the priestess puts all her faith in her
-                                goddess, and wears nothing but the blood of
-                                her enemy, then she gains a soak bonus equal
-                                to her religion score. If she wears some
-                                clothing which leaves her arms, legs and
-                                face bare, then she gets half this. Any more
-                                clothing and all bonuses are lost.
-                            </para>
-
-                            <para>
-                                In any case, the priestess always gains the
-                                bonus given by <e>Blessing of Blood</e>, if
-                                it is known. Priestesses clad only in blood
-                                also add their religion score to the
-                                difficulty of any bravery checks made by
-                                foes.
+                                When going into battle clad in blood, you
+                                gain a bonus to your soak equal to your
+                                blood bonus. The first time an enemy strikes
+                                you, if they do no damage then they must
+                                make a valour check against a target of 20
+                                or be <e>shaken</e>.
                             </para>
                         </description>
                     </y:advantage>
@@ -348,37 +357,6 @@
                                 weapon skill to one other. Who the bonus is
                                 given to is decided at the beginning of the
                                 round, but usage is otherwise automatic.
-                            </para>
-                        </description>
-                    </y:advantage>
-
-                    <y:advantage name="Strength of the Goddess" type="technique">
-                        <y:cost points="7"/>
-                        <y:skill name="Religion (Rorn)"/>
-                        <y:prerequisite>Sisters in Arms</y:prerequisite>
-
-                        <description>
-                            <para>
-                                Can be used as a combat technique, giving
-                                +1 to strength for purposes of damage. The
-                                priestess cries out to Asabeth when making
-                                the strike.
-                            </para>
-                        </description>
-                    </y:advantage>
-
-                    <y:advantage name="Shield of the Goddess" type="technique">
-                        <y:cost points="9"/>
-                        <y:skill name="Religion (Rorn)"/>
-                        <y:prerequisite>Strength of the Goddess</y:prerequisite>
-
-                        <description>
-                            <para>
-                                Knowledge of how to deflect and absorb
-                                blows by quick movement gives a +5 bonus
-                                to any soak rolls made that round. If used
-                                in a round, then other non-automatic
-                                techniques cannot be used.
                             </para>
                         </description>
                     </y:advantage>

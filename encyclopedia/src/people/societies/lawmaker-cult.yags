@@ -72,12 +72,21 @@
                 <title>Cultists</title>
 
                 <para>
-                    Members of the cult come from the nobility,
-                    normally those sons not expecting to receive any
-                    land. Those of age 21 and above, who are in good
-                    standing with the law, and who proven themselves in
-                    campaign are considered for acceptence. All potential
-                    novices must be literate.
+                    There are two types of cultists in the Order, those
+                    who have been part of it since an early age and those
+                    who have joined later in life after proving their
+                    worth. The former make up the bulk of the membership,
+                    and tend to be the most dedicated to the letter of
+                    the Law, and fill most of the administrative roles.
+                </para>
+
+                <para>
+                    Though in theory the Order is open to both men and
+                    women, no women have been accepted into the Order for
+                    the last 100 years. This is partially in response to
+                    the growing strength of the
+                    <qv uri="neya-daughters">Cult of Neya</qv> who are
+                    female only.
                 </para>
 
                 <para>
@@ -137,24 +146,20 @@
             <title>Membership</title>
 
             <para>
-                Members of the cult are able to learn the following skills.
+                Membership of the Cult of the Lawmaker is open to warrior
+                freemen who have proven themselves to be able to stand up
+                to the ideals of the Cult. This requires bravery, loyalty
+                and knowledge of the Law.
             </para>
 
-            <sect2>
-                <title>Skills</title>
-
-                <y:skill-list>
-                    <y:skill name="Religion (Haltan)" type="knowledge">
-                        <description>
-                            <para>
-                                Gives knowledge of the ideals, mythology and
-                                rituals of the Cult of the Law Maker, the
-                                religious cult of Haltan.
-                            </para>
-                        </description>
-                    </y:skill>
-                </y:skill-list>
-            </sect2>
+            <para>
+                Your membership is first petitioned by a Senior Brother,
+                and if seconded by a second Senior Brother then membership
+                is granted. Generally the second will be decided before
+                hand, and may require an interview to prove that you are
+                worthy. It is generally expected that the first petitioner
+                will have first hand experience of your suitability.
+            </para>
 
             <sect2>
                 <title>Packages</title>
@@ -216,16 +221,21 @@
                                 </group>
                             </skills>
 
-                            <equipment>
-                                <item name="Good clothes"/>
-                                <item name="Broad sword"/>
-                                <item name="Round shield"/>
-                                <item name="Soft leather jacket"/>
-                                <item name="Soft leather trousers"/>
-                                <item name="Chain hauberk"/>
-                                <item name="Riding horse"/>
-                            </equipment>
+                            <advantages>
+                                <advantage name="Good attribute (Strength)"/>
+                                <advantage name="Good attribute (Dexterity)"/>
+                            </advantages>
                         </statistics>
+
+                        <equipment>
+                            <item name="Good clothes"/>
+                            <item name="Broad sword"/>
+                            <item name="Round shield"/>
+                            <item name="Soft leather jacket"/>
+                            <item name="Soft leather trousers"/>
+                            <item name="Chain hauberk"/>
+                            <item name="Riding horse"/>
+                        </equipment>
                     </character>
                 </characters>
             </sect2>
@@ -241,9 +251,27 @@
                 </para>
 
                 <y:advantages role="technique" title="Rituals of the Lawmaker">
-                    <y:advantage name="Aura of Authority" type="technique">
-                        <y:cost points="3"/>
-                        <y:skill name="Religion (Haltan)"/>
+
+                    <y:advantage name="Ceremonies of Haltan" type="technique">
+                        <y:cost points="2"/>
+                        <y:skill name="Religion (Rornic)"/>
+
+                        <y:short>Ceremonies and Rituals of Cult of Haltan.</y:short>
+
+                        <description>
+                            <para>
+                                Teaches the basic ceremonies, rituals and
+                                beliefs of the Cult of Haltan the Law Maker.
+                                This is required before any priest of Haltan
+                                will teach you further knowledges of the cult.
+                            </para>
+                        </description>
+                    </y:advantage>
+
+                    <y:advantage name="Lord of Authority" type="technique">
+                        <y:cost points="1"/>
+                        <y:skill name="Religion (Rornic)"/>
+                        <y:prequisite>Ceremonies of Haltan</y:prerequisite>
 
                         <description>
                             <para>
@@ -256,10 +284,10 @@
                         </description>
                     </y:advantage>
 
-                    <y:advantage name="Trial of Combat" type="technique">
+                    <y:advantage name="Lord of Justice" type="technique">
                         <y:cost points="5"/>
                         <y:skill name="Religion (Haltan)"/>
-                        <y:prerequisite>Aura of Authority</y:prerequisite>
+                        <y:prerequisite>Lord of Authority</y:prerequisite>
 
                         <description>
                             <para>
