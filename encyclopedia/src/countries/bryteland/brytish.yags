@@ -325,6 +325,11 @@
                                     <skill name="Spirit" score="2"/>
                                 </group>
                             </skills>
+
+                            <advantages>
+                                <advantage name="Good attribute (Intelligence)"/>
+                                <advantage name="Poor attribute (Agility)"/>
+                            </advantages>
                         </statistics>
                     </character>
 
@@ -361,13 +366,16 @@
                                 </group>
 
                                 <group name="Combat" type="skills">
-                                    <skill name="Great weapon" cost="4"/>
-                                    <skill name="Weapon and shield" cost="4"/>
-                                    <skill name="Single weapon" cost="2"/>
+                                    <skill name="Great weapon" score="4"/>
+                                    <skill name="Weapon and shield" score="4"/>
+                                    <skill name="Single weapon" score="2"/>
                                 </group>
                             </skills>
 
                             <advantages>
+                                <advantage name="Good attribute (Strength)"/>
+                                <advantage name="Poor attrite (Will)"/>
+
                                 <advantage name="Berserker" cost="5"/>
                                 <advantage name="Valorous" score="2" cost="3"/>
                                 <advantage name="Bloodlust" score="2" cost="-3"/>
@@ -388,9 +396,17 @@
 
                             <background>
                                 <para>
+                                    The coastal settlements of Bryteland,
+                                    especially the western isles, are a
+                                    source of raiders and pirates who make
+                                    a living plundering the coast and ships
+                                    of southern lands.
+                                </para>
 
-                                    The berserkers are a feared breed of
-                                    warrior found in Bryteland.
+                                <para>
+                                    As a Viking, you have a reputation of
+                                    being a fearless warrior who believes
+                                    that might is right.
                                 </para>
                             </background>
                         </description>
@@ -398,13 +414,13 @@
                         <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                             <skills>
                                 <group name="Talents" type="talents">
-                                    <skill name="Athletics" score="3"/>
+                                    <skill name="Athletics" score="2"/>
                                     <skill name="Awareness" score="3"/>
-                                    <skill name="Brawl" score="4"/>
+                                    <skill name="Brawl" score="3"/>
                                     <skill name="Charm" score="2"/>
                                     <skill name="Guile" score="2"/>
                                     <skill name="Sleight" score="2"/>
-                                    <skill name="Stealth" score="2"/>
+                                    <skill name="Stealth" score="3"/>
                                     <skill name="Throw" score="4"/>
                                 </group>
 
@@ -414,21 +430,25 @@
                                 </group>
 
                                 <group name="Combat" type="skills">
-                                    <skill name="Great weapon" cost="4"/>
-                                    <skill name="Weapon and shield" cost="4"/>
-                                    <skill name="Single weapon" cost="2"/>
+                                    <skill name="Weapon and shield" score="4"/>
+                                    <skill name="Longshaft weapon" score="2"/>
+                                </group>
+
+                                <group name="Viking" type="skills">
+                                    <skill name="Boating" score="4"/>
+                                    <skill name="Navigation" score="2"/>
+                                    <skill name="Survival (Coastal)" score="2"/>
+                                    <skill name="Swim" score="2"/>
                                 </group>
                             </skills>
 
                             <advantages>
-                                <advantage name="Berserker" cost="5"/>
+                                <advantage name="Good attribute (Strength)"/>
+                                <advantage name="Poor attribute (Empathy)"/>
+
                                 <advantage name="Valorous" score="2" cost="3"/>
-                                <advantage name="Bloodlust" score="2" cost="-3"/>
                                 <advantage name="Lustful" score="1" cost="-1"/>
                                 <advantage name="Gluttony" score="1" cost="-1"/>
-
-                                <advantage name="Combat reflexes"
-                                           skill="Melee" cost="2"/>
                             </advantages>
                         </statistics>
                     </character>
