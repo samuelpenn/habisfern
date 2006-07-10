@@ -37,7 +37,7 @@
         <topics>
             <subject uri="cunith-battlecrow">Cunith Battlecrow</subject>
 
-            <category>People</category>>
+            <category>Priests</category>>
 
             <topic uri="weidany">Weidany</topic>
             <topic uri="euressa">Euressa</topic>
@@ -89,11 +89,11 @@
 
                 <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
                     <attributes size="5" soak="12">
-                        <attribute name="strength" score="4"/>
+                        <attribute name="strength" score="5"/>
                         <attribute name="health" score="5"/>
-                        <attribute name="agility" score="5"/>
+                        <attribute name="agility" score="6"/>
                         <attribute name="dexterity" score="7"/>
-                        <attribute name="perception" score="3"/>
+                        <attribute name="perception" score="4"/>
                         <attribute name="intelligence" score="3"/>
                         <attribute name="empathy" score="4"/>
                         <attribute name="will" score="5"/>

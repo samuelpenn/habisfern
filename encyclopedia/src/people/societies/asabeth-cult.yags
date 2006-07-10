@@ -95,6 +95,36 @@
                 There is currently only one temple of the cult remaining,
                 in <qv uri="red-goddess-house">northern Scarondy</qv>.
             </para>
+
+            <sect2>
+                <title>History</title>
+
+                <para>
+                    The Cult first appeared some years before the
+                    <qv uri="betrayal">Betrayal</qv>, and rose to
+                    prominence with the aid of the
+                    <qv uri="lawmaker-cult">Cult of Haltan</qv>
+                    when together they tuned on the priests of
+                    Rorn and burned down the
+                    <qv uri="white-city">White City</qv>.
+                </para>
+
+                <para>
+                    It has been at the centre of several all-women
+                    warrior cults over the centuries, but was
+                    almost totally wiped out after the night of
+                    the <qv uri="blood-moon-night">Blood Moon</qv>
+                    when the head of the order,
+                    <qv uri="cunith-battlecrow">Cunith Battlecrow</qv>
+                    stages a coup against the Queen of Weidany.
+                    For a while, the cult was hunted down and its
+                    temples burnt and women killed. Though it was
+                    never officially outlawed, by the time the
+                    killing had stopped very few Cultists remained
+                    and their numbers have fallen over the last
+                    thirty years.
+                </para>
+            </sect2>
         </sect1>
 
         <sect1>
@@ -170,9 +200,11 @@
                             </skills>
 
                             <advantages>
-                                <advantage name="Good attribute (dexterity)"/>
-                                <advantage name="Valour" score="1" cost="1"/>
-                                <advantage name="Ferocity" score="2" cost="-3"/>
+                                <advantage name="Good attribute (Dexterity)"/>
+                                <advantage name="Poor attribute (Empathy)"/>
+
+                                <advantage name="Valorous" score="1" cost="1"/>
+                                <advantage name="Blood list" score="2" cost="-3"/>
                                 <advantage name="Indulgent" score="1" cost="-1"/>
                                 <advantage name="Minor vow" cost="-1"/>
 
@@ -226,7 +258,9 @@
                         <description>
                             <para>
                                 You have been indoctrinated in the ceremonies
-                                and rituals of the Cult of Asabeth.
+                                and rituals of the Cult of Asabeth. This
+                                provides the knowledge required to learn
+                                the other techniques of the Cult.
                             </para>
                         </description>
                     </y:advantage>
@@ -263,7 +297,7 @@
 
                             <para>
                                 Any ritual which has Blessing of Blood as
-                                a (directly, or indirectly) prerequisite
+                                a (direct, or indirect) prerequisite
                                 also requires the painting of blood.
                             </para>
                         </description>
@@ -300,9 +334,8 @@
                             </para>
 
                             <para>
-                                You may add the lowest two of <e>Ferocity</e>,
-                                <e>Valour</e>, <e>Lust</e> and
-                                <e>Indulgence</e> traits to your blood
+                                You may add your <e>Ferocity</e> and
+                                <e>Valour</e> traits to your blood
                                 bonus. Your blood bonus also adds to damage
                                 and attack rolls whilst berserk.
                             </para>
@@ -314,7 +347,7 @@
                                 within range who are not also priestesses
                                 of Asabeth, then you must make a will check
                                 at a target of 10 to not attack them (your
-                                will is modified by your ferocity).
+                                <t>Will</t> is modified down by your ferocity).
                             </para>
                         </description>
                     </y:advantage>
@@ -339,7 +372,9 @@
                                 blood bonus. The first time an enemy strikes
                                 you, if they do no damage then they must
                                 make a valour check against a target of 20
-                                or be <e>shaken</e>.
+                                or be <e>shaken</e>. Every time you are hit
+                                by a wounding weapon, your blood bonus to
+                                soak is reduced by 1.
                             </para>
                         </description>
                     </y:advantage>
