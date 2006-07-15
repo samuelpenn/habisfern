@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Leikny Bloodwitch</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2006</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="leikny-bloodwitch">Leikny Bloodwitch</subject>
+
+            <category>Wizards</category>>
+
+            <topic uri="sonodalr">Sonodalr</topic>
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Leikny Bloodwitch</title>
+
+            <para>
+                The <e>Bloodwitch of Sonodalr</e> began her career as a
+                viking plying the coasts of Weidany and Midlaen. She came
+                from <qv uri="jarnyland">Jarnyland</qv>, and was said to be
+                a huge woman with a fiery temper. Also known for her
+                cunning and skill at battle, she learnt wizardry it is
+                said from some wizards on <qv uri="deorcis">Deorcis</qv>.
+            </para>
+
+            <para>
+                Though she was feared in her own lifetime, she is mostly
+                remembered because she became Queen of Sonodolr in 1133,
+                forging a small kingdom for herself which she ruled with
+                an iron fist until her death in 1161.
+            </para>
+
+            <para>
+                She had two children, Oddi who received the kingdom on her
+                death, and Aerndis Vickdotter who married
+                <qv uri="egill-the-red">Egill the Red</qv>. The current king
+                of Sonodalr is Aerndis' great grandson,
+                <qv uri="osric-edgarson">Osric Edgarson</qv>.
+            </para>
+
+            <character name="Leikny Bloodwitch">
+                <description>
+                    <gender>Female</gender>
+                    <short>A large unattractive woman with long red hair.</short>
+                </description>
+
+                <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                    <attributes size="6" soak="18">
+                        <attribute name="strength" score="6"/>
+                        <attribute name="health" score="4"/>
+                        <attribute name="agility" score="3"/>
+                        <attribute name="dexterity" score="6"/>
+                        <attribute name="perception" score="4"/>
+                        <attribute name="intelligence" score="5"/>
+                        <attribute name="empathy" score="3"/>
+                        <attribute name="will" score="6"/>
+                    </attributes>
+
+                    <traits>
+                        <trait name="Valour" score="4"/>
+                        <trait name="Ego" score="4"/>
+                        <trait name="Vengeance" score="3"/>
+                        <trait name="Luck" score="3"/>
+                        <trait name="Insanity" score="3"/>
+                    </traits>
+
+                    <skills>
+                        <group name="Talents" type="talents">
+                            <skill name="Athletics" score="4"/>
+                            <skill name="Awareness" score="6"/>
+                            <skill name="Brawl" score="9"/>
+                            <skill name="Charm" score="3"/>
+                            <skill name="Guile" score="5"/>
+                            <skill name="Sleight" score="2"/>
+                            <skill name="Stealth" score="4"/>
+                            <skill name="Throw" score="6"/>
+                        </group>
+
+                        <group name="Knowledges" type="knowledges">
+                            <skill name="Speak Brytish" score="4"/>
+                            <skill name="Speak Rornic" score="2"/>
+                            <skill name="Area lore (Bryteland)" score="5"/>
+                            <skill name="Area lore (Coasts)" score="8"/>
+                            <skill name="Law" score="2"/>
+                            <skill name="Religion (Brytish)" score="4"/>
+                            <skill name="Legend lore" score="3"/>
+                            <skill name="Faerie lore" score="3"/>
+                        </group>
+
+                        <group name="Magic" type="knowledges">
+                            <skill name="Fire" score="8"/>
+                            <skill name="Iron" score="6"/>
+                        </group>
+
+                        <group name="Social" type="skills">
+                            <skill name="Politics" score="2"/>
+                            <skill name="Etiquette" score="2"/>
+                            <skill name="Intimidation" score="5"/>
+                        </group>
+
+                        <group name="Combat" type="skills">
+                            <skill name="Tactics" score="7"/>
+                            <skill name="Weapon and shield" score="6"/>
+                            <skill name="Great weapon" score="12"/>
+                            <skill name="Single weapon" score="4"/>
+                            <skill name="Longshaft weapon" score="8"/>
+                        </group>
+
+                        <group name="Viking" type="skills">
+                            <skill name="Boating" score="5"/>
+                            <skill name="Sailing" score="6"/>
+                            <skill name="Navigation" score="6"/>
+                            <skill name="Survival" score="3"/>
+                        </group>
+                    </skills>
+                </statistics>
+            </character>
+        </sect1>
+    </body>
+</article>
+
+

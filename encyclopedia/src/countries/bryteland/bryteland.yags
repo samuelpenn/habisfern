@@ -130,6 +130,167 @@
                 has unofficially become independent, and King Edgar does not
                 seem to be making any major moves to claim it back.
             </para>
+
+            <sect2>
+                <title>The Kings of Bryteland</title>
+
+                <familyTree title="Family of Egill">
+                    <root>Egill the Red</root>
+
+                    <person name="Egill the Red">
+                        <male/>
+                        <born>1135</born>
+                        <died>1190</died>
+                    </person>
+
+                    <person name="Aerndis Vickdotter">
+                        <born>1140</born>
+                        <died>1187</died>
+                    </person>
+
+                    <person name="Gunnloth">
+                        <born>1153</born>
+                        <died>1203</died>
+                    </person>
+
+                    <person name="Ketilve">
+                        <born>1156</born>
+                        <died>1221</died>
+                    </person>
+
+                    <person name="Raedsbrandr">
+                        <male/>
+                        <born>1161</born>
+                        <died>1208</died>
+                    </person>
+
+                    <person name="Ragnvidr">
+                        <born>1164</born>
+                        <died>1178</died>
+                    </person>
+
+                    <person name="Bodny">
+                        <born>1168</born>
+                        <short>Witch, murdered her sister Ragnvidr.</short>
+                    </person>
+
+                    <family parent="Egill the Red">
+                        <children parent="Aerndis Vickdotter">
+                            <child>Gunnloth</child>
+                            <child>Ketilve</child>
+                            <child>Raedsbrandr</child>
+                            <child>Ragnvidr</child>
+                            <child>Bodny</child>
+                        </children>
+                    </family>
+
+                    <person name="Eyja">
+                        <born>1160</born>
+                        <died>1123</died>
+                    </person>
+
+                    <person name="Herborg">
+                        <born>1180</born>
+                        <died>1219</died>
+                    </person>
+
+                    <person name="Edgar Raedsson" uri="edgar-raedsson">
+                        <male/>
+                        <born>1186</born>
+                    </person>
+
+                    <person name="Yngvolder">
+                    </person>
+
+                    <person name="Nefbjorn">
+                        <male/>
+                    </person>
+
+                    <family parent="Raedsbrandr">
+                        <children parent="Eyja">
+                            <child>Herborg</child>
+                            <child>Edgar Raedsson</child>
+                            <child>Yngvolder</child>
+                            <child>Nefbjorn</child>
+                        </children>
+                    </family>
+
+                    <person name="Cwenburgh Vitsjarna" uri="cwenburgh-vitsjarna">
+                        <born>1189</born>
+                        <died>1220</died>
+                    </person>
+
+                    <person name="Aethwin">
+                        <born>1203</born>
+                    </person>
+
+                    <person name="Aethild">
+                        <born>1225</born>
+                    </person>
+
+                    <person name="Caewlin the Mad">
+                        <male/>
+                        <born>1205</born>
+                        <died>1221</died>
+                        <short>Killed himself in a fit of madness.</short>
+                    </person>
+
+                    <person name="Osric Edgarson" uri="osric-edgarson">
+                        <male/>
+                        <born>1207</born>
+                    </person>
+
+                    <person name="Wulfstan Edgarson" uri="wulfstan-edgarson">
+                        <male/>
+                        <born>1220</born>
+                    </person>
+
+                    <family parent="Edgar Raedsson">
+                        <children parent="Cwenburgh Vitsjarna">
+                            <child>Caewlin the Mad</child>
+                            <child>Osric Edgarson</child>
+                            <child>Wulfstan Edgarson</child>
+                        </children>
+
+                        <children parent="Aethwin">
+                            <child>Aethild</child>
+                        </children>
+                    </family>
+
+                    <person name="Svafa Longreach">
+                        <male/>
+                        <born>1189</born>
+                        <died>1227</died>
+                    </person>
+
+                    <person name="Harald Nahafuth">
+                        <male/>
+                        <born>1209</born>
+                    </person>
+
+                    <person name="Ighul">
+                        <male/>
+                        <born>1211</born>
+                    </person>
+
+                    <person name="Tora Goldhair">
+                        <born>1213</born>
+                    </person>
+
+                    <person name="Skeggi">
+                        <born>1216</born>
+                    </person>
+
+                    <family parent="Herborg">
+                        <children parent="Svafa Longreach">
+                            <child>Harald Nahafuth</child>
+                            <child>Ighul</child>
+                            <child>Tora Goldhair</child>
+                            <child>Skeggi</child>
+                        </children>
+                    </family>
+                </familyTree>
+            </sect2>
         </sect1>
 
         <sect1>

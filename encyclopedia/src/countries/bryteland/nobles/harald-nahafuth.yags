@@ -147,7 +147,7 @@
                         </group>
 
                         <group name="Combat" type="skills">
-                            <skill name="Battle" score="4"/>
+                            <skill name="Tactics" score="4"/>
                             <skill name="Weapon and shield" score="8"/>
                             <skill name="Great weapon" score="5"/>
                             <skill name="Single weapon" score="6"/>
