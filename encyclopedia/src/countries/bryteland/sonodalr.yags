@@ -58,10 +58,43 @@
             <title>Sonodalr</title>
 
             <para>
-                King Edgar is King of Sonodalr, which covers the middle
-                coastal regions of Bryteland. It is also known as the
-                Sonova Valley.
+                <qv uri="edgar-raedsson">King Edgar</qv> is King of Sonodalr,
+                which covers the middle coastal regions of Bryteland. It is
+                also known as the Sonova Valley. The King's court is
+                normally at <qv uri="novborg">Novborg</qv>.
             </para>
+
+            <sect2>
+                <title>Geography</title>
+
+                <para>
+                    The central region of Sonodalr is the Sonova Valley,
+                    which runs east-west through the heartland of the
+                    Kingdom - indeed, this valley can be said to define the
+                    heartland. The valley is fertile, flat, and quite
+                    heavily populated. Most of the population lives in
+                    semi-independant farmsteads, with a few market
+                    villages. The Brytish preference for private holdings
+                    rather than towns is getting difficult to maintain,
+                    and the distance between farmsteads is shrinking all
+                    the time.
+                </para>
+
+                <para>
+                    The southern half of the kingdom is covered with
+                    woodland and thick forest and is much more lightly
+                    populated. Part of this consists of the
+                    <qv uri="grar-hills">Grar Hills</qv>, which are stony
+                    and often mist shrouded.
+                </para>
+
+                <para>
+                    At the eastern end of the hills is
+                    <qv uri="feldanvithr">Feldanvithr</qv>, a fey woodland
+                    which most avoid because of the dangerous nature of the
+                    place.
+                </para>
+            </sect2>
 
             <sect2>
                 <title>History</title>
@@ -113,10 +146,46 @@
                     Kingdom.
                 </para>
             </sect2>
+
+            <sect2>
+                <title>Politics</title>
+
+                <para>
+                    The kingdom has been restless since Edgar declared
+                    himself king, but there have been no major disturbances.
+                    He maintains a large force of huscurls who help to
+                    dissuade anyone from trying to overthrow him by force.
+                    All the time his financies are good the huscurls will
+                    remain loyal. There are rumours that a few acts of
+                    piracy have been the work of those trying to disrupt
+                    trade, but so far nothing has been proven and there has
+                    been no real impact on the flow of goods.
+                </para>
+
+                <para>
+                    Relations with surrounding Kingdoms has been good, and
+                    the King has managed to keep raiding into neighbours
+                    low in an attempt to keep them friendly. If he had to
+                    fight a major external war, he'd probably loose control
+                    of the kingdom. The confusion from such an event would
+                    probably not favour any particular group, so there do
+                    not appear to be any attempts to force such an event.
+                </para>
+
+                <para>
+                    Relations with <qv uri="nethvollr">Nethvollr</qv> came
+                    close to war in 1226 after the death of Edgar's
+                    brother in law <qv uri="svarfa-longreach">Svarfa</qv>
+                    who was King of that kingdom. The death was unexpected,
+                    and suspicious, and some fingers pointed to his son
+                    <qv uri="harald-nahafuth">Harald</qv>. No-one was
+                    willing to push the matter however, though relations
+                    are still cold. Edgar would very probably seek revenge
+                    if some proof was found as to the killer.
+                </para>
+            </sect2>
         </sect1>
-
     </body>
-
 </article>
 
 
