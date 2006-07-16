@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Egill the Red</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2006</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="egill-the-red">Egill the Red</subject>
+
+            <category>Warriors</category>>
+
+            <topic uri="bryteland">Bryteland</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Egill the Red</title>
+
+            <para>
+                <e>Egill the Red</e> is often used as an example of the
+                great Brytish heroes of modern times. Born in 1135 in
+                <qv uri="toatstath">Toatstath</qv>, he was the bastard son
+                of a prostitute by one of the huscurls based there. At the
+                age of 9 he was already larger and stronger than everyone
+                else his age. He was also ugly, brutish and direct in his
+                dealings with others and had few friends because of it.
+            </para>
+
+            <para>
+                In the spring of 1144 he killed another child after an
+                argument over a ball game, stole a boat and fled out of
+                the town. In his absence, he was declared outlaw. It was
+                decided that since he wanted to act like an adult he had
+                to take the responsibilies of one.
+            </para>
+
+            <para>
+                He was picked up by vikings from
+                <qv uri="jarnyland">Jarnyland</qv> who were impressed by
+                his ability to survive as long as he had, and by his
+                strength. Five years later he returned to Toatstath to
+                answer the charges against him, and demanded a duel to
+                settle the matter with the father of the murdered child.
+                He won, and slew his opponent.
+            </para>
+
+            <para>
+                At the age of 17 he took Aerndis Vickdotter (the 12 year
+                old daughter of <qv uri="leikny-bloodwitch">Leikny</qv>)
+                first as a slave, then as his wife. That began a ten year
+                feud with the Bloodwitch, but they eventually reached an
+                understanding.
+            </para>
+
+            <character name="Egill the Red">
+                <description>
+                    <gender>Male</gender>
+                    <short>A huge Brytish warrior.</short>
+                </description>
+
+                <statistics xmlns="http://yagsbook.sourceforge.net/xml/yags">
+                    <attributes size="6" soak="18">
+                        <attribute name="strength" score="8"/>
+                        <attribute name="health" score="6"/>
+                        <attribute name="agility" score="6"/>
+                        <attribute name="dexterity" score="7"/>
+                        <attribute name="perception" score="4"/>
+                        <attribute name="intelligence" score="4"/>
+                        <attribute name="empathy" score="2"/>
+                        <attribute name="will" score="6"/>
+                    </attributes>
+
+                    <traits>
+                        <trait name="Valour" score="5"/>
+                        <trait name="Ego" score="5"/>
+                        <trait name="Vengeance" score="4"/>
+                        <trait name="Luck" score="5"/>
+                        <trait name="Indulgence" score="2"/>
+                        <trait name="Lust" score="2"/>
+                        <trait name="Ferocity" score="4"/>
+                    </traits>
+
+                    <skills>
+                        <group name="Talents" type="talents">
+                            <skill name="Athletics" score="6"/>
+                            <skill name="Awareness" score="7"/>
+                            <skill name="Brawl" score="14"/>
+                            <skill name="Charm" score="3"/>
+                            <skill name="Guile" score="5"/>
+                            <skill name="Sleight" score="4"/>
+                            <skill name="Stealth" score="8"/>
+                            <skill name="Throw" score="12"/>
+                        </group>
+
+                        <group name="Knowledges" type="knowledges">
+                            <skill name="Speak Brytish" score="4"/>
+                            <skill name="Speak Rornic" score="2"/>
+                            <skill name="Speak Taneith" score="4"/>
+                            <skill name="Area lore (Bryteland)" score="5"/>
+                            <skill name="Area lore (Taneith)" score="3"/>
+                            <skill name="Area lore (Coasts)" score="6"/>
+                            <skill name="Law" score="2"/>
+                            <skill name="Religion (Brytish)" score="2"/>
+                        </group>
+
+                        <group name="Social" type="skills">
+                            <skill name="Politics" score="2"/>
+                            <skill name="Etiquette" score="2"/>
+                            <skill name="Intimidation" score="7"/>
+                        </group>
+
+                        <group name="Combat" type="skills">
+                            <skill name="Tactics" score="9"/>
+                            <skill name="Weapon and shield" score="12"/>
+                            <skill name="Great weapon" score="12"/>
+                            <skill name="Single weapon" score="7"/>
+                            <skill name="Longshaft weapon" score="11"/>
+                        </group>
+
+                        <group name="Viking" type="skills">
+                            <skill name="Boating" score="9"/>
+                            <skill name="Sailing" score="6"/>
+                            <skill name="Navigation" score="6"/>
+                            <skill name="Survival" score="7"/>
+                        </group>
+                    </skills>
+                </statistics>
+            </character>
+        </sect1>
+    </body>
+</article>
+
+

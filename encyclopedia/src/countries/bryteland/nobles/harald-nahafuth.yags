@@ -58,8 +58,8 @@
 
             <para>
                 Harald was fostered with <qv uri="osric-edgarson">Osric
-                Edgarson</qv>, the current King of <qv
-                uri="vitrgifing">Vitrgifing</qv>, and obtained his
+                Edgarson</qv>, the current King of
+                <qv uri="vitrgifing">Vitrgifing</qv>, and obtained his
                 passion of hunting and raiding whilst with him.
             </para>
 
@@ -97,6 +97,10 @@
                         <para>
                             King of Nethvollr, and the youngest King of
                             the Brytish Kingdoms.
+                        </para>
+
+                        <para>
+                            He has a rune sword named <e>Lifesinger</e>.
                         </para>
                     </background>
                 </description>
@@ -163,6 +167,24 @@
                         </group>
                     </skills>
 
+                    <advantages>
+                        <advantage name="Combat reflexes" skill="Melee" cost="2"/>
+                        <advantage name="Reflex dodge" skill="Melee" cost="4"/>
+                        <advantage name="Opportunity attack" skill="Melee" cost="6"/>
+
+                        <advantage name="Shield wall" skill="Weapon and shield" cost="2"/>
+                        <advantage name="Shielded attack" skill="Weapon and shield" cost="4"/>
+
+                        <advantage name="Cleave" skill="Great weapon" cost="2"/>
+                        <advantage name="Great blow" skill="Great weapon" cost="4"/>
+
+                        <advantage name="Hard to kill" skill="Brawl" cost="2"/>
+                        <advantage name="Ignore pain" skill="Brawl" cost="4"/>
+
+                        <advantage name="Mounted combat" skill="Ride" cost="2"/>
+                        <advantage name="Light sleeper" skill="Awareness" cost="4"/>
+                    </advantages>
+
                     <combat>
                         <combatstyle style="Brawl" skill="Brawl">
                             <primary>Fist</primary>
@@ -196,10 +218,6 @@
                         </armourstyle>
                     </combat>
 
-                    <equipment>
-                        <item name="Sword">
-                        </item>
-                    </equipment>
                 </statistics>
             </character>
 
