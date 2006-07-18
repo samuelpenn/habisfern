@@ -80,7 +80,14 @@
                 old daughter of <qv uri="leikny-bloodwitch">Leikny</qv>)
                 first as a slave, then as his wife. That began a ten year
                 feud with the Bloodwitch, but they eventually reached an
-                understanding.
+                understanding. Though Egill had many children by other
+                women, none of them were considered legitimate.
+            </para>
+
+            <para>
+                Egill was a formidable warrior - considered one of the
+                greatest in Brytish history. He carried the runic axe
+                <e>Foe Splitter</e> and the shield <e>Sword Bane</e>.
             </para>
 
             <character name="Egill the Red">
@@ -130,8 +137,10 @@
                             <skill name="Area lore (Bryteland)" score="5"/>
                             <skill name="Area lore (Taneith)" score="3"/>
                             <skill name="Area lore (Coasts)" score="6"/>
-                            <skill name="Law" score="2"/>
+                            <skill name="Law" score="5"/>
                             <skill name="Religion (Brytish)" score="2"/>
+                            <skill name="Herb lore" score="2"/>
+                            <skill name="Rune lore" score="3"/>
                         </group>
 
                         <group name="Social" type="skills">
@@ -149,12 +158,71 @@
                         </group>
 
                         <group name="Viking" type="skills">
-                            <skill name="Boating" score="9"/>
-                            <skill name="Sailing" score="6"/>
+                            <skill name="Boating" score="4"/>
+                            <skill name="Seamanship" score="7"/>
                             <skill name="Navigation" score="6"/>
-                            <skill name="Survival" score="7"/>
+                            <skill name="Survival" score="5"/>
+                        </group>
+
+                        <group name="Other" type="skills">
+                            <skill name="Ride" score="3"/>
+                            <skill name="Heraldry" score="2"/>
+                            <skill name="Administration" score="2"/>
+                            <skill name="First aid" score="3"/>
+                            <skill name="Game" score="4"/>
+                            <skill name="Trade" score="3"/>
+                            <skill name="Hunting" score="2"/>
                         </group>
                     </skills>
+
+                    <advantages>
+                        <advantage name="Large" cost="+3"/>
+                        <advantage name="Reserves of strength" cost="+1"/>
+                        <advantage name="Fit" cost="+1"/>
+
+                        <advantage name="Clumsy" cost="-1"/>
+                        <advantage name="Ugly" cost="-3"/>
+                        <advantage name="Voracious appetite" cost="-1"/>
+
+                        <advantage name="Ambush" skill="Stealth" cost="2"/>
+
+                        <advantage name="Cleave" skill="Great weapon" cost="2"/>
+                        <advantage name="Great blow" skill="Great weapon" cost="4"/>
+                        <advantage name="Finishing blow" skill="Great weapon" cost="6"/>
+
+                        <advantage name="Close combat" skill="Brawl" cost="2"/>
+                        <advantage name="Out of reach" skill="Brawl" cost="4"/>
+
+                        <advantage name="Combat reflexes" skill="Melee" cost="2"/>
+                        <advantage name="Reflex dodge" skill="Melee" cost="4"/>
+                        <advantage name="Opportunity attack" skill="Melee" cost="6"/>
+                        <advantage name="Improved damage" skill="Melee" cost="8"/>
+                        <advantage name="Multiple attacks" skill="Melee" cost="10"/>
+
+                        <advantage name="Dirty fighting" skill="Brawl" cost="4"/>
+
+                        <advantage name="Greater range" skill="Throw" cost="2"/>
+
+                        <advantage name="Hard to kill" skill="Brawl" cost="2"/>
+                        <advantage name="Ignore pain" skill="Brawl" cost="4"/>
+                        <advantage name="Tough" skill="Brawl" cost="6"/>
+
+                        <advantage name="Master of fighting" skill="Brawl" cost="10"/>
+
+                        <advantage name="Mounted combat" skill="Ride" cost="2"/>
+
+                        <advantage name="Shield wall" skill="Weapon and shield" cost="2"/>
+                        <advantage name="Shielded attack" skill="Weapon and shield" cost="4"/>
+                        <advantage name="Reliable defence" skill="Weapon and shield" cost="6"/>
+
+                        <advantage name="Spear catching" skill="Throw" cost="2"/>
+
+                        <advantage name="Spearman" skill="Longshaft weapon" cost="2"/>
+                        <advantage name="Spear wall" skill="Longshaft weapon" cost="4"/>
+
+                        <advantage name="Surprise attack" skill="Tactics" cost="2"/>
+                        <advantage name="Tactical move" skill="Tactics" cost="4"/>
+                    </advantages>
                 </statistics>
             </character>
         </sect1>
