@@ -68,9 +68,10 @@
             <sect2>
                 <title>Characters</title>
 
-                <characters role="package" title="Sister of Jorda">
+                <characters role="package" title="Sisterhood of Jorda">
                     <character name="Sister of Jorda">
                         <description>
+                            <gender>Female</gender>
                             <age>16</age>
 
                             <short>
@@ -81,7 +82,16 @@
                                 <para>
                                     You are a member of the Sisterhood of
                                     Jorda, a cult that venerates the Earth
-                                    Goddess of the Brytish people.
+                                    Goddess of the Brytish people. Jorda
+                                    created the world and all things that
+                                    live within it, and as one of her
+                                    followers you may sometimes gain insight
+                                    into the ways of the world.
+                                </para>
+
+                                <para>
+                                    Sisters are said to be able to divine
+                                    the future.
                                 </para>
                             </background>
                         </description>
@@ -108,12 +118,11 @@
                                 </group>
 
                                 <group name="Mysteries" type="skills">
-                                    <skill name="Earth" score="4"/>
+                                    <skill name="Earth" score="2"/>
                                     <skill name="Spirit" score="2"/>
                                 </group>
 
                                 <group name="Misc" type="skills">
-                                    <skill name="Etiquette" score="2"/>
                                     <skill name="Dream lore" score="2"/>
                                 </group>
                             </skills>
@@ -130,124 +139,60 @@
             <sect2>
                 <title>Rituals</title>
 
-                <y:advantages role="technique" title="Rituals of Gitriw">
+                <y:advantages role="technique" title="Rituals of Jorda">
 
                     <description>
                         <para>
-                            The rituals of Gitriw are based around the
-                            seeking of truth. Several of them require the
-                            cooperation of everybody involved in order
-                            for them to work, which makes them most
-                            suited when used in a court of Law.
+                            The rituals of Jorda are to do with the seeking
+                            of knowledge and the future.
                         </para>
                     </description>
 
-                    <y:advantage name="Oath of truth" type="technique">
-                        <y:cost points="1"/>
-                        <y:skill name="Religion (Rornic)"/>
-                        <y:prerequisite>Ceremonies of Gitriw</y:prerequisite>
+                    <y:advantage name="Ceremonies of Jorda" type="technique">
+                        <y:cost points="2"/>
+                        <y:skill name="Religion (Brytish)"/>
 
                         <description>
                             <para>
-                                This ritual is a two edged sword, for it
-                                both gives power to those who invoke it and
-                                has power over them as well. When used,
-                                prayers are said in honour of Gitriw, and
-                                all involved wash their hands and faces in
-                                pure rain water.
-                            </para>
-
-                            <para>
-                                All who take part in the ritual must know
-                                it, so it only works on Priests of Gitriw.
-                                Once bound by the ritual, all participants
-                                know whether they each speak the truth.
-                                All members suffer a penalty when trying to
-                                deceive, and a bonus to detect the same.
-                                This bonus is equal to the total religion
-                                score of all members of the ritual.
+                                Gives knowledge of the basic ceremonies
+                                used during worship of the goddess.
                             </para>
                         </description>
                     </y:advantage>
 
-                    <y:advantage name="Trial of Combat" type="technique">
-                        <y:cost points="3"/>
-                        <y:skill name="Religion (Rornic)"/>
-                        <y:prerequisite>Oath of Truth</y:prerequisite>
+                    <y:advantage name="Augury" type="technique">
+                        <y:cost points="4"/>
+                        <y:skill name="Religion (Brytish)"/>
+                        <y:prerequisite>Ceremonies of Jorda</y:prerequisite>
 
                         <description>
                             <para>
-                                Trial by combat is reserved for the nobility,
-                                others must find a different path. The ritual
-                                is performed on two warriors who fight to
-                                the death, the winner was in the right.
-                            </para>
-
-                            <para>
-                                Both warriors must accept the performance of
-                                ritual. The one which is seen to be in the
-                                right according to the Laws of Haltan gains
-                                a bonus to initiative, attack, defence and
-                                damage equal to the religion score of the
-                                priest presiding over the combat.
+                                You may try to divine the future to gain an
+                                idea of whether an action will bring ill or
+                                fortune.
                             </para>
                         </description>
                     </y:advantage>
 
-                    <y:advantage name="Truth sense" type="technique">
-                        <y:cost points="3"/>
-                        <y:skill name="Religion (Rornic)"/>
-                        <y:prerequisite>Oath of truth</y:prerequisite>
+                    <y:advantage name="Call upon the mother" type="technique">
+                        <y:cost points="4"/>
+                        <y:skill name="Religion (Brytish)"/>
+                        <y:prerequisite>Ceremonies of Jorda</y:prerequisite>
 
                         <description>
                             <para>
-                                A Priest of Gitriw is trained to recognise
-                                the unconscious actions of someone who is
-                                lying. They get a bonus to all attempts
-                                to detect lies equal to their religion
-                                score.
+                                Your goddess has much love for living things
+                                and may grant you knowledge of ways to
+                                prevent the death of others. By dedicating
+                                yourself to the saving of one individual,
+                                by tending their wounds and beseeching the
+                                goddess to help them, you may grant them
+                                a bonus to rolls to stay alive equal to
+                                your Religion score.
                             </para>
                         </description>
                     </y:advantage>
 
-                    <y:advantage name="Binding of truth" type="technique">
-                        <y:cost points="5"/>
-                        <y:skill name="Religion (Rornic)"/>
-                        <y:prerequisite>Truth sense</y:prerequisite>
-
-                        <description>
-                            <para>
-                                A ceremony to Gitriw is performed, and all
-                                those who swear on the priest's holy staff
-                                are less geased to tell the truth.
-                            </para>
-
-                            <para>
-                                Any who so swears to tell the truth, for the
-                                duration of the ceremony, suffers a penalty
-                                to all attempts to mislead equal to the
-                                religion score of the priest. Further, if
-                                they attempt to tell a direct lie, then
-                                they gain a trait of Cursed +1 (or loose a
-                                level of Luck, if they have that trait).
-                            </para>
-                        </description>
-                    </y:advantage>
-
-                    <y:advantage name="Sight of Gitriw" type="technique">
-                        <y:cost points="7"/>
-                        <y:skill name="Religion (Rornic)"/>
-                        <y:prerequisite>Binding of truth</y:prerequisite>
-
-                        <description>
-                            <para>
-                                As <e>Binding of truth</e>, but the priest
-                                also has a vision which points towards the
-                                truth, and gives some indication of how,
-                                and why, the target is lying.
-                            </para>
-                        </description>
-                    </y:advantage>
                 </y:advantages>
             </sect2>
         </sect1>
