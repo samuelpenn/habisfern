@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 
-<article xmlns="http://yagsbook.sourceforge.net/xml">
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
     <header>
         <title>Daughters of Neya</title>
         <tagline>Habisfern</tagline>
@@ -321,7 +322,7 @@
                             </para>
                         </description>
                     </y:advantage>
-                </y:advantage>
+                </y:advantages>
             </sect2>
         </sect1>
     </body>
