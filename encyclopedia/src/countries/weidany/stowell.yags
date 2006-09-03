@@ -29,7 +29,7 @@
 
 
         <style name="module"/>
-        
+
         <references>
             <see uri="weidany">Kingdom of Weidany</see>
             <see uri="weidany-queen">Queen of Weidany</see>
@@ -47,7 +47,7 @@
         </topics>
 
     </header>
-    
+
     <body>
         <sect1>
             <title>Stowell</title>
@@ -128,8 +128,15 @@
                 </p>
 
                 <p>
-                    The most influential are the merchant guilds which
-                    are based in Old Town.
+                    The most influential organisation is the
+                    <e>Guild of Merchant Adventurers</e>, which is made up
+                    of a number of wealthy traders who effectively control
+                    trade with the south.
+                </p>
+
+                <p>
+                    A number of gangs hold sway over several parts of the
+                    city at night.
                 </p>
             </sect2>
         </sect1>
