@@ -342,7 +342,7 @@
 
 
                     <y:advantage name="Signs of the Raven" type="technique">
-                        <y:cost points="1"/>
+                        <y:cost points="2"/>
                         <y:skill name="Religion (Rorn)"/>
 
                         <y:prerequisite>Ceremonies of Thot</y:prerequisite>
@@ -375,7 +375,7 @@
                     </y:advantage>
 
                     <y:advantage name="Hidden Memory" type="technique">
-                        <y:cost points="3"/>
+                        <y:cost points="4"/>
                         <y:skill name="Religion (Rorn)"/>
 
                         <y:prerequisite>Ceremonies of Thot</y:prerequisite>
@@ -395,7 +395,7 @@
                     </y:advantage>
 
                     <y:advantage name="Flight of the Raven" type="technique">
-                        <y:cost points="5"/>
+                        <y:cost points="6"/>
                         <y:skill name="Religion (Rorn)"/>
 
                         <y:prerequisite>Ceremonies of Thot</y:prerequisite>
@@ -410,22 +410,6 @@
                         </description>
                     </y:advantage>
 
-                    <y:advantage name="Eyes of the Hunter" type="technique">
-                        <y:cost points="5"/>
-                        <y:skill name="Religion (Rorn)"/>
-
-                        <y:prerequisite>Ceremonies of Thot</y:prerequisite>
-
-                        <description>
-                            <para>
-                                Those blessed by the Raven God can see
-                                twice as far normal people, and have
-                                clarity of vision in darkness, giving them
-                                an effective +1 to Perception in dark
-                                conditions.
-                            </para>
-                        </description>
-                    </y:advantage>
                 </y:advantages>
             </sect2>
         </sect1>

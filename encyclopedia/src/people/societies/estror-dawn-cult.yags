@@ -150,10 +150,24 @@
                 <title>Rituals</title>
 
                 <y:advantages role="technique" title="Rituals of Estror">
-                    <y:advantage name="Blessing of Conception"
-                               type="technique">
+
+                    <y:advantage name="Ceremonies of Estror" type="technique">
                         <y:cost points="2"/>
-                        <y:skill name="Religion (Estror)"/>
+                        <y:skill name="Religion (Rornic)"/>
+
+                        <description>
+                            <para>
+                                You have been initiated into the Cult of Estror,
+                                and may learn the techniques of the cult.
+                            </para>
+                        </description>
+                    </y:advantage>
+
+                    <y:advantage name="Blessing of Conception" type="technique">
+                        <y:cost points="2"/>
+                        <y:skill name="Religion (Rornic)"/>
+
+                        <y:prerequisite>Ceremonies of Estror</y:prerequisite>
 
                         <description>
                             <para>
@@ -168,7 +182,9 @@
 
                     <y:advantage name="Caring hands" type="technique">
                         <y:cost points="2"/>
-                        <y:skill name="Religion (Estror)"/>
+                        <y:skill name="Religion (Rornic)"/>
+
+                        <y:prerequisite>Ceremonies of Estror</y:prerequisite>
 
                         <description>
                             <para>
@@ -182,7 +198,6 @@
                 </y:advantages>
             </sect2>
         </sect1>
-
     </body>
 </article>
 

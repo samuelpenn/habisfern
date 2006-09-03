@@ -165,7 +165,9 @@
                                     priestesses are expected to let passion
                                     and ferocity guide their actions. All
                                     priestesses must take vows of chastity
-                                    with men before joining.
+                                    with men before joining, though those
+                                    who have had and lost a child previous
+                                    to joining are given special status.
                                 </para>
                             </background>
                         </description>
@@ -211,7 +213,7 @@
                                 <advantage name="Ceremonies of Asabeth" cost="2"
                                            skill="Religion (Rorn)"/>
 
-                                <advantage name="Blessing of Blood" cost="1"
+                                <advantage name="Blessing of Blood" cost="2"
                                            skill="Religion (Rorn)"/>
                             </advantages>
                         </statistics>
@@ -237,6 +239,14 @@
                     of War and Blood. They are generally seen as barbaric,
                     and not all cultists have the stomach for her more
                     powerful rituals.
+                </para>
+
+                <para>
+                    It is believed by the priestesses that these rituals
+                    invoke the protection and aid of their Goddess. It may
+                    also be calling on the natural magics of the world,
+                    and making use of the changed mental state of the
+                    priestess.
                 </para>
 
                 <y:advantages title="Rituals of Asabeth" role="technique">
@@ -266,7 +276,7 @@
                     </y:advantage>
 
                     <y:advantage name="Blessing of Blood" type="technique">
-                        <y:cost points="1"/>
+                        <y:cost points="2"/>
                         <y:skill name="Religion (Rorn)"/>
                         <y:prerequisite>Ceremonies of Asabeth</y:prerequisite>
 
@@ -275,24 +285,21 @@
                                 As a priestess of Asabeth, you gain power
                                 from blood. By painting your exposed skin
                                 with blood you gain a bonus to initiative,
-                                health and fear checks. This bonus applies
-                                automatically whilst you are so decorated.
+                                <t>Health</t> and morale checks. This bonus
+                                applies automatically whilst you are so
+                                decorated, and it equal to your
+                                <e>Religion</e> score.
                             </para>
 
                             <para>
-                                The base bonus is equal to your <e>religion</e>
-                                score, and assumes that all your body is
-                                exposed and painted (i.e., no clothing or
-                                armour is being worn). If only your face,
-                                arms and legs are exposed, then the bonus is
-                                halved.
-                            </para>
-
-                            <para>
-                                The blood can be yours, or another's. If it
-                                is from an enemy sacrificed in a ritual
-                                dedicated to Asabeth, then the bonus is
-                                increased by 50%.
+                                The ritual takes an hour to perform, and
+                                involves prayers to the Goddess, self
+                                mutilation in the form of cuts and bleeding,
+                                and possibly the sacrifice of an enemy. The
+                                culmination of the ritual involves painting
+                                your naked body with blood. If the blood of
+                                a sacrificed enemy is available, then the
+                                bonus is increased by 50%.
                             </para>
 
                             <para>
@@ -304,7 +311,7 @@
                     </y:advantage>
 
                     <y:advantage name="Rage of the Goddess" type="technique">
-                        <y:cost points="3"/>
+                        <y:cost points="4"/>
                         <y:skill name="Religion (Rorn)"/>
                         <y:prerequisite>Blessing of Blood</y:prerequisite>
 
@@ -314,14 +321,14 @@
                                 blood, the strength of your goddess fills
                                 you with bloodthirsty glee. All penalties
                                 due to wounds, stuns and fatigue are
-                                reduced by double your blood bonus.
-                                Automatic.
+                                reduced by double your blood bonus when in
+                                battle. Automatic.
                             </para>
                         </description>
                     </y:advantage>
 
                     <y:advantage name="Berserker" type="technique">
-                        <y:cost points="5"/>
+                        <y:cost points="6"/>
                         <y:skill name="Religion (Rorn)"/>
                         <y:prerequisite>Rage of the Goddess</y:prerequisite>
 
@@ -342,18 +349,18 @@
 
                             <para>
                                 Whilst berserking, you may not retreat from
-                                combat and may not fight defensive. After
+                                combat and must fight aggressive. After
                                 the battle is finished, if there are allies
                                 within range who are not also priestesses
-                                of Asabeth, then you must make a will check
+                                of Asabeth, then you must make a <t>Will</t> check
                                 at a target of 10 to not attack them (your
-                                <t>Will</t> is modified down by your ferocity).
+                                <t>Will</t> is modified down by your Ferocity).
                             </para>
                         </description>
                     </y:advantage>
 
                     <y:advantage name="Armour of Blood" type="technique">
-                        <y:cost points="3"/>
+                        <y:cost points="4"/>
                         <y:skill name="Religion (Rorn)"/>
                         <y:prerequisite>Blessing of Blood</y:prerequisite>
 
@@ -372,15 +379,13 @@
                                 blood bonus. The first time an enemy strikes
                                 you, if they do no damage then they must
                                 make a valour check against a target of 20
-                                or be <e>shaken</e>. Every time you are hit
-                                by a wounding weapon, your blood bonus to
-                                soak is reduced by 1.
+                                or be <e>shaken</e>.
                             </para>
                         </description>
                     </y:advantage>
 
                     <y:advantage name="Sisters in Arms" type="technique">
-                        <y:cost points="5"/>
+                        <y:cost points="6"/>
                         <y:skill name="Religion (Rorn)"/>
                         <y:prerequisite>Blessing of Blood</y:prerequisite>
 
@@ -392,6 +397,7 @@
                                 weapon skill to one other. Who the bonus is
                                 given to is decided at the beginning of the
                                 round, but usage is otherwise automatic.
+                                The bonus adds to attack and defence.
                             </para>
                         </description>
                     </y:advantage>

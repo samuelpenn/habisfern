@@ -213,9 +213,8 @@
 
                                 <group name="Other" type="skills">
                                     <skill name="Etiquette" score="2"/>
-                                    <skill name="Intimidation" score="4"/>
+                                    <skill name="Intimidation" score="3"/>
                                     <skill name="Weapon and shield" score="4"/>
-                                    <skill name="Longshaft weapon" score="3"/>
                                     <skill name="Single weapon" score="3"/>
                                     <skill name="Ride" score="2"/>
                                 </group>
@@ -224,6 +223,8 @@
                             <advantages>
                                 <advantage name="Good attribute (Strength)"/>
                                 <advantage name="Good attribute (Dexterity)"/>
+                                <advantage name="Poor attribute (Perception)"/>
+                                <advantage name="Poor attribute (Empathy)"/>
                             </advantages>
                         </statistics>
 
@@ -269,7 +270,7 @@
                     </y:advantage>
 
                     <y:advantage name="Lord of Authority" type="technique">
-                        <y:cost points="1"/>
+                        <y:cost points="2"/>
                         <y:skill name="Religion (Rornic)"/>
                         <y:prerequisite>Ceremonies of Haltan</y:prerequisite>
 
@@ -279,13 +280,13 @@
                                 those who know his ways can project that
                                 authority themselves. An automatic bonus is
                                 gained to all leadership and intimidation
-                                rolls equal to the religion score.
+                                rolls equal to your religion score.
                             </para>
                         </description>
                     </y:advantage>
 
                     <y:advantage name="Lord of Justice" type="technique">
-                        <y:cost points="5"/>
+                        <y:cost points="4"/>
                         <y:skill name="Religion (Haltan)"/>
                         <y:prerequisite>Lord of Authority</y:prerequisite>
 
@@ -301,15 +302,15 @@
                                 Both warriors must accept the performance of
                                 ritual. The one which is seen to be in the
                                 right according to the Laws of Haltan gains
-                                a number of temporary luck points equal to
-                                the <e>religion</e> of the priest, which may
-                                be used only in the combat.
+                                a bonus to initiative, attack, defence and
+                                damage for the duration of the duel. You
+                                may fight in the duel if you wish.
                             </para>
                         </description>
                     </y:advantage>
 
                     <y:advantage name="Warrior's Blessing" type="technique">
-                        <y:cost points="5"/>
+                        <y:cost points="4"/>
                         <y:skill name="Religion (Haltan)"/>
                         <y:prerequisite>Aura of Authority</y:prerequisite>
 
@@ -331,7 +332,7 @@
                     </y:advantage>
 
                     <y:advantage name="Blessing of War" type="technique">
-                        <y:cost points="7"/>
+                        <y:cost points="6"/>
                         <y:skill name="Religion (Haltan)"/>
                         <y:prerequisite>Warrior's Blessing</y:prerequisite>
 
@@ -348,9 +349,10 @@
                     </y:advantage>
 
                     <y:advantage name="Hand of Fate" type="technique">
-                        <y:cost points="7"/>
+                        <y:cost points="8"/>
                         <y:skill name="Religion (Haltan)"/>
-                        <y:prerequisite>Trial by Combat</y:prerequisite>
+
+                        <y:prerequisite>Lord of Justice</y:prerequisite>
 
                         <description>
                             <para>

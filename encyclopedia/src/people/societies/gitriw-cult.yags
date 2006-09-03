@@ -162,8 +162,24 @@
                         </para>
                     </description>
 
+
+                    <y:advantage name="Ceremonies of Estror" type="technique">
+                        <y:cost points="2"/>
+                        <y:skill name="Religion (Rornic)"/>
+
+                        <description>
+                            <para>
+                                A blessing which may be asked for by a woman
+                                in order to increase or reduce the chance of
+                                conception during intercourse. The blessing is
+                                bestowed during the new moon, and lasts until
+                                the next new moon.
+                            </para>
+                        </description>
+                    </y:advantage>
+
                     <y:advantage name="Oath of truth" type="technique">
-                        <y:cost points="1"/>
+                        <y:cost points="2"/>
                         <y:skill name="Religion (Rornic)"/>
                         <y:prerequisite>Ceremonies of Gitriw</y:prerequisite>
 
@@ -191,7 +207,7 @@
                     </y:advantage>
 
                     <y:advantage name="Trial of Combat" type="technique">
-                        <y:cost points="3"/>
+                        <y:cost points="4"/>
                         <y:skill name="Religion (Rornic)"/>
                         <y:prerequisite>Oath of Truth</y:prerequisite>
 
@@ -215,7 +231,7 @@
                     </y:advantage>
 
                     <y:advantage name="Truth sense" type="technique">
-                        <y:cost points="3"/>
+                        <y:cost points="4"/>
                         <y:skill name="Religion (Rornic)"/>
                         <y:prerequisite>Oath of truth</y:prerequisite>
 
@@ -231,7 +247,7 @@
                     </y:advantage>
 
                     <y:advantage name="Binding of truth" type="technique">
-                        <y:cost points="5"/>
+                        <y:cost points="6"/>
                         <y:skill name="Religion (Rornic)"/>
                         <y:prerequisite>Truth sense</y:prerequisite>
 
@@ -255,7 +271,7 @@
                     </y:advantage>
 
                     <y:advantage name="Sight of Gitriw" type="technique">
-                        <y:cost points="7"/>
+                        <y:cost points="8"/>
                         <y:skill name="Religion (Rornic)"/>
                         <y:prerequisite>Binding of truth</y:prerequisite>
 

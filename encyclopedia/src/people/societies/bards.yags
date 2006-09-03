@@ -182,7 +182,7 @@
                     </description>
 
                     <y:advantage name="Song of Battle" type="technique">
-                        <y:cost points="3"/>
+                        <y:cost points="2"/>
                         <y:skill name="Perform"/>
 
                         <y:restriction>Bards</y:restriction>
@@ -202,7 +202,7 @@
                     </y:advantage>
 
                     <y:advantage name="Song of Dread" type="technique">
-                        <y:cost points="3"/>
+                        <y:cost points="2"/>
                         <y:skill name="Perform"/>
 
                         <y:restriction>Bards</y:restriction>
@@ -225,7 +225,7 @@
                     </y:advantage>
 
                     <y:advantage name="Song of Terror" type="technique">
-                        <y:cost points="5"/>
+                        <y:cost points="4"/>
                         <y:skill name="Perform"/>
                         <y:prerequisite>Song of Dread</y:prerequisite>
 
@@ -243,7 +243,7 @@
                     </y:advantage>
 
                     <y:advantage name="Song of Fury" type="technique">
-                        <y:cost points="5"/>
+                        <y:cost points="4"/>
                         <y:skill name="Perform"/>
                         <y:prerequisite>Song of Battle</y:prerequisite>
 
@@ -260,7 +260,7 @@
                     </y:advantage>
 
                     <y:advantage name="Song of Sleep" type="technique">
-                        <y:cost points="3"/>
+                        <y:cost points="2"/>
                         <y:skill name="Perform"/>
 
                         <y:restriction>Bards</y:restriction>
@@ -278,7 +278,7 @@
                     </y:advantage>
 
                     <y:advantage name="Song of Love" type="technique">
-                        <y:cost points="5"/>
+                        <y:cost points="4"/>
                         <y:skill name="Perform"/>
                         <y:prerequisite>Song of Sleep</y:prerequisite>
 
