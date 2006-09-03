@@ -112,9 +112,9 @@
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>
                                     <skill name="Awareness" score="3"/>
-                                    <skill name="Brawl" score="2"/>
+                                    <skill name="Brawl" score="4"/>
                                     <skill name="Charm" score="2"/>
-                                    <skill name="Guile" score="3"/>
+                                    <skill name="Guile" score="2"/>
                                     <skill name="Sleight" score="2"/>
                                     <skill name="Stealth" score="2"/>
                                     <skill name="Throw" score="2"/>
@@ -134,9 +134,16 @@
                                 </group>
                             </skills>
 
+                            <advantages>
+                                <advantage name="Good attribute (dexterity)"/>
+                                <advantage name="Poor attribute (empathy)"/>
+
+                                <advantage name="Ceremonies of Neya" skill="Religion (Neya)" cost="2"/>
+                            </advantages>
+
                             <equipment>
                                 <item name="Good clothes"/>
-                                <item name="Battle sword"/>
+                                <item name="Broad sword"/>
                                 <item name="Round shield"/>
                                 <item name="Soft leather jacket"/>
                                 <item name="Soft leather trousers"/>
@@ -152,6 +159,18 @@
 
                 <y:advantages title="Rituals of the Shields of Neya"
                             role="technique">
+
+                    <y:advantage name="Ceremonies of Neya" type="technique">
+                        <y:cost points="2"/>
+                        <y:skill name="Religion (Rornic)"/>
+
+                        <description>
+                            <para>
+                                You have been initiated into the Cult of Neya,
+                                and may learn the techniques of the cult.
+                            </para>
+                        </description>
+                    </y:advantage>
 
                     <y:advantage name="Oath of Neya" type="technique">
                         <y:cost points="4"/>
@@ -192,7 +211,7 @@
                                 Neya represents Authority, and those who
                                 know this ritual gain an automatic bonus
                                 to all leadership and intimidation
-                                rolls equal to the religion score.
+                                rolls equal to their religion score.
                             </para>
                         </description>
                     </y:advantage>
@@ -213,36 +232,6 @@
                         </description>
                     </y:advantage>
 
-                    <y:advantage name="Strength of the Goddess" type="technique">
-                        <y:cost points="8"/>
-                        <y:skill name="Religion (Neya)"/>
-                        <y:prerequisite>Sisters in Arms</y:prerequisite>
-
-                        <description>
-                            <para>
-                                Can be used as a combat technique, giving
-                                +1 to strength for purposes of damage. It
-                                cannot be used if another non-automatic
-                                technique is being used.
-                            </para>
-                        </description>
-                    </y:advantage>
-
-                    <y:advantage name="Shield of the Goddess" type="technique">
-                        <y:cost points="12"/>
-                        <y:skill name="Religion (Neya)"/>
-                        <y:prerequisite>Strength of the Goddess</y:prerequisite>
-
-                        <description>
-                            <para>
-                                Knowledge of how to deflect and absorb
-                                blows by quick movement gives a +5 bonus
-                                to any soak rolls made that round. If used
-                                in a round, then other non-automatic
-                                techniques cannot be used.
-                            </para>
-                        </description>
-                    </y:advantage>
                 </y:advantages>
             </sect2>
         </sect1>

@@ -180,9 +180,25 @@
                 <title>Rituals</title>
 
                 <y:advantages role="techniques">
-                    <y:advantage name="Befriend animals" type="technique">
+                    <y:advantage name="Ceremonies of Walgi" type="technique">
                         <y:cost points="2"/>
                         <y:skill name="Religion (Walgi)"/>
+
+                        <description>
+                            <para>
+                                You know the secret ways of the Cult of Walgi,
+                                including how to perform rituals in her name
+                                and detailed knowledge of her holy days and
+                                laws.
+                            </para>
+                        </description>
+                    </y:advantage>
+
+                    <y:advantage name="Befriend animals" type="technique">
+                        <y:cost points="4"/>
+                        <y:skill name="Religion (Walgi)"/>
+
+                        <y:prerequisite>Ceremonies of Walgi</y:prerequisite>
 
                         <description>
                             <para>

@@ -236,6 +236,13 @@
                                     investigate fraud, tax evasion and
                                     other similar crimes.
                                 </para>
+
+                                <para>
+                                    In carrying out your duties, you are
+                                    permitted to enter any premises,
+                                    question any person and investigate
+                                    anything related to your remit.
+                                </para>
                             </background>
                         </description>
 
@@ -243,9 +250,9 @@
                             <skills>
                                 <group name="Talents" type="talents">
                                     <skill name="Athletics" score="2"/>
-                                    <skill name="Awareness" score="3"/>
+                                    <skill name="Awareness" score="2"/>
                                     <skill name="Brawl" score="2"/>
-                                    <skill name="Charm" score="3"/>
+                                    <skill name="Charm" score="2"/>
                                     <skill name="Guile" score="4"/>
                                     <skill name="Sleight" score="2"/>
                                     <skill name="Stealth" score="2"/>
@@ -255,17 +262,24 @@
                                 <group name="Knowledges" type="knowledges">
                                     <skill name="Speak own" score="4"/>
                                     <skill name="Area lore" score="4"/>
-                                    <skill name="Law" score="2"/>
+                                    <skill name="Law" score="3"/>
                                     <skill name="Religion (Neya)" score="4"/>
                                 </group>
 
                                 <group name="Other" type="skills">
-                                    <skill name="Etiquette" score="3"/>
+                                    <skill name="Etiquette" score="2"/>
+                                    <skill name="Intrigue" score="2"/>
                                     <skill name="Intimidation" score="2"/>
                                     <skill name="Trade" score="4"/>
                                 </group>
                             </skills>
 
+                            <advantages>
+                                <advantage name="Good attribute (empathy)"/>
+                                <advantage name="Poor attribute (strength)"/>
+
+                                <advantage name="Ceremonies of Neya" skill="Religion (Neya)" cost="2"/>
+                            </advantages>
                         </statistics>
 
                         <equipment>
@@ -275,6 +289,39 @@
                         </equipment>
                     </character>
                 </characters>
+            </sect2>
+
+            <sect2>
+                <title>Rituals</title>
+
+                <y:advantages role="technique" title="Rituals of the Daughters of Neya">
+
+                    <y:advantage name="Ceremonies of Neya" type="technique">
+                        <y:cost points="2"/>
+                        <y:skill name="Religion (Rornic)"/>
+
+                        <description>
+                            <para>
+                                You have been initiated into the Cult of Neya,
+                                and may learn the techniques of the cult.
+                            </para>
+                        </description>
+                    </y:advantage>
+
+                    <y:advantage name="Aura of Authority" type="technique">
+                        <y:cost points="4"/>
+                        <y:skill name="Religion (Neya)"/>
+
+                        <description>
+                            <para>
+                                Neya represents Authority, and those who
+                                know this ritual gain an automatic bonus
+                                to all leadership and intimidation
+                                rolls equal to their religion score.
+                            </para>
+                        </description>
+                    </y:advantage>
+                </y:advantage>
             </sect2>
         </sect1>
     </body>

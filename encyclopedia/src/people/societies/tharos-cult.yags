@@ -1,4 +1,6 @@
 <?xml version="1.0"?>
+<?xml-stylesheet href="/usr/share/xml/yagsbook/article/xslt/html/yagsbook.xsl"
+                 type="text/xsl"?>
 
 <article xmlns="http://yagsbook.sourceforge.net/xml"
          xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
@@ -159,6 +161,35 @@
                             </para>
                         </description>
                     </y:skill>
+
+                    <y:skill name="Gebetan">
+                        <y:group>Combat</y:group>
+                        <y:group>Melee</y:group>
+                        <y:prerequisite>Brawl</y:prerequisite>
+
+                        <y:short>An unarmed combat fighting style.</y:short>
+
+                        <description>
+                            <para>
+                                This is the semi-mythical fighting style of
+                                the <e>Cult of Tharos</e>. It teaches perfection
+                                of body and movement in all things. There is
+                                nothing in this style that is designed for
+                                show - it is quick, efficient and deadly.
+                            </para>
+
+                            <para>
+                                It teaches attack over defence. It may be used
+                                either unarmed, or with knives, short sticks
+                                and other reach 0 brawling weapons, and it
+                                always uses <t>Agility</t>. You gain +1 to
+                                your <t>Agility</t> when attacking, and -1
+                                when defending. If any attack causes the
+                                target to make a <t>Health</t> check, then
+                                they get a penalty equal to your skill.
+                            </para>
+                        </description>
+                    </y:skill>
                 </y:skill-list>
             </sect2>
 
@@ -216,6 +247,7 @@
 
                                 <group name="Combat" type="skills">
                                     <skill name="Single weapon" score="4"/>
+                                    <skill name="Gebetan" score="4"/>
                                 </group>
                             </skills>
 
@@ -232,61 +264,54 @@
                 <title>Rituals</title>
 
                 <y:advantages role="technique" title="Rituals of Tharos">
-                    <y:advantage name="Heightened Reflexes" type="technique">
-                        <y:cost points="3"/>
-                        <y:skill name="Religion (Tharos)"/>
 
-                        <y:prerequisite>Quickdraw</y:prerequisite>
+                    <y:advantage name="Ceremonies of Tharos" type="technique">
+                        <y:cost points="2"/>
+                        <y:skill name="Religion (Tharos)"/>
 
                         <description>
                             <para>
-                                When using the defensive stance, those with
-                                <e>Heightened Reflexes</e> gain an automatic
-                                +1 bonus to agility and dexterity roles in
-                                combat.
+                                You know the rituals and secrets of the Cult
+                                of Tharos.
                             </para>
                         </description>
                     </y:advantage>
 
-                    <y:advantage name="Perfection of Body" type="technique">
-                        <y:cost points="5"/>
+                    <y:advantage name="Awareness of self" type="technique">
+                        <y:cost points="4"/>
                         <y:skill name="Religion (Tharos)"/>
 
-                        <y:prerequisite>Heightened Reflexes</y:prerequisite>
+                        <y:prerequisite>Ceremonies of Tharos</y:prerequisite>
 
                         <description>
                             <para>
-                                An automatic technique which grants a +1
-                                bonus to agility for all athletic skill
-                                checks involving acrobatics.
+                                You have +1 to <t>Agility</t> for purposes of
+                                initiative.
                             </para>
                         </description>
                     </y:advantage>
 
-                    <y:advantage name="Lightning Reflexes" type="technique">
-                        <y:cost points="9"/>
+                    <y:advantage name="Mind over body" type="technique">
+                        <y:cost points="6"/>
                         <y:skill name="Religion (Tharos)"/>
 
-                        <y:prerequisite>Heightened Reflexes</y:prerequisite>
-                        <y:prerequisite>Whirlwind defence</y:prerequisite>
+                        <y:prerequisite>Awareness of self</y:prerequisite>
 
                         <description>
                             <para>
-                                If surprised or unaware of an attack, the
-                                character gains a half dodge defense (roll
-                                dodge, then halve the total) against the
-                                attack. This defense is gained against all
-                                attacks the character is not otherwise
-                                defending against, even in combat.
+                                Your training and meditation has enabled you
+                                to block out pain and exhaustion. Penalties
+                                from stuns, wounds and fatigue are halved
+                                (round down).
                             </para>
                         </description>
                     </y:advantage>
 
                     <y:advantage name="Beyond Limits" type="technique">
-                        <y:cost points="7"/>
+                        <y:cost points="8"/>
                         <y:skill name="Religion (Tharos)"/>
 
-                        <y:prerequisite>Perfection of Body</y:prerequisite>
+                        <y:prerequisite>Mind over body</y:prerequisite>
 
                         <description>
                             <para>
@@ -301,96 +326,45 @@
 
                             <para>
                                 At the end of the round, one level of
-                                fatigue is gained, which may be recovered
-                                normally as per combat fatigue.
+                                fatigue is gained.
                             </para>
                         </description>
                     </y:advantage>
 
-                    <y:advantage name="No Limits" type="technique">
-                        <y:cost points="9"/>
-                        <y:skill name="Religion (Tharos)"/>
+                    <y:advantage name="Know the target" type="technique">
+                        <y:cost points="2"/>
+                        <y:skill name="Gebetan"/>
 
-                        <y:prerequisite>Beyond Limits</y:prerequisite>
+                        <y:prerequisite>Ceremonies of Tharos</y:prerequisite>
 
                         <description>
                             <para>
-                                As for <e>Beyond Limits</e>, but the cultist
-                                can choose to spend as many fatigue points
-                                as they like, each giving +1 to strength,
-                                agility and dexterity.
-                            </para>
-
-                            <para>
-                                If at the end of the round, fatigue is
-                                gained beyond the <e>exhausted</e> level,
-                                then a number of wounds are gained equal
-                                to the <e>total number</e> of fatigue
-                                gained (not the excess). If this takes the
-                                character to fatal level or beyond, then a
-                                health check must be made to remain alive.
+                                You know how to strike causing maximum pain
+                                and damage. You may add your <e>Gebetan</e>
+                                skill to your damage roll.
                             </para>
                         </description>
                     </y:advantage>
 
-                    <y:advantage name="Cloak of Shadows" type="technique">
+                    <y:advantage name="Awareness of others" type="technique">
                         <y:cost points="4"/>
-                        <y:skill name="Religion (Tharos)"/>
+                        <y:skill name="Gebetan"/>
+
+                        <y:prerequisite>Know the target</y:prerequisite>
 
                         <description>
                             <para>
-                                Tharos may help hide those of his followers
-                                who do not wish to be seen. Those who wear
-                                the dark hooded cloak of his priesthood may
-                                gain a bonus to stealth rolls equal to their
-                                religion score.
-                            </para>
-
-                            <para>
-                                Such cloaks are blessed in rituals to Tharos
-                                and have his symbol inscribed on the hem.
+                                You have an awareness of the world around
+                                you, and reactions which enable you to
+                                react without thinking. The base chance to
+                                hit you is increased by your skill unless
+                                you are unconscious or unable to move. This
+                                bonus is gained even if you are unware of
+                                the attack.
                             </para>
                         </description>
                     </y:advantage>
 
-                    <y:advantage name="Face of Friendship" type="technique">
-                        <y:cost points="9"/>
-                        <y:skill name="Religion (Tharos)"/>
-
-                        <y:prerequisite>Cloak of Shadows</y:prerequisite>
-
-                        <description>
-                            <para>
-                                The cultist is able to disguise themselves
-                                to look like another, using the will of
-                                Tharos to mask their true appearance.
-                            </para>
-                        </description>
-                    </y:advantage>
-
-                    <y:advantage name="Out of Sight" type="technique">
-                        <y:cost points="15"/>
-                        <y:skill name="Religion (Tharos)"/>
-
-                        <y:prerequisite>Face of Friendship</y:prerequisite>
-
-                        <description>
-                            <para>
-                                A cultist who has mastered <e>Out of
-                                Sight</e> is able to stay hidden from view
-                                as long as they do not move, and as long as
-                                none were watching him when he chose to
-                                hide.
-                            </para>
-
-                            <para>
-                                It takes a whole round to prepare this
-                                ritual, but once used, the cultist is
-                                hidden from normal sight - the cultist's
-                                stealth roll is doubled.
-                            </para>
-                        </description>
-                    </y:advantage>
                 </y:advantages>
             </sect2>
         </sect1>
