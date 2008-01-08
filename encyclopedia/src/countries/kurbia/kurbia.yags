@@ -30,6 +30,7 @@
         <style name="module"/>
 
         <references>
+            <see uri="euressa">Euressa</see>
             <see uri="pavnik">Pavnik</see>
             <see uri="ranistan">Ranistan</see>
             <see uri="false-mountains">False Mountains</see>
@@ -50,7 +51,7 @@
     <body>
         <sect1>
             <title>Kingdom of Kurbia</title>
-            
+
             <import-map uri="euressa" scale="0">
                 <area name="kurbia" margin="2"/>
             </import-map>
@@ -64,6 +65,24 @@
                 <qv uri="pavnik">Pavnik</qv>. South lays the
                 <qv uri="ranistan">Kingdom of Ranistan</qv>, with which
                 Kurbia is often at war.
+            </para>
+
+            <para>
+                Kurbia is one of the oldest kingdoms out of the eastern
+                nations, having had a stable royal line for the last
+                thousand years. A strong army, backed by the only organised
+                group of magicians on the continent, ensure that the
+                people do as they are told and that the borders remain
+                secure.
+            </para>
+
+            <para>
+                The biggest threat is currently the war with Ranistan which
+                has been dragging on for almost 15 years. The border is too
+                long to be able to defend all of it, but Kurbia's military
+                might is enough to squash any headway Ranistan is able to
+                make. However, the converse is also true, and little headway
+                has been made by either side in this time.
             </para>
         </sect1>
     </body>
