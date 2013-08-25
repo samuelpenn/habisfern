@@ -1,8 +1,8 @@
 Habisfern
 =========
 
-*Author:* Samuel Penn
-*License:* GPLv2
+**Author:** Samuel Penn  
+**License:** GPLv2
 
 Habisfern fantasy campaign setting
 
