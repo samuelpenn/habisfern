@@ -2,7 +2,8 @@ Habisfern
 =========
 
 **Author:** Samuel Penn  
-**License:** GPLv2
+**License:** GPLv2  
+**Website:** http://www.glendale.org.uk/habisfern/index
 
 Habisfern fantasy campaign setting
 
