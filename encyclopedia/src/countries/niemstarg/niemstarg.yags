@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license type="Yags">
-            <year>2004</year>
+            <year>2013</year>
             <holder>Samuel Penn</holder>
             <text>
                 This document can be redistributed and/or modified
@@ -64,8 +64,28 @@
 
             <para>
                 Niemstarg has a number of mines - tin and lead being
-                plentiful, but also gold and silver. These give guarenteed
-                wealth to the nation.
+                plentiful, but also gold, silver and iron. These give
+                guaranteed wealth to the nation.
+            </para>
+
+            <para>
+                Like the rest of the north coast, Niemstarg has a cold climate,
+                with snow covering the ground for several months of the year.
+                The forested hills in the south of the Kingdom are evergreen,
+                with much of the rest of the country being cold heath or
+                grassland. During the winter months, the sea is often frozen,
+                making trade difficult at best.
+            </para>
+
+            <para>
+                The largest town is <qv uri="nildorf">Nildorf</qv>, which is a
+                major trade hub for the north, especially during the summer
+                when the population doubles to around 10,000. The rest of
+                the country is sparsely populated, with only a few towns
+                with a population greater than a thousand. Most of the people
+                are independent farmers - the social hierarchy is quite flat,
+                with authority going to whoever is most likely to be able to
+                raise the biggest army.
             </para>
         </sect1>
     </body>
