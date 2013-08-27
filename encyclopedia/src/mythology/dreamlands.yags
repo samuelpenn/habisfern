@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Dreamlands</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="dreamlands">Dreamlands</subject>
+
+            <category>Mythology</category>>
+            <topic uri="rornic-mythology">Rornic Mythology</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Dreamlands</title>
+
+            <para>
+                <e>The Dreamlands</e> is the name sometimes given to the
+                realm of spirits and dreams, which sits alongside the middle
+                world, and sometimes overlaps into it. It is a fragmentary
+                realm, shaped by the dreams of men and the things that live
+                there.
+            </para>
+            <para>
+                It is a realm of the remembered dead - the spirits of those
+                whose deeds in life cause their names to be remembered live on
+                in the Dreamlands, whilst those who are forgotten fade into
+                obscurity and oblivion. Great heroes from long ago can still
+                be found here by those who are able to navigate its twisting
+                realms, living in splendour for as long as they are remembered.
+            </para>
+            <para>
+                It is thought that these realms were originally formed from the
+                <qv uri="dreams-of-iss">Dreams of Iss</qv>, and have since
+                been shaped by man.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
