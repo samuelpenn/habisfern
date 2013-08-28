@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Watersmeet</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="watersmeet">Watersmeet</subject>
+
+            <category>Towns</category>>
+
+            <topic uri="emrend-shire">Emrend Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Watersmeet</title>
+
+            <para>
+                On the shore of <qv uri="lake-watersmeet">Lake Watersmeet</qv>
+                is the town of the same name. It is the shire capital, and very
+                much the centre of the Kingdom's actual power within the Shire.
+                The further from Watersmeet you go, the less the Kingdom holds
+                sway over the population.
+            </para>
+            <para>
+                The town has a population of about 3,500, and most of its income
+                comes from trade with the north, or fishing on the lake.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
