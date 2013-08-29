@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Watersmeet</title>
+        <title>Lake Watersmeet</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -33,9 +33,9 @@
         </references>
 
         <topics>
-            <subject uri="watersmeet">Watersmeet</subject>
+            <subject uri="lake-watersmeet">Lake Watersmeet</subject>
 
-            <category>Towns</category>>
+            <category>Lakes</category>>
 
             <topic uri="emrend-shire">Emrend Shire</topic>
             <topic uri="weidany">Weidany</topic>
@@ -46,20 +46,26 @@
 
     <body>
         <sect1>
-            <title>Watersmeet</title>
+            <title>Lake Watersmeet</title>
 
             <para>
-                On the shore of <qv uri="lake-watersmeet">Lake Watersmeet</qv>
-                is the town of the same name. It is the shire capital, and very
-                much the centre of the Kingdom's actual power within the Shire.
-                The further from Watersmeet you go, the less the Kingdom holds
-                sway over the population. The town is also the only crossing for
-                the <qv uri="river-emrend">River Emrend</qv>, and a stone bridge
-                has existed here since the 9th century.
+                Formed from the joining on the two rivers
+                <qv uri="river-emrend">Emrend</qv> and
+                <qv uri="river-devrin">Devrin</qv>, the lake of Watersmeet, and
+                the valley in which it sits, has been a population centre for
+                several centuries. For a while, two kings held sway at either end
+                of the lake, but their kingdoms had been subsumed into one by the
+                9th century.
             </para>
             <para>
-                The town has a population of about 3,500, and most of its income
-                comes from trade with the north, or fishing on the lake.
+                The lake is rich in fish, and the shores of the lake are home to
+                several fishing villages, as well as the town of
+                <qv uri="watersmeet">Watersmeet</qv> at the south end, near the
+                bridge over the River Emrend.
+            </para>
+            <para>
+                The lake is about 11km long, and about 4km wide, with several
+                marshes along the north western shore.
             </para>
         </sect1>
     </body>

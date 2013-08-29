@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license type="Yags">
-            <year>2003</year>
+            <year>2013</year>
             <holder>Samuel Penn</holder>
             <text>
                 This document can be redistributed and/or modified
@@ -51,14 +51,27 @@
             <para>
                 The shire of Emrend is the southernmost of the shires of the
                 <qv uri="weidany">Kingdom of Weidany</qv>. The shire town
-                is Watersmeet, on the shores of the lake where the rivers
-                Emrend and Devrin meet.
+                is <qv uri="watersmeet">Watersmeet</qv>, on the shores of the
+                lake where the rivers <qv uri="river-emrend">Emrend</qv>
+                and <qv uri="river-devrin">Devrin</qv> meet.
             </para>
 
             <para>
                 Emrend's population is light, and scattered over much of the
-                shire. The land is very fertile, and the Emvin Hills are
+                shire. The land is very fertile, and the
+                <qv uri="emvin-hills">Emvin Hills</qv> are
                 renowned for the fine wines which are produced there.
+            </para>
+
+            <para>
+                Emrend was a Rornic kingdom back in the 9th century, where it
+                was the first target of a massive invasion by the
+                <qv uri="short-folk">Short Folk</qv> and their allies. It
+                was the last place from where the invaders were driven out,
+                and since the independence of <qv uri="midlaen">Midlaen</qv>
+                is considered to be the least civilised part of the Kingdom
+                (though <qv uri="estwed">Estwed</qv> has more wilderness,
+                the populated areas show greater loyalty to the Queen).
             </para>
         </sect1>
     </body>
