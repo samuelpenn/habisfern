@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license type="Yags">
-            <year>2002</year>
+            <year>2013</year>
             <holder>Samuel Penn</holder>
             <text>
                 This document can be redistributed and/or modified
@@ -46,24 +46,53 @@
             <title>Wyrms</title>
 
             <para>
-                Wyrms are the distant relatives of dragons, being 
-                more akin to beasts than to their mythical ancestors.
+                Wyrms are the distant relatives of <qv uri="dragons">dragons</qv>,
+                being more akin to beasts than to their mythical ancestors. They
+                are generally larger than a man, being three to five yards in
+                length, with a long sinuous body, four limbs and small wings. Not
+                all can fly, and those that can, do so badly for short distances.
             </para>
-
             <para>
-                It is said that a wyrm is born from either the 
-                breaking of the earth, or after a great spilling 
-                of blood. They are considered to be the 
-                harbringers of chaos - for good or ill.
+                Unlike dragons, which are most famed for their fiery breath,
+                wyrms will often spew poison and choking gas. Their lairs are
+                often in a region of dead or dying vegetation, or in fouls marshes
+                and swamps. They prefer areas which lack open ground, where they
+                can use their ability to twist and turn their body around and
+                over obstacles to their advantage.
             </para>
-
             <para>
-                The White Wyrm of Abbington is the most famous of 
-                recent wyrms, and also one of the largest. The
-                White Wyrm was slain in 1182 by
-                <qv uri="renbric-slayer">Renbric the Slayer</qv>.
+                Their bodies are often scaly and slimy, and when cut even their
+                blood gives off noxious vapours which can knock a man down.
             </para>
 
+            <sect2>
+                <title>Mythology</title>
+                <para>
+                    It is said that a wyrm is born from either the breaking of the
+                    earth, or after a great spilling of blood, especially if
+                    treachery was involved for they are considered a symbol of
+                    treachery and duplicity. They are also harbingers of chaos
+                    and change - for good or ill.
+                </para>
+                <para>
+                    All wyrms are thought to be female, and they carry their young
+                    in their body from birth. Killing a wyrm can result in the
+                    birth of their young, which slip away to infect the region again
+                    in a hundred years. Only the complete burning of the corpse of
+                    a wyrm will end the curse of their existence.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Legends</title>
+
+                <para>
+                    The <qv uri="white-wyrm-abbington">White Wyrm of Abbington</qv>
+                    is the most famous of recent wyrms, and also one of the largest.
+                    The White Wyrm was slain in 1182 by
+                    <qv uri="renbric-slayer">Renbric the Slayer</qv>.
+                </para>
+            </sect2>
         </sect1>
     </body>
 </article>
