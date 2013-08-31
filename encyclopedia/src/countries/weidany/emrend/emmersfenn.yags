@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Emmersfen</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="emmersfenn">Emmersfen</subject>
+
+            <category>Marshes</category>>
+
+            <topic uri="emrend-shire">Emrend Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Emmersfenn</title>
+
+            <para>
+                Found along the <qv uri="river-emmer">River Emmer</qv>, before
+                it plunges into the <qv uri="hainwood">Hainwood</qv>, Emmersfen
+                is a region of marshes and fens along south bank of the river.
+                It is an old flood plain, though it has been many generations
+                since the river flooded this area completely. Instead, there
+                are several miles water logged grassland.
+            </para>
+            <sect2>
+                <title>Legends</title>
+                <para>
+                    Long ago, these fens were said to be the home of a great
+                    wyrm known as <qv uri="aettren-bitan">Aettren Bitan</qv>,
+                    that dominated the region for many decades. It was slain
+                    over a hundred years ago, but its children are said to
+                    dwell here still, hiding until they grow to sufficient
+                    size to cause terror again.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+
