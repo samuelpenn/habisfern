@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Wverns</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="wyverns">Wyverns</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="dragons">Dragons</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Wyverns</title>
+
+            <para>
+                Wyverns are medium sized dragon-like predators often found in
+                mountainous regions. They are not related to dragons or any of
+                their kind however, and have no intelligence beyond that of
+                animal cunning.
+            </para>
+            <para>
+                Wyverns are winged beasts with a serpentine body and two powerful
+                legs with sharp claws capable of slicing a man open. They are
+                normally five to seven feet in length, with a poisonous stinger
+                at the end of their tail capable of paralysing anything up to the
+                size of a cow.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
