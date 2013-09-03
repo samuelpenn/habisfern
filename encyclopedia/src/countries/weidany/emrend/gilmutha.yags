@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Gilmutha</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="gilmutha">Gilmutha</subject>
+
+            <category>Towns</category>>
+
+            <topic uri="emrend-shire">Emrend Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Gilmutha</title>
+
+            <para>
+                Gilmutha is located at the mouth of the
+                <qv uri="river-gilt">River Gilt</qv>, and is a heavily
+                fortified town with a population of about four thousand.
+                It is now the southernmost of the Kingdom's ports, since
+                <qv uri="midlaen">Midlaen</qv> claimed independence in 1193.
+                A fortress overlooks the harbour on the northern shore,
+                whilst most of the town is on the southern shore. Ferries
+                connect the two halves, and though there has been discussion
+                about building a bridge, this would hinder river traffic and
+                so nothing has been done.
+            </para>
+            <para>
+                There is a temple of Neya here, which is the most dominant
+                feature on the southern shore. It was built by
+                <qv uri="osny-bloody">Osny the Bloody</qv> when she came
+                to Gilmutha in 1212 at the age of 15. She is effectively in
+                charge of the town. Despite her kinship to the Queen, she is
+                not exactly on good terms with the royal court and so the
+                town's support of the Kingdom is questionable at best,
+                though no attempt has been made to actually break away.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

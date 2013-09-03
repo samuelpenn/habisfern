@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>River Gilt</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="river-gilt">River Gilt</subject>
+
+            <category>Rivers</category>>
+
+            <topic uri="emrend-shire">Emrend Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>River Gilt</title>
+
+            <para>
+                The Gilt River flows through some of the most populated land
+                in <qv uri="emrend-shire">Emrend</qv>, out of the western hills
+                and down to the harbour at <qv uri="gilmutha">Gilmutha</qv>.
+                For most of its length, it is a wide, slow river which is
+                navigable for much of its length up to the town of
+                <qv uri="barwaed">Barwaed</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
