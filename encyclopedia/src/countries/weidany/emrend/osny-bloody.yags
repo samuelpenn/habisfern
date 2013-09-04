@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Osny the Bloody</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="osny-bloody">Osny the Bloody</subject>
+
+            <category>Nobles</category>>
+
+            <topic uri="emrend-shire">Emrend Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Osny the Bloody</title>
+
+            <para>
+                Born in 1197 to Burhed, captain of the Red Guard and sister to
+                <qv uri="queen-behrith">Queen Behrith of Weidany</qv>, Osny
+                severed her claim to the throne and left the royal court at the
+                age of 13 in 1210. Through sheer force of personality, she
+                gathered together followers of her own and sailed down to
+                <qv uri="gilmutha">Gilmutha</qv>, where in 1215 she stormed the
+                castle and took control of the town for herself.
+            </para>
+            <para>
+                She was joined in 1218 by Thegn Wulfred, and together they put
+                down a rebellion against the Kingdom in a series of quick,
+                decisive battles. In 1223, he sided with the council of Gilmutha
+                in trying to take control from her. She escaped from her tower
+                prison, and personally killed him and several of the council
+                members before forces loyal to her arrived and helped her
+                reclaim her position. She has ruled the town since then, and
+                no-one dares stands against her.
+            </para>
+            <para>
+                She had a son and a daughter by Wulfred, both of whom she
+                drowned after his betrayal.
+            </para>
+            <para>
+                She has no love for her aunt, the Queen, but considers herself
+                to be loyal to the Kingdom and the position of Queen, though
+                only pays the bare minimum of respect to orders and declarations
+                that are sent down to her.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
