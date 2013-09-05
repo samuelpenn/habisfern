@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Blackbay</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="blackbay">Blackbay</subject>
+
+            <category>Towns</category>>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Blackbay</title>
+
+            <para>
+                Blackbay is the most infamous town in Midlaen, and also the
+                largest and most influential. Pretty much all trade from the
+                north comes through Blackbay, for it has a deep natural harbour
+                on an otherwise treacherous coast.
+            </para>
+            <para>
+                The town has a population of over ten thousand, and is ruled
+                by Eorl Paega, an ageing man who relies on his excellent grasp
+                of local politics and intrigues to keep control.
+            </para>
+            <para>
+                Blackbay is known as being a haven for pirates, thieves and
+                other outlaws wanted in the north. There are no laws here,
+                except for those that you can enforce yourself. However,
+                there is a dangerous sort of stability to the place, and as
+                long as you pay your protection money and don't upset the wrong
+                people, things can be quite safe.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
