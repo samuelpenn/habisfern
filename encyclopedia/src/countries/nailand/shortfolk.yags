@@ -50,51 +50,63 @@
             <title>Short Folk</title>
 
             <para>
-                Inhabiting the plains and woods of Nailand are a 
-                race of short, hairy people who are collectively 
-                known as the Short Folk by the Rornic. They are 
-                possibly related to the mythical Cannadd culture 
-                in Taneith, and it is known that they lived here 
-                long before the People of Rorn came across from 
-                the Old World.
+                Inhabiting the plains and woods of <qv uri="nailand">Nailand</qv>
+                are a race of short, hairy people who are collectively known as
+                the <e>Short Folk</e> by the Rornic. They are possibly related
+                to the mythical <qv uri="cannadd">Cannadd</qv> culture in
+                <qv uri="taneith">Taneith</qv>, and it is known that they lived
+                here long before the People of Rorn came across from the
+                <qv uri="old-world">Old World</qv>.
+            </para>
+            <para>
+                Their own name for themselves is 'Parthika', which is thought
+                to translate roughly as 'The Travellers'. Since they are mostly
+                nomadic barbarians, this name seems to fit. They are not all
+                nomads however, and about 1 in 10 live in small villages.
+            </para>
+            <para>
+                The adult men are about 150cm tall, with the women being about
+                10cm shorter. They are slight of build,  but quite strong. Much
+                of a male's body is covered in thick dark hair, and the fashion
+                is to grow long beards and head hair. Their faces are strangely
+                inhuman, with large eyes and noses. They are considered to be
+                adult by the age of 13, and develop quicker than normal people.
+                They rarely live beyond the age of 50 however.
             </para>
 
             <para>
-                The short folk are mostly nomadic barbarians, 
-                though a proportion of them do live in small villages.
+                The women are far less hairy, and often wear
+                their head hair short or clean shaven. Status
+                amongst the women is shown by less hair, though
+                this is more fashion than anything. Real status
+                is denoted by tattoos, which the women wear
+                openly. The quantity and quality of the tattoos
+                tends to increase with age.
             </para>
 
             <para>
-                The adult men are about 150cm tall, with the 
-                women being about 10cm shorter. They are slight 
-                of build,  but quite strong. Much of a male's 
-                body is covered in thick dark hair, and the 
-                fashion is to grow long beards and head hair.
+                The short folk tend to wear little or no clothing, depending
+                depending on circumstances and weather, and do tend to be
+                quite hardy and resistant to the cold. The women in
+                particular like to show off their tattoos during social
+                occasions.
             </para>
 
             <para>
-                The women are far less hairy, and often wear 
-                their head hair short or clean shaven. Status 
-                amongst the women is shown by less hair, though 
-                this is more fashion than anything. Real status 
-                is denoted by tatoos, which the women wear 
-                openly. The quantity and quality of the tatoos 
-                tends to increae with age.
+                Short folk society is a
+                <qv uri="shortfolk-matriachs">matriarchy</qv>, with tribes
+                being ruled by the female shamans. Their gods are
+                all death goddesses, some of whom are quite brutal.
             </para>
-
             <para>
-                The short folk tend to wear little or no 
-                clothing, depending on circumstances and weather. 
-                The women in particular like to show off their 
-                tatoos during social occassions.
+                Sexual relations between the Short Folk and those of Rornic
+                stock have been known, but rarely result in pregnancy, and
+                even more rarely result in a live birth. When it does, the
+                child of a Folk mother has the characteristics of a
+                Short Folk, though is normally infertile. Those half-breeds
+                of a Rornic mother are larger and hardier than a pure
+                Rornic, but are often dimwitted and violent.
             </para>
-
-            <para>
-                Short folk society is a matriarchy, with tribes 
-                being ruled by the female shamans. Their gods are 
-                all earth goddesses, some of whom are quite brutal.
-            </para>
-
         </sect1>
     </body>
 </article>
