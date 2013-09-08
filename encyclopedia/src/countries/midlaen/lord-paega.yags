@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Blackbay</title>
+        <title>Lord Paega</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -33,7 +33,7 @@
         </references>
 
         <topics>
-            <subject uri="blackbay">Blackbay</subject>
+            <subject uri="lord-paega">Lord Paega</subject>
 
             <category>Towns</category>>
 
@@ -45,26 +45,28 @@
 
     <body>
         <sect1>
-            <title>Blackbay</title>
+            <title>Lord Paega of Blackbay</title>
 
             <para>
-                Blackbay is the most infamous town in Midlaen, and also the
-                largest and most influential. Pretty much all trade from the
-                north comes through Blackbay, for it has a deep natural harbour
-                on an otherwise treacherous coast.
+                Born in 1166, Paega was the captain of the <e>Night Owl</e>
+                'merchant' ship by the time of the 1193 rebellion against the
+                Kingdom of Weidany. Though still in his twenties, he was
+                already influential and known for his strong leadership
+                qualities, as well as harsh discipline and honesty to those
+                loyal to him.
             </para>
             <para>
-                The town has a population of over ten thousand, and is ruled
-                by Lord Paega, an ageing man who relies on his excellent grasp
-                of local politics and intrigues to keep control.
+                Seeing an opportunity for profit, he was soon organising some
+                of the strikes against Royalists, and by the time it was all
+                over he was amongst the first to begin consolidating a power
+                base. Through clever political manoeuvring he soon found
+                himself on the council of captains that took control of
+                <qv uri="blackbay">Blackbay</qv>, and within ten years was
+                the only one left with any real authority.
             </para>
             <para>
-                Blackbay is known as being a haven for pirates, thieves and
-                other outlaws wanted in the north. There are no laws here,
-                except for those that you can enforce yourself. However,
-                there is a dangerous sort of stability to the place, and as
-                long as you pay your protection money and don't upset the wrong
-                people, things can be quite safe.
+                Blackbay is now run entirely by Lord Paega, and no-one dares
+                to openly question his rule.
             </para>
         </sect1>
     </body>
