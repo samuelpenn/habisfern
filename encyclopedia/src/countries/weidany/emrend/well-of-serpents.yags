@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Well of the Serpents</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="well-of-serpents">Well of the Serpents</subject>
+
+            <category>Henges</category>>
+
+            <topic uri="emrend-shire">Emrend Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Well of the Serpents</title>
+
+            <para>
+                Deep within the woods of <qv uri="emrend-shire">Emrend Shire</qv>
+                is a great sink hole ringed by the statues of serpents. They are
+                thirteen statues in all, each between three and five metres in
+                height. They look inwards, down into the pit.
+            </para>
+            <para>
+                The hole, which is some fifteen metres deep, is filled with water
+                at the bottom, though it is not known how deep the water goes.
+                There are tunnels beneath the surface, which lead it is said
+                to ancient ruins of the <qv uri="elders">Elders</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
