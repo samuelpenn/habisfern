@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Rawmerc Woods</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="rawmerc-woods">Rawmerc Woods</subject>
+
+            <category>Woods</category>>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+   <!-- Dead body Marches -->
+
+    <body>
+        <sect1>
+            <title>Rawmerc Woods</title>
+
+            <para>
+                The eastern borders of Estwed cover much land which is
+                considered home by the <qv uri="shortfolk">Shortfolk</qv>.
+                In this area can be found several burial grounds of the
+                Shortfolk, which are considered to be sacred sites.
+            </para>
+            <para>
+                Though the Shire sends out regular patrols along the borders
+                in order to keep their claim of ownership, the Kingdom does
+                has little actual control over the woods. Patrols often go
+                missing, or return with stories of being set upon by the
+                bodies or spirits of the dead.
+            </para>
+            <para>
+                There are both Shortfolk and Kingdom settlements in the
+                area, and clashes are common though rarely severe.
+                Kidnappings and theft are the most common occurrences,
+                and both sides tend to fall back if they encounter any
+                effective defence.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

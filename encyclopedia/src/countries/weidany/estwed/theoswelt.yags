@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Theoswelt</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="theoswelt">Theoswelt</subject>
+
+            <category>Towns</category>>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Theoswelt</title>
+
+            <para>
+                In the forests of Estwed Shire can be found a number of salt
+                mines which provides the Kingdom and most of the surrounding
+                lands with their supplies of precious salt. The largest of
+                these mines is <e>Theoswelt</e>, a town of some two thousand
+                people about three quarters of whom are slaves.
+            </para>
+            <para>
+                Roads connect Theoswelt with the trade routes to the west,
+                but it is otherwise a settlement in the middle of nowhere.
+                The conditions in the mines are harsh, and fresh supplies
+                of slaves are needed almost continuously. Most of them
+                come from the <qv uri="shortfolk">Shortfolk</qv>, but the
+                rest must be supplied by the Kingdom.
+            </para>
+            <para>
+                The town is a most unpleasant place, with much of it being
+                slave pens, graves or those who deal in those. It is run
+                by Thegn Osbeorn the Harsh, of the
+                <qv uri="eanwulf-house">House of Eanwulf</qv>. He has a
+                great deal of influence due to the wealth that he brings in,
+                but he is disliked by all.
+            </para>
+            <para>
+                The woods around the settlement suffer from regular ghoul
+                infestations.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
