@@ -96,6 +96,10 @@
                 <category name="Temples">
                     <title>Temples and Religious Buildings</title>
                 </category>
+
+                <category name="Roads">
+                    <title>Roads and Pathways</title>
+                </category>
             </category>
 
             <category name="Regions">
