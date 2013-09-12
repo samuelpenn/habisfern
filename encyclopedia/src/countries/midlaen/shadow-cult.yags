@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Shadow Cult</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="tharos">Tharos</see>
+            <see uri="blackbay">Blackbay</see>
+        </references>
+
+        <topics>
+            <subject uri="shadow-cult">Shadow Cult</subject>
+
+            <category>Cults</category>>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Shadow Cult</title>
+
+            <para>
+                Spread throughout Midlaen, but centred at Blackbay, are
+                the assassins known as the Shadow Cult. They are cultists
+                of the god Tharos, and will willingly provide their god
+                with sacrifices if presented with suitable coin.
+            </para>
+            <para>
+                The cult is illegal, though it is said that they have an
+                agreement with <qv uri="lord-paega">Lord Paega</qv> who
+                sees to it that they are not hunted down with much
+                enthusiasm. It is known that those who have tried hard
+                to destroy the cult have generally not lasted long.
+            </para>
+            <para>
+                How many there are in number is not known, though
+                estimates range from a dozen to a hundred. Their preferred
+                technique is stealth and subtly, though they are said to be
+                skilled warriors as well. They wear no insignia, nor do
+                they meet openly. There are certain places in Blackbay
+                though where enquiries may be made, and a contact will then
+                find you if they consider you a serious client.
+            </para>
+            <para>
+                <e>The Shadow Cult</e> is probably the largest and best
+                organised of all the cults of Tharos. Generally, those who
+                venerate him are not willing to organise with others.
+                There are some back in the Kingdom who see the Shadows as
+                a heresy because of this, and there are occasional feuds
+                been the Shadows and other Tharos cultists. So far, they
+                have survived, but tend to limit their expeditions into
+                the Kingdom.
+            </para>
+            <para>
+                The leader of this cult is known as the Night Father,
+                though the actual identity of this person is not known.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
