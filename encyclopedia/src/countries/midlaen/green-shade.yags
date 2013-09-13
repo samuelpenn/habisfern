@@ -29,10 +29,6 @@
 
         <style name="module"/>
 
-        <references>
-            <see uri="weidany">Weidany</see>
-        </references>
-
         <topics>
             <subject uri="green-shade">Green Shade Forest</subject>
 
