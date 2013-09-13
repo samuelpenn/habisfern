@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Northern Marches</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <topics>
+            <subject uri="midlaen-north-march">Northern Marches</subject>
+
+            <category>Regions</category>>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Northern Marches</title>
+
+            <para>
+                The north eastern borders of Midlaen are often raided
+                by the <qv uri="shortfolk">Short Folk</qv>, and a string
+                of keeps and fortified settlements along the border are
+                placed to keep them at bay.
+            </para>
+            <para>
+                The effectiveness of this border is generally considered to
+                be low, and raids deep into Midlaen are not uncommon.
+                However, the <qv uri="marcher-lords">Marcher Lords</qv> who
+                guard the border consider it their home, and it is sufficiently
+                far from any authority to provide them with a great deal of
+                independence. Given the general independent nature of
+                Midlaen anyway, most Marcher Lords effectively act as they
+                will, and are ignored or forgotten by everyone else.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
