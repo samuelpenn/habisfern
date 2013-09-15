@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
+    <header>
+        <title>Vagabonds</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="vagabonds">Vagabonds</subject>
+
+            <category>People</category>>
+
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Vagabonds</title>
+
+            <para>
+                Vagabonds are itinerant wanderers without home or family.
+                They survive by begging, thieving or performing menial work
+                for those they meet. They are generally disliked and
+                distrusted by everyone, and are often treated little better
+                than outlaws.
+            </para>
+            <para>
+                Groups of vagabonds are feared, and are likely to be broken
+                up or punished.
+            </para>
+            <para>
+                However, vagabonds are legally freemen. By definition, they
+                are anyone who lives without land or lord, so there is no-one
+                between them and the Queen. In practise, they may be legally
+                punished by anyone who has royal authority, which covers all
+                those who own land.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
