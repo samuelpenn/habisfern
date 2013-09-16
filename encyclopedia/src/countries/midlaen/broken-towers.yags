@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Broken Towers</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="broken-towers">Broken Towers</subject>
+
+            <category>Ruins</category>>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Broken Towers</title>
+
+            <para>
+                The Broken Towers are the overgrown remains of a ruined
+                city in central Midlaen. It is thought to have been either
+                an outpost of the <qv uri="five-kingdoms">Five Kingdoms</qv>,
+                or a place that the Rornic people made on their migration
+                after the <qv uri="betrayal">Betrayal</qv>.
+                They are sometimes known as Drosan Tor.
+            </para>
+            <para>
+                The ruins are the most impressive group of stone buildings
+                set amongst the <qv uri="hills-of-ruin">Hills of Ruin</qv>,
+                the largest of which are several stone towers. Most the
+                buildings have crumbled into ruin, and it is thought that
+                the majority of the city was of wooden construction,
+                leaving only the odd stone edifice as a symbol of what
+                stood before.
+            </para>
+            <para>
+                Most of what remains though is underground, for whoever
+                did build this place seemed to have dug in and built
+                deeply. Most of the place is overrun by
+                <qv uri="ghouls">Ghouls</qv>, so most avoid it as much
+                as they can.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
