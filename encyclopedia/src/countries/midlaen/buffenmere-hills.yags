@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Buffenmere Hills</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="buffenmere-hills">Buffenmere Hills</subject>
+
+            <category>Hills</category>>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Buffenmere Hills</title>
+
+            <para>
+                The Buffenmere Hills are found in central Midlaen, covering
+                an area maybe a hundred kilometres across, and rising to
+                over a thousand metres in height. They are a mix of high
+                grassy moors, foothills and broken lands.
+            </para>
+            <para>
+                Surrounding the hills are four low laying areas, three of
+                which are lakes, the fourth southern region is
+                <qv uri="dimmfen-marsh">Dimmfen Marsh</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
