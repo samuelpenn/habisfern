@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Dimmfen Marsh</title>
+        <title>Mercside</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -33,9 +33,9 @@
         </references>
 
         <topics>
-            <subject uri="dimmfen-marsh">Dimmfen Marsh</subject>
+            <subject uri="mercside">Mercside</subject>
 
-            <category>Marshes</category>>
+            <category>Towns</category>>
 
             <topic uri="midlaen">Midlaen</topic>
             <topic uri="euressa">Euressa</topic>
@@ -45,25 +45,21 @@
 
     <body>
         <sect1>
-            <title>Dimmfen Marsh</title>
+            <title>Mercside</title>
 
             <para>
-                <e>The Dark Fens</e>, also known as <e>Dimmfen Marsh</e>,
-                is an area of marsh south of the
-                <qv uri="buffenmere-hills">Buffenmere Hills</qv>. Some
-                of it is low laying grasses which flood regularly, but
-                most is permanent marshland that is fed from the hills.
+                Mercside is a blighted town of about a thousand inhabitants,
+                which is found on the foul edge of
+                <qv uri="dimmfen-marsh">Dimmfen Marsh</qv>. The people here
+                have been corrupted by the darkness that dwells in the marsh,
+                and many show physical signs of that corruption in the form
+                of skin diseases or more severe deformities.
             </para>
             <para>
-                The marshes hide graveyards and battlefields from an
-                earlier time, and the deeper parts of the marsh are said
-                to be filled with the corpses of the long dead.
-            </para>
-            <para>
-                For the most part, the marshes are barren of trees, but
-                a few twisted mockeries stand near the centre. A great
-                darkness is said to dwell here, one which corrupts the
-                rest of the swamp with its presence.
+                The town is a ramshackle affair, with the only good building
+                being the temple at the centre which is dedicated to the
+                god <qv uri="meam">Meam</qv>. It is the priests of this temple
+                that rule here, and they do not welcome outsiders.
             </para>
         </sect1>
     </body>

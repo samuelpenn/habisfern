@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Dimmfen Marsh</title>
+        <title>Bordweall</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -33,9 +33,9 @@
         </references>
 
         <topics>
-            <subject uri="dimmfen-marsh">Dimmfen Marsh</subject>
+            <subject uri="bordweall">Bordweall</subject>
 
-            <category>Marshes</category>>
+            <category>Towns</category>>
 
             <topic uri="midlaen">Midlaen</topic>
             <topic uri="euressa">Euressa</topic>
@@ -43,27 +43,15 @@
         </topics>
     </header>
 
+    <!-- Shieldwall -->
+
     <body>
         <sect1>
-            <title>Dimmfen Marsh</title>
+            <title>Bordweall</title>
 
             <para>
-                <e>The Dark Fens</e>, also known as <e>Dimmfen Marsh</e>,
-                is an area of marsh south of the
-                <qv uri="buffenmere-hills">Buffenmere Hills</qv>. Some
-                of it is low laying grasses which flood regularly, but
-                most is permanent marshland that is fed from the hills.
-            </para>
-            <para>
-                The marshes hide graveyards and battlefields from an
-                earlier time, and the deeper parts of the marsh are said
-                to be filled with the corpses of the long dead.
-            </para>
-            <para>
-                For the most part, the marshes are barren of trees, but
-                a few twisted mockeries stand near the centre. A great
-                darkness is said to dwell here, one which corrupts the
-                rest of the swamp with its presence.
+                The largest settlement in the
+                <qv uri="midlaen-north-march">North March</qv>
             </para>
         </sect1>
     </body>
