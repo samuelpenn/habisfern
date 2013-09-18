@@ -30,6 +30,8 @@
         <style name="module"/>
 
         <references>
+            <see uri="marcher-lords">Marcher Lords</see>
+            <see uri="midlaen-north-march">North March</see>
         </references>
 
         <topics>
@@ -50,8 +52,10 @@
             <title>Bordweall</title>
 
             <para>
-                The largest settlement in the
-                <qv uri="midlaen-north-march">North March</qv>
+                Bordweall is the largest settlement in the North March,
+                with a population of about two thousand. It is governed by
+                the Marcher Lord Edgarson Strongarm, who takes his role
+                seriously.
             </para>
         </sect1>
     </body>
