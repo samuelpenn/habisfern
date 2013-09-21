@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Laet River</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="laet-river">Laet River</subject>
+
+            <category>Rivers</category>>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Laet River</title>
+
+            <para>
+                The Laet River (from the Rornic for 'slow') is so named because
+                of its breadth and general sedateness. It is the main river that
+                drains <qv uri="lake-gad">Lake Gad</qv>, and feeds into (and drains
+                out of) several other lakes and marshes on its way to
+                <qv uri="salmon-bay">Salmon Bay</qv> where it finally reaches
+                the sea some 200km later.
+            </para>
+            <para>
+                It is over a kilometre wide downstream, and contains dozens of
+                islands at varies points along its length.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
