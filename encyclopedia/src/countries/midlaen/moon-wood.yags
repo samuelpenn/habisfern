@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Moon Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <topics>
+            <subject uri="moon-wood">Moon Wood</subject>
+
+            <category>Woods</category>>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Moon Wood</title>
+
+            <para>
+                The lands that run along the Midlaen coast south of the
+                <qv uri="lagudal-valley">Lagudal Valley</qv> are covered in
+                thick forests, the largest and most continuous of which are
+                known as the <e>Moon Wood</e>. Unlike many of the other woods
+                of Midlaen, these are actually home to humans - followers of
+                the dark goddess <qv uri="besenreth">Besenreth</qv>. It is
+                not known for certain exactly how many of her followers
+                dwell here, but it is thought to be a few thousand.
+            </para>
+            <para>
+                Though the bulk of the cultists dwell in temporary camps
+                or small villages, they have a 'capital' at
+                <qv uri="woodtop">Woodtop</qv>, a town that is built in
+                the tops of the trees.
+            </para>
+            <sect2>
+                <title>Geography</title>
+                <para>
+                    The northern reaches of the woods can be damp, if not
+                    swampy. The land rises to the south though, and the
+                    trees are taller and more densely packed. Thick forest
+                    lines the coast, which is mostly tall cliffs with
+                    few beaches or harbours. This stretch of coastline is
+                    actually how many think of Midlaen - impenetrable and
+                    hostile to potential colonists and explorers. Though
+                    two rivers meet the coast, they are both waterfalls
+                    which are not navigable by boat.
+                </para>
+                <para>
+                    The hilly central regions have sparser tree cover, and
+                    this is where most of the population dwells. To the
+                    west, a few barren foothills protrude above the forest
+                    canopy. These are home to a small number of wyverns,
+                    but are mostly barren of other animals.
+                </para>
+            </sect2>
+            <sect2>
+                <title>Inhabitants</title>
+                <para>
+                    The <qv uri="cult-dark-moon">Cult of the Dark Moon</qv>
+                    is based at Woodtop, and their followers range throughout
+                    the forest. The bulk of the population is mobile, and
+                    only a few small villages have cleared ground for use in
+                    agriculture.
+                </para>
+                <para>
+                    Wild boar roam freely, and together with deer make up the
+                    bulk of the meat consumed by the cultists. The rest is
+                    fruits and other vegetables gathered from the forest.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+
