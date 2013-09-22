@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="644.79324"
-     inkscape:cy="783.24689"
+     inkscape:zoom="0.7"
+     inkscape:cx="1018.8947"
+     inkscape:cy="951.09477"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1305"
      inkscape:window-height="992"
-     inkscape:window-x="786"
-     inkscape:window-y="32"
+     inkscape:window-x="759"
+     inkscape:window-y="52"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -12170,6 +12170,17 @@ nnA7Dtk6lJVKlBT50tR8qvc//9k=
        d="m 1079.2858,721.0461 c 5.3119,-19.07212 -5.7143,-30.23301 -5.7143,-50"
        id="path4252"
        inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 772.85714,123.90325 c -1.75528,0.0469 1.39693,11.46022 0,12.85714 -3.80952,3.80953 -6.19047,9.04762 -10,12.85715 -2.46276,2.46276 -0.0438,11.47238 -2.85714,14.28571 -11.68908,11.68908 -12.99757,25.43343 -7.14286,37.14286 2.12677,4.25353 7.6902,3.40448 10,5.71428 8.43433,8.43433 -6.15445,23.84555 2.85715,32.85715 1.95081,1.95081 10.90633,-0.52225 12.85714,1.42857 12.70643,12.70643 40.88691,5.98511 55.71428,-1.42857 18.57294,-9.28647 27.92314,13.96156 37.14286,18.57142 13.5505,6.77526 51.02202,-5.09882 51.42857,-4.28571 3.06654,6.13307 8.12142,16.69285 14.28572,22.85714 2.68779,2.6878 8.57143,4.89582 8.57143,10"
+       id="path4303"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 821.42857,712.47468 c -10.35457,-18.7558 -0.28085,-14.00486 12.85714,-27.14286 4.96941,-4.96941 -10.09479,-14.19092 -4.28571,-20 10.95777,-10.95777 34.25535,-8.54106 42.85714,-17.14286 4.73272,-4.73271 4.59802,-13.16944 8.57143,-17.14285 6.75231,-6.75231 17.14286,-9.18713 17.14286,-22.85715 0,-1.98141 3.5922,-14.63247 1.42857,-15.71428 -4.14695,-2.07348 -21.38646,-21.44963 -12.85714,-25.71429 12.14438,-6.07219 17.14285,-24.37541 17.14285,-40"
+       id="path4309"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssssc" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -12280,6 +12291,27 @@ nnA7Dtk6lJVKlBT50tR8qvc//9k=
          x="602.09015"
          y="654.92853"
          id="tspan3305-7">Woodtop</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3263-7-2"
+       sodipodi:cx="1351.5841"
+       sodipodi:cy="419.44757"
+       sodipodi:rx="6.0609155"
+       sodipodi:ry="6.0609155"
+       d="m 1357.645,419.44757 a 6.0609155,6.0609155 0 1 1 -12.1218,0 6.0609155,6.0609155 0 1 1 12.1218,0 z"
+       transform="matrix(0.42774981,0,0,0.42774981,241.34975,521.41112)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="764.62695"
+       y="720.41132"
+       id="text3301-30"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="764.62695"
+         y="720.41132"
+         id="tspan3305-8">Brenthold</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -12424,5 +12456,39 @@ nnA7Dtk6lJVKlBT50tR8qvc//9k=
          id="tspan4256"
          x="550.35638"
          y="633.39587">Moon Wood</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="139.52475"
+       y="1091.6368"
+       id="text4305"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.71612082,-0.69797634,0.69797634,0.71612082,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4307"
+         x="139.52475"
+         y="1091.6368">River Brent</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="964.28571"
+       y="229.61754"
+       id="text4335"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4337"
+         x="964.28571"
+         y="229.61754">Midlaen Moors</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="932.85712"
+       y="193.90324"
+       id="text4339"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4341"
+         x="932.85712"
+         y="193.90324">Fear Wood</tspan></text>
   </g>
 </svg>
