@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Fear Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <topics>
+            <subject uri="fear-wood">Fear Wood</subject>
+
+            <category>Woods</category>>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+   <!-- Feorr (far-off) woods -->
+
+    <body>
+        <sect1>
+            <title>Fear Wood</title>
+
+            <para>
+                The Fear Wood straddles the border between Midlaen and Emrend.
+                It is actually not a fearsome wood - the name comes from
+                <e>Feorr</e>, which means far-off, and was so called because
+                it was far from heartlands of the Kingdom.
+            </para>
+            <para>
+                The wood encircles the <qv uri="midlaen-moors">Midlaen Moors</qv>,
+                and stretches from the coast near <qv uri="blackbay">Blackbay</qv>
+                to <qv uri="nailand">Nailand</qv>. Much of it is light woodland
+                rather than forest, but there are no good trade roads which run
+                through it.
+            </para>
+            <para>
+                The woods are home to <qv uri="ents">Ents</qv>, who since the
+                late 12th century have been unwilling to allow humans to
+                travel through their lands. They are strong in number, and
+                well organised, striking out of well fortified villages
+                in the woods. There are few human settlements near the southern
+                borders of the woods, so most of their interaction is with
+                humans in Emrend.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
