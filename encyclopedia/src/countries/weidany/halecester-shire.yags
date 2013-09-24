@@ -30,6 +30,10 @@
         <style name="module"/>
 
         <references>
+            <see uri="short-folk">Short Folk</see>
+            <see uri="nailand">Nailand</see>
+            <see uri="cenicsdyke-shire">Cenicsdyke</see>
+            <see uri="alderning">Alderning</see>
         </references>
 
         <topics>
@@ -47,10 +51,68 @@
     <body>
         <sect1>
             <title>The Shire of Halecester</title>
-                        
+
             <para>
-                A shire in northern Weidany.
+                Halecester is a shire in northern Weidany, which until 1207
+                used to border onto Nailand. Run down by warfare with the
+                Short Folk, bandit raiders from <qv uri="aidan">Aidan</qv> in
+                the north and political problems with
+                <qv uri="northmarch">Northmarch</qv> to the west, the people
+                of the shire are suffering from a loss of confidence, and
+                believe that the gods have turned against them. Many will
+                grasp at any superstition or perceived higher power they can,
+                in an attempt to improve their lot.
             </para>
+            <para>
+                The noble houses most influential in Halecester are those
+                of the <qv uri="wihtgar-house">House of Wihtgar</qv> and
+                the <qv uri="oswald-house">House of Oswald</qv>.
+            </para>
+            <sect2>
+                <title>The Winter Bears</title>
+                <para>
+                    During the 1160s, the shire started to come under frequent
+                    raids from the Short Folk, in particular the tribe of the
+                    <qv uri="winter-bear">Winter Bear</qv>.
+                </para>
+                <para>
+                    The raids were infrequent, but increased in severity over
+                    the years, gradually wearing down the ability of Halecester
+                    to defend itself.
+                </para>
+            </sect2>
+            <sect2>
+                <title>The Favoured of Frythrun</title>
+                <para>
+                    In 1196 the mercenary leader
+                    <qv uri="cenic-even-handed">Cenic the Even Handed</qv>
+                    led a small army into Halecester with intent to combat the
+                    barbarian menace. In a number of battles over the succeeding
+                    years he managed to successfully drive the Short Folk back,
+                    and put them on the defensive.
+                </para>
+                <para>
+                    As well as being a skilled warrior and tactician, he was
+                    also a skilled politician, capable of playing the various
+                    factions in the royal court against each other. He portrayed
+                    the Shire Reeve of Halecester as being a blundering idiot,
+                    and blamed the two noble houses there of infighting which
+                    was weakening the defences of the Kingdom.
+                </para>
+                <para>
+                    <qv uri="queen-frythrun">Queen Frythrun</qv> herself took a
+                    shine to Cenic, and there were rumours that the good
+                    relationship was more than political, and that it clouded
+                    her later decisions.
+                </para>
+                <para>
+                    In 1207, the Queen awarded Cenic much land along the border
+                    with Nailand, including some which had belonged to the
+                    nobles of Halecester. This was a huge blow to the shire,
+                    one which once and for all destroyed the court's faith in
+                    its ability to defend itself.
+                </para>
+            </sect2>
         </sect1>
     </body>
 
