@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Ceryndrun</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="hruul-forest">Hruul Forest</see>
+        </references>
+
+        <topics>
+            <subject uri="Ceryndrun">Ceryndrun</subject>
+
+            <category>Wizards</category>>
+
+            <topic uri="milindor">Milindor</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Wizard King Ceryndrun</title>
+
+            <para>
+                During the 2nd century, much of the north of Euressa had only
+                recently been uncovered by the glaciers, and the land was a
+                mix of tundra and boreal woodlands. There were few that dared
+                explore these lands, and they were mostly the domain of the
+                <qv uri="short-folk">Short Folk</qv> and the
+                <qv uri="ents">Giants</qv>. However, of those that did venture
+                this far north the most noted was the wizard Ceryndrun.
+            </para>
+            <para>
+                He was said to be a master of spirits and cold things, and
+                gathered around him a band of followers who were soon demanding
+                tribute from neighbouring tribes. His power gave him dominance
+                over the Ents as well, and before long he had carved out a
+                kingdom for himself in the cold north.
+            </para>
+            <para>
+                Other wizards hastened to his banner, for he promised them power
+                over all others. They built a great city that was to come to be
+                named <qv uri="milindor">Milindor</qv>.
+            </para>
+            <para>
+                Little is known about him as a person, for no written records
+                survive of that time. The Ents sometimes speak of him in their
+                stories, but they rarely speak to men. He lived into the 3rd
+                century, the nature of his death being unknown.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

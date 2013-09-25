@@ -43,6 +43,8 @@
         </topics>
     </header>
 
+   <!-- Possibly Entish in origin. -->
+
     <body>
         <sect1>
             <title>Milindor</title>
@@ -58,7 +60,8 @@
 
             <para>
                 Milindor was said to have been founded by the wizard-king
-                Ceryndrun during the 2nd century. He gathered together a
+                <qv uri="ceryndrun">Ceryndrun</qv> during the 2nd century.
+                He gathered together a
                 group of wizards, and with the help of giants, built up a
                 great stone fortification which became the capital of the
                 kingdom to come. During his later years, he shared power
