@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Midlaen Moors</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="midlaen-moors">Midlaen Moors</subject>
+
+            <category>Hills</category>>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Midlaen Moors</title>
+
+            <para>
+                The <e>Midlaen Moors</e> are an area of moorland in northern
+                Midlaen. The north moors are surrounded by the
+                <qv uri="fear-wood">Fear Wood</qv>, whilst the south moors
+                are to the south of the woods.
+            </para>
+            <para>
+                Like most moorland, it is hilly uplands overgrown with shrubs
+                and grasses. There are few trees, except for those that
+                encroach from the lower slopes. The land is pretty windswept,
+                and home to birds, deer and smaller herbivores. Apart from the
+                raptors and few wild cats, the area is generally free of
+                predators that could threaten an adult.
+            </para>
+            <para>
+                The most notable settlement on the moors is
+                <qv uri="blackrock-castle">Blackrock Castle</qv>, which stands
+                atop a rocky outcropping on the north moors. It is inhabited
+                by <qv uri="ents">Ents</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
