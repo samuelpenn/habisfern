@@ -30,7 +30,7 @@
         <style name="module"/>
 
         <references>
-            <see uri="short-folk">Short Folk</see>
+            <see uri="shortfolk">Short Folk</see>
             <see uri="nailand">Nailand</see>
             <see uri="cenicsdyke-shire">Cenicsdyke</see>
             <see uri="alderning">Alderning</see>
