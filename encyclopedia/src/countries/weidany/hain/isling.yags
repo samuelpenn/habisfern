@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Isling</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2003</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="isling">Isling</subject>
+
+            <category>Towns</category>>
+
+            <topic uri="hain-shire">Hain Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Isling</title>
+
+            <para>
+                The main town of Hain Shire, Isling has a population of
+                about four thousand. It is dominated by the castle of
+                Isling, which was built in the late 11th century at a
+                bend in the river, but the area has become an oxbow
+                lake since then, leaving the castle surrounded by
+                marshy ground on one side, and a straight flowing river
+                on the other. The walls are suffering subsidence, and
+                it looks far grander from afar than it does close up.
+            </para>
+            <para>
+                Parts of the town are kept up on stilts above the marsh,
+                though newer parts have spread to higher, dryer, grounds,
+                giving the town a long and thin shape.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
