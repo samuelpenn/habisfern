@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Isling</title>
+        <title>Hain Crags</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -33,9 +33,9 @@
         </references>
 
         <topics>
-            <subject uri="isling">Isling</subject>
+            <subject uri="hain-crags">Hain Crags</subject>
 
-            <category>Towns</category>>
+            <category>Hills</category>>
 
             <topic uri="hain-shire">Hain Shire</topic>
             <topic uri="weidany">Weidany</topic>
@@ -46,22 +46,20 @@
 
     <body>
         <sect1>
-            <title>Isling</title>
+            <title>Hain Crags</title>
 
             <para>
-                The main town of Hain Shire, Isling has a population of
-                about four thousand. It is dominated by the castle of
-                Isling, which was built in the late 11th century at a
-                bend in the river, but the area has become an oxbow
-                lake since then, leaving the castle surrounded by
-                marshy ground on one side, and a straight flowing river
-                on the other. The walls are suffering subsidence, and
-                it looks far grander from afar than it does close up.
+                The Crags are a wide area of rocky cliffs in Hain Shire.
+                They are on the order of three to four hundred metres tall,
+                and facing north. Their southern slopes are gentler and
+                covered in trees.
             </para>
             <para>
-                Parts of the town are kept up on stilts above the marsh,
-                though newer parts have spread to higher, dryer, grounds,
-                giving the town a long and thin shape.
+                There are several crevasses where the crags have split, as
+                well as some deep caves which show signs of ancient
+                habitation. They are known to be used by outlaws from
+                time to time, though for the most part are uninhabited in
+                recent times.
             </para>
         </sect1>
     </body>
