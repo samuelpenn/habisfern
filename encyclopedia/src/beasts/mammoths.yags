@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Mammoths</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <topics>
+            <subject uri="mammoths">Mammoths</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="nailand">Nailand</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Mammoths</title>
+
+            <para>
+                The largest of the animals found on the plains of Nailand
+                are the Mammoths. These huge beasts roam the plains in
+                herds of a dozen or more adults. They have huge tusks,
+                and are covered in thick fur.
+            </para>
+            <para>
+                Mammoths are hunted by the <qv uri="shortfolk">Short Folk</qv>,
+                who view them as a primary food source.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
