@@ -48,12 +48,42 @@
             <title>Nailand</title>
 
             <para>
-                Nailand is the land south and east of Weidany. It 
-                is considered to be uncivilised, though a large 
-                number of tribal groups of the Short Folk roam 
-                the plains and woods.
+                Between <qv uri="weidany">Weidany</qv> and the
+                <qv uri="withrican-mountains">Withrican Mountains</qv> is
+                the strip of country known as Nailand, home to the Short
+                Folk. It is a region of mostly empty grasslands, over a
+                thousand miles north to south and about 400 miles east
+                to west. The monotony is broken by the occasional woods
+                or hills, but the land is not very fertile so the bulk
+                of it remains grassland.
             </para>
-
+            <para>
+                The Short Folk who live here are not considered to be
+                barely human, or at least not of pure blood. They are
+                short and hairy, and live in nomadic tribes that roam
+                the plains hunting mammoths and other animals.
+            </para>
+            <para>
+                The northern plains are cold, and border onto both the
+                <qv uri="northern-kingdoms">Northern Kingdoms</qv> and
+                the <qv uri="milindor">Milindor Forest</qv>. The latter
+                is considered even less civilised than Nailand itself,
+                and is said to be full of the spirits of long dead
+                sorcerers.
+            </para>
+            <para>
+                The east is bordered by the foothills of the Withrican
+                Mountains where the Ice holds sway. The glaciers of these
+                mountains are said to be home to many lesser Powers in
+                service to the Ice, and the Short Folk consider direct
+                sight of these glaciers to be unlucky.
+            </para>
+            <para>
+                The southern border is the warm, forested coastline of
+                southern Euressa. These are the wild lands between
+                <qv uri="midlaen">Midlaen</qv> in the west and whatever
+                lies to the east.
+            </para>
         </sect1>
     </body>
 </article>

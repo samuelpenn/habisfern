@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Dragon's Graveyard</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <topics>
+            <subject uri="dragons-graveyard">Dragon's Graveyard</subject>
+
+            <category>Hills</category>>
+
+            <topic uri="nailand">Nailand</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+   <!-- Hills full of bones -->
+
+    <body>
+        <sect1>
+            <title>Dragon's Graveyard</title>
+
+            <para>
+                Called Asthimagiri by the <qv uri="short-folk">Short Folk</qv>,
+                the Dragon's Graveyard is a region of badlands in northern
+                Nailand noted for its strangely shaped rock formations. It is
+                said that this is where the greatest of dragons came to die,
+                their bones eventually turning to rock before breaking apart,
+                leaving the landscape littered with shattered stones.
+            </para>
+            <para>
+                The Short Folk consider it to be a sacred place, and their are
+                many shrines here to both their ancestors and their goddesses.
+                Outsiders found here by the Short Folk are immediately attacked,
+                and if lucky killed.
+            </para>
+            <para>
+                Stories say that there are several sink holes within the hills,
+                which connect to a huge underground river system, however these
+                may just be stories.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
