@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Mammoth Lake</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <topics>
+            <subject uri="mamoth-lake">Mammoth Lake</subject>
+
+            <category>Lakes</category>>
+
+            <topic uri="nailand">Nailland</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Mammoth Lake</title>
+
+            <para>
+                About 50km long and 30km wide, Mammoth Lake is the largest
+                lake in Nailand. The south western shore is covered in
+                thickly forested hills, the rest of the lake is surrounded
+                by grassland, and during the spring is home to multiple
+                herds of mammoths.
+            </para>
+            <para>
+                There are several small villages of the Short Folk on the
+                shores of the lake, making a living fishing and farming.
+                They are show less respect by the other tribes, but it
+                doesn't stop them trading for fish or metal goods.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
