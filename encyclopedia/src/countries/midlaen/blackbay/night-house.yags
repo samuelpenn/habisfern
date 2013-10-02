@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Night House</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="tharos">Tharos</see>
+            <see uri="shadow-cult">The Shadow Cult</see>
+        </references>
+
+        <topics>
+            <subject uri="blackbay">Blackbay</subject>
+
+            <category>Temples</category>>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Night House</title>
+
+            <para>
+                It is said that somewhere in Blackbay is the place known
+                as the <e>Night House</e>. It is a temple to Tharos, the god
+                revered by murderers and assassins, and is a safe house for
+                those of the Shadow Cult based around Blackbay.
+            </para>
+            <para>
+                The exact location of the Night House is not known, but it is
+                thought to be under one of the inns or taverns in the city.
+                The usual rumour is that it is below the Clawed Wyvern inn,
+                though enough people have 'investigated' that inn and found
+                nothing that it is more than likely elsewhere.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

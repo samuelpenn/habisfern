@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Guild of Moern</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="blackbay">Blackbay</subject>
+
+            <category>Temples</category>>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Guild of Moern</title>
+
+            <para>
+                The <e>Guild of Moern</e> is a place where merchants,
+                sailors, pirates and thieves can meet to arrange their
+                business affairs, bribe, blackmail and generally carry
+                on in a civilised way. It is more a building than a
+                'guild' as such, since there is no concept of membership
+                except for a few positions which are voted for on an
+                annual basis by anyone who has a ship. Such votes are
+                quite openly paid for with bribery.
+            </para>
+            <para>
+                The guild is located near the harbour of Blackbay, and
+                out front it flies the flag of the guild - a white
+                dolphin on a dark blue background. It is one of the
+                largest and most ostentatious building in Blackbay.
+            </para>
+            <para>
+                If you are after a captain to sail you somewhere, or
+                need to know who to bribe for safe passage, then the
+                Guild is the place to go.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

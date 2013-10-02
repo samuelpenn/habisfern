@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Blackbay Keep</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="blackbay">Blackbay</subject>
+
+            <category>Castles</category>>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Blackbay Keep</title>
+
+            <para>
+                About half a league along the coast from the port of Blackbay
+                is the keep of the same name. It sits atop a rocky peninsula
+                that juts a couple of hundred metres out to sea. It has its
+                own harbour, which is reached via tunnels that run from the
+                keep down to sea level.
+            </para>
+            <para>
+                A garrison is stationed here at all times, a small force of
+                marines capable of crewing two cogs, and trained in ship
+                boarding actions as well as land battles.
+            </para>
+            <para>
+                The Keep is currently controlled by Hilda Marwine, a pirate
+                who made her fortune captaining the <e>Blade of Moern</e>,
+                before buying her current position. She is both respected
+                and feared by those under her command.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
