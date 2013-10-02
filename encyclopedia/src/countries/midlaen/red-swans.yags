@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Red Swans</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="red-swans">Red Swans</subject>
+
+            <category>Societies</category>>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Red Swans</title>
+
+            <para>
+                The <e>Red Swans</e> are a group of pirates led by
+                Captain Hrodgar of the <e>Red Feather</e>. As an
+                organisation, they number about a dozen ships, though
+                'organisation' is probably a strong word. They are a group
+                of pirates who operate in the same area, who have an
+                agreement between themselves not to attack each other, or
+                to steal each other's targets. Captain Hrodgar is really
+                little more than the public face of the group, and the
+                one most likely to speak the loudest whenever two or more
+                of them get together.
+            </para>
+            <para>
+                They have a number of bases along the coast of Midlaen and
+                Nailand, though their hunting grounds tend to be further
+                north. Their preference is to take the crew alive, in order
+                to sell them as slaves, but they are not above killing a
+                few in order to make an example. Any ship that puts up
+                too much of a fight is likely to get 'The Treatment', which
+                involves the survivors being beaten, and then burnt alive
+                in punishment for causing so much trouble.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
