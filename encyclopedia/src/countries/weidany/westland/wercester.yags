@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Wercester</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="wercester">Wercester</subject>
+
+            <category>Towns</category>>
+
+            <topic uri="westland-shire">Westland</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Wercester</title>
+
+            <para>
+                Wercester is a town of two thousand located at a ford on the
+                <qv uri="river-fulsom">River Fulsom</qv> in Westland Shire.
+                It is mostly a market town, and is as far upriver as it is
+                possible to get barges, so has become a point of trade.
+            </para>
+            <para>
+                The town is divided into north and south by the river, with
+                the northern half being far more rural than the southern,
+                which is where the main markets are located.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+
