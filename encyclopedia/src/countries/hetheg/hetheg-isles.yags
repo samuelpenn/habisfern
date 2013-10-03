@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Hetheg Isles</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>The White Woods</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="hetheg-isles">Hetheg Isles</subject>
+
+            <category>Islands</category>>
+
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Hetheg Isles</title>
+
+            <para>
+                About 40 leagues off the western coast of
+                <qv uri="midlaen">Midlaen</qv> are the Hetheg Isles, a small
+                group of rocky islands. Apart from birds and seals, there are
+                no large animals on the isles, except where they have been
+                brought over my humans.
+            </para>
+            <para>
+                There are a number of small settlements on the isles, all of
+                them pirates.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+
