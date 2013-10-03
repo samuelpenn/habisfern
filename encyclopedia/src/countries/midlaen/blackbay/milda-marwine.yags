@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Milda Marwine</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="blackbay">Blackbay</subject>
+
+            <category>Lords</category>>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Milda Marwine</title>
+
+            <para>
+                Milda Marwine, which means <e>friend of the sea</e>, was a
+                pirate captain most famous for her ship the <e>Blade of Moern</e>.
+                She ravaged merchants ships off the shores of Weidany for about
+                twenty years, until 1225 when she decided to use her now
+                considerable wealth to buy <qv uri="blackbay-keep">Blackbay Keep</qv>.
+            </para>
+            <para>
+                She had started as a slave, but had been part of a rebellion in
+                1192 against their slave masters. The slaves escaped and became
+                brigands, and within five years Milda had risen to be their
+                leader. In 1201 they captured a pirate ship, and became pirates
+                and slavers themselves. Having suffered under the pirate's lash
+                herself did not soften her treatment of slaves when she became
+                the master, if anything it had hardened her.
+            </para>
+            <para>
+                She is now Lord of Blackbay Keep, and answers directly to
+                <qv uri="lord-paega">Lord Paega</qv> when the defence of
+                the city is involved. Otherwise, she is her own woman and can
+                do pretty much as she pleases.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
