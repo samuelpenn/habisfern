@@ -2,10 +2,10 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Hetheg Isles</title>
+        <title>Hethland Isles</title>
         <tagline>Habisfern</tagline>
 
-        <slugline>The White Woods</slugline>
+        <slugline/>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -33,7 +33,7 @@
         </references>
 
         <topics>
-            <subject uri="hetheg-isles">Hetheg Isles</subject>
+            <subject uri="hethland-isles">Hethland Isles</subject>
 
             <category>Islands</category>>
 
@@ -44,11 +44,11 @@
 
     <body>
         <sect1>
-            <title>Hetheg Isles</title>
+            <title>Hethland Isles</title>
 
             <para>
                 About 40 leagues off the western coast of
-                <qv uri="midlaen">Midlaen</qv> are the Hetheg Isles, a small
+                <qv uri="midlaen">Midlaen</qv> are the Hethland Isles, a small
                 group of rocky islands. Apart from birds and seals, there are
                 no large animals on the isles, except where they have been
                 brought over my humans.
