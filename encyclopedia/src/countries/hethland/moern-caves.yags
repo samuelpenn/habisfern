@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Moern Caves</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="moern-caves">Moern Caves</subject>
+
+            <category>Caves</category>>
+
+            <topic uri="hethland-isles">Hethland Isles</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Moern Caves</title>
+
+            <para>
+                Located on <qv uri="hethland-isles">South Island</qv>, on the
+                southern coast, are the entrances to what is known as the Moern
+                Caves, a large network of sea worn caves that stretch for over
+                a kilometre in length. There are two known sink holes which
+                connect the cave system to the surface, but they are small and
+                difficult to find.
+            </para>
+            <para>
+                The largest of the cave entrances is big enough to fit a ship
+                into (without its mast), but the navigation is somewhat
+                treacherous.
+            </para>
+            <para>
+                There are several spectacular caverns of stalactites and
+                stalagmites, one of which has been turned into a temple of
+                the sea god <qv uri="moern">Moern</q>. A small group of
+                priests live at the temple, surviving through donations
+                provided by the sailors that live on the islands in return
+                for blessings.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+
