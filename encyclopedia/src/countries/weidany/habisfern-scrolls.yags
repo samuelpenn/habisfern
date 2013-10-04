@@ -1470,10 +1470,10 @@
                         <para>
                             There are raiders from the north, from
                             Bryteland, which fight against the ships
-                            out of Stowell. The raiders which land
-                            fight a bit, and then flee back to the sea
-                            before a large force can be brought against
-                            them.
+                            out of Stowell. The raiders land on the shores,
+                            of the Kingdom and do battle with local forces
+                            before taking back to the sea before a large
+                            force can be brought against them.
                         </para>
                     </event>
 
@@ -1540,6 +1540,17 @@
 
                 <events>
                     <event>
+                        <startdate year="1201"/>
+                        <para>
+                            Vikings from Jarnyland raid south along the
+                            coast, attacking Westland and Ornwold. They
+                            are led by a fearsome warlord named Fritjof,
+                            who comes to be known as the Dragon of the Seas.
+                            He returns in 1202 and 1203.
+                        </para>
+                    </event>
+
+                    <event>
                         <startdate year="1205"/>
                         <para>
                             There is some fighting against the short
@@ -1564,7 +1575,8 @@
                         <para>
                             More ships from Bryteland raid along the
                             coast, though few come south of Merkia this
-                            year.
+                            year. They are led by the Viking warrior
+                            Fritjof, who is known as Dragon of the Seas.
                         </para>
                     </event>
 
