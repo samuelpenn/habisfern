@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Fritjof, Dragon of the Seas</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="fritjof-dragons-seas">Fritjof</subject>
+
+            <category>Warriors</category>>
+
+            <topic uri="hethland-isles">Hethland Isles</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Fritjof, Dragon of the Seas</title>
+
+            <para>
+                Fritjof is lord of <qv uri="farangrith">Farangrith</qv>,
+                though was once a viking warlord. He originally hailed from
+                <qv uri="jarnyland">Jarnyland</qv>, leading viking raids
+                against soft targets in both Bryteland and Weidany in the
+                summer of 1201.
+            </para>
+            <para>
+                For three years he raided indiscriminately, until he met
+                defeat off the coast of <qv uri="erding">Erding</qv>. He
+                returned though in 1210 for a single year, but in later
+                years he turned northward, against Taneith and Tanwall.
+            </para>
+            <para>
+                In 1217, he arrived at Farangrith with three ships, and
+                he and his men took control of the settlement in a night
+                time raid that was over before anyone had quite realised
+                that it had begun.
+            </para>
+            <para>
+                Fritjof is noted for his fearsome abilities in combat,
+                his large size and keen intelligence. All his raids are
+                said to be planned with a great deal of care. He has
+                kept his position in Farangrith due to knowing what
+                everyone else is doing before they do it.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+
