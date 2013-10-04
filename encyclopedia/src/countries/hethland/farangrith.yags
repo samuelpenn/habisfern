@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Farangrith</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="farangrith">Farangrith</subject>
+
+            <category>Towns</category>>
+
+            <topic uri="hethland-isles">Hethland Isles</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Farangrith</title>
+
+            <para>
+                The town of Farangrith is a small settlement of about
+                four hundred people, though it is the largest one
+                on the <qv uri="hethland-isles">Hethland Isles</qv>.
+                It is located on the north east coast of North Island,
+                in a small bay that has deep enough water to be used as
+                a harbour for ships.
+            </para>
+            <para>
+                The town is ruled by Fritjof, who was once known as the
+                <e>Dragon of the Seas</e>. He was a Brytish war leader
+                and viking, who took over Farangrith in 1217.
+            </para>
+            <para>
+                The town is considered to be a safe haven for everyone,
+                and warfare between factions or ships is outright
+                forbidden. Any arguments are permitted only between single
+                combatants, and these are normally held within the
+                Ring of Blades, a put set aside near the centre of
+                Farangrith. Such battles are a fight to the death, with
+                no rules except that no aid can be given to anyone within
+                the pit.
+            </para>
+            <para>
+                The peace is enforced by a group of seasoned
+                <qv uri="vikingelag">Vikinge-lag</qv> paid by Fritjof.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+
