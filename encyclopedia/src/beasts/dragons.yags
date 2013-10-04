@@ -46,26 +46,27 @@
             <title>Dragons</title>
 
             <para>
-                Dragons are descended from an ancient breed from 
-                the dawn of time. True dragons, as opposed to 
-                wyrms, are a natural part of the world. They have 
-                the power to shape and craft the land around them 
-                as they see fit.
+                Dragons are descended from an ancient breed from the dawn of
+                time. True dragons, as opposed to <qv uri="wyrms">wyrms</qv>,
+                are a natural part of the world. They have the power to shape
+                and craft the land around them as they see fit.
             </para>
 
             <para>
-                The most powerful of the Dragons live deep 
-                beneath the world, and are but legends, having 
-                never risen within living memory.
+                The most powerful of the Dragons live deep beneath the world,
+                and are but legends, having never risen within living memory.
+                However, their lairs are said to be reachable by those willing
+                to delve deeply enough. Because these places are shaped by
+                the dragon's dreams, they are part dreamland and part reality,
+                making them both dangerous and interesting.
             </para>
 
             <para>
-                It is said that the magic of dragons can be 
-                harnessed by humans, but the only wizards who 
-                claim knowledge of the actual technque are the 
-                Waezgerat of Cadwold.
+                It is said that the magic of dragons can be harnessed by humans,
+                but the only wizards who claim knowledge of the actual technique
+                are the <qv uri="waezgerat">Waezgerat</qv> of
+                <qv uri="cadwold">Cadwold</qv>.
             </para>
-
         </sect1>
     </body>
 </article>

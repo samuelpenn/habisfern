@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Sea Wyrms</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="wyrms">Wyrms</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="dragons">Dragons</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Sea Wyrms</title>
+
+            <para>
+                Those who sail the seas around the
+                <qv uri="hethland-isles">Hethland Isles</qv> claim to have seen
+                great wyrms that swim beneath the ocean. These <e>sea wyrms</e>
+                are said to be larger than a ship, possessing neither legs nor
+                wings but swimming much like a serpent does.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
