@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Sandy Rock</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="sandy-rock">Sandy Rock</subject>
+
+            <category>Towns</category>>
+
+            <topic uri="hethland-isles">Hethland Isles</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Sandy Rock</title>
+
+            <para>
+                The town of Sandy Rock is a small settlement of about two to
+                three hundred people on South Island in the Hethland Isles.
+                The population varies quite a bit due to ship crews often
+                wintering here.
+            </para>
+            <para>
+                The town has no particular system of governance, though the
+                final arbitrator of authority, if one is ever required, has
+                traditionally been the proprietor of Sandy Rock House, an
+                inn that is commonly used by ship crews who don't have their
+                own lodging on the island.
+            </para>
+            <para>
+                The current proprietor is Godiva, a middle aged woman who took
+                over after her husband was killed in a knife fight in 1226.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+
