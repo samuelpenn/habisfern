@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Words of Power</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="words-of-power">Words of Power</subject>
+
+            <category>Magic</category>
+
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Words of Power</title>
+
+            <para>
+                Magic, as practised by the wizards of the Kingdom is centred
+                around six (or seven) <e>Words of Power</e>. Each word gives
+                power over a certain domain of magic. They are Fire (fyr),
+                Iron (iren), Earth (eorthe), Water (waeter), Spirit (sawol)
+                and Air (lyft). Some claim that there is a seventh word,
+                Dragon (draca), which represents creation itself.
+            </para>
+            <para>
+                Those who are not entirely human, who have fey blood, can
+                sometimes tap into these Words and use them to influence
+                the world around them. In their raw form, they can be
+                used to awaken elemental spirits, though the most powerful
+                of spirits require a blood sacrifice to be made to give
+                the elemental a spirit.
+            </para>
+            <para>
+                The most powerful wizards also learn cantrips, which are
+                incantations passed down from the gods which give the
+                ability to invoke specific effects. Such effects are
+                generally subtle, but can be highly effective if used
+                wisely.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
