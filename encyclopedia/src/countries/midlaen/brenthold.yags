@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Brenthold</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="brenthold">Brenthold</subject>
+
+            <category>Towns</category>>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Brenthold</title>
+
+            <para>
+                Brenthold was one of the early coastal settlements in Midlaen,
+                first settled by the Kingdom around 980. It was never a large
+                settlement, but did have a small keep with a garrison. In
+                1148 it was used as the staging post for Hilda Blackstone's
+                explorations of central Midlaen, and it grew in size until it
+                was the largest town in the shire.
+            </para>
+            <para>
+                As the Kingdom's authority in Midlaen waned, so the focus
+                shifted to <qv uri="blackbay">Blackbay</qv>, which had a far
+                more lax view on enforcing taxation and the law. Today,
+                Brenthold is a town of a couple of thousand people, which
+                still sees some trade but is not as important a port town
+                as it once once.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
