@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Boernstor</title>
+        <title>Locton</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -33,7 +33,7 @@
         </references>
 
         <topics>
-            <subject uri="beornstor">Beornstor</subject>
+            <subject uri="locton">Locton</subject>
 
             <category>Towns</category>>
 
@@ -46,24 +46,19 @@
 
     <body>
         <sect1>
-            <title>Beornstor</title>
+            <title>Locton</title>
 
             <para>
-                Beornstor was once the capital of the great
-                <qv uri="aidan-kingdom">Kingdom of Aidan</qv>, and now it is
-                the shire town of <qv uri="aidan-shire">Aidan shire</qv>. It
-                has a population of about five thousand, but was once much
-                larger. It is circled by walls that now enclose fields as
-                well as buildings, and a great castle stands atop a hill
-                near the centre of the town.
+                Locton is a town on the shores of
+                <qv uri="silver-lake">Silver Lake</qv>, with a population
+                of about two thousand. It is the most northerly of the
+                large towns of the Kingdom, being only a few leagues south
+                of the <qv uri="mistfall-mountains">Mistfall Mountains</qv>.
             </para>
-
             <para>
-                The town gates stand permanently open, and it is said that it
-                is no longer possible to close them. Though the town is ruled
-                by the shire-reeve Olfric, he has little real power. Instead,
-                the gangs and petty bosses are in charge of the city. The
-                city itself is a mirror of the shire it allegedly controls.
+                The town has thick grey walls, with only a few houses not
+                crammed inside for protection. There is always the fear of
+                <e>things</e> coming down from the mountains.
             </para>
         </sect1>
     </body>

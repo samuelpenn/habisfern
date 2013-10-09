@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Mistfall Mountains</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="mistfall-mountains">Mistfall Mountains</subject>
+
+            <category>Mountains</category>>
+
+            <topic uri="aidan-shire">Aidan Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Mistfall Mountains</title>
+
+            <para>
+                The Mistfall Mountains define the northern border of both Aidan
+                Shire and the Kingdom of Weidany. Beyond them are the bad lands
+                where no sane man dares to tread. The storms that ravage these
+                lands can sometimes be seen behind the mountains, and great
+                white mists can sometimes roll down over the top of the range,
+                as if they were a giant waterfall.
+            </para>
+            <para>
+                Outlaws and brigands are the only people who live in the
+                mountains, though small villages of both can be found. The
+                region isn't entirely lawless, for there are power bases
+                amongst the outlaws who enforce their own laws. However, these
+                are generally short lived.
+            </para>
+            <para>
+                There are also ruins in the mountains - caves and broken temples
+                of the Elders. Spirits dwell here, and they sometimes come
+                down from the high peaks and terrorise those that live south
+                of the border.
+            </para>
+            <para>
+                The valleys of the mountains are home to Ents, who are no
+                longer interested in working with men.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
