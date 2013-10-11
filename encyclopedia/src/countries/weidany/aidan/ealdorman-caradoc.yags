@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Ealdorman Caradoc</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="gwern-house">Gwern House</see>
+        </references>
+
+        <topics>
+            <subject uri="red-rock-keep">Red Rock Keep</subject>
+
+            <category>Nobles</category>>
+
+            <topic uri="aidan-shire">Aidan Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Ealdorman Caradoc</title>
+
+            <para>
+                Caradoc is the current head of the House of Gwern. He was born
+                in 1167, and is now in his sixties. Tall, thin and dark haired
+                (despite his age), he is a cruel and capricious lord, who has
+                little interest outside of the girls he keeps as his slaves
+                in Red Rock Keep. He is also generally considered by those
+                outside of the House to be at least partially insane.
+            </para>
+            <para>
+                His father was Ealdorman Cadeyrn, who died in 1214 under
+                suspicious circumstances. His wife, and Caradoc's mother,
+                Genovefa, is rumoured to have had him poisoned, but no
+                official accusations were ever made. Three months later,
+                after Caradoc had received his father's title, she had a
+                fatal accident falling from a window.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
