@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Black Hearts</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="gwern-house">Gwern House</see>
+        </references>
+
+        <topics>
+            <subject uri="red-rock-keep">Red Rock Keep</subject>
+
+            <category>Warriors</category>>
+
+            <topic uri="aidan-shire">Aidan Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Black Hearts</title>
+
+            <para>
+                Officially they are the <e>Houseguard of Gwern</e>, but
+                everyone calls them the <e>Black Hearts</e>. Based at
+                Red Rock Castle, they generally number a few dozen and
+                are the elite bodyguards of the House.
+            </para>
+            <para>
+                They date back to the time of the Kingdom of Aidan, and
+                have since then gained a reputation for ruthlessness,
+                cruelty and corruption - much like the House itself.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
