@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Beloye More</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="beloye-more">Beloye More</subject>
+
+            <category>Seas</category>>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Beloye More</title>
+
+            <para>
+                The <e>Beyloye More</e>, or White Sea, splits the Old World
+                from <qv uri="euressa">Euressa</qv>. It's northern shores are
+                giant cliffs of ice, which during spring and summer break
+                apart to create fleets of icebergs that drift down to the
+                southern waters before melting.
+            </para>
+            <para>
+                The sea is relatively shallow, and full of small islands, reefs
+                and shallows which can be a hazard to shipping. The southern
+                boundaries of the sea are marked by a series of islands which
+                run east to west. Legends say that when the People of Rorn
+                crossed from the Old World this was all land, and that shortly
+                afterwards the sea flooded the entire region, pouring over
+                cliffs in the south.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
