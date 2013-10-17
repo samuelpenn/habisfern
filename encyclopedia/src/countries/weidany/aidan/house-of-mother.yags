@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Boernstor</title>
+        <title>House of the Mother</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -33,9 +33,9 @@
         </references>
 
         <topics>
-            <subject uri="beornstor">Beornstor</subject>
+            <subject uri="house-of-mother">House of the Mother</subject>
 
-            <category>Towns</category>>
+            <category>Temples</category>>
 
             <topic uri="aidan-shire">Aidan Shire</topic>
             <topic uri="weidany">Weidany</topic>
@@ -46,27 +46,17 @@
 
     <body>
         <sect1>
-            <title>Beornstor</title>
+            <title>House of the Mother</title>
 
             <para>
-                Beornstor was once the capital of the great
-                <qv uri="aidan-kingdom">Kingdom of Aidan</qv>, and now it is
-                the shire town of <qv uri="aidan-shire">Aidan shire</qv>. It
-                has a population of about five thousand, but was once much
-                larger. It is circled by walls that now enclose fields as
-                well as buildings, and a great castle stands atop a hill
-                near the centre of the town.
+                The <e>House of the Mother</e> is a temple to the goddess
+                <qv uri="yagma">Yagma</qv>. Located a few leagues west of
+                <qv uri="beornstor">Beornstor</qv>, it is a massive wooden
+                temple built atop an ancient hill fort.
             </para>
             <para>
-                The town gates stand permanently open, and it is said that it
-                is no longer possible to close them. Though the town is ruled
-                by the shire-reeve Olfric, he has little real power. Instead,
-                the gangs and petty bosses are in charge of the city. The
-                city itself is a mirror of the shire it allegedly controls.
-            </para>
-            <para>
-                The town stands on the <qv uri="river-sade">River Sade</qv>,
-                and has a small port for barges and other river traffic.
+                The entrance way is flanked by stone obelisks, where
+                offerings are left to the mother goddess.
             </para>
         </sect1>
     </body>
