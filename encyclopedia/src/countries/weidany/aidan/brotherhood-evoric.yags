@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Brotherhood of Evoric</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="tharos">Tharos</see>
+        </references>
+
+        <topics>
+            <subject uri="brotherhood-evoric">Brotherhood of Evoric</subject>
+
+            <category>Warriors</category>>
+
+            <topic uri="aidan-shire">Aidan Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Brotherhood of Evoric</title>
+
+            <para>
+                Evoric, meaning Ruler of the Wild Boars, was a warrior lord
+                of the Kingdom of Aidan, who, in the eighth century, who
+                fought under King Haerdy. He was the only lord who won
+                victories against the Kingdom of Lanuch, but was eventually
+                betrayed by his own kin who sought rewards from King Oswiu.
+                He survives, but many of his warband are killed in an
+                ambush. Over the next decades, he seeks vengeance on those
+                who did him wrong.
+            </para>
+            <para>
+                Though he died having never fully gained his vengeance, his
+                band lived on, gaining more members as others died, living
+                sometimes as outlaws, sometimes as King's huscurls, depending
+                on the politics of the time. Over time, the name of the
+                Brotherhood of Evoric came to refer to an elite warband,
+                though the lineage from the original band (either by blood or
+                by training) was doubtful.
+            </para>
+            <para>
+                By the fall of the Kingdom in the late 10th century, the name
+                of the band had been all but forgotten. However, the death
+                of King Aidan in 983 is said to have been by a group opposed
+                to him who took the name of the band. The connection was not
+                to come until years later.
+            </para>
+            <para>
+                By the mid 11th century, a new group, probably completely
+                unconnected to any of the proceeding 'brotherhoods', took the
+                name of the Brotherhood of Evoric. They were based on the
+                northern borders of the shire, and were led by one who called
+                himself the 'Wild Boar'. He was slain by one of his band, a
+                warrior woman named Eoforhild, in single combat after she
+                challenged him for leadership of the band.
+            </para>
+            <para>
+                Living partly as outlaws, partly as mercenaries, the brotherhood
+                came to have a reputation of being fearsome warriors who were
+                unmatched in equal combat. Rumours were also begun that Eoforhild
+                was a follower of Tharos, and much of her skill came from the
+                bloody cults of that god.
+            </para>
+            <para>
+                She died, ironically whilst hunting wild boar, in 1208. There
+                have been several leaders of the Brotherhood since then, and
+                the rumours of the band being allied with Tharos still persists,
+                though none have brought forth proof. Currently, the band
+                numbers about three dozen, and is led by Wibert the Bold.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
