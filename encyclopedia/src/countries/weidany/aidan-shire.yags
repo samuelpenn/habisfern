@@ -49,19 +49,74 @@
             <title>Aidan</title>
 
             <para>
-                Shire in northern Weidany, it marks the limit of the Kingdom's
-                authority into the centre of Euressa. It was once a powerful
-                kingdom in its own right, which almost conquered the whole
-                region with an alliance of Ents and men.
+                Aidan Shire is the furthest north of all the shires of the Kingdom
+                of Weidany. Until the 10th century, Aidan was also a powerful
+                <qv uri="aidan-kingdom">Kingdom</qv> in its own right, and at one
+                point looked like it would come to dominant all the kingdoms of the
+                Weidanic and Rornic peoples.
             </para>
-
             <para>
-                Today, the shire has little power, and its population is low.
-                Aidan's regional authority is weak, and bandits and thieves are
-                common, and corruption is rife amongst the nobles who turn a
+                Those glory days are long since past though, for in the year 993
+                the Kingdom of Aidan fights its last battles against Freothflaed,
+                the mother-regent of the first Queen of Weidany, Aelfthryth. The
+                following year, when Aelfthryth is made Queen and the borders of
+                the kingdom are set, Aidan becomes its most northern shire.
+            </para>
+            <para>
+                The last survivor of the royal family of Aidan was
+                Gwern, son of Gwern, and it was he who swore allegiance to the
+                new Queen and was made one of the first Ealdorman of the Kingdom,
+                being given lands in the old Kingdom as well as elsewhere in an
+                attempt to foster peace between the Queen and the shire. However,
+                this overture of peace did not have the intended affect, and the
+                House of Gwern has never been satisfied with its place in the
+                social hierarchy, and even today believes that it is due more than
+                it has.
+            </para>
+            <para>
+                The shire has little power today. Unable to seek power within the
+                Kingdom as a whole, members of the House of Gwern have instead turned
+                upon themselves, weakening both themselves and the lands that they
+                rule over. Aidan's regional authority is weak, bandits and thieves
+                are common, and corruption is rife amongst the nobles who turn a
                 blind eye to most of what goes on.
             </para>
-
+            <para>
+                The shire town is <qv uri="beornstor">Beornstor</qv>, and like the
+                rest of the shire is steeped in corruption and crime.
+            </para>
+            <para>
+                The House of Gwern rules from <qv uri="red-rock-keep">Red Rock Keep</qv>,
+                about ten leagues east of Beornstor.
+            </para>
+            <sect2>
+                <title>People of the Shire</title>
+                <para>
+                    The people of Aidan Shire are downtrodden and pessimistic.
+                    They have little love for the nobles that rule them, and suffer
+                    the demands of brigands and tax collectors on a frequent basis,
+                    and don't see much difference between the two.
+                </para>
+                <para>
+                    The population is low compared to the rest of the Kingdom,
+                    and has reduced considerably since the heyday of the Kingdom of
+                    Aidan. Most of the lesser lords have little oversight over how
+                    they behave, so take advantage of the ceorls and lesser social
+                    classes whenever they can.
+                </para>
+            </sect2>
+            <sect2>
+                <title>Religion</title>
+                <para>
+                    The most common goddess is that of <qv uri="yagma">Yagma</qv>,
+                    but <qv uri="gyltith">Gyltith</qv> is also venerated by those
+                    who wish to avoid her, as is <qv uri="bis">Bis</qv>
+                </para>
+                <para>
+                    Cults of <av uri="tharos">Tharos</qv> are also said to exist
+                    within the shire, though these are outlawed by the Kingdom.
+                </para>
+            </sect2>
         </sect1>
     </body>
 </article>
