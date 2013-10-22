@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Wraiths</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="under-earth">Under Earth</see>
+            <see uri="undead">Undead</see>
+        </references>
+
+        <topics>
+            <subject uri="wraiths">Wraiths</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="undead">Undead</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Wraiths</title>
+
+            <para>
+                <e>Wraiths</e> are spirits of the dead that have not passed
+                on to the next world. When a person is slain, their body stays
+                with their spirit until the body is no longer able to contain
+                it. This will naturally be when the body has decayed down to
+                a skeleton.
+            </para>
+            <para>
+                Whilst the corpse remains whole, the spirit may learn to show
+                itself to the living, or even to be able to interact with the
+                world. The longer a spirit remains bound to its corpse, the
+                more bitter and twisted it will become, remembering only the
+                bad things that ever happened to it in life.
+            </para>
+            <para>
+                Some forget how to properly move on once they are freed of
+                their body, and such spirits become Wraiths. They have a hatred
+                for the living, and seek to cause harm where they may.
+            </para>
+            <para>
+                For this reason, cremation is the preferred means of disposing
+                of the dead, for it guarantees that a spirit passes on to the
+                next world before it becomes a wraith.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
