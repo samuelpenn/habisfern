@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Under Earth</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="rim">Rim, God of the Dead</see>
+        </references>
+
+        <topics>
+            <subject uri="rornic-mythology">Rornic Mythology</subject>
+
+            <category>Legends</category>>>
+
+            <topic uri="rornic-mythology">Rornic Mythology</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Under Earth</title>
+
+            <para>
+                People have two forms - their earthy physical body and their
+                spirit which contains their personality and memories. When a
+                person dies, the connection between their spirit and their
+                body is weakened. As long as the body is whole, the spirit is
+                tied to the body, and will remain in the Middle Earth. There,
+                it can be summoned and controlled by necromancers, or may
+                choose to haunt the place of their corpse.
+            </para>
+            <para>
+                The longer the spirit remains in Middle Earth, the more bitter
+                and cruel it becomes. It's memories will fade, until it no
+                longer remembers who it was in life. These nameless spirits
+                are the most dangerous, for they have the most hate for the
+                living and the most knowledge of how to inflict that hate
+                on the physical world.
+            </para>
+            <para>
+                Once a body has decayed sufficiently, then the dead spirit is
+                free to sink down to the Under Earth. Particularly bitter
+                spirits may fail to do this, becoming <qv uri="wraiths">Wraiths</ev>
+            </para>
+            <para>
+                On reaching the Under Earth, the spirit is free to rest and
+                remember their life. There is not much else for them to do
+                here, for it is a dark and desolate realm where light is
+                rarely seen. Over time, the memories of the spirit will fade,
+                until they are wiped clean and ready to be reborn into their
+                next life.
+            </para>
+            <para>
+                The Under Earth though is not without hope, for the gods walk
+                here at times, looking for those who lived well, or who
+                served them with bravery and dedication. Those who died in
+                battle in the name of their god, or their people, are
+                especially favoured. Such spirits are taken up by the gods
+                to the Outer Earth, where the gods dwell, and shown a time
+                of feasting and celebration.
+            </para>
+            <para>
+                Spirits that have forgotten their lives before they reach the
+                Under Earth will never be found by the gods, and may even fail
+                to be reborn. For this reason, it is common to cremate the dead,
+                to ensure that their bodies are destroyed as quickly as possible
+                so that their spirits reach the Under Earth with their memories
+                still fresh, being able to tell the gods of their deeds in order
+                to convince them to take them upwards.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+

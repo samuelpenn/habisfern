@@ -105,7 +105,8 @@
                 </para>
 
                 <para>
-                    The Under Earth itself is a dark realm with no lights
+                    The <qv uri="under-earth">Under Earth</qv> itself is a dark
+                    realm with no lights
                     or fresh air. It is silent, for not many dwell here on
                     a permanent basis. Some say that it is a single huge
                     cavern, within which is a black lake. Others talk of
@@ -113,11 +114,8 @@
                     leading nowhere.
                 </para>
             </sect2>
-
         </sect1>
-
     </body>
-
 </article>
 
 
