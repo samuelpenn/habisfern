@@ -47,21 +47,26 @@
     <body>
         <sect1>
             <title>The Shire of Ornwold</title>
-                        
+
             <para>
                 Ornwold rates alongside the shire of
-                <qv uri="westland-shire">Westland</qv> and 
+                <qv uri="westland-shire">Westland</qv> and
                 <qv uri="lanuch-shire">Lanuch</qv> as one of the great
                 three shires of the Kingdom, both in wealth and influence.
             </para>
-            
             <para>
                 It has traditionally been loyal to the Queen, which helps
                 its influence no end, plus it has good access to the
                 coast. The shire town is at <qv uri="depping-castle">
                 Depping Castle</qv>, which overlooks a good natural
                 harbour and is famous for its ship building.
-            </para>            
+            </para>
+            <para>
+                The <qv uri="river-kyle">River Kyle</qv> cuts through the
+                middle of Ornwold, and meets the sea near Depping. The
+                <qv uri="river-orn">River Orn</qv> is actually not in
+                this shire. It's unclear what the connection is.
+            </para>
         </sect1>
     </body>
 

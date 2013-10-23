@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Derynbryn</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="aeddan-house">House of Aeddan</see>
+        </references>
+
+        <topics>
+            <subject uri="derynbryn">Derynbryn</subject>
+
+            <category>Towns</category>>
+
+            <topic uri="aidan-shire">Aidan Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Derynbryn</title>
+
+            <para>
+                Derynbryn is a town in eastern Aidan in <qv uri="mordale">Mordale</qv>,
+                a valley through which flows the <qv uri="river-kyle">River Kyle</qv>.
+                The town sits on the west bank of the river, though is connected to the
+                eastern bank by a wooden bridge. A few craftsmen and mills are found
+                on the east shore, unprotected by walls.
+            </para>
+            <para>
+                The western town is surrounded by wooden walls, though they are likely
+                to be insufficient to stop any determined attackers due to lacking in
+                both height and sturdiness. The town doesn't expect to be attacked
+                though, and they serve mostly as a symbol of the town limits.
+            </para>
+            <para>
+                Derynbryn has a population of about four thousand, and belongs to the
+                estate of Ealdorman Iorwerth of the House of Aeddan. Surrounded by
+                lands owned by the House of Gwern, Ealdorman Iorwerth knows that he
+                and his family will always be unwelcome here.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
