@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Oak King</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="oakleaf-holt">Oakleaf Holt</subject>
+
+            <category>Spirits</category>>
+
+            <topic uri="aidan-shire">Aidan Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Oak King</title>
+
+            <para>
+                Within <qv uri="oakleaf-holt">Oakleaf Holt</qv> are a number of
+                paths said to lead to the <qv uri="dreamlands">Dreamlands</qv>.
+                Those following the paths may find themselves in a forest within
+                a forest, though the deeper forest is much larger and said to
+                stretch for hundreds of leagues.
+            </para>
+            <para>
+                At its centre lives the Oak King, a faerie lord of considerable
+                power. His guardians are the dire wolves and elfs which serve
+                him, and his messengers are the birds.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

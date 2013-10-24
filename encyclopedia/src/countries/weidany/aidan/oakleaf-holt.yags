@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Oakleaf Holt</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="oakleaf-holt">Oakleaf Holt</subject>
+
+            <category>Woods</category>>
+
+            <topic uri="aidan-shire">Aidan Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Oakleaf Holt</title>
+
+            <para>
+                Oakleaf Holt is a region of dense forest on the eastern hills
+                of <qv uri="mordale">Mordale</qv> that runs up to the border
+                of <qv uri="nailand">Nailand</qv>. The forest is said to be
+                haunted by faerie spirits, but the most dangerous thing
+                likely to be encountered are the outlaw groups that dwell
+                here.
+            </para>
+            <para>
+                Taking advantage both of the conflict between the two noble
+                houses Aeddan and Gwern in the area, and also the proximity
+                to the border, the outlaws are pretty much free to do what
+                they please. Having said that, they tend to keep their
+                activities within reasonable bounds, and rarely attack
+                villages in the area. Travellers can be fair game though, and
+                they hunt freely in the hills around.
+            </para>
+            <para>
+                There may be in the order of a couple of hundred outlaws
+                living in the area, including their families. There are
+                several permanent settlements, but the majority move around.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
