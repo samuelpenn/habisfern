@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Derynbryn</title>
+        <title>Thegn Iorwerth</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -36,7 +36,7 @@
         <topics>
             <subject uri="derynbryn">Derynbryn</subject>
 
-            <category>Towns</category>>
+            <category>Nobles</category>>
 
             <topic uri="aidan-shire">Aidan Shire</topic>
             <topic uri="weidany">Weidany</topic>
@@ -47,26 +47,12 @@
 
     <body>
         <sect1>
-            <title>Derynbryn</title>
+            <title>Thegn Iorwerth</title>
 
             <para>
-                Derynbryn is a town in eastern Aidan in <qv uri="mordale">Mordale</qv>,
-                a valley through which flows the <qv uri="river-kyle">River Kyle</qv>.
-                The town sits on the west bank of the river, though is connected to the
-                eastern bank by a wooden bridge. A few craftsmen and mills are found
-                on the east shore, unprotected by walls.
-            </para>
-            <para>
-                The western town is surrounded by wooden walls, though they are likely
-                to be insufficient to stop any determined attackers due to lacking in
-                both height and sturdiness. The town doesn't expect to be attacked
-                though, and they serve mostly as a symbol of the town limits.
-            </para>
-            <para>
-                Derynbryn has a population of about four thousand, and belongs to the
-                estate of Ealdorman Iorwerth of the House of Aeddan. Surrounded by
-                lands owned by the House of Gwern, Thegn Iorwerth knows that he
-                and his family will always be unwelcome here.
+                Iorwerth's is thegn of <qv uri="mordale">Mordale</qv>, in eastern
+                Aidan Shire. A noble of the House of Aeddan, Iorwerth was born in
+                1182 and has five children, three by his second wife.
             </para>
         </sect1>
     </body>
