@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Thridfeyder</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="slahthorn-island">Slahthorn Island</subject>
+
+            <category>Legends</category>>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+      </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>King Thridfeyder</title>
+
+            <para>
+                Also known as the <e>Great Grandfather</e>, King Thridfeyder
+                is said to rule the thick forest of Slahthorn Island. He is
+                an <qv uri="elf">Elf King</qv>, a powerful faerie power that
+                rules from his forest in the Dreamlands. He is said to be the
+                oldest elf anywhere in Euressa, and that his powers match his
+                great age.
+            </para>
+            <para>
+                As with all Elf Kings, stories describe him as being a great
+                tree, capable of thought, speech and movement when desired.
+                He sends his elves to the edges of the forests to harass the
+                humans that live on the shores of the island.
+            </para>
+            <para>
+                Though he has a hatred of all things man-shaped, there are
+                those who pay him homage and do his bidding. The Cult of
+                the Grandfather is a small group of men and women who have
+                sworn oaths to him, and work with him against their own
+                kin folk. The men of the cult are castrated to prevent
+                breeding with their own kind, and the women are forced to
+                lay with the beasts and monsters that Thridfeyder controls,
+                birthing <qv uri="ogre">ogres</qv> for him.
+            </para>
+            <para>
+                It is uncertain what draws people to this cult, though many
+                are taken by force. The kidnapping of children and babies is
+                one of the most common activities of the cult.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
