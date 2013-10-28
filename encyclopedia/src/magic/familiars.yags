@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Familiars</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="familiars">Familiars</subject>
+
+            <category>Magic</category>
+
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Familiars</title>
+
+            <para>
+                Familiars are magical creatures created by a wizard in order
+                to serve them and add to their power. The rituals required
+                to create one can be unpleasant, and most wizards do not
+                wish to go through with them. They are actually seen as a sign
+                of corruption, and common folk who understand which is involved
+                in such rituals generally distrust and fear wizards who are
+                willing to go through with them.
+            </para>
+            <para>
+                There are two types of familiars - those created by male wizards,
+                and those created by female wizards. The latter are more powerful,
+                but the ritual is longer and more unpleasant, requiring that the
+                wizard creates an elemental creature (which may require a blood
+                sacrifice) which she then mates with, and gives birth to their
+                offspring nine months later. The offspring of that union
+                is the familiar, and though it can take many years to grow to
+                full strength, it becomes both a potent ally in its own right,
+                and its growth strengthens the wizards own powers.
+            </para>
+            <para>
+                The familiars of male wizards are easier to create, requiring
+                semen and blood to form their body. They do not have the same
+                spiritual link as exists between a female wizard and her
+                familiar, but can still be a useful ally.
+            </para>
+            <para>
+                Familiars are normally created using the powers of Earth, so
+                only wizards who have skill at Earth magic generally create them.
+                Other elemental familiars are possible, but rarer.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
