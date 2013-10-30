@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Godric the White</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="godric-white">Godric the White</subject>
+
+            <category>Wizards</category>>
+
+            <topic uri="aidan-shire">Aidan Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Godric the White</title>
+
+            <para>
+                Godric the White is a necromancer who has lived in the hills west
+                of <qv uri="mordale">Mordale</qv> for the last forty years. He
+                claims to be immortal, and though he appeared old when he first
+                arrived in the region, he does seem to be ageless.
+            </para>
+            <para>
+                Godric is protected by an army of wraiths and wights which are
+                under his command. He has built a small keep for himself up in
+                the hills, and he has long made it clear that all are forbidden
+                from approaching it.
+            </para>
+            <para>
+                There are at least three apprentices who follow Godric, two men
+                and one woman, thought to have joined him since he arrived here.
+                Godric has control over one of the smaller elder ruins that
+                are in the region.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
