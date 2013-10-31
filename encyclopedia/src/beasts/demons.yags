@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Demons</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="demons">Demons</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="demons">Demons</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Demons</title>
+
+            <para>
+                The term 'Demon' is used to describe any type of intelligent,
+                non-human, malicious spirit. A demon may be an elemental, it
+                may be a dark fey spirit, it may be a creature of the Ice.
+                Demon is just a catch-all term that is used to describe things
+                which seek to do men harm.
+            </para>
+            <para>
+                Though demons are generally spirits, this just means that they
+                come from the Dreamlands or a similar realm. They may (and often
+                do) take physical form.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
