@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Evening Star</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="astrology">Astrology</subject>
+
+            <category>Astrology</category>>
+
+            <topic uri="astrology">Astrology</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Evening Star</title>
+
+            <para>
+                The twin sister of the <qv uri="dawn-star">Dawn Star</qv>, the
+                Evening Star is the Sun's old lover. She follows after him in
+                the hope that he will remember her, though he now has eyes for
+                her sister.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

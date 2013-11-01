@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Astrology</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="astrology">Astrology</subject>
+
+            <category>Astrology</category>>
+
+            <topic uri="astrology">Astrology</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Astrology</title>
+
+            <para>
+                The night sky of Eorthe is filled with both stars and wanderers.
+                The stars are fixed in place against the heavens, though the
+                heavens themselves rotate around Eorthe once a day. The
+                brightest stars form patterns in the sky, which are imprints
+                left by the gods to mark events in the lifetime of the world.
+            </para>
+            <para>
+                The wanderers are stars which are not fixed, but moved about
+                the heavens according to their own rules.
+            </para>
+            <sect2>
+                <title>Wanderers</title>
+                <para>
+                    The wanderers are the brightest of stars.
+                </para>
+                <para>
+                    The <qv uri="dawn-star">Dawn Star</qv> is sometimes seen
+                    in the east just before dawn. She precedes the Sun into
+                    the sky, leading him upwards.
+                </para>
+                <para>
+                    Her sister is the <qv uri="evening-star">Evening Star</qv>,
+                    which is sometimes seen at dusk, trailing behind the Sun.
+                    These two wanderers are said to be twins who court the
+                    Sun, trying to win him with their brightness and beauty.
+                </para>
+            </sect2>
+            <sect2>
+                <title>Important Stars</title>
+                <para>
+                    Possibly the most important stars for travellers are the
+                    <qv uri="northern-eyes">Eyes of the North</qv>. These
+                    two stars are red in colour, and are always found high
+                    in the northern sky, pointing the way for travellers.
+                    One is slightly brighter, and redder, than the other.
+                    It is is said that they are the eyes of Iss.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+
