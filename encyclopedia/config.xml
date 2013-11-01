@@ -214,6 +214,10 @@
         <category name="Lore">
             <title>Lore</title>
 
+            <category name="Astrology">
+                <title>Stars and Constellations</title>
+            </category>
+
             <category name="History">
                 <title>Historical Events</title>
             </category>
