@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Flock</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="astrology">Astrology</subject>
+
+            <category>Astrology</category>>
+
+            <topic uri="astrology">Astrology</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Flock Star</title>
+
+            <para>
+                Though not as bright as either the <qv uri="old-man">Old Man</qv>
+                or the <qv uri="gem-star">Gem Star</qv>, the <e>Flock</e> is one
+                of the wanderers, and amongst the brightest stars in the sky.
+            </para>
+            <para>
+                The Flock however is not one star, but many. They cluster around
+                each other, and to those not gifted with good vision can appear to
+                be but a single star. However, to those gifted with good sight, it
+                can be seen for what it is - a flock of smaller stars all in close
+                proximity to each other, and all shifting their position relative
+                to the flock. There are maybe half a dozen members of the Flock,
+                though astrologers disagree on exactly how many there are.
+            </para>
+            <para>
+                The Flock, though they move rapidly around themselves, they are
+                the slowest moving the of the wanders that travel the night sky.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

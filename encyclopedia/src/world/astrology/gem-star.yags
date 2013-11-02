@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Gem Star</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="astrology">Astrology</subject>
+
+            <category>Astrology</category>>
+
+            <topic uri="astrology">Astrology</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Gem Star</title>
+
+            <para>
+                The Gem Star is the brightest star in the sky, shining with
+                a sharp blue-white light. It is one of the wanderers, closer
+                to Eorthe than the <qv uri="old-man">Old Man</qv>, and often
+                low in the sky when viewed from the northern hemisphere.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
