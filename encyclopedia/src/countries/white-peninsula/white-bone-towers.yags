@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>White Bone Towers</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="white-bone-towers">White Bone Towers</subject>
+
+            <category>Islands</category>>
+
+            <topic uri="white-peninsula">White Peninsula</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>White Bone Towers</title>
+
+            <para>
+                Off the north west coast of the White Peninsula is a set of
+                towering chalk islands known as the White Bone Towers. There
+                are a dozen islands, no more than a kilometre from shore, and each
+                ranging from a few tens of metres to hundreds of metres across.
+                It is thought that there was once an extensive cave system here,
+                which collapsed leaving the islands standing.
+            </para>
+            <para>
+                Caves still exist in the area, going further back inland from the
+                coast, and also within some of the Towers as well. All have steep
+                cliffs, all tens of metres in height, making them highly defensible.
+            </para>
+            <para>
+                The waters around the Towers are considered to be very dangerous,
+                for not only are the currents highly variable, there are plenty
+                of half submerged rocks and sand banks which can ground anything
+                larger than a rowing boat.
+            </para>
+            <sect2>
+                <title>Bone Pirates</title>
+                <para>
+                    Several of the islands are home to the <e>Bone Pirates</e>, a
+                    group of outlaws that raid along the north western coast in
+                    both directions. There are small settlements built on top of
+                    the Towers, with steep steps cut into the cliffs allowing
+                    access to them.
+                </para>
+                <para>
+                    Apart from grass, nothing grows on the Towers, so there is
+                    little in the way of shelter, and they are beset by strong
+                    cold winds for much of the year. The pirates get all their
+                    supplies by raiding from others.
+                </para>
+                <para>
+                    Due to the navigation hazards, their ships are anchored out
+                    to sea, and travel from them to the settlements is always
+                    by small boats.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+
