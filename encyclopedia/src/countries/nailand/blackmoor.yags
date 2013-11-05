@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Mammoth Lake</title>
+        <title>Blackmoor</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -30,9 +30,9 @@
         <style name="module"/>
 
         <topics>
-            <subject uri="mamoth-lake">Mammoth Lake</subject>
+            <subject uri="blackmoor">Blackmoor</subject>
 
-            <category>Lakes</category>>
+            <category>Moors</category>>
 
             <topic uri="nailand">Nailand</topic>
             <topic uri="euressa">Euressa</topic>
@@ -42,20 +42,25 @@
 
     <body>
         <sect1>
-            <title>Mammoth Lake</title>
+            <title>Blackmoor</title>
 
             <para>
-                About 50km long and 30km wide, Mammoth Lake is the largest
-                lake in Nailand. The south western shore is covered in
-                thickly forested hills, the rest of the lake is surrounded
-                by grassland, and during the spring is home to multiple
-                herds of mammoths.
+                North Western Nailand rises from grassland to high moorland in
+                the region known as Blackmoor. This region of windswept moors
+                and broken hills also marks the borders of
+                <qv uri="aidan-shire">Aidan Shire</qv>. It is generally considered
+                a desolate and unfriendly region over twenty leagues across.
             </para>
             <para>
-                There are several small villages of the Short Folk on the
-                shores of the lake, making a living fishing and farming.
-                They are show less respect by the other tribes, but it
-                doesn't stop them trading for fish or metal goods.
+                The highest points are in the <qv uri="forlaten-hills">Forlaten Hills</qv>
+                in the east, the lowest in the <qv uri="blackmoor-lakes">Blackmoor Lakes</qv>
+                in the west.
+            </para>
+            <para>
+                The few settlements in the area are actually a mix of Rornic and
+                Northern, the Short Folk being scarce here. There are a few, but
+                their are nomadic rather than settlers, and mostly live by
+                raiding the human settlements.
             </para>
         </sect1>
     </body>

@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Mammoth Lake</title>
+        <title>Blackmoor Lakes</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -30,7 +30,7 @@
         <style name="module"/>
 
         <topics>
-            <subject uri="mamoth-lake">Mammoth Lake</subject>
+            <subject uri="blackmoor-lakes">Blackmoor Lakes</subject>
 
             <category>Lakes</category>>
 
@@ -42,20 +42,11 @@
 
     <body>
         <sect1>
-            <title>Mammoth Lake</title>
+            <title>Blackmoor Lakes</title>
 
             <para>
-                About 50km long and 30km wide, Mammoth Lake is the largest
-                lake in Nailand. The south western shore is covered in
-                thickly forested hills, the rest of the lake is surrounded
-                by grassland, and during the spring is home to multiple
-                herds of mammoths.
-            </para>
-            <para>
-                There are several small villages of the Short Folk on the
-                shores of the lake, making a living fishing and farming.
-                They are show less respect by the other tribes, but it
-                doesn't stop them trading for fish or metal goods.
+                The Blackmoor Lakes comprise of half a dozen large lakes, as well
+                as numerous smaller bodies of water in western Blackmoor.
             </para>
         </sect1>
     </body>

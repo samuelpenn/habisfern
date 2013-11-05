@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Mammoth Lake</title>
+        <title>Forlaten Hills</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -30,9 +30,9 @@
         <style name="module"/>
 
         <topics>
-            <subject uri="mamoth-lake">Mammoth Lake</subject>
+            <subject uri="forlaten-hills">Forlaten Hills</subject>
 
-            <category>Lakes</category>>
+            <category>Mountains</category>>
 
             <topic uri="nailand">Nailand</topic>
             <topic uri="euressa">Euressa</topic>
@@ -40,22 +40,14 @@
         </topics>
     </header>
 
+    <!-- Forsaken Hills -->
     <body>
         <sect1>
-            <title>Mammoth Lake</title>
+            <title>Forlaten Hills</title>
 
             <para>
-                About 50km long and 30km wide, Mammoth Lake is the largest
-                lake in Nailand. The south western shore is covered in
-                thickly forested hills, the rest of the lake is surrounded
-                by grassland, and during the spring is home to multiple
-                herds of mammoths.
-            </para>
-            <para>
-                There are several small villages of the Short Folk on the
-                shores of the lake, making a living fishing and farming.
-                They are show less respect by the other tribes, but it
-                doesn't stop them trading for fish or metal goods.
+                The Forlaten Hills is a range of hills and low mountains that
+                mark the eastern boundary of <qv uri="blackmoor">Blackmoor</qv>.
             </para>
         </sect1>
     </body>
