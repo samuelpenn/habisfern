@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Steaming Marsh</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <topics>
+            <subject uri="forlaten-hills">Forlaten Hills</subject>
+
+            <category>Marshes</category>>
+
+            <topic uri="nailand">Nailand</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <!-- Forsaken Hills -->
+    <body>
+        <sect1>
+            <title>Steaming Marsh</title>
+
+            <para>
+                The Steaming Marsh is a small area at the base of the Forlaten Hills
+                that consists of bubbling mud flats and hot pools. Several hot springs
+                flow out of the mountain side above the marsh. Though the area could
+                be ideal for settlement, a huge stench keeps people away from up to
+                a league all around.
+            </para>
+            <para>
+                The Marsh is said to be a gateway to the darker parts of the
+                <qv uri="dreamlands">Dreamlands</qv>, and that fell creatures make
+                it their home.
+            </para>
+            <para>
+                The deep parts of the Marsh are considered sacred by the
+                <qv uri="shortfolk">Short Folk</qv>, and their matriarchs are said
+                to conduct annual rituals there, and use some of the unique plants
+                as drugs which expand their magical abilities.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
