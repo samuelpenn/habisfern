@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Eirwen, The White Queen</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2004</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="queen-eirwen">Queen Eirwen</subject>
+
+            <category>Kings</category>>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Queen Eirwen, The White Queen</title>
+
+            <para>
+                Queen Eirwen ruled the <e>White Realm</e> as it was known for
+                over a hundred years. She was said to be a powerful witch,
+                who did deals with demons and other dark creatures of the
+                Dreamlands. The White Realm covered an area roughly that of
+                Aidan Shire, though her influence was much greater.
+            </para>
+            <para>
+                She was slain by King Alfgar in 637, who was aided by her
+                daughter Olwen who had considerable magic power herself.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
