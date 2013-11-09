@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>King Mostyn</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="kingdom-westland">Kingdom of Westland</see>
+            <see uri="white-realm">The White Realm</see>
+        </references>
+
+        <topics>
+            <subject uri="middle-kingdoms">Middle Kingdoms</subject>
+
+            <category>Kings</category>>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>King Mostyn</title>
+
+            <para>
+                King Mostyn was actually the first to be affected by the Rornic
+                invasion, but since it was originally scouting parties and raiders
+                who didn't yet have settlement in mind, his father was able to control
+                the situation, and when the Rornic changed tactics and began a
+                full scale invasion once Mostyn had taken the throne, aimed at 
+                Westland rather than Mostyn's own Kingdom, he made the decision that 
+                the Rornic were not a real threat, and that King Aeddan calls for an 
+                alliance were unnecessary.
+            </para>
+            <para>
+                Instead, he turned his attention to the north, and began a war against
+                <qv uri="king-eurig">King Eurig</qv> in about 614. By the time that
+                <qv uri="king-huw">King Huw</qv> had lost most of his men helping
+                to defend Westland, Mostyn decided that softer targets could be found
+                there, and actually defeated King Huw in battle at
+                <qv uri="hillstead">Hillstead</qv> in the summer of 619. Three days
+                later, he and his army fled before a Rornic army three times the
+                size.
+            </para>
+            <para>
+                King Mostyn himself fled into the eastern woods around 622 and was
+                never heard from again. His kingdom was torn apart by the Rornic
+                invaders, split up according to whomever could control the largest
+                share.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

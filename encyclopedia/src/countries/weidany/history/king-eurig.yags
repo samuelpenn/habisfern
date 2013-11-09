@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>King Eurig</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="kingdom-westland">Kingdom of Westland</see>
+            <see uri="white-realm">The White Realm</see>
+        </references>
+
+        <topics>
+            <subject uri="middle-kingdoms">Middle Kingdoms</subject>
+
+            <category>Kings</category>>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>King Eurig</title>
+
+            <para>
+                Bordering onto the White Realm, King Eurig and his father had
+                always had good relations with the White Witch, and it is believed
+                that at least three of her daughters had been fathered by Eurig
+                himself.
+            </para>
+            <para>
+                By the time of Huw's invasion in 614, he was an old man who was
+                trying to prevent his own three sons from tearing his Kingdom
+                apart. All three died in the war with Huw, and there was only a
+                brief respite between Huw turning his attentions south, and
+                Queen Eirwen turning her attentions on him.
+            </para>
+            <para>
+                It is said that in desperation he turned to dark powers for
+                salvation, sacrificing his wife and only daughter to the Elder
+                gods for aid. It was to no avail, for in 623 Eirwen's daughter,
+                <qv uri="queen-olwen">Olwen</qv>, killed Eurig herself and
+                enacted her own rule of terror.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

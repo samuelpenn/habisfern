@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Huw, King</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="kingdom-westland">Kingdom of Westland</see>
+            <see uri="white-realm">The White Realm</see>
+        </references>
+
+        <topics>
+            <subject uri="middle-kingdoms">Middle Kingdoms</subject>
+
+            <category>Kings</category>>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>King Huw</title>
+            <para>
+                King Huw ruled the south western portion of the Middle
+                Kingdoms, bordering on the Kingdom of Westland. King Huw was
+                the most sensible of the four kings, and was the only one
+                willing to ally with King Aeddan against the Rornic invaders.
+                The others preferred to fight amongst themselves than turn to
+                face the common threat.
+            </para>
+            <para>
+                Unfortunately, this alliance was too little, too late, and
+                King Aeddan was defeated anyway and Huw lost most of his
+                armies in helping him. He was finally killed in a battle
+                with <qv uri="king-mostyn">King Mostyn</qv>, who saw the
+                opportunity to invade his lands after Huw had been weakened
+                by the Rornic invaders.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

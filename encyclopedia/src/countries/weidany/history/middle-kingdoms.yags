@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Middle Kingdoms</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="kingdom-westland">Kingdom of Westland</see>
+            <see uri="white-realm">The White Realm</see>
+        </references>
+
+        <topics>
+            <subject uri="middle-kingdoms">Middle Kingdoms</subject>
+
+            <category>Kingdoms</category>>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Middle Kingdoms</title>
+
+            <para>
+                At the time of the Rornic invasion in the early 7th century,
+                Weidany consisted of three main areas. In the south, was
+                <qv uri="kingdom-westland">Kingdom of Westland</qv>, which was
+                ruled by <qv uri="aeddan">King Aeddan</qv>, and was the strongest
+                and most organised of the kingdoms.
+            </para>
+            <para>
+                In the north, was the <qv uri="white-realm">White Realm</qv>,
+                the land of <qv uri="queen-eirwen">Queen Eirwen</qv>, who was
+                also known as the White Witch.
+            </para>
+            <para>
+                Between them were the Middle Kingdoms, which was not a unified
+                realm but a number of realms each ruled by a different King.
+                They were unstable and often warring with each other, though by
+                620 had more or less settled into four kingdoms, each defined
+                by the influence of the prospective kings -
+                <qv uri="king-rhys">Rhys</qv>,
+                <qv uri="king-mostyn">Mostyn</qv>,
+                <qv uri="king-huw">Huw</qv> and
+                <qv uri="king-eurig">Eurig</qv>.
+            </para>
+            <para>
+                By 630 the Middle Kingdoms had pretty much collapsed, and
+                the land was being split up between Rornic warrior lords who
+                were laying claim to whatever they could keep hold of.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
