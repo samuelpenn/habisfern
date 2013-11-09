@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Gwawr</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="house-of-mother">House of the Mother</see>
+        </references>
+
+        <topics>
+            <subject uri="gwawr-witch">Gwawr</subject>
+
+            <category>Wizards</category>>
+
+            <topic uri="aidan-kingdom">Kingdom of Aidan</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Gwawr, Witch of Aidan</title>
+
+            <para>
+                Gwawr was a sorceress who led the <e>House of the Mother</e>
+                in the late 8th century. In 795, King Haerdy II of the Kingdom
+                of Aidan goes to the witches there to seek aid against the
+                giants who were invading from the north.
+            </para>
+            <para>
+                Gwawr gave him that aid, and with her companions was able to
+                convince the giants to return to their homelands and leave
+                the Kingdom alone. At that time, the House of the Mother was
+                a group of powerful female sorcerers who also followed the
+                goddess <qv uri="yagma">Yagma</qv>, it wasn't until later,
+                in the 10th century, that the priority was swapped. They
+                were mostly specialists in Earth, Water and Spirit, and used
+                a combination of elemental magic, as well as cold and mind
+                magic to drive the giants back.
+            </para>
+            <para>
+                Their most powerful asset though was their ability to use
+                their strength of magic only as a means to get the giants
+                to the negotiating table, and Gwawr used diplomacy to actually
+                end the war before the giants started bringing their own
+                sorcerers into the battle.
+            </para>
+            <para>
+                Gwawr left the House of the Mother shortly afterwards, seeing
+                greater personal benefit in staying with the King. In 803 he
+                divorces his wife and marries Gwawr. She persuades him to
+                make her son King upon his death, rather than the sons of
+                his first wife. There is a short civil war, but it is
+                over within three months and her son is firmly positioned
+                on the throne.
+            </para>
+            <para>
+                She dies in 899, having lived a greatly extended life and
+                spending much of that time guiding the Kingdom from behind
+                the scenes. She chose the wife of each King that followed
+                her husband, ensuring that the King's wife was always a
+                sorceress, and starting a tradition that lasted until the
+                fall of the Kingdom.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
