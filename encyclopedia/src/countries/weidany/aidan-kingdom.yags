@@ -30,6 +30,7 @@
         <style name="module"/>
 
         <references>
+            <see uri="aidan-shire">Aidan Shire</see>
         </references>
 
         <topics>
@@ -37,7 +38,7 @@
 
             <category>Kingdoms</category>
 
-            <topic uri="aidan-shire">Aidan Shire</topic>
+            <topic uri="aidan-kingdom">Kingdom of Aidan</topic>
             <topic uri="habisfern">Habisfern</topic>
             <topic uri="weidany">Weidany</topic>
             <topic uri="euressa">Euressa</topic>
@@ -86,16 +87,182 @@
                 </para>
                 <para>
                     The White Queen was defeated in 637, and King Alfgar extends
-                    his Kingdom of Aidan to cover all the White Realm. He has
+                    his Kingdom of Aidan to cover all the White Realm. In 642 he has
                     two sons by Olwen, twins named Neirin and Dilwyn. Five years
                     later, in 647, he grows suspicious of his wife's power
-                    and has her murdered, though her body is never found.
+                    and has her murdered shortly after she becomes pregnant again,
+                    though her body is never found.
                 </para>
                 <para>
                     He takes another woman, Lowri, as his wife in the following
                     year, but she dies in child birth in 649. Her daughter, who
                     is named Haf, survives, but there is talk that Lowri's death
                     was caused by witchcraft.
+                </para>
+            </sect2>
+            <sect2>
+                <title>Civil Wars</title>
+                <para>
+                    In 655 King Alfgar is killed in an accident, leaving the
+                    regent Wulfred in charge. Several nobles take the opportunity
+                    to rebel, and war breaks out between them. Distracted by
+                    internal conflict, the Kingdom is unable to defend its
+                    southern borders and loses some of its territory to the
+                    Druids of Danuch. Wulfred moves to the town of Beornstor.
+                </para>
+                <para>
+                    Three years later, Wulfred is slain by Neirin, who claims
+                    the throne over the objections of his brother. Dilwyn also
+                    claims the throne, but has to flee to the east to avoid
+                    being killed himself. Both twins manage to raise armies,
+                    and begin a war that tears the Kingdom apart.
+                </para>
+                <para>
+                    In 661, the twins are forced to agree to an end to hostilities
+                    by their thegns. They are both nineteen at this point,
+                    strong headed and generally unwilling to compromise or take
+                    advice. However, few are willing to continue following either
+                    of them if they insisted on continuing the war.
+                </para>
+                <para>
+                    Their half-sister Haf, who is thirteen, is banished from
+                    Beornstor by King Neirin's wife in 662, and she flees to 
+                    Derynbryn to stay with King Dilywn. Almost immediately, there
+                    is friction between Haf and Dilwyn's own wife Hilda. Within
+                    six months, Hilda has fallen ill and Dilwyn has taken his
+                    half-sister to his bed.
+                </para>
+                <para>
+                    Tensions rise between the twins over Haf, as King Neirin
+                    accuses her of witchcraft and incest. Early the following
+                    year, Haf persuades Dilwyn to allow her to got to his brother
+                    and try and broker a peace, against the advice of almost
+                    everyone. It is a cold winter, and Haf is heavily pregnant
+                    with her brother's child, so it is considered a political
+                    move that is likely to go horribly wrong, and also dangerous
+                    for her to travel given the conditions.
+                </para>
+                <para>
+                    She is given a cold reception at Beornstor, and forbidden
+                    entry to the town. With a snow storm starting, their are
+                    forced to stay outside that night, with the expectation
+                    that she and her guards will probably die.
+                </para>
+                <para>
+                    What actually happens is unclear, for that night the gates
+                    to the town are broken open in the storm, and many of the
+                    guards on the wall are slain. Some say that they saw a naked
+                    girl walking down the street in the storm, blood running
+                    down her legs and staining the snow, and a <e>thing</e>
+                    walking beside her. By morning, King Neirin is dead, and
+                    the torn remains of his wife's body is found in the courtyard.
+                    Haf has taken the keep with her guards, and sends an
+                    invitation to her brother/lover to come to Beornstor to
+                    claim the throne of all Aidan.
+                </para>
+                <para>
+                    King Dilwyn though refuses to condone the murder of his
+                    brother, and demands that Haf turn herself over to the huscurls
+                    at Beornstor. She refuses to do so, and blood flows again in
+                    the royal capital as battle breaks out between her guards and
+                    the huscurls. She is finally captured, and Dilwyn marches
+                    west to claim his throne and deal with his sister.
+                </para>
+                <para>
+                    Several days after he arrives, Haf is burnt for witchcraft.
+                    Her pregnancy appears to have aborted during the previous days,
+                    though the favoured story is that she birthed an abomination
+                    that allowed her to take control of the town. On the night that
+                    Haf is burnt, King Dilwyn's wife Hilda dies in her bed after a
+                    screaming fit of terror. She had one child, a son, Eadgar, that 
+                    survived her.
+                </para>
+                <para>
+                    In the summer of 663, a new ceremony is held to proclaim
+                    King Dilwyn as the true King of all of Aidan.
+                </para>
+            </sect2>
+            <sect2>
+                <title>The Line of Dilwyn</title>
+                <para>
+                    King Dilwyn never remarries, or ever takes another woman to
+                    his bed. He instead becomes a dedicated follower of
+                    <qv uri="tharos">Tharos</qv>, and started the cult of
+                    <qv uri="tharos-the-pure">Tharos The Pure</qv>, dedicated
+                    to physical arts and forgoing pleasures of the flesh.
+                </para>
+                <para>
+                    His son, Eadgar, takes the throne in 707 upon the death of
+                    his father. He has two sons and two daughters by three wives,
+                    and his second son Ganrun takes the throne in 721
+                </para>
+                <para>
+                    Haerdy, son of Ganrun, becomes King of Aidan in 738. Ten
+                    years later, he tries to expand the Kingdom's borders
+                    eastward into <qv uri="nailand">Nailand</qv>, but his
+                    attempts are driven back by the Shortfolk, and he actually
+                    loses lands.
+                </para>
+                <para>
+                    The following year, the disaster is compounded when the
+                    <qv uri="lanuch-kingdom">Kingdom of Lanuch</qv> invades,
+                    led by King Oswiu. Haerdy's forces are defeated entirely,
+                    and he is forced to pay a large sum of money to get
+                    King Oswiu to go away. Fortunately, for Aidan, Oswiu is
+                    distracted by events on his southern borders in the
+                    following years, so peace of sorts continues between the
+                    two Kingdoms.
+                </para>
+            </sect2>
+            <sect2>
+                <title>Wars Against the Giants</title>
+                <para>
+                    In 794 giants come down out of the 
+                    <qv uri="mistfall-mountains">Mistfall Mountains</qv> and
+                    raid deep into the Kingdom. King Haerdy II leads his
+                    forces against them, but they are a formidable foe.
+                </para>
+                <para>
+                    The King makes an alliance with the witches of the
+                    <qv uri="house-of-mother">House of the Mother</qv>, and
+                    with the aid of their magic is able to turn the giants
+                    back. He divorces his wife and takes the witch Gwawr
+                    as his new wife. Her eldest child becomes King on his
+                    father's death.
+                </para>
+            </sect2>
+            <sect2>
+                <title>Cult of Asabeth</title>
+                <para>
+                    The cult of Asabeth attacks as far as Rethem in 880,
+                    the women taking much land as their own. They are
+                    driven out five years later.
+                </para>
+            </sect2>
+            <sect2>
+                <title>The Great Wars</title>
+                <para>
+                    There is a famine across the land of the Kingdom in 944,
+                    and much unrest follows. The following year there does
+                    not seem to be much improvement in the crops, so to
+                    distract his nobility and common folk King Ranulf forms
+                    together an army and marches it south into Lanuch.
+                </para>
+                <para>
+                    Fearing that the giants on his northern border are also
+                    getting restless, he offers them gold in exchange for
+                    them joining his army, and many of them agree.
+                </para>
+                <para>
+                    The war is successful, so much so that he continues it the
+                    following year, and the year after that. By 953 both
+                    East and West Lanuch have fallen to him, and South Lanuch
+                    offers much gold to keep him away.
+                </para>
+                <para>
+                    Though King Ranulf would seek further bloodshed, his mother,
+                    the witch Mabyn, cautions him against it unless it forces
+                    all the kingdoms of the south to rise up against him.
                 </para>
             </sect2>
         </sect1>

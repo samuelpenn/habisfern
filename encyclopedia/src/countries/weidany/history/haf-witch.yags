@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Haf</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="haf-witch">Haf</subject>
+
+            <category>Wizards</category>>
+
+            <topic uri="aidan-kingdom">Kingdom of Aidan</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Haf, Witch of Aidan</title>
+
+            <para>
+                Haf was the only daughter of <qv uri="king-alfgar">King Alfgar</qv>
+                of Aidan and his second wife Lowri. Her birth caused the death of
+                her mother, and she indirectly caused the death of her father as
+                well when she ran out to greet him, startling the horse he was
+                riding. She was born in 649, and died in 663 at the age of 14.
+            </para>
+            <para>
+                From an early age she was said to be highly intelligent, though
+                had a habit of talking to either imaginary friends or spirits,
+                depending on who was asked. By the time the civil war broke out
+                between her elder half brothers <qv uri="king-neirin">Neirin</qv> 
+                and <qv uri="king-dilwyn">Dilwyn</qv>, she was capable of
+                providing adult advice and claimed to be able to talk to spirits,
+                notably that of her stepmother.
+            </para>
+            <para>
+                When Dilwyn fled from Beornstor in 658, she was nine years old,
+                and left with her brother King Neirin and his new wife Meinir.
+                She provides military advice to him, and also starts to grow
+                close to him, so much so that Meinir has her thrown out of the
+                town in 662.
+            </para>
+            <para>
+                She flees to <qv uri="derynbryn">Derynbryn</qv> where her other
+                brother, Dilwyn, is based. She soon has her brother's confidence,
+                and not much later his bed after his wife Hilda falls ill.
+                Rumours say that she poisoned Hilda, or put a spell upon her,
+                but this is never spoken of openly at the time. Her actions
+                draw the wrath of Neirin, especially when it becomes obvious
+                that she is pregnant with her half brother's child.
+            </para>
+            <para>
+                In the winter of 662/663, and now close to expecting her child,
+                she persuades King Dilwyn to allow her to travel back to
+                Beornstor to make peace with Neirin, and try and defuse tensions
+                between the two brothers. The request is generally considered to
+                be insane, but Dilwyn is unable to refuse her, and allows her
+                to take some house guards with her.
+            </para>
+            <para>
+                Despite the heavy snows, she makes it to Beornstor, where she is
+                refused entry. Forced to remain outside, as a severe snow storm
+                is brewing, she goes into labour that night, giving birth to
+                what is probably a <qv uri="familiar">familiar</qv>, that gives
+                her the magical power to break down the gates of the town and
+                force her way inside. She kills both the king and his wife, and
+                takes the town for herself.
+            </para>
+            <para>
+                Having achieved her aims for her lover, she is at the end
+                betrayed by him. Possibly no longer under the influence of her
+                witchcraft, he is appalled by the murder of his brother, and
+                orders her arrest. She refuses to surrender without a fight,
+                but she is eventually taken, and burnt at the stake several
+                days later at the orders of King Dilwyn.
+            </para>
+            <para>
+                Nothing is seen of her child after that initial night, so it
+                is not known what happened to it. There are stories that say
+                she survived the fire for many hours before finally succumbing,
+                and that her wraith now haunts the hill where she was burnt.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

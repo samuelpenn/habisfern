@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Alfgar, King of Aidan</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="king-alfgar">King Alfgar</subject>
+
+            <category>Kings</category>>
+
+            <topic uri="aidan-kingdom">Kingdom of Aidan</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>King Alfgar</title>
+
+            <para>
+                Alfgar was a Rornic thegn who first rose to prominence during
+                the invasions of Weidany in the early 7th century. He made a
+                name for himself by slaying the Weidanic king Rhys in 628 at
+                the Battle of Otter Falls on the River Sade.
+            </para>
+            <para>
+                He made an alliance with, and fell in love with,
+                <qv uri="queen-olwen">Olwen</qv>, daughter of 
+                <qv uri="queen-eirwen">Queen Eirwen</qv> of the White Realm.
+                Together they overthrew the White Queen, and founded what was
+                to be known as the <qv uri="aidan-kingdom">Kingdom of Aidan</qv>
+                in the year 637.
+            </para>
+            <para>
+                Olwen was a powerful sorceress, much like her mother was, and it
+                is not known how much of his devotion to her was due to her magic. 
+                In 642 she provides him with twin sons,
+                <qv uri="king-neirin">Neirin</qv> and <qv uri="king-dilwyn">Dilwyn</qv>
+                who were eventually to tear the Kingdom apart in civil war.
+            </para>
+            <para>
+                Olwen has a lot of power and influence in the kingdom, much to the
+                distaste of Alfgar's advisers. Eventually, he stops listening to
+                them, but over time his blind devotion turns to paranoia, and in
+                647, whilst she is pregnant with another child of his, he tries to
+                have her killed. Whilst she is out hunting with her handmaidens, she
+                is attacked by Alfgar's men. Only one of them returns, unable to
+                give a clear account of what happened. Her body is never found,
+                though the dead, violated, bodies of her handmaidens are, along
+                with the bloody remains of her attackers. 
+            </para>
+            <para>
+                Alfgar remarries, taken the noble woman Lowri as his wife in 648.
+                She dies in childbirth the following year, but their daughter,
+                named qv uri="haf-witch">Haf</qv>, survives.
+            </para>
+            <para>
+                Alfgar remains as king until his death in 655, when he is thrown
+                by his horse which was startled by Haf.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
