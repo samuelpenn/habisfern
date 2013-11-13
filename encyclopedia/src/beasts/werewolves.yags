@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Werewolves</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="werewolves">Werewolves</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Werewolves</title>
+
+            <para>
+                Werewolves are humans cursed to take the form of beasts. Often,
+                the curse originates from <qv uri="faerie">Faerie powers</qv>,
+                but since it can be passed from person to person, the originator
+                of the curse can sometimes be lost to time.
+            </para>
+            <para>
+                Unlike <qv uri="shapechangers">shape changers</qv> of the more
+                general variety, werewolves tend to have limited control over
+                when they change. The stereotypical time for change is during
+                the full Moon, but other triggers have been known, such as the
+                anniversary of some event, during storms or even for a large
+                period of the year such as winter or spring.
+            </para>
+            <para>
+                The most common shape taken is that of a wolf, but it is actually
+                rare for a full animal form to be taken. Normally, the cursed
+                form is a half way state between human and beast. Those who are
+                particularly strong willed may be able to keep control of their
+                mind whilst in beast form, but most are unable to do so, and will
+                often end up attacking and killing those close to them.
+            </para>
+            <sect2>
+                <title>Passing on the Curse</title>
+                <para>
+                    The curse may be passed from werewolf to victim during a
+                    physical attack. Those who are seriously wounded by a
+                    werewolf may full under the curse themselves. Being killed
+                    by a werewolf results in death, not another werewolf, so
+                    the most vicious of those under the curse actually tend to
+                    be less likely to spread the curse.
+                </para>
+                <para>
+                    Ostracised by society, werewolves can form into packs that
+                    flee civilisation to go live by themselves. Since their
+                    beast form is obviously unnatural, keeping the curse
+                    secret within a populated area can be hard.
+                </para>
+                <para>
+                    The only known way to end the curse is through death. Killing
+                    the original werewolf has no affect on those infected by it.
+                </para>
+            </sect2>
+            <sect2>
+                <title>Other Beasts</title>
+                <para>
+                    Other forms of were creatures are not uncommon, including
+                    boars, lions and bears. They are rarer than the wolf variety,
+                    but the curse seems to work in the same way.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+
