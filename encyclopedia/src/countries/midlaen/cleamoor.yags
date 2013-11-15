@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Cleamoor</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="cleamoor">Cleamoor</subject>
+
+            <category>Moors</category>>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <!-- Stepping stones (Cleac) moor -->
+    <body>
+        <sect1>
+            <title>Cleamoor</title>
+
+            <para>
+                Cleamoor runs north/south between forests, marking the eastern
+                border of the <qv uri="green-shade">Green Shade</qv>. It is a
+                mixture of low laying heath and high moor land, with the moors
+                forming a row of islands running down the centre of the region.
+                A few rocky crags that rise above the hills are sometimes known
+                as the <e>Stepping Stones</e>.
+            </para>
+            <para>
+                There are a few small settlements in the region, but population
+                is generally light. It is mostly used as a route from
+                <qv uri="blackbay">Blackbay</qv> down to the
+                <qv uri="lagudal-valley">Lagudal Valley</qv>.
+            </para>
+            <para>
+                However, the route is not necessarily an easy one, for there are
+                dangers on both sides. To the west, the haunted woods of the
+                Green Shade are considered a threat, whilst to the east, several
+                groups of <qv uri="werewolves">Werewolves</qv> are known to
+                frequent the <qv uri="howling-woods">Howling Woods</qv>. The
+                safest path is down the middle, but since this cuts straight
+                across the high moorlands, the easiest paths are either down the
+                western or eastern sides.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
