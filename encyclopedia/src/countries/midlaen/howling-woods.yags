@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Howling Woods</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <topics>
+            <subject uri="howling-woods">Howling Woods</subject>
+
+            <category>Woods</category>>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+   <!-- Feorr (far-off) woods -->
+
+    <body>
+        <sect1>
+            <title>Howling Woods</title>
+
+            <para>
+                The <e>Howling Woods</e> is a region of dense forest between
+                <qv uri="cleamoor">Cleamoor</qv> and <qv uri="lake-gad">Lake Gad</qv>.
+                Ever since these lands have been reclaimed by humans, these woods have
+                been home to wild creatures inimical to them. The fey rule the
+                dark central woodlands, and their touch reaches to the edge of the
+                woods and beyond.
+            </para>
+            <para>
+                The biggest threat are the <qv uri="werewolves">Werewolves</qv> that
+                hunt here, for they are most likely to roam beyond the borders of
+                the woods when the moon is full. There are several families of
+                werewolves, which seem to be able to trace their lineage back
+                hundreds of years. They seek out new members for their family
+                on a regular basis, spreading their curse and insuring its
+                continuation.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
