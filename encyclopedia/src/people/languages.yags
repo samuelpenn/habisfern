@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Languages</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="languages">Languages</subject>
+
+            <category>Languages</category>>
+
+            <topic uri="languages">Languages</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Languages</title>
+
+            <para>
+                Languages of <qv uri="euressa">Euressa</qv> fall into four
+                main groups - those related to Weidanic, those related to
+                Rornic, those related to Kurbian and Vyhara. Of them all,
+                Vyhara is the most distinct, and spoken only by the
+                <qv uri="shortfolk">Short Folk</qv>.
+            </para>
+            <para>
+                The oldest language in Euressa is that of Vyhara, for it is
+                thought that the Short Folk came across from the Old World 
+                many centuries before humans did. Their language is their
+                own, and quite different to the tongues of men.
+            </para>
+            <para>
+                It is thought that humans came over in two waves - the
+                Rornic people settled in the <qv uri="five-kingdoms">Five Kingdoms</qv>
+                whilst the Weidanic continued west, populating the coast all
+                the way up to <qv uri="taneith">Taneith</qv>.
+            </para>
+            <para>
+                The Weidanic tongues split into several, including that of
+                Taneith, Canchak and modern Weidanic. Taneith and Canchak
+                have enough similarity that speakers of either can understand
+                a few words of the other, but modern Weidanic has changed
+                quite a bit since the split.
+            </para>
+            <para>
+                Rornic split into three distinct groups - modern Rornic,
+                Brytish and Nothron. There are some similarities between all
+                three languages still, but understanding between people of
+                these tongues is rarely possible. Nothron itself has several
+                dialects, some more understandable to each other than others.
+            </para>
+            <para>
+                The final language grouping is that of Kurbian, which is found
+                only in the east. It is a language that has come from the far
+                east of the Old World, and is thought to be unconnected to
+                the other human languages of Euressa. It has several dialects
+                of its own however, and is spoken in the Old World still.
+            </para>
+            <sect2>
+                <title>Scripts</title>
+                <para>
+                    Maerk is a simple runic language used in Taneith, Cancha
+                    and a few neighbouring places. Brytish is another runic
+                    language, but it is falling into disuse and the most
+                    common script used is that of Rornic.
+                </para>
+                <para>
+                    Rornic and Kurbian use a very similar script, with the
+                    latter being a few letters different.
+                </para>
+            </sect2>
+            <sect2>
+                <title>Ancient Tongues</title>
+                <para>
+                    There are a few scholars who speak the ancient tongue
+                    of <qv uri="meganan">Meganan</qv>, said to have come from
+                    an ancient empire of the Old World now lost to the shrouds
+                    of time. A few ancient scrolls are still written in this
+                    script, but it is rarely used.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+
