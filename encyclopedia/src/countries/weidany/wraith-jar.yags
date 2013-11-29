@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Wraith Jar</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+        
+        <campaign>
+            <date>731, Spring</date>
+        </campaign>
+
+        <references>
+            <see uri="wraiths">Wraiths</see>
+        </references>
+
+        <topics>
+            <subject uri="wraith-jar">Wraith Jar</subject>
+
+            <category>Items</category>>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Wraith Jar</title>
+
+            <para>
+                A <e>Wraith Jar</e> is a clay jar, generally about a metre tall,
+                in which is placed a corpse for burial. Burial is unusual within
+                the Kingdom, for cremation is preferred since it destroys the
+                corpse quicker and thereby sends the spirit onto the afterlife
+                as soon as possible.
+            </para>
+            <para>
+                For some criminals though, a wraith jar is used as a form of
+                post-death punishment. By preserving the body for as long as
+                possible, the ghost of the victim is kept bound to it, driving
+                it insane and preventing it from finding proper rest in the
+                <qv uri="under-earth">Under Earth</qv>. By burying the jar deep,
+                away from settlements, the wraith that could be potentially
+                dangerous is kept bound to the body where it cannot harm anyone.
+            </para>
+            <para>
+                The body is wrapped in cloth after death, sometimes with salt,
+                and then candles are set within the jar before it is finally
+                sealed. The candles burn off the clean air, and delay the onset
+                of decay. It is said that bodies can take years to decay when
+                buried in this way, if not longer, and the ghost of the spirit
+                is thought to be kept bound to the corpse for this long. After
+                such a time, any ghost will have lost all its memories of life,
+                and will be unable to account for their actions in the
+                after life.
+            </para>
+            <para>
+                This punishment is reserved for the most heinous of crimes, which
+                normally means treachery.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
