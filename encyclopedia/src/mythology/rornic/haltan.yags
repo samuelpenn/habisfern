@@ -49,6 +49,21 @@
     <body>
         <sect1>
             <title>Haltan, King of the Gods</title>
+            
+            <religion>
+                <god>Haltan</god>
+                <title>King of the Gods</title>
+                <title>Sky Father</title>
+                <pantheon uri="rornic-mythology">Rornic</pantheon>
+                <domain>Law</domain>
+                <domain>Battle</domain>
+                <domain>Sky</domain>
+                <summary>
+                    The god of law and order, taken on the roles of lawyer and 
+                    enforcer. As King amongst the gods, he is both a great 
+                    warrior and a wise ruler.
+                </summary>
+            </religion>
 
             <para>
                 Haltan was created at the dawn of the world by Yagma and
@@ -112,6 +127,19 @@
                     authority by the Queen, though they are expected to respect
                     the decisions of the local lord.
                 </para>
+                <sect3>
+                    <title>Temples to Haltan</title>
+                    <para>
+                        Temples to Haltan tend to be found in larger villages,
+                        towns and cities. They consist of large halls, made of
+                        stone where possible, with a central hall for worship,
+                        and private areas where advice may be sought.
+                    </para>
+                    <para>
+                        His temples tend to be built by those who wish to claim
+                        dominance over an area.
+                    </para>
+                </sect3>
             </sect2>
         </sect1>
     </body>
