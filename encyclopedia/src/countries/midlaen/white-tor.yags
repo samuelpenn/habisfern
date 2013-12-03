@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>White Tor</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="hills-of-ruin">Hills of Ruin</subject>
+
+            <category>Ruins</category>>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>White Tor</title>
+
+            <para>
+                Located within the <e>Hills of Ruin</e>, White Tor is an
+                ancient stone monument of white marble. It is believed to have
+                been constructed by the <qv uri="elders">Elders</qv> at least
+                two thousand years ago, and has probably been deserted for at
+                least half that time.
+            </para>
+            <para>
+                Like all the ruins of the Hills of Ruin, the bulk of the
+                construction is underground, with caverns linked by twisting
+                tunnels and filled with stone buildings which have never seen
+                sunlight.
+            </para>
+            <para>
+                White Tor is said to be haunted by a nameless demon lord dwells
+                far beneath the surface, slumbering until woken by those who
+                dare to explore the ruins in search of wealth or knowledge.
+                Little of the former has been found in living memory however,
+                and what there is of the latter is probably best left forgotten.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
