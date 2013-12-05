@@ -30,7 +30,6 @@
         <style name="module"/>
 
         <references>
-            <see uri="broken-towers">Broken Towers</see>
             <see uri="long-circle">Long Circle</see>
             <see uri="white-tor">White Tor</see>
         </references>
