@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Broken Towers</title>
+        <title>Long Circle</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -31,7 +31,6 @@
 
         <references>
             <see uri="broken-towers">Broken Towers</see>
-            <see uri="long-circle">Long Circle</see>
             <see uri="white-tor">White Tor</see>
         </references>
 
@@ -48,31 +47,23 @@
 
     <body>
         <sect1>
-            <title>The Broken Towers</title>
+            <title>Long Circle</title>
 
             <para>
-                The Broken Towers are the overgrown remains of a ruined
-                city in central Midlaen. It is thought to have been either
-                an outpost of the <qv uri="five-kingdoms">Five Kingdoms</qv>,
-                or a place that the Rornic people made on their migration
-                after the <qv uri="betrayal">Betrayal</qv>.
-                They are sometimes known as Drosan Tor.
+                The ruined remains of <e>Long Circle</e> gets its name from the
+                ruins of the wall that bounds it. About a kilometre long, and
+                about 700m wide, the elongated circle surrounds two hills, a
+                small lake and a series of low ruins. The wall itself is up to
+                five metres tall in places, though most of it is less than the
+                height of a man.
             </para>
             <para>
-                The ruins are the most impressive group of stone buildings
-                set amongst the <qv uri="hills-of-ruin">Hills of Ruin</qv>,
-                the largest of which are several stone towers. Most the
-                buildings have crumbled into ruin, and it is thought that
-                the majority of the city was of wooden construction,
-                leaving only the odd stone edifice as a symbol of what
-                stood before.
-            </para>
-            <para>
-                Most of what remains though is underground, for whoever
-                did build this place seemed to have dug in and built
-                deeply. Most of the place is overrun by
-                <qv uri="ghouls">Ghouls</qv>, so most avoid it as much
-                as they can.
+                A curse is said to lay on the area, and at night the spirits of
+                those that used to live here can sometimes be seen. They can do
+                little to harm the living, but the voices that whisper in the
+                minds of those that stay here can drive a person insane. Though
+                this is one of the three large ruins of the Hills of Ruin, it
+                offers the least in terms of hidden mysteries.
             </para>
         </sect1>
     </body>
