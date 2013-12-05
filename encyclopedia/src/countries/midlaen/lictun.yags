@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Lictun</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="lictun">Lictun</subject>
+
+            <category>Ruins</category>>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <!-- Lictun: Graveyard -->
+    <body>
+        <sect1>
+            <title>Lictun</title>
+
+            <para>
+                The ancient settlement of Lictun once had a thriving population of
+                over five thousand people, and was the southernmost trade centre
+                in Midlaen. Located in the <qv uri="webbing-hills">Webbing Hills</qv>,
+                it sat on a gold mine that provided great wealth for several hundred
+                years, a fortune they praised <qv uri="pel">Pel</qv> for.
+            </para>
+            <para>
+                By the late 11th century, the miners were forced to dig deeper and
+                deeper to find gold, until by the early 12th century the supply had
+                pretty much dried up. Eventually though a new seam was found, and
+                wealth seemed to flow again, until that is the truth emerged.
+            </para>
+            <para>
+                In 1119, several gold smiths had turned away from their adulation of
+                the god Pel, and instead found darker powers. Through various blood
+                magics, they had made pacts with earthly demonic spirits in exchange
+                for more gold. The number of sacrifices required increased to the
+                point though where it became impossible to keep the corruption
+                hidden. They were forced to pay guards to keep the townsfolk from
+                leaving, and before long the entire town had fallen under the
+                corrupting influence of the head smith.
+            </para>
+            <para>
+                By 1234 the last of the living had either managed to escape or had
+                been given over in sacrifice. The old name of the settlement was
+                forgotten, and now it is known as <e>Lictun</e>, for it is a mass
+                grave for those whose greed consumed them. It is ruled by the
+                <qv uri="wraith-lictun">Wraith King</qv>, who is served by the
+                undead who still dwell there.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
