@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Brenwood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="brenwood">Brenwood</subject>
+
+            <category>Towns</category>>
+
+            <topic uri="northmarch-shire">Northmarch Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Brenwood</title>
+                        
+            <para>
+                Brenwood is a town of some 2,500 people in Northmarch Shire.
+                It is an open town that stretches for several hundred metres
+                along the east side of the <qv uri="bren-river">Bren River</qv>.
+                It has no walls, and very much has the appearance of several
+                villages having merged into one. It is the largest town in the
+                region known as <qv uri="Berch Valley">Berch Valley</qv>.
+            </para>
+            <para>
+                Currently, the fields outside the town are populated by a large
+                army encampment, numbering another thousand people, made up of
+                soldiers, mercenaries and camp followers. The townspeople are
+                considerably unhappy with this, for instances of theft, violence
+                and rape have increased dramatically since the arrival of the
+                army in the winter of 1229.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
