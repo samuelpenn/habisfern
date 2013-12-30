@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Iron Kingdom</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="five-kingdoms">The Five Kingdoms</see>
+        </references>
+
+        <topics>
+            <subject uri="iron-kingdom">Iron Kingdom</subject>
+
+            <category>Legends</category>
+
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Iron Kingdom</title>
+            <para>
+                In the time before the death of <qv uri="rorn">Rorn</qv>, the
+                eastern most of the <e>Five Kingdoms</e> was known as the Iron
+                Kingdom, or sometimes as the <e>Kingdom of the Red Throne</e>.
+                Built around the <qv uri="red-mountains">Red Mountains</qv>, its
+                wealth was founded on the iron and steel that came out of its
+                mines.
+            </para>
+            <para>
+                The cities of the Iron Kingdom are tightly packed, filled with
+                workshops and smithies and hidden behind high walls.
+            </para>
+            <para>
+                The last king who sat on the Red Throne was King Sorfa, who took
+                it from his father Cynegeld by force. His elder sister Mildgith
+                had a better claim to the crown, but she was banished from the
+                Kingdom during the unrest, and forced to flee to the temple of
+                Raven's Height in the far north.
+            </para>
+            <para>
+                Soon after he consolidated his power within his own Kingdom,
+                the cult of Haltan began the civil war in the White City and
+                Sorfa used the opportunity of unrest and uncertainty in the
+                other kingdoms to march south on the Dragon Lords of 
+                Drasodor.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
