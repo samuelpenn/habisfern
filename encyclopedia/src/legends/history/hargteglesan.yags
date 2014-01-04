@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Hargteglesan</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="five-kingdoms">The Five Kingdoms</see>
+        </references>
+
+        <topics>
+            <subject uri="hargteglesan">Hargteglesan</subject>
+
+            <category>Legends</category>
+
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Hargteglesan</title>
+            <para>
+                High up amongst the glaciers of the Withrican Mountains
+                was the <e>Kingdom of the Sorceress of Ice</e>. This was
+                one of the Five Kingdoms that made up the land of
+                <qv uri="tarvallah">Tarvallah</qv>.
+            </para>
+            <para>
+                The Snow Queen that ruled that kingdom was a powerful
+                sorceress that used her magic and that of her daughters to
+                keep the settlements in the mountain valleys strong and
+                viable. There were many who said that she was in league
+                with the Ice itself, but it is not clear whether this was
+                ever true or not.
+            </para>
+            <para>
+                Queen Glaesa was said to be a tall, beautiful woman, who
+                was cruel and unforgiving. She ruled her kingdom with an
+                iron hand, but it thrived under her rulership. Her daughters
+                were fathered by the snow spirits, in exchange for favours
+                and protection.
+            </para>
+            <para>
+                When the White City began its fall, she sent her armies to
+                help defend it from the <qv uri="iron-kingdom">Iron Kingdom</qv>
+                and forces of <qv uri="hasupator">Hasupator</qv>. On hearing
+                that Queen Glaesa was raising an army, the White City assumed
+                the worst and sent their assassins to try and kill her. They
+                almost succeeded, on the same day that the heralds of the
+                Snow Queen arrived at the White City in order to offer her
+                support.
+            </para>
+            <para>
+                With several of her daughters dead, and herself severely
+                wounded, the Queen withdrew her armies back to her cities,
+                and closed all communication with the outside world.
+                Nothing was heard of the Kingdom again, and it is assumed
+                that it was conquered and destroyed by the Wizard King of
+                Bealurwic, or of King Sorfa.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
