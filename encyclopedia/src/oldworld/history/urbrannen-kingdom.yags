@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Kingdom of Urbrannen</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="urbrannen-kingdom">Kingdom of Urbrannen</subject>
+
+            <category>Kingdoms</category>>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Kingdom of Urbrannen</title>
+
+            <para>
+                Forged by the <qv uri="yorael">First King Yorael</qv>, the Kingdom
+                of Urbrannen was centred on the <qv uri="urbrannen-city">city</qv>
+                of the same name and grew to great power and influence during the
+                centuries following the retreat of the Ice. However, despite a
+                willingness by the other lords and kings to follow Yorael in the
+                early years, as his rule became more severe so greater force was
+                required to keep the various fiefs inline.
+            </para>
+            <para>
+                After the death of Yorael, his wife <qv uri="luthemil">Luthemil</qv>
+                took the throne for herself, and what followed was a hundred years
+                of terror, also known as the <qv uri="black-summer">Black Summer</qv>.
+                Eventually, she too fell, and her sons and grandsons became kings.
+                Though they lacked the magical might of their sorceress mother,
+                their reign was just as abusive, and gradually as the generations
+                went by the outer edges of the Kingdom broke away as the kings'
+                ability to hold on to them failed.
+            </para>
+            <para>
+                Eventually the Kingdom's might was finally broken by the
+                <qv uri="golubaya-river">Golubaya River</qv>, which overflowed
+                its banks and flooded the central heartlands of the kingdom,
+                turning them into marsh and swamp, now known as the
+                <qv uri="mervolota-marshes">Mervolota Marshes</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>City of Urbrannen</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="urbrannen-city">Urbrannen</subject>
+
+            <category>Cities</category>>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>City of Urbrannen</title>
+
+            <para>
+                After the fall of the Ice Giant <qv uri="snaw">Snaw</qv> some
+                fourteen centuries ago, the hero-god <qv uri="yorael">Yorael</qv>
+                and the sorceress <qv uri="luthemil">Luthemil</qv> returned to
+                the lands of men to the city of Urbrannen on the edge of the
+                western tundra, three hundred leagues south of the ruined city of
+                <qv uri="ideria">Ideria</qv>.
+            </para>
+            <para>
+                Yorael and Luthemil wed, and many lords and kings swore fealty
+                to them at that point. Out of this union was forged the great
+                <qv uri="urbrannen-kingdom">Kingdom of Urbrannen</qv>, which
+                was to last some four centuries.
+            </para>
+            <para>
+                The city was said to have been a centre for trade, as the snow
+                and ice retreated from the lands to the north. However, in an
+                ironic twist, the very source of the wealth of this city was
+                to cause its demise, for eventually the city was swallowed by
+                the flooding of the plains
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
