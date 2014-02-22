@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Mir Pozvonochnika</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="withrican-mountains">Withrican Mountains</see>
+        </references>
+
+        <topics>
+            <subject uri="mir-pozvonochnika">Mir Pozvonochnika</subject>
+
+            <category>Mountains</category>>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+    <!-- World Spine, мир позвоночника -->
+    <body>
+        <sect1>
+            <title>Mir Pozvonochnika</title>
+
+            <para>
+                The <e>World Spine</e> mountains, known as Mir Pozvonochnika,
+                are a great mountain range that exists beyond the
+                <qv uri="taiga">Taiga</qv> in the northern reaches of the
+                Old World. In <qv uri="euressa">Euressa</qv>, the western most
+                reaches of the mountains are known as the
+                <qv uri="withrican-moiuntains">Withrican</qv>.
+            </para>
+            <para>
+                Beyond the Mir Pozvonochnika are only the
+                <qv uri="belyye-otkhody">White Wastes</qv>, which stretch from
+                the northern slopes of the mountains to the top of the world.
+                This is said to be the old realm of the Ice Giants, and the
+                only humans that live here are dominated by the
+                <qv uri="iss">Ice</qv>.
+            </para>
+            <para>
+                The slopes of the mountains are covered in glaciers, which
+                threaten to roll back down and cover the southern lands again as
+                they did over a thousand years ago. Beings do dwell in these
+                mountains, even some humans, but most are inimical to humanity.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
