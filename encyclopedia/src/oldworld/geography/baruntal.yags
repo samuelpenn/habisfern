@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Baruntal</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="baruntal">Baruntal</subject>
+
+            <category>Regions</category>>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+    <!-- West Plains, баруун тал -->
+    <body>
+        <sect1>
+            <title>Baruntal</title>
+
+            <para>
+                The <e>Western Land</e>, that stretches from the eastern shores
+                of the <qv uri="beloye-more">White Sea</qv> to the great lakes
+                in the centre of the continent, from the <qv uri="taiga">Taiga</qv>
+                in the north to the White Wall mountains in the south, is a region
+                that is not owned by any single kingdom or people, but those that
+                live here do share a language and similar cultures.
+            </para>
+            <para>
+                The central plains are dominated by the Fey, who have destroyed any
+                chance of a united human civilisation here. Merchants and pirates
+                have settled the coast, giants keep to the plains just south of the
+                Taiga, and a human kingdom resides on the western shores of the
+                great lakes.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
