@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Damba</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="damba">Damba</subject>
+
+            <category>Cities</category>>
+
+            <topic uri="zapazem">Zapazem</topic>
+            <topic uri="baruntal">Burantal</topic>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+    <!-- Damba, Sea Wall -->
+    <body>
+        <sect1>
+            <title>Damba</title>
+
+            <para>
+                Damba is the capital city of the Kingdom of Zapazem, and the
+                largest city of the west coast. It sits between the north and
+                south, and is a major trading port for merchants from both
+                directions. It is also the gateway to the West, and goods flow
+                both to and from the barbarian lands.
+            </para>
+            <para>
+                The city has a population of over sixty thousand, and is ruled
+                by the King of Zapazem, aided by the richest of the merchants
+                who now dwell here.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

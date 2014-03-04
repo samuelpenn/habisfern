@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Zapazem</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="damba">Damba</see>
+        </references>
+
+        <topics>
+            <subject uri="zapazem">Zapazem</subject>
+
+            <category>Countries</category>>
+
+            <topic uri="zapazem">Zapazem</topic>
+            <topic uri="baruntal">Burantal</topic>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+    <!-- West land, zapad zemlya, запад земля -->
+    <body>
+        <sect1>
+            <title>Zapazem</title>
+
+            <para>
+                The Kingdom of Zapazem is considered to be the western limit
+                of civilisation by the people of the Old World. Beyond that is
+                only the <qv uri="beloye-more">Beloye More</qv> and the barbarians
+                that live in the lands beyond it.
+            </para>
+            <para>
+                Zapazem is ruled from the city of Damba, which sits on the west
+                coast in the southern end of the kingdom. The best farmland is
+                in this region also, and the population is high. The further north
+                you go, so the population density drops into the kingdom merges
+                with the <qv uri="taiga">Taiga</qv> in the far north. The northern
+                half of the Kingdom however is highly contested, and though the
+                King claims it as his own, taxes are rarely successfully collected,
+                and the plainsmen of the north only respect the authority of the
+                kingdom when its soldiers are sitting outside their yurts.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
