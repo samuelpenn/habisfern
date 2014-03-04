@@ -30,6 +30,10 @@
         <style name="module"/>
 
         <references>
+            <see uri="withrican-mountains">Withrican Mountains</see>
+            <see uri="vysokaya-puti">Vysokaya Puti</see>
+            <see uri="taiga">Taiga</see>
+            <see uri="baruntal">Baruntal</see>
         </references>
 
         <topics>
@@ -39,15 +43,33 @@
             <topic uri="old-world">Old World</topic>
         </topics>
     </header>
-
+    <!-- Ice Teeth -->
     <body>
         <sect1>
             <title>Led Zubami Mountains</title>
 
             <para>
-                The great mountain range which is said to hold back the
-                worst of the Ice. It stretches from Northern Euressa across
-                most of the Old World.
+                The Led Zubami mountains, which means Teeth of Ice, are a great
+                mountain range that exists beyond the <qv uri="taiga">Taiga</qv>
+                in the northern reaches of the Old World. In
+                <qv uri="euressa">Euressa</qv>, the western most reaches of the
+                mountains are known as the <qv uri="withrican-mountains">Withrican</qv>.
+            </para>
+            <para>
+                They stretch from Euressa, across the Vysokaya Puti and across the
+                northern borders of Baruntal. It is in Baruntal that the name of
+                the Led Zubami is used to describe these mountains. The slopes of
+                the mountains are covered in glaciers, which threaten to roll back
+                down and cover the southern lands again as they did over a thousand
+                years ago. Some beings do dwell in these mountains, even some humans,
+                but most are inimical to civilised humanity.
+            </para>
+            <para>
+                Beyond the northern reaches of the Led Zubami are only the
+                <qv uri="belyye-otkhody">White Wastes</qv>, which stretch from the
+                mountains slopes to the top of the world. This is said to be the old
+                realm of the Ice Giants, and the only things that live here now are
+                dominated by <qv uri="iss">the Ice</qv>.
             </para>
         </sect1>
     </body>
