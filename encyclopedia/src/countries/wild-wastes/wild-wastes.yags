@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Wild Wastes</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="wild-wastes">Wild Wastes</subject>
+
+            <category>Hills</category>>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Wild Wastes</title>
+            <para>
+                North of <qv uri="weidany">Weidany</qv> are the hills and
+                mountains known collectively as the <e>Wild Wastes</e>. Swept
+                by fierce storms, and dominated by the
+                <qv uri="ice-peaks">Ice Peaks</qv>, it is a desolate region
+                avoided by most civilised folk.
+            </para>
+            <para>
+                Most of the terrain is blasted moorland, cut by sharp rocky
+                outcrops and broken cliffs (of which the <qv uri="grey-cliffs">
+                Grey Cliffs</qv> are the most famous), with little in the way
+                of tree cover or open water.
+            </para>
+            <para>
+                The dreamlands have a big influence in the Wild Wastes, and there
+                are many ways into them here. The power of the Ice is also felt
+                in this place, and spirits in thrall to the Ice are common.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
