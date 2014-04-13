@@ -1,0 +1,305 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Kingdom of Lanuch</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="lanuch-shire">Lanuch Shire</see>
+        </references>
+
+        <topics>
+            <subject uri="lanuch-shire">lanuch Shire</subject>
+
+            <category>Kingdoms</category>
+
+            <topic uri="lanuch-kingdom">Kingdom of Lanuch</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Kingdom of Lanuch</title>
+
+            <para>
+                The Shire of Lanuch was named for one of the powerful Kingdoms that
+                existed in Weidany in between the Rornic invasion and the rise of
+                the Kingdom of Weidany. It was founded sometime in the early 7th
+                century. The actual founding of the Kingdom is shrouded in some
+                mystery, though the first king to be mentioned in the
+                <qv uri="habisfern-scrolls">Habisfern Scrolls</qv> is that of Oswulf,
+                son of Centwine, who was slain in 654. It is probable that Centwine
+                was king before him.
+            </para>
+            <para>
+                Lanuch was one of the larger Kingdoms at this time, but by the late
+                8th century had split into four smaller kingdoms following the death
+                of King Frithstan. With no obvious heirs, civil war followed and four
+                lords were able to claim territory with enough authority to keep it -
+                Queen Eadburga, King Adgar, King Cola and King Osgar.
+            </para>
+            <para>
+                The four kingdoms of Lanuch continued in this state until the
+                <qv uri="aidan-kingdom">Kingdom of Aidan</qv> began its conquest of the
+                south, and Lanuch finally fell in 979. After the rise of the Kingdom
+                of Weidany, the Shire of Lanuch was named for it, covering an area
+                similar to central Lanuch.
+            </para>
+            <sect2>
+                <title>The Lines of the Kings</title>
+
+                <para>
+                    The following kings are known to have ruled Lanuch before the
+                    split of the kingdom following the civil war.
+                </para>
+                <para>
+                    King Oswulf, died 654. He was killed in battle against the Druids
+                    of Danuch.
+                </para>
+                <para>
+                    King Cerdic, son of Oswulf, took the throne in 654 and held it
+                    until 690, when he dies peacefully.
+                </para>
+                <para>
+                    King Offot, second son of Cerdic, takes the throne on his father's
+                    death in 654. He greatly expands the Kingdom, and increases the
+                    grip of the King over that of the nobles. He dies in 711.
+                </para>
+                <para>
+                    King Eadbald, son of Offot, takes the throne in 711, and dies
+                    suddenly in 738. Rumour has it that he was poisoned, for he
+                    died during a council session whilst drinking wine.
+                </para>
+                <para>
+                    King Oswiu, son of Eadbald, receives the kingdom in 738. He
+                    begins a short war with the Kingdom of Aidan, but his reign is
+                    otherwise uneventful. He dies in 750.
+                </para>
+                <para>
+                    King Wulfhelm, son of Oswiu takes the throne in 750. He manages
+                    to conquer much of the Kingdom of Estwed during his reign, and
+                    also secures an alliance with the Kingdom of Talmoth through
+                    the marriage of his daughter Behrith to King Ealdred of Talmoth.
+                    He dies in 779.
+                </para>
+                <para>
+                    King Frithstan, son of Wulfhelm, receives the Kingdom in 779.
+                    He dies suddenly in 783 with no obvious heirs, thus beginning
+                    the Lanuch Civil war.
+                </para>
+                <sect3>
+                    <title>North Lanuch</title>
+                    <para>
+                        Queen Eadburga, daughter of Fristan, claims the north.
+                        She dies in 808.
+                    </para>
+                    <para>
+                        King Eadwine, son of Eadburga, takes the throne in 808.
+                        He dies in 824.
+                    </para>
+                    <para>
+                        King Athelheard, grandson of Eadwine, takes the throne
+                        in 824, and dies after falling from his horse in 838.
+                    </para>
+                    <para>
+                        King Wulfheard, son of Athelheard, ascends the throne at
+                        the age of 13 in 838, and is leading invasions into West
+                        Lanuch before he is 18. At the time, he was known as the
+                        Boy King, and his rule was competent though short. He dies
+                        in 856, at the age of 31 due to a hunting accident.
+                        His twin sons, Wulfred and Wulfgar, both 16, squabble over
+                        who should succeed him, and in the end split the Kingdom
+                        between them, again splitting the kingdom into North and
+                        West Lanuch.
+                    </para>
+                    <para>
+                        King Wulfred, son of Wulfheard, takes the throne of
+                        North Lanuch in 856. He dies in 865 leaving two sons and
+                        a daughter, all being too young to take the throne.
+                    </para>
+                    <para>
+                        King Oswine, cousin of Wulfred is elected to the throne
+                        in 856 by a council of thegns. He is seen as capable and
+                        also wealthy. He dies in 889.
+                    </para>
+                    <para>
+                        King Odric, son of Wulfred, takes the throne in 889.
+                        He dies in 932.
+                    </para>
+                    <para>
+                        King Anywnd, son of Odric, takes the throne in 932.
+                        He is killed in 947 when he flees to West Lanuch to
+                        flee the conquest by Aidan.
+                    </para>
+                </sect3>
+                <sect3>
+                    <title>South Lanuch</title>
+                    <para>
+                        King Adgar, eldest son of Behrith, Frithstan's sister
+                        by her first husband, takes the throne in 788. He lives
+                        until 817 when he dies in his bed.
+                    </para>
+                    <para>
+                        King Adred, son of Adgar, takes the throne in 817. He
+                        dies in 845.
+                    </para>
+                    <para>
+                        King Adwine, son of Adred, takes the throne in 845. He
+                        dies in 886.
+                    </para>
+                    <para>
+                        King Osgar, son of Adwine, becomes king in 886 and goes
+                        missing in 909. He is eventually declared dead the
+                        following year.
+                    </para>
+                    <para>
+                        King Paega, son of Osgar, is crowned king in 910.
+                        He dies in 928.
+                    </para>
+                    <para>
+                        King Eastmond, son of Paega, receives the Kingdom in 928,
+                        and keeps it until his death in 940.
+                    </para>
+                    <para>
+                        King Wigstan, son of Eastmond, is King in 940. He kills
+                        himself in 979 rather than submit of Aidan.
+                    </para>
+                </sect3>
+                <sect3>
+                    <title>East Lanuch</title>
+                    <para>
+                        King Cola declares himself King of East Lanuch in 788. He
+                        was a powerful thegn who had enough influence to take the
+                        crown by force. He dies in 801.
+                    </para>
+                    <para>
+                        In 801, two sons of Cola claim the succession, declaring
+                        themselves as King Leofric and King Hrothgar. War is
+                        fought for two years, until Hrothgar is killed in 803,
+                        then Leofric is declared king of all Eastern Lanuch.
+                        He rules the kingdom until 826.
+                    </para>
+                    <para>
+                        There is another uncertain succession, which results in
+                        Queen Ealdgyth, daughter of Leofric, becoming Queen.
+                        She slew the other 'pretenders' to the crown, and her
+                        reign was short and bloody. She died in childbirth in
+                        831.
+                    </para>
+                    <para>
+                        King Aelfric, cousin of Ealdgyth claims the crown in
+                        831. He dies in 839.
+                    </para>
+                    <para>
+                        King Hereward, son of Aelfric, is crowned king in 839.
+                        He keeps the kingdom until 872.
+                    </para>
+                    <para>
+                        Queen Hild the Golden, eldest daughter of Hereward, takes
+                        the crown, there being no male sons. Her rule is an
+                        enlightened and prosperous one, and she dies in her sleep
+                        in 901.
+                    </para>
+                    <para>
+                        King Eadwig, son of Hilda, takes the throne in 901. he
+                        dies in 910 from an infection of the ear.
+                    </para>
+                    <para>
+                        King Cynebald, son of Hilda, takes the throne in 910,
+                        and dies in 933.
+                    </para>
+                    <para>
+                        King Eadmund, son of Cynebald, takes the throne in 933,
+                        keeping it for twenty years until his death in 953.
+                    </para>
+                    <para>
+                        Queen Hilda, daughter of Eadmund, briefly takes the throne
+                        in 953. All the male heirs had been killed fighting Aidan
+                        in the previous years, and Queen Hilda herself is killed
+                        in battle later that year.
+                    </para>
+                </sect3>
+                <sect3>
+                    <title>West Lanuch</title>
+                    <para>
+                        The first king of West Lanuch is King Osgar, uncle to
+                        Frithstan. He is declared king in 788, and dies in 795.
+                    </para>
+                    <para>
+                        King Swingar, son of Osgar, is king in 795, dying in 812.
+                    </para>
+                    <para>
+                        King Edwin, son of Swingar, is made king in 812. He keeps
+                        the kingdom until his death in 842.
+                    </para>
+                    <para>
+                        King Aelle, son of Edwin, is made king in 842. He is killed
+                        the following year by King Wulfheard, and the Kingdom of
+                        West Lanuch is subsumed into North Lanuch. The line of
+                        Osgar is wiped out.
+                    </para>
+                    <para>
+                        In 856, there is not a clear succession between the twin
+                        sons of King Wulfheard, and Wulfgar claims the western
+                        part of the Kingdom, effectively re-creating West Lanuch.
+                        He keeps it until his death in 878.
+                    </para>
+                    <para>
+                        King Wulfric, son of Wulgar, takes the throne in 878. He
+                        dies in 881.
+                    </para>
+                    <para>
+                        Queen Sunngifu, wife of Wulfric, takes the throne as regent
+                        in 881, as her son Wulfheard is too young. She tries to keep
+                        it, but is overthrown in 885.
+                    </para>
+                    <para>
+                        King Wulfstan the Boy is given the throne in 885, at the
+                        age of 9. He is but a puppet for his councillors, and dies
+                        in suspicious circumstances in 910.
+                    </para>
+                    <para>
+                        King Cenric the Bull, a thegn with no relationship to
+                        Wulfric takes the throne in 910, paying off or intimidating
+                        everyone else. He keeps it until 945, when he dies a peaceful
+                        death.
+                    </para>
+                    <para>
+                        King Wulfheard, son of Cenric, takes the throne in 945.
+                        He is slain in 953 when West Lanuch falls to Aidan.
+                    </para>
+                </sect3>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+
