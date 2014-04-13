@@ -524,12 +524,30 @@
                             falls apart, becoming four parts over the next
                             five years.
                         </para>
+                        <para>
+                            To north is claimed by Queen Eadburga, daughter of
+                            Frithstan and a warrior in her own right.
+                        </para>
+                        <para>
+                            The south is claimed by King Adgar, the eldest son
+                            of Behrith by her first husband Aesc the Hunter.
+                        </para>
+                        <para>
+                            The east is claimed by King Cola, a thegn of no
+                            relation to royalty but claimed what he could by
+                            skill, strength and the loyalty and love of his men.
+                        </para>
+                        <para>
+                            The west is claimed by King Osgar, uncle to Frithstan
+                            and who had the loyalty of those that followed his
+                            nephew.
+                        </para>
                     </event>
 
                     <event title="Queen Aethelflaed">
                         <startdate year="783"/>
                         <para>
-                            Aethelflaed receives the kingdom of Estwed which
+                            Aethelflaed receives the Kingdom of Estwed which
                             is rightfully hers, the last of Lanuch's men
                             being killed or drive out.
                         </para>
@@ -668,6 +686,9 @@
                             slaying Aelle son of Edwin, King of West Lanuch.
                             Wulfheard claims the Western Kingdom as his own.
                         </para>
+                        <para>
+                            Aelle was last of the line of Osgar.
+                        </para>
                     </event>
 
                     <event title="Estwed invades Aiden">
@@ -682,7 +703,9 @@
                         <startdate year="885"/>
                         <para>
                             Queen Osith leads Estwed against East Lanuch,
-                            taking much land and cattle.
+                            taking much land and cattle. The Queen of East
+                            Lanuch, Hild the Golden, sends men against her,
+                            slaying Osith's brother Godswine.
                         </para>
                     </event>
 
