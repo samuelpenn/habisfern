@@ -57,7 +57,7 @@
                 generally being viewed as a pacifist, she can get very
                 angry.
             </para>
-            
+
             <para>
                 Her priestesses look after the Queen of Rorn, and decide
                 the succession.
@@ -77,9 +77,46 @@
                     The Queen of Rorn takes Neya as her patron, and her
                     priesthood in turn protects the royal family.
                 </para>
+
+                <sect3>
+                    <title>Daughters of Neya</title>
+                    <para>
+                        The <qv uri="neya-daughters">Daughters of Neya</qv> are a
+                        cult that worships Neya in her aspect of Oath Keeper. They
+                        are the lawyers of the Kingdom, and are consulted on matters
+                        of politics, law and history.
+                    </para>
+                    <para>
+                        There is little love between the <e>Daughters</e> and the
+                        <qv uri="bards">Bards</qv>, for the latter see the cult as
+                        encroaching on responsibilities that they have take as
+                        their own for many generations.
+                    </para>
+                    <para>
+                        Though the <e>Daughters</e> are considered to be more
+                        approachable than the Bards by many of the common folk, the
+                        nobility see them as being too closely allied to the Queen,
+                        and do not trust them to be neutral where matters of law
+                        involve a conflict between the crown and nobility.
+                    </para>
+                </sect3>
+                <sect3>
+                    <title>Shields of Neya</title>
+                    <para>
+                        The <qv uri="neya-shields">Shields of Neya</qv> are the martial
+                        arm of the goddess. They act to protect her temples and her
+                        priestesses, as well as those they consider under their
+                        protection.
+                    </para>
+                    <para>
+                        The <qv uri="red-guard">Red Guard</qv> are generally chosen from
+                        this cult, and if there is doubt as to whether the <e>Daughters</e>
+                        are neutral where their dealings involve the Queen, there is none
+                        whatsoever with the <e>Shields</e>, for they make no secret of
+                        their devotion to her.
+                    </para>
+                </sect3>
             </sect2>
-
-
         </sect1>
 
     </body>

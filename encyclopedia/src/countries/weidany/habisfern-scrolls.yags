@@ -728,7 +728,7 @@
                         <startdate year="909"/>
                         <enddate year="912"/>
                         <para>
-                            Ten ships land at  Wercester from Bryteland,
+                            Seven ships land at  Wercester from Bryteland,
                             bringing many fighting men. They burn their
                             ships on the shore, and under the cover of fog,
                             raid coastal settlements. Except for a few small
@@ -744,7 +744,7 @@
                             keeping it intact but killing half the men
                             there. They claim the town as their own, and
                             drive off Offa, King of Westland, when he
-                            assualts them there.
+                            assaults them there.
                         </para>
 
                         <para>
@@ -1444,10 +1444,21 @@
                     <event>
                         <startdate year="1148"/>
                         <para>
-                            Ten ships sail from Stowell, and land at
-                            the river Brent in Midlaen. There is
-                            fighting with the people there, but a shire
-                            is set up in the name of the Queen.
+                            Ten ships sail south from Stowell under the command
+                            of Hilda Blackstone, and land at a place
+                            called Brenthold. The people here are not willing to
+                            accept the law of the Queen, and there is fighting
+                            until they are forced to accept her rule. The lands
+                            about are explored, and claimed as a new shire for
+                            the Kingdom.
+                        </para>
+                    </event>
+
+                    <event>
+                        <startdate year="1159">
+                        <para>
+                            Hilda Blackstone is slain whilst claiming the
+                            Hills of Ruin for the Queen.
                         </para>
                     </event>
 
@@ -1606,10 +1617,10 @@
                     <event>
                         <startdate year="1217"/>
                         <para>
-                            There is war between Cadwold and the shire
-                            of Strathby. Many men are killed, but the
-                            highland tribes are driven back, and forts
-                            are built within their borders.
+                            There is war between Cadwold and the shire of Strathby.
+                            Many men of the Kingdom are killed, but the Cadwoldic
+                            tribes are driven back, and forts are built within their
+                            borders from where the Queen's forces can enforce the peace.
                         </para>
                     </event>
 
