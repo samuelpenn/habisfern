@@ -56,22 +56,74 @@
             <para>
                 Herzon is a nation ruled by the bloody assassin cult the
                 <qv uri="swords-vihri">Swords of Vihri</qv>. Two hundred
-                years ago, an uprising by this little known religion cult
+                years ago, an uprising by this little known religious cult
                 murdered the Duke, took over the country, and declared
                 independence from <qv uri="niemstarg">Niemstarg</qv>. A
                 brief and bloody battle followed, but the cult kept what
                 it had claimed, and have since then ruled with an iron
                 fist over the populace.
             </para>
-
             <para>
                 At the time of the uprising, several profitable mines had
-                been discovered in the Wathig Hills. However, within a
-                few dozen years they had either been exhausted, or turned
-                out to give poor quality ores. The promises of riches for
-                this small nation were dashed, and it is now a poor
-                neighbour of Niemstarg.
+                been discovered in the <qv uri="wathig-hills">Wathig Hills</qv>.
+                However, within a few dozen years they had either been exhausted,
+                or turned out to give poor quality ores. The promises of riches for
+                this small nation were dashed, and it is now a poor neighbour
+                of Niemstarg.
             </para>
+            <para>
+                The capital of Herzon is <qv uri="krosund">Krosund</qv>.
+            </para>
+
+            <sect2>
+                <title>People</title>
+                <para>
+                    The people of Herzon are fiercely independent, and they
+                    still tell tales of the of the depredations they suffered
+                    under the rule of Niemstarg. Most of the population lives
+                    in small family run farmsteads, and generally keep to
+                    themselves. Travel for more than a few leagues is quite
+                    rare, and generally discouraged by the priests.
+                </para>
+                <para>
+                    Though they refuse to be directly governed, the people have
+                    an almost superstitious reverence for the priests, who they
+                    both hate and fear. This reverence can be used to guide the
+                    general mood of the populace, but pushing that too far
+                    can cause the hate to eclipse both reverence and fear.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Politics</title>
+                <para>
+                    In rousing the people against Niemstarg, the
+                    <e>Swords of Vihri</e> succeeded far too well. The people
+                    backed the rebellion, and were more than willing to fight
+                    and die in the battles that followed in order to secure
+                    their independence. However, what they secured was their
+                    own independence, not independence for a new country
+                    controlled by the <e>Swords</e>.
+                </para>
+                <para>
+                    The Theocracy is currently ruled by High Blade Uthgar,
+                    who rules from the White Hall in Krosund. There is little
+                    in the way of an organised nobility, and the will of the
+                    priesthood is loosely enforced by the travelling priests.
+                    Though a stricter chain of control has been attempted on
+                    occasion, the last time about 40 years ago, it has always
+                    failed.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Geography</title>
+                <para>
+                    Herzon is a mixture of plains and pine forests for much of
+                    its central lands, but is bordered in the south by the
+                    Wathig Hills and beyond them, the Sudwand.
+                </para>
+            </sect2>
         </sect1>
     </body>
 </article>

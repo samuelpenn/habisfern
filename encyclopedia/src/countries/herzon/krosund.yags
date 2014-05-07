@@ -2,10 +2,10 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Wathig Hills</title>
+        <title>Krosund</title>
         <tagline>Habisfern</tagline>
 
-        <slugline></slugline>
+        <slugline/>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license type="Yags">
-            <year>2003</year>
+            <year>2014</year>
             <holder>Samuel Penn</holder>
             <text>
                 This document can be redistributed and/or modified
@@ -30,12 +30,13 @@
         <style name="module"/>
 
         <references>
+            <see uri="swords-vihri">Swords of Vihri</see>
         </references>
 
         <topics>
-            <subject uri="wathig-hills">Wathig Hills</subject>
+            <subject uri="krosund">Krosund</subject>
 
-            <category>Hills</category>
+            <category>Towns</category>>
 
             <topic uri="euressa">Euressa</topic>
             <topic uri="northern-kingdoms">Northern Kingdoms</topic>
@@ -45,11 +46,21 @@
 
     <body>
         <sect1>
-            <title>Wathig Hills</title>
+            <title>Krosund</title>
 
             <para>
-                The Wathig Hills mark the southern boundary of Herzon.
-                They are chalky, broken and generally desolate.
+                Krosund is the capital of Herzon and is located in
+                <qv uri="treibsand-bay">Treibsand Bay</qv> on the north
+                coast of Euressa. Despite its status within the country,
+                it has a population of less than 3,000.
+            </para>
+            <para>
+                It mostly survives by fishing and limited trade from
+                both inland and along the coast, mostly to the west.
+                For most sailors, Krosund is the 'end of the line', since
+                the next town of any significant size further west along
+                the coast is in <qv uri="canuch">Canuch</qv> or
+                <qv uri="taneith">Taneith</qv>.
             </para>
         </sect1>
     </body>
