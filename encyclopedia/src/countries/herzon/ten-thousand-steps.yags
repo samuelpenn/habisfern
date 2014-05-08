@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Ten Thousand Steps</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="sudwand">Sudwand Mountains</subject>
+
+            <category>Mountains</category>
+
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+            <topic uri="herzon">Herzon</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Ten Thousand Steps</title>
+
+            <para>
+                The southern side of the Sudwand Mountains falls away
+                to steep foothills and eventually low hills and grassland.
+                The sharp ridges of the range make traversal difficult, but
+                much of the altitude change is gradual.
+            </para>
+            <para>
+                Where the range comes close to <qv uri="blackmoor">Blackmoor</qv>
+                though is a span about two leagues in length where the mountains
+                drop almost directly to the grassy plains, resulting in towering
+                sandstone cliffs about a kilometre tall.
+            </para>
+            <para>
+                The cliffs are bisected by the <qv uri="rignan-falls">Rignan Falls</qv>,
+                a waterfall that cuts through the top of the cliffs about three
+                quarters of the way up. It has moved its way gradually east over the
+                years, and there are several other, now dried up, channels further
+                west.
+            </para>
+            <para>
+                The most famous part of the cliffs though, and which now give the
+                whole area its name, are the <e>Ten Thousand Steps</e>. About a
+                kilometre to the east of the falls are a carved set of steps that
+                climb from the cliff base right up to the top. Each step is about a
+                metre wide, and about half a metre in height, and ascend at an angle
+                of seventy to eighty degrees. The name is undoubtedly an
+                exaggeration, but they are an impressive site. They are also the
+                easiest way up the cliffs, though everything is relative.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

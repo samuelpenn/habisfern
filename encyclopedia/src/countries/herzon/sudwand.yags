@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Sudwand Mountains</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="sudwand">Sudwand Mountains</subject>
+
+            <category>Mountains</category>
+
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+            <topic uri="herzon">Herzon</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Sudwand Mountains</title>
+
+            <para>
+                The 'South Wall' mountain range runs along the southern edge of
+                the <qv uri="northern-kingdoms">Northern Kingdoms</qv>. On the
+                other side are the northern highlands of <qv uri="nailand">Nailand</qv>,
+                which slope down to the grassy plains that make up most of that
+                country.
+            </para>
+            <para>
+                The highest peaks in Sudwand are about four kilometres tall, though
+                the bulk of the range is less than half that. However, the range is
+                mostly made up of ridges which run east-west, with few valleys that
+                cut across that, making them an effective barrier between the northern
+                coast and central and southern Euressa.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
