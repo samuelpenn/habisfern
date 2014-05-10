@@ -57,7 +57,7 @@
                 Herzon is a nation ruled by the bloody assassin cult the
                 <qv uri="swords-vihri">Swords of Vihri</qv>. Two hundred
                 years ago, an uprising by this little known religious cult
-                murdered the Duke, took over the country, and declared
+                murdered the Earl, took over the country, and declared
                 independence from <qv uri="niemstarg">Niemstarg</qv>. A
                 brief and bloody battle followed, but the cult kept what
                 it had claimed, and have since then ruled with an iron
@@ -74,6 +74,22 @@
             <para>
                 The capital of Herzon is <qv uri="krosund">Krosund</qv>.
             </para>
+
+            <sect2>
+                <title>History</title>
+                <para>
+                    The important events in the history of Herzon are as follows.
+                </para>
+
+                <events dating="AB">
+                    <event title="">
+                        <startdate="1028"/>
+                        <para>
+                            The Earl of Herzon is murdered.
+                        </para>
+                    </event>
+                </events>
+            </sect2>
 
             <sect2>
                 <title>People</title>
