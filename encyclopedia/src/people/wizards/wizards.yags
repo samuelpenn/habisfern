@@ -45,40 +45,69 @@
             <title>Wizards</title>
 
             <para>
-                Wizards are those who are capable in the use of 
-                magic. Respected, yet feared, the majority spend 
-                their powers on the weather and fields, ensuring 
-                good harvests.
+                Wizards are those who are born with the capability to wield
+                the <qv uri="words-of-power">Words of Power</qv> in order to
+                channel the energies of the <qv uri="dreamlands">Dreamlands</qv>
+                to use magic. Respected, yet feared, the majority spend their
+                powers helping their local communities, tweaking the weather
+                or protecting fields in order to ensure good harvests.
             </para>
-
             <para>
-                Most villages will have a wizard of their own, 
-                though most are quite limited in their power. A 
-                few hower can call on the powers of earth and 
-                fire to cause destruction, or can control the 
-                minds of men.
+                Most villages will have a wizard of their own, though most are
+                quite limited in their power. A few however can call on the
+                powers of earth and fire to cause destruction, or can control
+                the minds of men.
             </para>
-
             <para>
-                For all of this though, there is a price to be 
-                paid - the price of magic.
+                Not all can use magic, for only those that carry faerie blood
+                in their ancestry have the ability to open their minds fully
+                to the Dreamlands. Being of such a bloodline can have other
+                side effects, which often manifest in physical ways - strangely
+                coloured eyes, patterned skin or even horns or a covering of
+                fur. Having the blood does not guarantee the ability to work
+                magic - it also requires a certain mindset, and the ability and
+                willingness to open your mind to the Dreams.
             </para>
-
             <para>
-                Using magic opens the mind to strange powers, 
-                dreams which haunt the sleep of the wizard, 
-                dreams which can manifest in reality. Eventually, 
-                all wizards go insane, either closing themselves 
-                to the world, or in an outward show of insanity 
-                and violence.
+                An open mind is a danger though, for the sights and feelings
+                of the Dreamlands can be more than a human mind can bear. Many
+                wizards lose their minds, going insane as they pay the ultimate
+                price of magic. It is for this reason that wizards are most
+                feared, for stories abound of insane wizards destroying those
+                around them, or manifesting great beasts or storms from their
+                nightmares that ravage the countryside
             </para>
 
-            <para>
-                It is for this latter reason that wizards are 
-                feared. They are useful, even needed, but they 
-                cannot be trusted.
-            </para>
-
+            <sect2>
+                <title>Words of Power</title>
+                <para>
+                    There are six words of power - Fire, Iron, Earth, Water, Spirit
+                    and Air - which a wizard must learn in order to have power
+                    over that element. Most wizards learn only a few Words, often
+                    only one, and thereby limit their powers to that realm. The
+                    more Words that are learnt, the greater the toll on your
+                    sanity, and few are willing to take the risk to learnt them all.
+                </para>
+                <para>
+                    Each Word is tied to a gender, so female wizards are more likely
+                    to learn Earth, Spirit and Fire, whilst male wizards are more
+                    likely to learn Iron, Water and Air.
+                </para>
+                <para>
+                    Though the Words are the basics of magic, some go further and
+                    learn individual Runes which allow them to invoke specific
+                    effects which can be more powerful than the magic unlocked by
+                    just the Word. Unlocking Runes can be hard, and often involves
+                    long periods of meditation combined with fasting or even
+                    self-torture.
+                </para>
+                <para>
+                    Many wizards that take this route end up losing their sanity
+                    as they open themselves fully to the Dreamlands, meaning that
+                    the most powerful wizards are also the most likely to be
+                    dangerous.
+                </para>
+            </sect2>
         </sect1>
     </body>
 </article>
