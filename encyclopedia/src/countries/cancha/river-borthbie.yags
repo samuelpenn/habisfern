@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>River Borthbie</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="river-borthbie">River Borthbie</subject>
+
+            <category>Rivers</category>>
+
+            <topic uri="cancha">Cancha</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>River Borthbie</title>
+
+            <para>
+                The River Borthbie is the longest river in the Kingdom of Cancha,
+                running from the <qv uri="ice-peaks">Ice Peaks</qv> down to the
+                capital of <qv uri="cannavon">Cannavon</qv> for a length of around
+                eighty leagues. It is over a kilometre wide by the time it reaches
+                the sea.
+            </para>
+            <para>
+                The Borthbie is described as the Lower (anything west of the
+                <qv uri="firinneach-hills">Firinneach Hills</qv>), Middle and
+                Upper Borthbie (the Sean Coille and further upstream).
+            </para>
+            <para>
+                It is generally considered navigable as far inland as the
+                <qv uri="sean-coille">Sean Coille</qv>, though this limit is more
+                to do with the nature of the lands east of here than it is due to
+                the physical constraints of the river. Barges have been known to
+                reach the <qv uri="wild-wastes">Wild Wastes</qv>, but finding
+                anyone willing to crew a vessel for such a journey will be the
+                first of many difficulties.
+            </para>
+            <para>
+                The Borthbie itself is considered to be a living river, and those
+                living along its banks (which is the majority of the Kingdom)
+                pay their respects to her frequently. The heart of the spirit that
+                inhabits the waters is said to dwell in the Sean Coille, though
+                her tendrils reach all the way down the Middle River.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
