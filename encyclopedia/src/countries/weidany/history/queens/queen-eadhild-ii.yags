@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Eadhild II, Queen of Weidany</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="weidany-queen">Queen of Weidany</see>
+        </references>
+
+        <topics>
+            <subject uri="queen-eadhild-ii">Queen Eadhild II</subject>
+
+            <category>Kings</category>>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Queen Eadhild II</title>
+
+            <para>
+                Upon the death of <qv uri="queen-godhild">Queen Godhild</qv> in
+                the year 1130, there was significant confusion over who would
+                be Queen. The Queen's assassination had been unexpected, and the
+                fact that the perpetrator was unknown only added to the difficulty
+                that the <qv uri="witan-council">Witan Council</qv> was having
+                in deciding who would next sit on the throne.
+            </para>
+            <para>
+                Though Eadhild, who could trace her lineage back to
+                <qv uri="queen-eadhild">Queen Eadhild I</qv>, the sister of
+                <qv uri="queen-aelflaed">Queen Aelflaed</qv>, she was not amongst
+                the favourites for selection by the council. She was a member of
+                the <qv uri="red-guard">Red Guard</qv>, and not trained in the
+                matters of state.
+            </para>
+            <para>
+                After three weeks of deliberation by the council, and amongst much
+                plotting between her rivals, Eadhild, daughter of Wilith, finally
+                decided to take matters into her own hands and persuaded the rest
+                of the Guard to side with her. There was a brief purging of some
+                other claimants, and then she marched on the Council, and forced
+                them to decide in her favour.
+            </para>
+            <para>
+                She was crowned Queen the following day, and within a month had
+                secured her position as ruler of the Kingdom. A few spoke out
+                against her over the next few years, but none caused more than
+                an annoyance.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
