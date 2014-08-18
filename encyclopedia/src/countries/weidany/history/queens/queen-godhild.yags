@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Godhild, Queen of Weidany</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="weidany-queen">Queen of Weidany</see>
+        </references>
+
+        <topics>
+            <subject uri="queen-godhild">Queen Godhild</subject>
+
+            <category>Kings</category>>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Queen Godhild</title>
+
+            <para>
+                Godhild was declared Queen of Weidany in the year 1102. She was the
+                third daughter of <qv uri="queen-eadgifu">Queen Eadgifu</qv>. Godrun
+                was born in 1083, making her 19 when she took the throne. She was a
+                stern woman, a devout follower of <qv uri="neya">Neya</qv> with many
+                close friends amongst the priestesses.
+            </para>
+            <para>
+                Though she was willing to listen to the advice of her councillors
+                before she took the throne, upon becoming Queen she quickly distanced
+                herself from their advice, instead seeking the advice of some of her
+                childhood friends, the most notable of which was Hilda, sister to the
+                thegn Hrulgar. In 1107 she granted a large amount of land to Hrulgar
+                and made him an Ealdorman, an action which upset a large number of
+                people.
+            </para>
+            <para>
+                Godhild died in 1130 at the age of 47, probably due to poison. She
+                had no children.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
