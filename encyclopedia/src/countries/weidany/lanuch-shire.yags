@@ -38,7 +38,7 @@
             <subject uri="lanuch-shire">Lanuch Shire</subject>
 
             <category>Shires</category>>
-            
+
             <topic uri="lanuch-shire">Lanuch Shire</topic>
             <topic uri="habisfern">Habisfern</topic>
             <topic uri="weidany">Weidany</topic>
@@ -69,7 +69,7 @@
                 shire from the southwest to the northeast, and is the
                 main trade route to the coast.
             </para>
-            
+
             <para>
                 Even amongst the 
                 general population there is a general feeling of 
@@ -79,20 +79,21 @@
             </para>
 
             <sect2>
-				<title>Politics</title>
+                <title>Politics</title>
 
-				<para>
-					The seat of power of the 
-					<qv uri="caewlin-house">House of Caewlin</qv> is 
-					the Shire of Lanuch, and their nobles own much of
-					the land here. An old boon of the house is that
-					they get to choose the Shire Reeve of Lanuch, which
-					gives them pretty much free reign in the running
-					of the Shire. Needless to say, the Shire Reeve is
-					always a powerful member of the House. Currently it
-					is Orngast Caewlin, brother of the Earldorman.
+                <para>
+                    The seat of power of the
+                    <qv uri="caewlin-house">House of Caewlin</qv> is
+                    the Shire of Lanuch, and their nobles own much of
+                    the land here. An old boon of the house is that
+                    they get to choose the Shire Reeve of Lanuch, which
+                    gives them pretty much free reign in the running
+                    of the Shire. Needless to say, the Shire Reeve is
+                    always a powerful member of the House. Currently it
+                    is Orngast Caewlin, brother of the Earldorman.
                 </para>
-			</sect2>
+            </sect2>
+
         </sect1>
     </body>
 </article>

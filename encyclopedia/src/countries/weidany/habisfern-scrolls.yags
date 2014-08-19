@@ -134,7 +134,7 @@
                 </para>
 
                 <events dating="AB">
-                    <event title="Betrayel" priority="3">
+                    <event title="Betrayal" priority="3">
                         <startdate year="1"/>
                         <enddate year="100"/>
                         <para>
@@ -178,6 +178,23 @@
                             Aeddan, the King of Westland, is slain in
                             battle, and the People of Rorn take his lands
                             as their own.
+                        </para>
+                    </event>
+
+                    <event title="Caewlin forms Kingdom of Lanuch">
+                        <startdate year="622"/>
+                        <para>
+                            Caewlin claims the lands around the Hyton Downs as
+                            his Kingdom after defeating King Mostyn.
+                        </para>
+                    </event>
+
+                    <event title="Death of Caewlin of Lanuch">
+                        <startdate year="631"/>
+                        <para>
+                            Caewlin, King of Lanuch, dies in the winter of this
+                            year. His wife, Queen Estrild, acts as regent for
+                            their son Centwine.
                         </para>
                     </event>
 
