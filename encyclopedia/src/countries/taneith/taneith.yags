@@ -48,29 +48,25 @@
             <title>Taneith</title>
 
             <para>
-                The northwestern parts of the continent of
-                Euressa are generally considered to be the most
-                barbaric and uncivilised of the explored lands.
-                Since the Isle of Taneith lays off the
-                northwestern cost of the continent, then it
-                surely follows that Taneith is a barbaric land indeed.
+                The north western coastline of <qv uri="euressa">Euressa</qv> is
+                considered to be amongst the most uncivilised and barbaric of
+                the explored lands, and so the Isle of Taneith, which lays off
+                the north west coast is said to be the most barbaric of all.
             </para>
-
             <para>
-                From the point of view of the more southerly
-                lands, with their feudal lords and well marked
-                boundaries, this can be said to be very true.
-                Taneith though has a civilised culture of its
-                own, and civilisation here is not lacking, merely different.
+                The culture of Taneith is quite different to that of the mainland.
+                There are signs that it was populated long before the coming of
+                the Ice, and that it remained populated whilst the rest of Euressa
+                was inhospitable for humans. Today, the central portions of the
+                isle are warm and wet, for a great heat sits beneath the island
+                which is said to be the <qv uri="heart-of-goddess">Heart of the Goddess</qv>.
             </para>
-
             <para>
-                Taneith is a land of tradition and heroes.
-                Possibly the last of the centres of fey power, it
-                can be a dangerous and unforgiving land. To those
-                who know its customs and are aware of its dangers
-                though, it is a magical and enchanting isle, full
-                of raw beauty and serenity.
+                Taneith is a land of tradition and heroes, and possibly the greatest
+                of the centres of <qv uri="fey">Fey</qv> power. It can be a dangerous
+                and unforgiving land, but to those who know its customs and are
+                aware of its dangers, it is a magical and enchanting isle, full of
+                raw beauty and magic.
             </para>
 
             <sect2>
@@ -92,7 +88,6 @@
                     plenty of sandy beaches and coves to make landing
                     reasonably easy.
                 </para>
-
                 <para>
                     The lower regions are made up of peat bogs and
                     fertile grassland. Not surprisingly, the greatest
@@ -135,13 +130,12 @@
                     <title>Special Terrain Features</title>
 
                     <para>
-                        Up in the Hiskany Hills can be found many
-                        remnants of the original people who dwelt here -
-                        the Cannadd. The most common are the stone Cairns
-                        which can be found atop some of the most
-                        prominent hills. Few have been disturbed, since
-                        stories about curses laid on such places are all
-                        too common.
+                        Up in the Hiskany Hills can be found many remnants of the
+                        <qv uri="cannadd">Cannadd</qv>, a people who dwelt here
+                        before the coming of humans. The most common are the stone Cairns
+                        which can be found atop some of the most prominent hills. Few
+                        have been disturbed, since stories about curses laid on such
+                        places are all too common.
                     </para>
 
                     <para>
@@ -169,7 +163,7 @@
 
                 <para>
                     The northern coast is not so favoured though, for
-                    northern winds blow straight down from the arctic
+                    northern winds blow straight down from the Arctic
                     ice sheets, bringing with them snow. Where the
                     two air currents meet somewhere over the
                     highlands, there is much fog and mist, which
@@ -272,23 +266,29 @@
                     theirs can still be found, but as a race they no
                     longer exist.
                 </para>
-
                 <para>
-                    About 700 years ago, the hero Taneith crossed the
-                    Sea of Mists with a hundred of his followers,
-                    settling at what is now known as Leanneac. They
-                    spread westward, driving the Cannath before them,
-                    and finally wiping them out entirely. Eventually,
-                    they populated the entire island, though many of
-                    the larger forests are unexplored.
+                    The stories say that the human hero Taneith crossed the
+                    <qv uri="sea-of-mists">Sea of Mists</qv> with a hundred of
+                    his followers to first settle the island, at a place that is
+                    now known as <qv uri="leanneac">Leanneac</qv>. The exact
+                    timing of this is not known, but it is likely to have been
+                    before the retreat of the Ice over two thousand years ago.
+                    They spread westward, fighting the Cannadd and finally
+                    wiping them out entirely. Eventually they populated the entire
+                    island, though many of the larger forests are still unexplored.
                 </para>
-
                 <para>
-                    The current inhabitants of the isle are the
-                    descendants of the first hundred. Now numbering
-                    about three hundred thousand, they live in
-                    scattered fines, quite different to the dense
-                    villages common on the continent.
+                    The current inhabitants of the isle are the descendants of the
+                    first hundred. Now numbering about three hundred thousand, they
+                    live in scattered fines, quite different to the dense villages
+                    common on the mainland.
+                </para>
+                <para>
+                    About a thousand years ago, some of these descendants moved
+                    back to the mainland, populating <qv uri="tanwall">Tanwall</qv>
+                    and <qv uri="cancha">Cancha</qv>. The languages of these
+                    places have much in common with that of Taneith, and some of
+                    the customs and gods are similar as well.
                 </para>
 
                 <sect3>

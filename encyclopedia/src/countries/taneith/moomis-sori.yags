@@ -61,73 +61,66 @@
                 taken from Moomis Sori, which means Lunar Cycle.
             </para>
 
-            <para>
-                Reality
-            </para>
+            <sect2>
+                <title>Reality</title>
+                <para>
+                    The solar year (time between two vernal
+                    equinoxes) is 377.12 days, and the lunar cycle is
+                    almost exactly 28 days. A day is considered to be
+                    24 hours, though lasts only 23 hours, 59 minutes
+                    and 55 seconds.
+                </para>
+            </sect2>
 
-            <para>
-                The solar year (time between two vernal
-                equinoxes) is 377.12 days, and the lunar cycle is
-                almost exactly 28 days. A day is considered to be
-                24 hours, though lasts only 23 hours, 59 minutes
-                and 55 seconds.
-            </para>
+            <sect2>
+                <title>The Moomis Sori Calendar</title>
+                <para>
+                    The calendar year consists of 13 months of 28
+                    days, which adds up to a total of 364 days - 13
+                    days short of a solar year. It was drawn up by
+                    the priests of the Temple of the Goddess on the
+                    Black Isle over 500 years ago, and was designed
+                    to chart the progress of the moon. Year One began
+                    on the spring equinox of the year, at a time when
+                    the moon was full. Though the calendar was 13
+                    days short of a solar year each calendar year, it
+                    realigned itself every 29 years, a period known
+                    as a Moomis Sori, a term which was later used to
+                    refer to the calendar system as a whole.
+                </para>
+                <para>
+                    In 203 MS, it was decided to bring the entire
+                    system in line with the solar year. This year was
+                    chosen since it was right at the end of a Moomis
+                    Sori, making the calendar temporarily correct
+                    (though in actuality, only 197 years had passed
+                    since the original calendar was drawn up, not 203).
+                </para>
+                <para>
+                    A day was added to every month, bringing the year
+                    length up to 377 days. Every 10th year an extra
+                    day is added to Yasa (the last month), and every
+                    50th year an extra day is added to Horsa (the 7th
+                    month). Since this is based from 203 MS, the
+                    first leap year occurred in 213, the second in
+                    223 etc, and the first double leap year in 253.
+                </para>
 
-            <para>
-                The Moomis Sori Calendar
-            </para>
-
-            <para>
-                The calendar year consists of 13 months of 28
-                days, which adds up to a total of 364 days - 13
-                days short of a solar year. It was drawn up by
-                the priests of the Temple of the Goddess on the
-                Black Isle over 500 years ago, and was designed
-                to chart the progress of the moon. Year One began
-                on the spring equinox of the year, at a time when
-                the moon was full. Though the calendar was 13
-                days short of a solar year each calendar year, it
-                realigned itself every 29 years, a period known
-                as a Moomis Sori, a term which was later used to
-                refer to the calendar system as a whole.
-            </para>
-
-            <para>
-                In 203 MS, it was decided to bring the entire
-                system in line with the solar year. This year was
-                chosen since it was right at the end of a Moomis
-                Sori, making the calendar temporarily correct
-                (though in actuality, only 197 years had passed
-                since the original calendar was drawn up, not 203).
-            </para>
-
-            <para>
-                A day was added to every month, bringing the year
-                length up to 377 days. Every 10th year an extra
-                day is added to Yasa (the last month), and every
-                50th year an extra day is added to Horsa (the 7th
-                month). Since this is based from 203 MS, the
-                first leap year occurred in 213, the second in
-                223 etc, and the first double leap year in 253.
-            </para>
-
-            <para>
-                The Months of the Year
-            </para>
-
-            <para>
-                There are now 13 months, each of 29 days. There
-                names are as follows: Versa, Mooth, Calain,
-                Narda, Daesa, Brunath, Horsa, Ulda, Arafey,
-                Forth, Magsa, Eep, Yasa.
-            </para>
-
-            <para>
-                Versa marks the start of the vernal (spring)
-                equinox, making Magsa more or less in the middle
-                of winter, and Daesa the middle of summer.
-            </para>
-
+                <sect3>
+                    <title>The Months of the Year</title>
+                    <para>
+                        There are now 13 months, each of 29 days. There
+                        names are as follows: Versa, Mooth, Calain,
+                        Narda, Daesa, Brunath, Horsa, Ulda, Arafey,
+                        Forth, Magsa, Eep, Yasa.
+                    </para>
+                    <para>
+                        Versa marks the start of the vernal (spring)
+                        equinox, making Magsa more or less in the middle
+                        of winter, and Daesa the middle of summer.
+                    </para>
+                </sect3>
+            </sect2>
         </sect1>
     </body>
 </article>
