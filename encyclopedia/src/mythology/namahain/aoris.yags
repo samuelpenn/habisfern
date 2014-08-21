@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Aoris</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="aoris">The Aoris</subject>
+
+            <category>Mythology</category>>>
+
+            <topic uri="namahain">Namahain</topic>
+            <topic uri="taneith">Taneith</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Aoris</title>
+
+            <para>
+                The <e>Aoris</e> are said to be the children of the <qv uri="goddess">Goddess</qv>.
+                When the <qv uri="trinity-of-powers">Trinity</qv> was formed, there were also
+                many other fragments of the Light. The Goddess took these fragments and gave
+                them form and life, giving them shelter in the bodies of many of those that had
+                fallen in the battle with the Namahain.
+            </para>
+            <para>
+                The Aoris became humans with a divine element, and for a while ruled on Taneith
+                until their bloodlines became too diluted. Several of them ascended before they
+                died, the most well known of which is the <qv uri="pale-lady">Pale Lady</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
