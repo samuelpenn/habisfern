@@ -47,24 +47,49 @@
             <title>Ghoul</title>
 
             <para>
-                Ghouls are corrupted men who have tasted of the 
-                curse of the Elders. They shun the light, and 
-                feed on the flesh of other men. Driven mad by the 
-                corruption which consumes them, they are 
-                considered an evil scourge to be hunted and killed.
+                Ghouls are corrupted men who have tasted of the curse of the
+                <qv uri="elders">Elders</qv>. They shun the light, and feed on the
+                flesh of other men. Driven mad by the corruption which consumes
+                them, they are considered an evil scourge to be hunted and killed.
             </para>
 
             <para>
-                The body of a ghoul is infected with a fibrous 
-                fungal material, which in latter stages of the 
-                disease erupts through the skin leaving open sores.
+                The body of a ghoul is infected with a fibrous fungal material,
+                which in latter stages of the disease erupts through the skin
+                leaving open sores.
             </para>
 
             <para>
-                Ghouls are fast and strong, but do not seem to 
-                survive more than a few years past infection.
+                Ghouls are fast and strong, but do not seem to survive more than
+                a few years past infection.
             </para>
 
+            <sect2>
+                <title>Society</title>
+                <para>
+                    Over time, ghouls lose their ability to reason, but until then
+                    they are able to form loose societies known as swarms. The most
+                    powerful ghoul will generally take control of the rest, and rule
+                    them like a king until his death. Upon this time, the ghoul
+                    swarm will turn upon itself until a new king is able to take
+                    control.
+                </para>
+                <para>
+                    Ghouls are infertile via normal methods, so a swarm can only
+                    increase in size by claiming humans from surrounding lands.
+                    Once infected, the new ghouls are forced into the swarm, or
+                    killed if they cannot be controlled.
+                <para>
+                <para>
+                    At places where Elder influence is still strong, a ghoul swarm
+                    may have a Brood Queen. Unlike other ghouls, a ghoul Queen can breed,
+                    and will birth dozens of ghouls a year. Queens are much larger
+                    than normal ghouls, and can live for decades, but are too
+                    bloated to move very far. Ghouls created this way grow to
+                    adulthood within a few years, but never gain a human level of
+                    understanding or reason, acting more like animals.
+                </para>
+            </sect2>
         </sect1>
     </body>
 </article>
