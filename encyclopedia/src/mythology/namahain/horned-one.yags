@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Horned One</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="horned-one">The Horned One</see>
+        </references>
+
+        <topics>
+            <subject uri="horned-one">The Horned One</subject>
+
+            <category>Gods</category>>>
+
+            <topic uri="namahain">Namahain</topic>
+            <topic uri="taneith">Taneith</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Horned One</title>
+
+            <para>
+                The Horned One is one third of the <qv uri="trinity-of-powers">Trinity</qv>
+                that are the principle gods of Taneith. Created from the Light when it was
+                shattered by the <qv uri="ursa">Crawler Below</qv>, he is quite different
+                to the <qv uri="goddess">Goddess</qv>, for he represents darkness and
+                chaos. The Horned One predicts the time of the Unending Night, when the
+                Ice will devour the world and plunge humanity into darkness.
+            </para>
+            <para>
+                He does not seek victory for the Ice though, for he predicts that only by
+                allowing it temporary victory can it be defeated. So he seeks the fall of
+                humanity in order to let it flourish. The quicker the fall, the shorter
+                the victory will be for the Ice.
+            </para>
+            <para>
+                He is often venerated by warriors before they go into battle, for he gives
+                strength and bravery in the face of danger. He is also the god of magic,
+                and may be related to <qv uri="ashek">Ashek, the mad god</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
