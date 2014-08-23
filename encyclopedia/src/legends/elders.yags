@@ -45,20 +45,58 @@
             <title>Elders</title>
 
             <para>
-                The Elders were a race which lived in <qv uri="euressa">
-                Euressa</qv> before the coming of man. They worshipped the
-                <qv uri="ice">Ice</qv>, and died out after the retreat of
-                the great glaciers.
+                Before the rise of humanity, the world was ruled by the Elders.
+                They were a race of serpentine people who practised powerful
+                dark magic and worshipped the <qv uri="ice">Ice</qv>. It is
+                said that some still live on deep underground, or in parts of
+                the world where humans have not yet reached.
             </para>
-
             <para>
-                Little is known of them, though some artifacts - notably
-                ruined cities - remain. They were a serpentine people,
-                and practised powerful magics, which was taught to the
-                first settlers of Weidany.
+                Across <qv uri="euressa">Euressa</qv> can still be found signs of
+                their habitation. Strange ruined towers that sit atop passages and
+                caverns that delve deep under the surface are what is left of
+                their civilisation. Dark magic still lingers around these ruins,
+                and those that spend too long there can become mindless
+                <qv uri="ghouls">ghouls</qv> who seek out the flesh of the living.
             </para>
+            <sect2>
+                <title>Elder Magic</title>
+                <para>
+                    The last of the Elders survived until the coming of humans
+                    to Euressa, and they were worshipped as gods by the
+                    <qv uri="druids-elders">Druids</qv>. They used blood magic
+                    that bound people and spirits to their will.
+                </para>
+                <para>
+                    Artefacts that survive to the present day can still be found
+                    that have spirits bound into them. Such items can be powerful,
+                    but the spirits are often both insane and evil making their
+                    use dangerous.
+                </para>
+            </sect2>
+            <sect2>
+                <title>Elder Ruins</title>
+                <para>
+                    If any Elders do still survive, they are most probably to be
+                    found deep underground where they fled from the coming of
+                    humans. Most ruins of their civilisation pre-date the coming
+                    of the Ice, but some may have been inhabited for a short while
+                    after that, both by the Elders themselves and also humans.
+                </para>
+                <para>
+                    How extensive their subterranean realms are is not known, for
+                    exploration is difficult and dangerous. Some of their tunnels
+                    are said to stretch for many leagues underground, and some
+                    tell of empty cities deep beneath the earth.
+                </para>
+                <para>
+                    The most extensive known set of ruins are the
+                    <qv uri="broken-towers">Broken Towers</qv> in
+                    <qv uri="midlaen">Midlaen</qv>, though the surface ruins of
+                    this place are of later human habitation.
+                </para>
+            </sect2>
         </sect1>
-
     </body>
 
 </article>

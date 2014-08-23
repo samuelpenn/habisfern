@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Druids of the Elders</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="druids">Druids</see>
+            <see uri="druids">Elders</see>
+        </references>
+
+        <topics>
+            <subject uri="elders">Elders</subject>
+
+            <category>Cults</category>
+
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Druids of the Elders</title>
+
+            <para>
+                When the first <qv uri="weidanic">Weidanic</qv> tribes colonised
+                Euressa, they encountered the Elders in the last days of their
+                civilisation. The Elders appeared as gods to the humans, and for
+                a while they were worshipped as such. They demand human sacrifices,
+                and in return the Elders granted the secrets of their magic.
+            </para>
+            <para>
+                Those who performed these sacrifices, and learnt the dark power
+                of the Elder magic, were known as Druids. By the time of the
+                Rornic invasions, the power of the Elders was failing, and the
+                people were turning to the worship of the mother goddess
+                <qv uri="yammath">Yammath</qv>, who required no blood sacrifices
+                and who promised protection from the Ice rather than alliance
+                with it.
+            </para>
+            <para>
+                As the power shifted, so many of the Druids also changed their focus.
+                For a brief time, there was conflict between those who continued to
+                worship the Elders and those who took up the worship of Yammath.
+                With the destruction of the last of the Elders by the People of Rorn,
+                the few remaining Druids who still worshipped their inhuman gods
+                were either killed or turned.
+            </para>
+            <para>
+                Today, there are still stories of Druids that seek Elder Magic, but
+                for the most part they are just stories.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
