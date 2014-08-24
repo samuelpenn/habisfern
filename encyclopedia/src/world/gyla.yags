@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Gyla</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="eorthe">Eorthe</subject>
+
+            <category>Places</category>>
+
+            <topic uri="eorthe">Eorthe</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Gyla</title>
+
+            <para>
+                Gyla is the most populated continent of Eorthe, stretching over the
+                north pole and down to the southern tropics. The northern most parts
+                are covered in thick ice sheets, and it is difficult to determine
+                where the land ends and sea begins.
+            </para>
+            <para>
+                The central parts of the continent are sometimes known as the
+                <qv uri="old-world">Old World</qv>, for this is where humanity first
+                rose to prominence. With the coming of the Ice though, the warmer
+                latitudes dried up and became desert, and the great empires of
+                humanity withered and died. In the north, the ice sheets rolled
+                over the plains and forests, driving everyone into the few areas
+                of habitable temperate land.
+            </para>
+            <para>
+                In the far south, the tropical regions are still warm desert, and
+                they brush against the northern parts of the continent of
+                <qv uri="habanna">Habanna</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
