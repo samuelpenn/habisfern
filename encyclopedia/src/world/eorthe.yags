@@ -46,43 +46,57 @@
             <title>Eorthe</title>
 
             <para>
-                Eorthe is the world of men, as named by the 
-                people of Rorn. It is also known as Midgaard, 
-                Middle Earth, or just Earth.
+                Eorthe is the world of men, as named by the people of Rorn. It
+                is also known as Midgaard, Middle Earth, or just Earth. Eorthe
+                has a year of 372 days, and each day lasts 24 hours. It has a
+                single <qv uri="moon">Moon</qv>, which has a period of 28 days.
             </para>
-
             <para>
-                Eorthe has a year of 372 days. It has a single 
-                moon, with a period of 28 days.
+                The world is in the middle of on ice age, with ice caps reaching
+                across much of the northern continents. The last great expansion
+                of the ice ended two to three thousand years ago, and currently
+                the world is in a warmer period within the ice age.
             </para>
 
-            <para>
-                The world is in the middle of on ice age, with 
-                ice caps reaching across much of the northern 
-                continents. The last great expansion of the ice 
-                ended two to three thousand years ago.
-            </para>
-
-            <para>
-                The main populated continent is Gyla, also known 
-                as the Old World. Much of it is still covered by 
-                ice sheets, either from the arctic sheet, or 
-                stretching out from mountains.
-            </para>
-
-            <para>
-                Gyla is joined at the equator by an isthmus of 
-                land to the western continent of Habanna.
-            </para>
-
-            <para>
-                Sitting between the two continents, in the 
-                northern latitudes, is the sub continent of 
-                Euressa. Warmed by warm ocean currents from the 
-                south, it was the destination of many refugees 
-                fleeing the last ice incursions.
-            </para>
-
+            <sect2>
+                <title>Continents</title>
+                <para>
+                    Eorthe consists of two major continents, both of which straddle
+                    the poles. Because of the way the continents are arranged, with
+                    much of them hidden under thick ice, it appears that some parts
+                    of the continents are unconnected to each other, and many assume
+                    that these parts are independent islands or continents.
+                </para>
+                <para>
+                    The northern continent is named <qv uri="gyla">Gyla</qv>,
+                    and stretches from the northern pole down to the tropics in the
+                    southern hemisphere. The far tip of the continent can only be
+                    reached by sea or across the ice of the northern pole, and is
+                    generally considered a separate land named
+                    <qv uri="kerthay">Kerthay</qv>.
+                </para>
+                <para>
+                    The southern pole is covered by the continent of
+                    <qv uri="habanna">Habanna</qv>. It is mostly covered by ice,
+                    though the coastal reaches consists of cold plains, tundra and
+                    boreal forests. A single part of Habanna stretches from the
+                    southern polar ice north to beyond the equator, almost reaching
+                    the top of Kerthay.
+                </para>
+                <para>
+                    The opposite end of Habanna stretches to the mid southern
+                    latitudes, where it brushes against Gyla.
+                </para>
+                <para>
+                    Branching off the northern part of Gyla is the peninsula of
+                    <qv uri="euressa">Euressa</qv>. Since the melting of the ice,
+                    the stretch of land between Euressa and the mainland of Gyla
+                    has been flooded by the <qv uri="beloye-more">Beloye More</qv>,
+                    leaving only a thin stretch of ice covered land as the link
+                    between the two. Warm waters from the equator reach Euressa,
+                    keeping it warmer than similar latitudes on the mainland.
+                </para>
+            </sect2>
         </sect1>
     </body>
 </article>

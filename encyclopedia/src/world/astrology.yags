@@ -30,6 +30,8 @@
         <style name="module"/>
 
         <references>
+            <see uri="eorthe">Eorthe</see>
+            <see uri="moon">Moon</see>
         </references>
 
         <topics>
