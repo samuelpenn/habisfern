@@ -48,11 +48,17 @@
             <title>Euressa</title>
 
             <para>
-                The sub-continent of Euressa is about three thousand
+                The peninsula of Euressa is about three thousand
                 kilometres long, and two and a half thousand wide. Split in
                 the middle by the <qv uri="withrican-mountains">Withrican
-                Mountains</qv>, it is mostly temperate or cold
-                forest.
+                Mountains</qv>, it is mostly temperate or cold forest. It joins
+                the rest of the continent of <qv uri="gyla">Gyla</qv> at the
+                edge of the Ice, making travel between the peninsula and the
+                Old World difficult at best.
+            </para>
+            <para>
+                Because of this difficulty, Euressa is sometimes thought of as
+                an island.
             </para>
 
             <import-map uri="euressa" scale="0" thumb="320"/>
@@ -70,10 +76,10 @@
             </para>
 
             <para>
-                Over the next millenia, the Ice is gradually driven north as
+                Over the next millennia, the Ice is gradually driven north as
                 far as the coastal regions, though glaciers still flow down
                 from the central mountains. Fertile plains are starting to
-                give way to orest in the heartlands, and the first colonists
+                give way to forest in the heartlands, and the first colonists
                 begin to move westward.
             </para>
 
@@ -110,17 +116,17 @@
                 Druids are driven out, and the full settlement of Euressa
                 begins.
             </para>
-            
+
             <sect2>
                 <title>Cultures of Euressa</title>
-                
+
                 <para>
                     Across Euressa there are five main distinct cultures
                     which are found today, these being the People of Rorn,
                     the Brytish, the Northern Kingdoms, the Eastern
                     Kingdoms and Taneith.
                 </para>
-                
+
                 <para>
                     Three of them - Rorn, Brytish and the Northern Kingdoms
                     are quite similar, and are closely related to each
@@ -128,10 +134,10 @@
                     Kingdoms are somewhat different however, being cut off
                     from the others by geography.
                 </para>
-                
+
                 <sect3>
                     <title>The People of Rorn</title>
-                    
+
                     <para>
                         The People of Rorn were the main core of believers
                         who followed the god <qv uri="rorn">Rorn</qv> from
@@ -141,7 +147,7 @@
                         cultures of Euressa, with the exception of the
                         Eastern Kingdoms, are descended from them.
                     </para>
-                    
+
                     <para>
                         With the fall of Tarvallah, they moved westward,
                         and displaced the Weidanic people, who have now
@@ -151,17 +157,17 @@
                         they do have an extensive legal system, and see
                         the head of state as the final arbiter of justice.
                     </para>
-                    
+
                     <para>
                         The People of Rorn believe in individual freedom,
                         the strength and generosity of warrior lords and
                         a two way relationship with their gods.
                     </para>
                 </sect3>
-                
+
                 <sect3>
                     <title>The Brytish</title>
-                    
+
                     <para>
                         The Brytish peoples, which includes Bryteland and
                         Tanwall, are a highly individualistic warrior
@@ -169,7 +175,7 @@
                         all else. Justice is personal, and the law should
                         not get in the way of revenge.
                     </para>
-                    
+
                     <para>
                         The Brytish have a strong system of government, but
                         are even less feudal than the Rornic People, and
@@ -177,16 +183,16 @@
                         the local lords of the land, with very few instances
                         of a 'higher nobility' between the two.
                     </para>
-                    
+
                     <para>
                         The place of women is seen to be in the home, far
                         more than it is in Rornic culture.
                     </para>
                 </sect3>
-                
+
                 <sect3>
                     <title>Isle of Taneith</title>
-                    
+
                     <para>
                         The people of the Isle of Taneith settled there
                         long before the colonisation of much of western
@@ -196,7 +202,7 @@
                         universe, being the greatest of the
                         <qv uri="trinity-of-powers">Trinity of Powers</qv>.
                     </para>
-                    
+
                     <para>
                         They are close to the wilderness, and close to
                         magic, believing that the Other World is close
@@ -204,35 +210,35 @@
                         accepting of magic of all the cultures of Euressa.
                     </para>
                 </sect3>
-                
+
                 <sect3>
                     <title>The Northern Kingdoms</title>
-                    
+
                     <para>
                         The Northern Kingdoms are settled along the north
                         coast of Euressa, and were originally something of
                         an afterthought, being simply the people who didn't
                         settle anywhere else.
                     </para>
-                    
+
                     <para>
                         They have grown to be quite populous, but also quite
                         insular, and tend to keep trade and war between
                         themselves. They are heavily feudalised, with large
-                        cities and towns being the dominent political and
+                        cities and towns being the dominant political and
                         social centres.
                     </para>
-                    
+
                     <para>
                         Religious cults are common though tend to not get
                         involved in politics, with the radical exception of
                         <qv uri="herzon">Herzon</qv>, which is a theocracy.
                     </para>
                 </sect3>
-                
+
                 <sect3>
                     <title>The Eastern Kingdoms</title>
-                    
+
                     <para>
                         The Eastern Kingdoms were settled long after the
                         rest of Euressa. When the People of Rorn first came
@@ -240,11 +246,11 @@
                         covered by thick ice, and quite uninhabitable. After
                         the fall of Tarvallah, the easiest route for people
                         to take was westward, and so they and their
-                        descendents settled everywhere west of the
+                        descendants settled everywhere west of the
                         <qv uri="withrican-mountains">Withrican
                         Mountains</qv>.
                     </para>
-                    
+
                     <para>
                         Some time later, another wave of settlers came
                         across from the Old World, and settled in what is
@@ -252,12 +258,12 @@
                         different people - shorter and darker, with their
                         own set of beliefs and cultures.
                     </para>
-                    
+
                     <para>
                         They have large, populous, city states, with large
                         rural regions with low population. They are the
                         only culture to have organised wizardry, and their
-                        scholorly and written advancements are far ahead
+                        scholarly and written advancements are far ahead
                         of anything the western cultures have.
                     </para>
                 </sect3>
