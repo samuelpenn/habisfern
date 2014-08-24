@@ -44,17 +44,23 @@
             <title>Old World</title>
 
             <para>
-                The Old World describes the lands occupied by 
-                humans before the last great Ice incursions. It 
-                is the main continental land mass to the east.
+                The Old World refers to the civilisations of humanity that
+                existed on <qv uri="gyla">Gyla</qv> before the last great
+                incursions of the <qv uri="ice">Ice</qv>. Before humanity,
+                the region was the centre of the <qv uri="elder">Elder</qv>
+                civilisation.
             </para>
-
             <para>
-                The northern realms are still covered in Ice, 
-                either from the polar cap itself, or from 
-                glaciers reaching down from the various mountain ranges.
+                Large parts of the Old World still suffers under the Ice,
+                either directly due to the ice sheets, or because of the
+                dry conditions in the south which have turned much of the
+                fertile lands to desert.
             </para>
-
+            <para>
+                Civilisations of Humanity can still be found in the Old
+                World however, living amongst the ruins of something which
+                was once much greater.
+            </para>
         </sect1>
     </body>
 </article>
