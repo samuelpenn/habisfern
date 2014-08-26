@@ -30,6 +30,7 @@
         <style name="module"/>
 
         <references>
+            <see uri="trinity-of-powers">Trinity of Powers</see>
         </references>
 
         <topics>
@@ -48,16 +49,38 @@
             <title>The Aoris</title>
 
             <para>
-                The <e>Aoris</e> are said to be the children of the <qv uri="goddess">Goddess</qv>.
-                When the <qv uri="trinity-of-powers">Trinity</qv> was formed, there were also
-                many other fragments of the Light. The Goddess took these fragments and gave
-                them form and life, giving them shelter in the bodies of many of those that had
-                fallen in the battle with the Namahain.
+                In the Isle of Taneith, the time of the Namahain was ended by the coming
+                of the Silver Lords known as the <e>Aoris</e>. It is not known where
+                they came from, though it may have been a different part of the
+                <qv uri="dreamlands">Dreamlands</qv>, or even from the
+                <qv uri="over-earth">Over Earth</qv>, though the latter has no place
+                in the myths of the Taneith.
             </para>
             <para>
-                The Aoris became humans with a divine element, and for a while ruled on Taneith
-                until their bloodlines became too diluted. Several of them ascended before they
-                died, the most well known of which is the <qv uri="pale-lady">Pale Lady</qv>.
+                The Aoris were not gods themselves, but they were of the gods, and they
+                struck against the Namahain with great force, eventually throwing down
+                the <qv uri="fonnas">Sky God Fonnas</qv> into the sea, and capturing and
+                binding <qv uri="cionna">Cionna</qv> the Goddess of Battle.
+            </para>
+            <para>
+                With the Silver Lords came the Shining Light, an unknown Power that was
+                opposed to the Ice. It broke the walls of Ice and Mist which surrounded
+                Taneith, and the entire island shook with the force of the assault. But
+                one of the Namahain was still free, and <qv uri="ursa">Ursa the Wyrm God</qv>
+                dealt a blow to the Shining Light which shattered it into pieces, forming
+                the Trinity of Powers.
+            </para>
+            <para>
+                Ursa fled, but the Aoris were triumphant and claimed Taneith. Out of the
+                pieces of the Shining Light came the <qv uri="goddess">Goddess</qv>, who
+                brought warmth and life to Taneith. The Aoris settled there amongst
+                humanity where they took wives and husbands and had many children. The
+                bloodline of the Aoris eventually became diluted, but the original
+                descendants of them became great men in the legends of Taneith.
+            </para>
+            <para>
+                A few of the Aoris ascended into the Dreamlands, to live with the Trinity,
+                the most well known of which is the <qv uri="pale-lady">Pale Lady</qv>.
             </para>
         </sect1>
     </body>
