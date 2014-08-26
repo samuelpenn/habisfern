@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Capall Ban Bay</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="capall-ban-bay">Capall Ban Bay</subject>
+
+            <category>Seas</category>>
+
+            <topic uri="taneith">Taneith</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Capall Ban Bay</title>
+
+            <para>
+                A bay in the south eastern side of the Isle of Taneith, named
+                for the white wave crests that are commonly seen across it.
+                The shorelines of the bay are heavily populated by fishermen,
+                and small boats are generally out on the bay during the day.
+            </para>
+            <para>
+                Larger boats generally avoid the bay though, for it is filled
+                with shifting sands and it is easy to become beached even when
+                you are leagues from land. There are a few wrecks of ships
+                that are still visible above the waters of the bay, but most
+                sink out of sight within a few days of becoming grounded.
+            </para>
+            <para>
+                On some nights, when the bay is shrouded in mist, the songs
+                of dead sailors can be heard on the wind.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
