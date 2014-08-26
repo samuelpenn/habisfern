@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Na Tailte Scath</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="na-tailte-scath">Na Tailte Scath</subject>
+
+            <category>Legends</category>>>
+
+            <topic uri="namahain">Namahain</topic>
+            <topic uri="taneith">Taneith</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Na Tailte Scath</title>
+
+            <para>
+                In the stories of the people of Taneith, beyond the
+                <qv uri="dreamlands">Dreamlands</qv> lay the <e>shadow lands</e> of
+                the Namahain known as Na Tailte Scath. They are a land permanently
+                in darkness, lit only by the souls of the dead which shine like stars
+                in the sky.
+            </para>
+            <para>
+                Somewhere in Na Tailte Scath lay the Seven Gates beyond which the
+                remaining Namahain are imprisoned. It is believed that these gates
+                also hold up the sky of the realm, and their opening will both
+                release the old gods, and free the spirits of the dead to return
+                to the Dreamlands, and from there to Taneith.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
