@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Fonnas</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="na-tailte-scath">Na Tailte Scath</see>
+            <see uri="aoris">Aoris</see>
+        </references>
+
+        <topics>
+            <subject uri="fonnas">Fonnas</subject>
+
+            <category>Gods</category>>>
+
+            <topic uri="namahain">Namahain</topic>
+            <topic uri="taneith">Taneith</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Fonnas</title>
+
+            <para>
+                Fonnas was the lord of the Namahain, the god of sky and storms.
+                Though he was not as strong as <qv uri="moth">Moth</qv>, his
+                name was invoked when strength and sturdiness was required.
+                At the time of the Namahain, his priests were the most powerful
+                and influential in Taneith. They advised kings and spoke the
+                laws of the land.
+            </para>
+            <para>
+                With the coming of the Silver Lords of the Aoris, Fonnas encircled
+                Taneith with a great mist in order to hide it. But the mist was
+                pierced by the burning Light, forcing Fonnas and
+                <qv uri="cionna">Cionna</qv> to ride out and do battle with the
+                Silver Lords. In the great battle, Fonnas was slain, and his
+                body thrown into the sea at a place now known as the
+                <qv uri="isles-of-fonnas">Isles of Fonnas</qv>. Of the five
+                Namahain, Fonnas is the only one that was killed rather than
+                imprisoned.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

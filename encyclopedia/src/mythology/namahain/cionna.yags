@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Cionna</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="na-tailte-scath">Na Tailte Scath</see>
+            <see uri="aoris">Aoris</see>
+        </references>
+
+        <topics>
+            <subject uri="cionna">Cionna</subject>
+
+            <category>Gods</category>>>
+
+            <topic uri="namahain">Namahain</topic>
+            <topic uri="taneith">Taneith</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Cionna</title>
+
+            <para>
+                Cionna was one of the five gods that made up the Namahain. She
+                was the dark and bloodthirsty goddess of battle, who demanded the
+                sacrifices of enemies defeated in war. She was also the goddess
+                of lust, and lay with the spirits of slain heroes in order to
+                birth warriors by their hundreds and thousands. These warriors
+                fought alongside Cionna in the battles against the Light in
+                <qv uri="na-tailte-scath">Na Tailte Scath</qv>.
+            </para>
+            <para>
+                Though Cionna was one of the more powerful goddesses that was
+                worshipped during the old times in Taneith, there is no organised
+                worship of her today that is known about. Warriors still speak
+                her name in battle, and may even make a small sacrifice to her,
+                but very few actually name her as their goddess.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

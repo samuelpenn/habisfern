@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Ursa</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="grey-monks">Grey Monks</see>
+            <see uri="na-tailte-scath">Na Tailte Scath</see>
+            <see uri="aoris">Aoris</see>
+        </references>
+
+        <topics>
+            <subject uri="ursa">Ursa</subject>
+
+            <category>Gods</category>>>
+
+            <topic uri="namahain">Namahain</topic>
+            <topic uri="taneith">Taneith</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Ursa</title>
+
+            <para>
+                Ursa is the Crawler Below, also known as the Wyrm God or
+                the White Worm. Of all the gods of the Namahain, he is the
+                only one that was not imprisoned or killed by the Aoris.
+                At the end of the great battle, it was Ursa that shattered
+                the Light into three, creating the
+                <qv uri="trinity-of-powers">Trinity of Powers</qv>, and he
+                then fled, avoiding capture and binding.
+            </para>
+            <para>
+                The <e>Crawler Below</e> is still worshipped today by the
+                <qv uri="grey-monks">Grey Monks</qv>, a cult of necromancers
+                and dark wizards who can be found in Taneith,
+                <qv uri="cancha">Cancha</qv> and <qv uri="tanwall">Tanwall</qv>.
+            </para>
+            <para>
+                Though none of the Namahain were truly pleasant, Ursa was the
+                one who was considered completely and irrevocably evil. He
+                promised immortality though undeath, though the price was
+                torment of the body. He taught that pain and suffering were
+                the paths to enlightenment and power, and that the giving of
+                pain to others was a blessing that must be done at every
+                opportunity.
+            </para>
+            <para>
+                At the time of the Namahain, his cult operated openly, though
+                it was welcome in only a few places. Today, the cult is hidden
+                and keeps away from areas of civilisation.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

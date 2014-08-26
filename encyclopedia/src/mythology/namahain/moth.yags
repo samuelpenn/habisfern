@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Moth</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="na-tailte-scath">Na Tailte Scath</see>
+            <see uri="Aoris">Aoris</see>
+        </references>
+
+        <topics>
+            <subject uri="cionna">Cionna</subject>
+
+            <category>Gods</category>>>
+
+            <topic uri="namahain">Namahain</topic>
+            <topic uri="taneith">Taneith</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Moth</title>
+
+            <para>
+                Moth was the Lord of Beasts, a god of the Namahain that often
+                took the form of a giant bear. He was a barbaric god, selfish,
+                greedy and unreliable, who would take food wherever he saw it.
+                Though he was regularly violent, he always used violence as a
+                means to an end, rather than just for the sake of it.
+            </para>
+            <para>
+                Like the rest of the Namahain, he was defeated by the Aoris and
+                sealed beneath the ground where he could no longer influence
+                humanity. There are none who worship him now, and his name is
+                forgotten by many. His name is sometimes invoked when the ground
+                trembles, for it is said that it is him trying to escape his
+                bounds, but such trembles are more likely to be attributed to the
+                <qv uri="heart-of-goddess">Heart of the Goddess</qv>.
+            </para>
+            <para>
+                At the time of the Namahain, Moth was the patron god of berserkers,
+                shapechangers and mad men.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
