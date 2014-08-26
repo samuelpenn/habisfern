@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Silver Hills</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="silver-hills">Silver Hills</subject>
+
+            <category>Hills</category>>
+
+            <topic uri="aidan-shire">Aidan Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Silver Hills</title>
+
+            <para>
+                Encircling the southern shores of <qv uri="silver-lake">Silver Lake</qv>
+                are the rocky hills which are now full of abandoned silver mines. The
+                region was highly profitable in the 8th century, but the seams were soon
+                mined out, and the small towns and villages that had rapidly grown up
+                there just as rapidly dwindled. Today, there are little more than a
+                handful of small hamlets and villages still trying to make a living on
+                the poor soils of these hills.
+            </para>
+            <para>
+                Since humans have abandoned the mines though, others have moved in.
+                Several of the mines now reach deeper into the ground that they were
+                ever built to by mortal miners, and these deep shafts now connect to
+                areas of the <qv uri="dreamlands">Dreamlands</qv> that are populated by
+                dark fey of the earth.
+            </para>
+            <para>
+                The fey sometimes come out at night, occasionally raiding human villages
+                but more commonly staying up in the high hills, only bothering lone
+                travellers that are foolish enough to stay out at night.
+            </para>
+            <para>
+                Rumours say that the deeper mines now lead to veins of gemstones, gold
+                and rarer things not found on Eorthe, but the few who have returned
+                from delves into the mines have never brought back solid proof of these
+                claims.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
