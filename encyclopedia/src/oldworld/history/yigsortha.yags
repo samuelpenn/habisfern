@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Yigsortha Kingdom</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="ancients">Ancients</see>
+            <see uri="elders">Elders</see>
+        </references>
+
+        <topics>
+            <subject uri="yigsortha">Yigsortha Kingdom</subject>
+
+            <category>Kingdoms</category>>
+
+            <topic uri="gyla">Gyla</topic>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Yigsortha Kingdom</title>
+
+            <para>
+                After the fall of the <qv uri="serpent-kingdoms">Serpent Kingdoms</qv>
+                humanity built its own empires in the ashes of its old masters. The
+                most notable of these early human cultures was that of <e>Yigsortha</e>,
+                which harnessed the ancient magics of the <qv uri="elders">Elders</qv>
+                and used it to build their own cities and monuments.
+            </para>
+            <para>
+                Located in what is now the <qv uri="kalika-desert">Kalika Desert</qv>,
+                the Kingdom of Yigsortha was ruled by sorcerer kings who were little
+                better than the inhuman masters that they replaced.
+            </para>
+            <para>
+                It lasted about two to three thousand years, before falling due to
+                internal strife and madness amongst the ruling sorcerers.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
