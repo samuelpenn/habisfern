@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Sea of Smoke</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="sea-smoke">Sea of Smoke</subject>
+
+            <category>Seas</category>>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Sea of Smoke</title>
+
+            <para>
+                Off the western coast of the continent of <qv uri="gyla">Gyla</qv>
+                is the <e>Sea of Smoke</e>. It is called many different names by
+                the various cultures, but generally this description is common.
+            </para>
+            <para>
+                For the last few thousand years continuous plumes of smoke have
+                billowed up from the depths, and strange smells are present
+                in areas without smoke. It is believed that a huge volcanic
+                eruption occurred about three thousand years ago beneath the
+                sea, and that the eruption is still ongoing (though to a far
+                lesser extent).
+            </para>
+            <para>
+                The smoke from the sea sometimes drifts inland, and it is believed
+                that this is what destroyed <qv uri="atlos">Atlos</qv>, the great
+                Ancient human empire that lay along the western coast at this
+                time.
+            </para>
+            <para>
+                The smoke plumes are not constant, and shift and change over the
+                course of months and years. The seafarers of the
+                <qv uri="tulthon-empire">Tulthon Empire</qv> are said to have
+                accurate maps of the sea, that they keep up-to-date, but most
+                people try to steer clear of the region.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
