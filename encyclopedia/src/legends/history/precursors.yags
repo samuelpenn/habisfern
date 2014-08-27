@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Precursors</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <references>
+            <see uri="ancients">Ancients</see>
+        </references>
+
+        <topics>
+            <subject uri="precursors">Precursors</subject>
+
+            <category>Legends</category>
+
+            <topic uri="eorthe">Eorthe</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Precursor Civilisations</title>
+
+            <para>
+                Civilisations have risen and fallen on Eorthe, and even humanity
+                has fallen before. The current era is that which follows the last
+                great incursions of the <qv uri="ice">Ice</qv>, and consists of
+                the last two to three thousand years. Before that were the
+                <qv uri="ancients">Ancients</qv>, which existed back to maybe
+                ten thousand years ago, living during the great Ice.
+            </para>
+            <para>
+                There were civilisations even before this time though, and they
+                are known as the <e>Precursors</e>. Almost nothing is known of
+                these civilisations, for none survive from that time and beyond
+                a few ruins or scrap of barely translated writings there is
+                little to go on save for stories.
+            </para>
+            <para>
+                The most notable of the Precursors were the <qv uri="elders">Elders</qv>,
+                who had a great <qv uri="serpent-kingdoms">Serpent Kingdoms</qv>
+                that stretched across most of <qv uri="gyla">Gyla</qv>. A few
+                of its ruins still remain, for they built many huge monuments,
+                some of which are still partially standing. For this reason they
+                are also sometimes called the
+                <qv uri="monument-builders">Monument Builders</qv>, though there is
+                an argument that these two civilisations were not the same.
+            </para>
+            <para>
+                The Serpent Kingdom used humans as slaves during this time, and
+                after the fall of the Elders, these slaves built their own
+                empire, that of <qv uri="yigsortha">Yigsortha</qv> in south
+                eastern Gyla. Like their previous masters, they too built great
+                structures, but the empire collapsed with the coming of the
+                Ice, as southern Gyla dried up and became desert.
+            </para>
+            <para>
+                Other Precursors may have existed, but the amount known about
+                them is little.
+            </para>
+        </sect1>
+    </body>
+
+</article>
+
+

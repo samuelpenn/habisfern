@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Ancients</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <references>
+            <see uri="precursors">Precursors</see>
+        </references>
+
+        <topics>
+            <subject uri="ancients">Ancients</subject>
+
+            <category>Legends</category>
+
+            <topic uri="eorthe">Eorthe</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Ancient Civilisations</title>
+
+            <para>
+                During the time of the last great incursion of <qv uri="ice">Ice</qv>,
+                a number of civilisations flourished. This period was between three
+                and ten thousand years ago, and any civilisation of this time is
+                counted amongst the <e>Ancients</e>. Prior to this time were the
+                <qv uri="precursors">Precursors</qv> about which little is known.
+            </para>
+            <para>
+                The world during this time was cold and dry, with the Ice reaching
+                down far south, and the equatorial regions were lost to deserts.
+                It was mostly the desertification that destroyed the Precursors,
+                and the Ancients which rebuilt from these ruins existed in the narrow
+                bands between the deserts and the Ice.
+            </para>
+            <para>
+                The oldest of the Ancients is probably <qv uri="yigsortha">Yigsortha</qv>,
+                a human civilisation that grew out of the ruins of the
+                <qv uri="serpent-kingdoms">Serpent Kingdoms</qv> in what is now the
+                <qv uri="kalika-desert">Kalika Desert</qv>. Like their predecessors,
+                they built huge monuments, many of which can still be seen today.
+            </para>
+            <para>
+                On the western coast of <qv uri="gyla">Gyla</qv> was the
+                <qv uri="atlos-empire">Atlos Empire</qv>, which vanished almost
+                overnight following eruptions in the <qv uri="sea-smoke">Sea of Smoke</qv>.
+            </para>
+            <para>
+                The <qv uri="cannadd">Cannadd</qv> on <qv uri="taneith">Taneith</qv>
+                may also count as an Ancient civilisation, though few have performed
+                any in depth study of their ruins.
+            </para>
+        </sect1>
+    </body>
+
+</article>
+
+
