@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Atlos Empire</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="ancients">Ancients</see>
+            <see uri="elders">Elders</see>
+        </references>
+
+        <topics>
+            <subject uri="atlos-empire">Atlos Empire</subject>
+
+            <category>Kingdoms</category>>
+
+            <topic uri="gyla">Gyla</topic>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Atlos Empire</title>
+
+            <para>
+                Four thousand years ago, the human empire of Atlos dominated the
+                western coast of Gyla. It was one of the later empires to grow
+                out of the freedom afforded by the fall of the
+                <qv uri="elders">Elders</qv>, and took advantage of the waning
+                power of those that had come before.
+            </para>
+            <para>
+                Almost overnight though the Empire was destroyed. What is now the
+                <qv uri="sea-smoke">Sea of Smoke</qv> boiled, and noxious vapours
+                drifted inland, burning and choking everyone it its path. The
+                great coastal cities were depopulated within a few hours, and
+                over the next few days large portions of the central Empire
+                succumbed to a similar fate.
+            </para>
+            <para>
+                What was left of the Empire tore itself apart, and now little
+                is left of their culture or religions. The lands that were
+                dominated by the Atlos have mostly been subsumed into the
+                <qv uri="tulthon-empire">Tulthon Empire</qv> over the last
+                few hundred years.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
