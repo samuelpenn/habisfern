@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Kalika Desert</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="kalika-desert">Kalika Desert</subject>
+
+            <category>Deserts</category>>
+            <topic uri="gyla">Gyla</topic>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Kalika Desert</title>
+
+            <para>
+                The <e>Kalika Desert</e> is a rocky desert on the eastern side
+                of the continent of Gyla. Much of it is a dry wasteland, bordering
+                on savanna in the far east. At one point the whole region was
+                desert, but a wetter climate in the past millennium has allowed
+                grassland to start to reclaim the region.
+            </para>
+            <para>
+                This was the home of the <qv uri="yigsortha">Kingdom of Yigsortha</qv>,
+                an ancient human culture that sprung up after the fall of the
+                <qv uri="serpent-kingdoms">Serpent Kingdoms</qv>. Now all that is left
+                of this kingdom are ruins in the sand and rock.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

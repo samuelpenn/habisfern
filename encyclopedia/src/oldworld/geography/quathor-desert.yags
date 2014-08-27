@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Quathor Desert</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="quathor-desert">Quathor Desert</subject>
+
+            <category>Deserts</category>>
+            <topic uri="gyla">Gyla</topic>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Quathor Desert</title>
+
+            <para>
+                The <e>Quathor Desert</e> is a large stretch of hot sandy desert
+                that stretches from the west coast across to the
+                <qv uri="elkrythos-mountains">Elkrythos Mountains</qv> to the
+                east. The eastern portions contain some of the hottest lands in
+                the <qv uri="old-world">Old World</qv>, and are generally considered
+                to be utterly inhospitable.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
