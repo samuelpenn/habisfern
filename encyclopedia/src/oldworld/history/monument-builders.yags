@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Monument Builders</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="precursor">Precursor</see>
+            <see uri="elders">Elders</see>
+            <see uri="serpent-kingdoms">Serpent Kingdoms</see>
+        </references>
+
+        <topics>
+            <subject uri="monument-builders">Monument Builders</subject>
+
+            <category>Legends</category>>
+
+            <topic uri="gyla">Gyla</topic>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Monument Builders</title>
+
+            <para>
+                There are many ruins left over from the days of the Precursors, and
+                most of them are attributed to the
+                <qv uri="serpent-kingdoms">Serpent Kingdoms</qv>. However, a few
+                scholars believe that there was another civilisation at this time,
+                if not before it, who were the real builders of these relics.
+            </para>
+            <para>
+                There is little evidence for these <e>Monument Builders</e> as they
+                are known. Those that believe in them point to similarities in design
+                of Precursor structures across the whole of Gyla, not just in those
+                regions where the Elders were present. There are also hints of
+                differences in the few writings or artworks that remain on some of
+                the older structures compared to the newer ones. There is no solid
+                evidence for another civilisation though.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

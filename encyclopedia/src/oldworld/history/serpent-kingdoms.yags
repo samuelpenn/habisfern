@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Serpent Kingdoms</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="precursor">Precursor</see>
+            <see uri="elders">Elders</see>
+        </references>
+
+        <topics>
+            <subject uri="serpent-kingdoms">Serpent Kingdoms</subject>
+
+            <category>Kingdoms</category>>
+
+            <topic uri="gyla">Gyla</topic>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Serpent Kingdoms</title>
+
+            <para>
+                The <e>Serpent Kingdoms</e> were the great Precursor civilisation
+                of southern Gyla. It was the largest of the cultures of the
+                <qv uri="elders">Elders</qv>, a race of serpentine people that
+                built huge monuments and enslaved humanity.
+            </para>
+            <para>
+                Whether there was a single kingdom or many is not known, though the
+                artefacts left behind seem to suggest a common style of architecture
+                and culture across the continent. The Elders were powerful sorcerers,
+                and many of their cities were built on a massive scale that soon
+                collapsed once their magic was broken.
+            </para>
+            <para>
+                With the coming of the great incursion of ice about ten thousand
+                years ago, the southern reaches of Gyla dried up, and much of it
+                turned to desert. There were also uprisings amongst the human
+                slaves, and together with other internal strife the great kingdoms
+                of the serpent folk collapsed. Most of the Elders fled underground,
+                where many it is believed still are.
+            </para>
+            <para>
+                The principle human kingdom to be built on the ruins of the Elders
+                is thought to have been <qv uri="yigsortha">Yigsortha</qv>.
+            </para>
+            <para>
+                Some believe that the Serpent Kingdoms were not the only, or first,
+                civilisation in the region. There is a suggestion that another
+                civilisation, known only as the
+                <qv uri="monument-builders">Monument Builders</qv>, were actually
+                responsible for many of the great constructs from this period.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
