@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
+    <header>
+        <title>Grey Monks</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="taneith">Taneith</see>
+            <see uri="cancha">Cancha</see>
+            <see uri="ursa">Ursa</see>
+        </references>
+
+        <topics>
+            <subject uri="grey-monks">Grey Monks</subject>
+
+            <category>Cults</category>>
+
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Grey Monks</title>
+
+            <para>
+                The <e>Grey Monks</e> is a secretive religious order that
+                worships Ursa, the <e>Crawler Below</e>. They are necromancers,
+                who delight in pain and suffering. Their magic is greatly
+                enhanced by pain, both in themselves and in their targets, and
+                they claim to have the ability to create undead which keep the
+                memories and personalities prior to death.
+            </para>
+            <para>
+                The Monks are most common in Taneith and Cancha. They are the
+                only priesthood of the <qv uri="namahain">Namahain</qv> that
+                survived the coming of the <qv uri="goddess">Goddess</qv>.
+                They are hated and reviled by all who know about them, and so
+                they work in secret, generally away from civilisation.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
