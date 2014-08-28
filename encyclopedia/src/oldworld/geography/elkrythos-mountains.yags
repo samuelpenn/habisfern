@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Elkrythos Mountains</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="elkrythos-mountains">Elkrythos Mountains</subject>
+
+            <category>Mountains</category>>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Elkrythos Mountains</title>
+
+            <para>
+                The <e>Elkrythos Mountains</e> are a large range of mountains
+                that run northwest to southeast in central <qv uri="gyla">Gyla</qv>.
+                The southern portion forms a peninsula of land that splits the
+                <qv uri="gorgosian-sea">Gorgosian Sea</qv>.
+            </para>
+            <para>
+                The northern mountains reach over six kilometres in height, though
+                the southern mountains are somewhat lower. Several glaciers reach
+                down from the north, spilling out onto the northern plains, but
+                otherwise the ice is kept to the higher altitudes.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
