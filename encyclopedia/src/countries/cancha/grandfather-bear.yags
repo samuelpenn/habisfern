@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Grandfather Bear</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="sean-coille">Sean Coille</see>
+        </references>
+
+        <topics>
+            <subject uri="grandfather-bear">Grandfather Bear</subject>
+
+            <category>Legends</category>>
+
+            <topic uri="cancha">Cancha</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Grandfather Bear</title>
+
+            <para>
+                Deep in the <qv uri="sean-coille">Old Forest</qv> is said to
+                live the <e>Lord of the Dark Wood</e>, also known as
+                <e>Grandfather Bear</e>, he is one of the few significant
+                <qv uri="animal-power">Animal Powers</qv> that dwell in
+                Cancha.
+            </para>
+            <para>
+                Many generations ago, a human hunter by the name of Raerrdin
+                of the Clan Greybeard challenged the Lord to a hunt. Raerrdin
+                lost, and his body and spirit were consumed by the Lord, granting
+                it power beyond others of its kind. Since then, others have
+                challenged the Lord to a hunt, with the hope of gaining powers
+                if they win, but all have been defeated.
+            </para>
+            <para>
+                According to the legends, he is accompanied by five women who
+                are his grand daughters. They can take the form of bears or
+                human women of great beauty. Each of them though is a death
+                maiden, and they ride out at night to gather souls for their
+                <e>Grandfather</e> in order to feed his power.
+            </para>
+            <para>
+                His realm is deep in the Old Forest, bordering on the
+                <qv uri="dreamlands">Dreamlands</qv>. It is said to be a realm
+                of huge trees, mountain valleys and swift rivers. His power is
+                said to extend over all of the <e>Old Forest</e>, except along
+                the <qv uri="river-borthbie">River Borthbie</qv> which has a
+                spirit of its own.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
