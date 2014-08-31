@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Zinyak Peninsula</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="zinyak-peninsula">Zinyak Peninsula</subject>
+
+            <category>Places</category>>
+
+            <topic uri="habanna">Habanna</topic>
+            <topic uri="eorthe">Eorthe</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Zinyak Peninsula</title>
+
+            <para>
+                On the opposite side of Eorthe to <qv uri="gyla">Gyla</qv> is the
+                Zinyak Peninsula. It is part of the continent of Habanna, though
+                is mostly cut off from the rest of the continent by the southern
+                ice cap. Land routes to both the East and West are possible though
+                along the thin strip of land which isn't covered by ice and snow.
+            </para>
+            <para>
+                The Peninsula is dominated by the
+                <qv uri="xin-cha-empire">Empire of Xin-Cha</qv>, which dates back
+                almost three thousand years. It is possibly the oldest human
+                civilisation on Eorthe. The Xin have a cultural taboo against the
+                sea, so their explorations beyond the Peninsula have been limited.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

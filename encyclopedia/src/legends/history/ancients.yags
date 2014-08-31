@@ -58,23 +58,45 @@
                 and the Ancients which rebuilt from these ruins existed in the narrow
                 bands between the deserts and the Ice.
             </para>
-            <para>
-                The oldest of the Ancients is probably <qv uri="yigsortha">Yigsortha</qv>,
-                a human civilisation that grew out of the ruins of the
-                <qv uri="serpent-kingdoms">Serpent Kingdoms</qv> in what is now the
-                <qv uri="kalika-desert">Kalika Desert</qv>. Like their predecessors,
-                they built huge monuments, many of which can still be seen today.
+
+            <sect2>
+                <title>Yigsortha (10,000 yrs ago)</title>
+                <para>
+                    The oldest of the Ancients is probably <qv uri="yigsortha">Yigsortha</qv>,
+                    a human civilisation that grew out of the ruins of the
+                    <qv uri="serpent-kingdoms">Serpent Kingdoms</qv> in what is now the
+                    <qv uri="kalika-desert">Kalika Desert</qv>. Like their predecessors,
+                    they built huge monuments, many of which can still be seen today.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Empire of Xom-Mak (5,000 yrs ago)</title>
+                <para>
+                    The empire of <qv uri="xom-mak-empire">Xom-Mak</qv> existed on the
+                    <qv uri="zinyak-peninsula">Zinyak Peninsula</qv> from about five to three
+                    thousand years ago. It was an empire ruled by demons, which eventually
+                    fell into chaos and darkness.
+                </para>
             </para>
-            <para>
-                On the western coast of <qv uri="gyla">Gyla</qv> was the
-                <qv uri="atlos-empire">Atlos Empire</qv>, which vanished almost
-                overnight following eruptions in the <qv uri="sea-smoke">Sea of Smoke</qv>.
-            </para>
-            <para>
-                The <qv uri="cannadd">Cannadd</qv> on <qv uri="taneith">Taneith</qv>
-                may also count as an Ancient civilisation, though few have performed
-                any in depth study of their ruins.
-            </para>
+
+            <sect2>
+                <title>Atlos Empire (4,000 yrs ago)</title>
+                <para>
+                    On the western coast of <qv uri="gyla">Gyla</qv> was the
+                    <qv uri="atlos-empire">Atlos Empire</qv>, which vanished almost
+                    overnight following eruptions in the <qv uri="sea-smoke">Sea of Smoke</qv>.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Cannadd (4,000 yrs ago)</title>
+                <para>
+                    The <qv uri="cannadd">Cannadd</qv> on <qv uri="taneith">Taneith</qv>
+                    may also count as an Ancient civilisation, though few have performed
+                    any in depth study of their ruins.
+                </para>
+            </sect2>
         </sect1>
     </body>
 
