@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Red Coven</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="yagma">Yagma</see>
+            <see uri="house-of-mother">House of Mother</see>
+        </references>
+
+        <topics>
+            <subject uri="red-coven">Red Coven</subject>
+
+            <category>Cults</category>>
+
+            <topic uri="aidan-shire">Aidan Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Red Coven</title>
+
+            <para>
+                The <e>Red Coven</e> is an all-women cult of Yagma that
+                teaches Earth Magic to its members. The leader of the Red Coven
+                is the member who is the most skilled at Earth Magic. Each year,
+                any member may challenge for the position and a non-fatal test
+                of skill is held to see who is best suited. Challenges are
+                normally made every few years
+            </para>
+            <para>
+                There are about three dozen members of the cult, located mostly
+                in Aidan Shire. Rather than being a unified group seeking a
+                single goal, they are currently more a collective of women who
+                share knowledge and seek individual power.
+            </para>
+            <para>
+                They are vehemently opposed to the <qv uri="ice">Ice</qv>, and
+                are also hostile to the various cults of <qv uri="neya">Neya</qv>,
+                viewing her as imposing law upon the world. They seek independence
+                from everything, but individually disagree on what that means.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
