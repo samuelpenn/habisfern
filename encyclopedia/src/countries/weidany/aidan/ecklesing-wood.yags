@@ -49,9 +49,17 @@
             <title>Ecklesing Wood</title>
 
             <para>
-                A region of thick broad leaf forest in north western Aidan.
-                It is reputed to be haunted, with stories of necromancers having
-                made their home their. These rumours have not been confirmed.
+                A region of thick broad leaf forest in north western Aidan known
+                for its wide range of deer, boar and bears which are often hunted
+                by the local nobles. Much of the wood belongs to the
+                <qv uri="erwin-house">House of Erwin</qv>, and
+                <qv uri="lolt-castle">Lolt Castle</qv> is located just on the
+                northern edge of the forest.
+            </para>
+            <para>
+                The western parts of the wood are reputed to be haunted, and
+                recently there have been stories of necromancers having made their
+                home there. These rumours have yet to be confirmed.
             </para>
         </sect1>
     </body>
