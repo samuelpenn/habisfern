@@ -36,7 +36,7 @@
             <subject uri="sarse">Sarse</subject>
 
             <category>Countries</category>>
-            
+
             <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
             <topic uri="sarse">Sarse</topic>
             <topic uri="euressa">Euressa</topic>
@@ -46,24 +46,62 @@
     <body>
         <sect1>
             <title>Sarse</title>
-            
+
             <import-map uri="euressa" scale="0">
                 <area name="sarse" margin="2"/>
             </import-map>
 
             <para>
-                Sarse is a land of petty feuding kingdoms, bandit lords
-                and broken empires. The land is poor, suffering from
-                neglect, warfare and magical devestation. It's people
-                are downtrodden by tyrannical overlords who care more
-                for their blood feuds than they do for the people they
-                rule. Occasionally a single war leader becomes powerful
-                enough to pull together a large part of the region into
-                a single empire, but they do not last long, dying either
-                in warfare or by assassination, and then the empire
-                collapses again into civil war, the last remanents
+                Sarse is a land of petty feuding kingdoms, bandit lords and broken
+                empires. The land is poor, suffering from neglect, warfare and
+                magical devastation. It's people are downtrodden by tyrannical
+                overlords who care more for their blood feuds than they do for the
+                people they rule.
+            </para>
+            <para>
+                Occasionally a single war leader becomes powerful enough to pull
+                together a large part of the region into a single empire, but they
+                do not last long, dying either in warfare or by assassination, and
+                then the empire collapses again into civil war, the last remnants
                 being forgotten within a generation.
             </para>
+            <para>
+                Over a thousand years ago, the region may have been the location
+                of the semi-mythical <qv uri="tarvallah">Tarvallah</qv>, which was
+                split between the <qv uri="five-kingdoms">Five Kingdoms</qv>.
+                The land is full of the ruins of once great civilisations, and
+                many of the larger settlements have been built in the shells of
+                stone cities.
+            </para>
+            <para>
+                The bulk of the land was probably the <qv uri="iron-kingdom">Iron
+                Kingdom</qv> and <qv uri="drasodor">Drasodor</qv>, though records
+                no longer exist from this time.
+            </para>
+            <sect2>
+                <title>Trade and Communication</title>
+                <para>
+                    Sarse lays between <qv uri="nailand">Nailand</qv> and
+                    <qv uri="pavnik">Pavnik</qv>, and is the divider between
+                    western/northern <qv uri="euressa">Euressa</qv> and
+                    eastern Euressa.
+                </para>
+                <para>
+                    Due to the fragmented nature of the region, overland
+                    travel across the country is difficult at best, dangerous
+                    at worst, and few even make the attempt. The tribes of
+                    Nailand have very little interest in trade, but a small
+                    amount happens on the eastern border with Pavnik.
+                </para>
+                <para>
+                    The coastal towns are more fortunate, for there is a steady
+                    flow of ships between the north and east. Sarse has little
+                    to offer itself, but takes advantage where it can, either
+                    by offering safe harbour or simply by the purchasing of
+                    goods. Few see Sarse as a destination for trade in its own
+                    right however.
+                </para>
+            </sect2>
         </sect1>
     </body>
 </article>
