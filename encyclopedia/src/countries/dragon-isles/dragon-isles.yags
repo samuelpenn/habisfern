@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Dragon Isles</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="dragon-isles">Dragon Isles</subject>
+
+            <category>Countries</category>>
+
+            <topic uri="dragon-isles">Dragon Isles</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Dragon Isles</title>
+
+            <para>
+                Off the coast of <qv uri="midlaen">Midlaen</qv> and
+                <qv uri="sarse">Sarse</qv> are a set of large islands known
+                collectively as the <e>Dragon Isles</qv>. Long ago, they
+                were part of the <qv uri="drasodor">Kingdoms of Drasodor</qv>,
+                which were ruled by the Dragon Lords.
+            </para>
+            <para>
+                After the fall of the <qv uri="five-kingdoms">Five Kingdoms</qv>
+                little is known of what happen to the civilisation of the
+                Dragon Isles, but it ultimately collapsed, leaving behind a
+                scattered group of minor island nations.
+            </para>
+            <para>
+                At one time, the Dragon Lords were said to command the might
+                of the <qv uri="dragons">Dragons</qv>, but that over time the
+                dragons went away. Today, there are still dragons in these
+                isles, but they mostly keep the wild places high in the mountains,
+                and they rarely wake to bother humans.
+            </para>
+            <para>
+                There are plenty of dragon-kin in the region though, such as
+                <qv uri="wyverns">wyverns</qv> and <qv uri="drakes">drakes</qv>,
+                and they often cause trouble for those traversing the
+                <qv uri="dragon-sea">Dragon Sea</qv>, but their numbers are
+                also dwindling.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
