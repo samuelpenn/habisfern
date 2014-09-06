@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Dragon Sea</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="dragon-isles">Dragon Isles</see>
+        </references>
+
+        <topics>
+            <subject uri="dragon-sea">Dragon Sea</subject>
+
+            <category>Seas</category>>
+
+            <topic uri="dragon-sea">Dragon Sea</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Dragon Sea</title>
+
+            <para>
+                The <e>Dragon Sea</e> is the imaginatively named stretch of water
+                that separates the Dragon Isles from the mainland of Euressa. It is
+                considered to be a dangerous stretch of water, mostly for the fauna
+                that occasionally considers ships to be easy prey.
+            </para>
+            <para>
+                The lack of any strong civilisation in the area also means that there
+                are many locations along the coasts that are used as bases for pirates
+                who also consider rich merchant ships easy pickings. For this reason,
+                few ships that risk these waters are unarmed.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
