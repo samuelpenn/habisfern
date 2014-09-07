@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Zochi</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="zochi">Zochi</subject>
+
+            <category>Islands</category>>
+
+            <topic uri="dragon-isles">Dragon Isles</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Island of Zochi</title>
+
+            <para>
+                Zochi is the smallest and most south easterly of the Dragon Isles,
+                and also amongst the least visited. It's northern coastline consists
+                of steep cliffs where mountains meet the sea. From heights of other
+                a thousand metres, the mountains drop down to hills and then broken,
+                rocky, terrain which makes up the majority of the island.
+            </para>
+            <para>
+                The south end of the island is mostly salt marsh, giving the appearance
+                that the island is tipping over and sinking into the sea.
+            </para>
+            <para>
+                The only known settlement on the island is a place known as
+                <qv uri="greystone-castle">Greystone Castle</qv>. Located in a small
+                bay on the eastern coast, it appears to be a collect of buildings
+                built out of the grey rock that covers much of the island.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
