@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>West Wall</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="west-wall">West Wall</subject>
+
+            <category>Forests</category>>
+
+            <topic uri="sarse">Sarse</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>West Wall</title>
+
+            <para>
+                Beyond the western heaths of Sarse is a long green wall of trees -
+                the <e>West Wall</e> which marks the boundary with the forests of
+                Nailand. It generally refers to the parts of the forests that are
+                considered to be within Sarse, though since almost no-one lives
+                on the borders, and they are not patrolled, the exact border is
+                a indefinite thing that varies according to the whims of the
+                cartographer.
+            </para>
+            <para>
+                Further north, the forest is generally known as the
+                <qv uri="blood-wood">Blood Wood</qv>, and deeper in to the west
+                is the <qv uri="stone-forest">Stone Forest</qv> which hides many
+                ruins of the <qv uri="elders">Elders</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
