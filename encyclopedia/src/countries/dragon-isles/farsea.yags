@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Farsea</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="midlaen">Midlaen</see>
+        </references>
+
+        <topics>
+            <subject uri="farsea">Farsea</subject>
+
+            <category>Islands</category>>
+
+            <topic uri="dragon-isles">Dragon Isles</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Farsea</title>
+
+            <para>
+                Geographically part of the <e>Dragon Isles</e>, Farsea is quite
+                independent of them culturally. Though it is sometimes considered to
+                be part of <qv uri="midlaen">Midlaen</qv>, it really stands alone.
+            </para>
+            <para>
+                With the exception of the small town of <qv uri="alive">Alive</qv>
+                on the south coast, the island is populated with the dead, which
+                is why it is sometimes referred to as the <e>Isle of the Dead</e>.
+            </para>
+            <sect2>
+                <title>Geography</title>
+                <para>
+                    Farsea is a desolate land, where it is said not a single tree
+                    grows. Moors cover most of it, which rise to foothills near the
+                    centre of the island. It is windy, and varies between too wet
+                    and too dry throughout the year.
+                </para>
+            </sect2>
+            <sect2>
+                <title>History</title>
+                <para>
+                    Little is known of the history of the island, for it is rarely
+                    mentioned in any of the stories of the region. There are
+                    <qv uri="elder">Elder</qv> ruins on Farsea, but no signs of
+                    human habitation before the founding of the small colony at
+                    Alive about two hundred years ago.
+                </para>
+                <para>
+                    Given that the undead here seem to be human, they must have
+                    come from somewhere, but there are no records of where.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+

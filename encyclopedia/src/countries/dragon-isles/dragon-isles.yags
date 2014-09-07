@@ -74,6 +74,40 @@
                 <qv uri="dragon-sea">Dragon Sea</qv>, but their numbers are
                 also dwindling.
             </para>
+            <sect2>
+                <title>Geography</title>
+                <para>
+                    There are five islands which are culturally part of the
+                    <e>Dragon Isles</e>, plus a further two which are geographically
+                    part of the same region.
+                </para>
+                <para>
+                    The largest island is <qv uri="zocharsa">Zocharsa</qv>, also
+                    known as <e>Dragon Home</e>, which is some one hundred
+                    leagues east to west. The city of <qv uri="mendalorn">Mendalorn</qv>
+                    can be found on the north west coast of Zocharsa, which is the
+                    last home of the Dragon Lords.
+                </para>
+                <para>
+                    The isle of <qv uri="zocrar">Zochrar</qv> is the eastern most
+                    of the islands, and is one of the larger islands. It is a
+                    mountainous place which is lightly populated.
+                </para>
+                <para>
+                    <qv uri="zorss">Zorss</qv> and <qv uri="zochi">Zochi</qv> are
+                    two islands at the southern edge of the group.
+                </para>
+                <para>
+                    The western most island of the cultural group is
+                    <qv uri="zoscassa">Zoscassa</qv>, which is another small island.
+                </para>
+                <para>
+                    Off the coast of <qv uri="midlaen">Midlaen</qv> lay the last two
+                    of the Dragon Isles. These are <qv uri="severn-isle">Severn Isle</qv>
+                    and <qv uri="farsea">Farsea</qv>, the latter also being known as
+                    the <e>Isle of the Dead</e>.
+                </para>
+            </sect2>
         </sect1>
     </body>
 </article>

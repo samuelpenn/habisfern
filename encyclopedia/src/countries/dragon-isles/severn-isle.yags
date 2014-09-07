@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Severn Isle</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="midlaen">Midlaen</see>
+            <see uri="free-ports">Free Ports</see>
+        </references>
+
+        <topics>
+            <subject uri="severn-isle">Severn Isle</subject>
+
+            <category>Islands</category>>
+
+            <topic uri="dragon-isles">Dragon Isles</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Severn Isle</title>
+
+            <para>
+                Geographically part of the <e>Dragon Isles</e>, Severn Isle is
+                culturally part of <e>Midlaen</e>. It is a warm, mountainous island
+                about twenty leagues across and thirty long.
+            </para>
+            <para>
+                The island is noted for its <qv uri="free-ports">Free Ports</qv>,
+                which are five independent towns that could be described as
+                hives of criminals and pirates.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
