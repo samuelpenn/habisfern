@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Hollow Mountains</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="nailand">Nailand</subject>
+
+            <category>Mountains</category>>
+
+            <topic uri="nailand">Nailand</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Hollow Mountains</title>
+
+            <para>
+                The stretch of mountainous ridges that break up the deep forests
+                of southern Nailand are called the <e>Hollow Mountains</e> due
+                to their reputation for being full of caves, tunnels and caverns.
+                Many of these are natural, though some have either been extended
+                or even built from scratch.
+            </para>
+            <para>
+                The mountains themselves are only two to three kilometres in height,
+                but their slopes are steep and mostly bare of foliage.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
