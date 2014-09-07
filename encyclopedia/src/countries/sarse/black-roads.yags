@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Black Roads</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="black-roads">Black Roads</subject>
+
+            <category>Ruins</category>>
+
+            <topic uri="sarse">Sarse</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Black Roads</title>
+
+            <para>
+                Sarse is a country rich in ruins from the time of the
+                <qv uri="five-kingdoms">Five Kingdoms</qv> and before, but out
+                of all the ruins that can be found, the ones that are the most
+                noticeable are the <e>Black Roads</e>.
+            </para>
+            <para>
+                Spanning the whole country, these roads are made of a dark stone
+                that has withstood the fall and subsequent rise of civilisations.
+                They are still used by travellers, though the network is now
+                heavily fragmented and it is not possible to cross the whole of
+                the country by these roads alone.
+            </para>
+            <para>
+                There are two types of roads, the most common being about three
+                metres in width, and the larger ones being about five mentres in
+                width. They are paved stone, originally raised slightly above the
+                level of ground, though many are now sunken.
+            </para>
+            <para>
+                The roads were probably built by the
+                <qv uri="iron-kingdom">Iron Kingdom</qv> during the height of its
+                power.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
