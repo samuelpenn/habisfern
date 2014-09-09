@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Shaded Forest</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <topics>
+            <subject uri="shaded-forest">Shaded Forest</subject>
+
+            <category>Woods</category>>
+
+            <topic uri="midlaen">Midlaen</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Shaded Forest</title>
+
+            <para>
+                In the far south of Midlaen, where it borders onto
+                <qv uri="nailand">Nailand</qv>, is the heavily wooded region
+                known as the <e>Shaded Forest</e>. Thought to be named for the
+                dense tree cover, the forest floor is relatively clear and
+                easy to travel through.
+            </para>
+            <para>
+                Where it borders the coast, it is known as the
+                <qv uri="emerald-coast">Emerald Coast</qv>, and it stretches
+                about as far as the <qv uri="hollow-mountains">Hollow Mountains</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
