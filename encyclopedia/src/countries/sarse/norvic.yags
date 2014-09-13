@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Norvic</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="norvic">Norvic</subject>
+
+            <category>Cities</category>>
+
+            <topic uri="sarse">Sarse</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Norvic</title>
+
+            <para>
+                The city of <e>Norvic</e> lays at the end of <qv uri="soth-bay">Soth Bay</qv>
+                in Sarse. It has a population of about ten thousand, making it the largest
+                city in the region. As a harbour, navigation to it can be difficult due to
+                the extremely high tidal range of over ten metres. At low tide, almost a
+                kilometre of mud flats can be exposed, leaving the city unreachable by sea.
+                More than one defence of the city has been achieved by simply waiting for
+                the tide to drown besiegers who had failed to learn about the city before
+                hand.
+            </para>
+            <para>
+                Norvic is the capital city of the
+                <qv uri="earldom-withnorl">Earldom of Withnorl</qv>, one of the many
+                petty kingdoms that makes up Sarse. The Earls of Withnorl have ruled the
+                region for the last three generations, and the current Earl shows no sign
+                of letting go of his heritage.
+            </para>
+            <para>
+                The city itself is walled, built around <e>Castle Withnorl</e> which
+                overlooks the bay. It is a trading centre, though a lot of sea trade
+                actually goes to <qv uri="sothgate">Sothgate</qv> at the mouth of the
+                bay some thirty leagues to the south.
+            </para>
+            <para>
+                It is a popular place to find mercenaries, blacksmiths and other
+                trades useful for war. Though the Earldom itself is relatively stable,
+                the lands about are less so, and always in need of steel and those who
+                now how to wield it.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
