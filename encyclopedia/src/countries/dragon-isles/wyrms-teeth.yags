@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Wyrms Teeth</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="wyrms-teeth">Wyrms Teeth</subject>
+
+            <category>Islands</category>>
+
+            <topic uri="dragon-isles">Dragon Isles</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Wyrms' Teeth</title>
+
+            <para>
+                The eastern boundary of the <qv uri="dragon-sea">Dragon Sea</qv>
+                is considered to be a line of half a dozen small rocky islands
+                known as the <e>Wyrms' Teeth</e>. These islands are little more
+                than rocky stacks jutting ten to fifteen metres out of the sea,
+                each no more than a kilometre across.
+            </para>
+            <para>
+                The <e>Teeth</e> are uninhabited, consisting of either bare
+                rock or in some cases thin grasses. The shorelines are steep
+                cliffs, and only one has a beach of any kind.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
