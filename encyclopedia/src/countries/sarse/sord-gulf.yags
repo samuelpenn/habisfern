@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Sord Gulf</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="norvic">Norvic</subject>
+
+            <category>Seas</category>>
+
+            <topic uri="earldom-withnorl">Earldom of Withnorl</topic>
+            <topic uri="sarse">Sarse</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Sord Gulf</title>
+
+            <para>
+                The Sord Gulf is an inlet some 35 leagues long and six leagues
+                wide on the coast of Sarse. It has a warm climate, generally
+                calm waters and is rich in fish. The only difficulty that prevents
+                it being considered a perfect harbour is the high tidal range
+                which can exceed ten metres in height.
+            </para>
+            <para>
+                The eastern shore of the gulf is defined by the
+                <qv uri="shotten-peninsula">Shotten Peninsula</qv>, which is
+                currently part of the <qv uri="earldom-withnorl">Earldom of Withnorl</qv>.
+                The entire Gulf is considered within the Earl's domain, and it is
+                regularly patrolled by ships looking for pirates, smugglers or invaders.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

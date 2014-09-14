@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Sothgate</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="norvic">Sothgate</subject>
+
+            <category>Towns</category>>
+
+            <topic uri="earldom-withnorl">Earldom of Withnorl</topic>
+            <topic uri="sarse">Sarse</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Sothgate</title>
+
+            <para>
+                Southgate, near the mouth of the <qv uri="sord-gulf">Sord Gulf</qv>
+                in Sarse, is a large coastal town. It is the gateway to the Earldom
+                of Withnorl, with many ships stopping here rather than sailing down
+                the Gulf to <qv uri="norvic">Norvic</qv>.
+            </para>
+            <para>
+                Several ships of the Earl's navy are always stationed here, for the
+                Earldom has no love of pirates and will hunt down any ship suspected
+                of pirate activity.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

@@ -37,6 +37,7 @@
 
             <category>Cities</category>>
 
+            <topic uri="earldom-withnorl">Earldom of Withnorl</topic>
             <topic uri="sarse">Sarse</topic>
             <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
             <topic uri="euressa">Euressa</topic>
@@ -48,7 +49,7 @@
             <title>Norvic</title>
 
             <para>
-                The city of <e>Norvic</e> lays at the end of <qv uri="soth-bay">Soth Bay</qv>
+                The city of <e>Norvic</e> lays at the end of <qv uri="sord-gulf">Sord Gulf</qv>
                 in Sarse. It has a population of about ten thousand, making it the largest
                 city in the region. As a harbour, navigation to it can be difficult due to
                 the extremely high tidal range of over ten metres. At low tide, almost a
@@ -66,7 +67,7 @@
             </para>
             <para>
                 The city itself is walled, built around <e>Castle Withnorl</e> which
-                overlooks the bay. It is a trading centre, though a lot of sea trade
+                overlooks the gulf. It is a trading centre, though a lot of sea trade
                 actually goes to <qv uri="sothgate">Sothgate</qv> at the mouth of the
                 bay some thirty leagues to the south.
             </para>
