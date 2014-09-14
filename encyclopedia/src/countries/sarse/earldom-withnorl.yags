@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Earldom of Withnorl</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="earldom-withnorl">Earldom of Withnorl</subject>
+
+            <category>Kingdoms</category>>
+
+            <topic uri="earldom-withnorl">Earldom of Withnorl</topic>
+            <topic uri="sarse">Sarse</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Earldom of Withnorl</title>
+
+            <para>
+                The <e>Earldom of Withnorl</e> is one of the many minor kingdoms
+                that make up <qv uri="sarse">Sarse</qv>. Unlike many of the others,
+                it has survived more than two generations and currently shows no
+                signs of collapse. Located around the <qv uri="sord-gulf">Sord Gulf</qv>
+                and the <qv uri="shotten-peninsula">Shotten Peninsula</qv>, it is
+                ruled by the current <qv uri="earl-norvic">Earl of Norvic</qv>,
+                the strong willed <qv uri="wyrtgeorn-elder">Wyrtgeon the Elder</qv>.
+            </para>
+            <sect2>
+                <title>Politics and Law</title>
+                <para>
+                    The Earldom is relatively stable compared to much of the rest of
+                    Sarse. Taxation is quite high in order to fund the Earl's army,
+                    but the rule of law is also strong, and there are heavy penalties
+                    for upsetting the peace.
+                </para>
+            </sect2>
+            <sect2>
+                <title>History</title>
+                <para>
+                    The Earldom was founded in 1175 by the self-styled Earl
+                    <qv uri="garrick-marton">Garrick of Marton</qv>. In 1172 he led a rebellion
+                    against King Evoric of the <qv uri="kingdom-norvic">Kingdom of Norvic</qv>.
+                    Garrick was a mercenary, who along with his companions had not been
+                    paid by the king for their services in his wars against neighbouring
+                    states.
+                </para>
+                <para>
+                    After the death of Evoric, a deed for which Garrick gained the title
+                    of <e>King Slayer</e>, Garrick took control of the city of Norvic
+                    and opened the treasury to any mercenary that would follow him. He
+                    suddenly found himself with a large army that was loyal to him only as
+                    long as their was money to pay them. Effectively forced into continuing
+                    the dead King's wars in order to refill the treasury, Garrick rapidly
+                    demonstrated leadership and strategic ability that earned him loyalty
+                    beyond his ability to pay.
+                </para>
+                <para>
+                    By 1175 he had enough stability to take the title of Earl, and set
+                    up his seat within the state of Withnorl about a league north of
+                    Norvic, leaving his son Ricehard to govern the city itself.
+                </para>
+                <para>
+                    By the time of Garrick's death in 1193, he had conquered the northern
+                    half of the <qv uri="shotten-peninsula">Shotten Peninsula</qv> as
+                    well as the lands around Norvic.
+                </para>
+                <para>
+                    His son, <qv uri="earl-ricehard">Earl Ricehard</qv>, conquered the
+                    rest of the peninsula, and also extended the reach of the Earldom
+                    around the western side of the <qv uri="sord-gulf">Sord Gulf</qv>.
+                    He also moved the seat to Norvic itself, leaving Withnorl as a
+                    summer home for his family.
+                </para>
+                <para>
+                    The current Earl, Wyrtgeorn the Elder, the son of Ricehard, took
+                    over in 1210.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+
