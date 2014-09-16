@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Tanwall</title>
+        <title>Tanwall Hills</title>
         <tagline>Habisfern</tagline>
 
         <slugline></slugline>
@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license type="Yags">
-            <year>2002</year>
+            <year>2014</year>
             <holder>Samuel Penn</holder>
             <text>
                 This document can be redistributed and/or modified
@@ -33,9 +33,9 @@
         </references>
 
         <topics>
-            <subject uri="tanwall-town">Tanwall</subject>
+            <subject uri="tanwall-hills">Tanwall Hills</subject>
 
-            <category>Towns</category>>
+            <category>Hills</category>>
 
             <topic uri="tanwall">Tanwall</topic>
             <topic uri="euressa">Euressa</topic>
@@ -45,21 +45,24 @@
 
     <body>
         <sect1>
-            <title>Town of Tanwall</title>
+            <title>Tanwall Hills</title>
 
             <para>
-                A small town based around a stone keep in the
-                <qv uri="tanwall-hills">Tanwall hills</qv>.
-                The town overlooks the place where the Brytish were
-                defeated in their war against Tanwall, and where the
-                agreement was reached by the kings of Tanwall to form an
-                alliance against the greater enemy. The town is part of
-                Tanwall itself, and has a population of 600.
+                The <e>Tanwall Hills</e> are a range of hills that divide
+                <qv uri="bryteland">Bryteland</qv> and <qv uri="tanwall">Tanwall</qv>.
+                Much of them are densely wooded, though the higher hills are bare
+                windswept grassland. The highest parts are actually in Bryteland
+                rather than Tanwall, though claims of ownership tend to fluctuate
+                and the actual settlements tend to identify themselves as being
+                Tannish rather than Brytish.
+            </para>
+            <para>
+                The highest parts of the hills are the peaks known as the
+                <e>Three Sisters</e>. They barely reach more than two kilometres
+                in height and are relatively easy climbs.
             </para>
         </sect1>
-
     </body>
-
 </article>
 
 
