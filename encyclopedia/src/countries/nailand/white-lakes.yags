@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>White Lakes</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <topics>
+            <subject uri="white-lakes">White Lakes</subject>
+
+            <category>Lakes</category>>
+
+            <topic uri="nailand">Nailand</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The White Lakes</title>
+
+            <para>
+                The southern end of the <qv uri="withrican-mountains">Withrican Mountains</qv>
+                ends in a region of broken mountains and glacial river valleys. The rivers are
+                fed by the glaciers high in the mountains, and where they meet the valleys
+                often form wide, shallow lakes.
+            </para>
+            <para>
+                Known as <e>Amahl Abdi</e> by the <qv uri="shortfolk">Short Folk</qv>,
+                and <e>The White Lakes</e> in Rornic, they are named for their whitish
+                appearance from a distance, often due to reflection from the sky.
+            </para>
+            <para>
+                The Short Folk rarely travel east of the lakes, for the lands beyond
+                are the cursed plains of <qv uri="belurwic">Belurwic</qv>.
+            </para>
+            <para>
+                Though the mountains and rivers continue through the southern forest,
+                the lakes end at the edge of the plains.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
