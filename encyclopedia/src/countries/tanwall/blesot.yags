@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Blesot</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="blesot">Blesot</subject>
+
+            <category>Legends</category>>
+
+            <topic uri="thokaholt">Thokaholt</topic>
+            <topic uri="tanwall">Tanwall</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Blesot</title>
+
+            <para>
+                Also known as the <e>White Marked</e>, Blesot is an
+                <qv uri="animal-powers">Animal Power</qv> that resides in the
+                <qv uri="thokaholt">Mistwood</qv> in Tanwall. She can take several
+                forms, but all are marked with a white patch on their forehead.
+                Her forms are generally incredibly large animals, often a lion,
+                bear or mare.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+

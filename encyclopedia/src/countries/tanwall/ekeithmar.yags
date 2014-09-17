@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Ekeithmar</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="ekeithmar">Ekeithmar</subject>
+
+            <category>Legends</category>>
+
+            <topic uri="thokaholt">Thokaholt</topic>
+            <topic uri="tanwall">Tanwall</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Ekeithmar</title>
+
+            <para>
+                Possibly the strangest of the <qv uri="animal-powers">Animal Powers</qv>,
+                <e>Ekeithmar</e> is known as the <e>Hunting Tree</e>. Not strictly an
+                animal, it appears to be a tree, sometimes several, that is followed
+                by great cats, wolves and sometimes bears. Whether these animals follow
+                it, or are part of it, is not known. Some claim that Ekeithmar is
+                actually an unusual <qv uri="elf-king">Elf King</qv>, but attempts to
+                divine its origin have suggested otherwise.
+            </para>
+            <para>
+                Ekeithmar roams <qv uri="thokaholt">Thokaholt</qv>, in particular the
+                regions around the <qv uri="troll-hills">Troll Hills</qv>. It is a
+                bitter foe of the Trolls, as are all of the Animal Powers, and it seems
+                to hunt them down with great glee.
+            </para>
+            <para>
+                It does not seem to care one way or the other about humans, but if any
+                get in its way, then they are generally crushed without thinking.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+
