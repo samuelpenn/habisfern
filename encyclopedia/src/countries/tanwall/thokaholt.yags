@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Thokaholt</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="thokaholt">Thokaholt</subject>
+
+            <category>Hills</category>>
+
+            <topic uri="tanwall">Tanwall</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Thokaholt</title>
+
+            <para>
+                Also known as the <e>Mist Wood</e>, Thokaholt is a thick forested
+                region on the northern coast of Tanwall and Bryteland. The forest
+                is damp and cold, and the coastline is often buffeted by strong
+                winds and fierce storms, making it a difficult place to make
+                settlements.
+            </para>
+            <para>
+                There are two known <qv uri="animal-powers">Animal Powers</qv>
+                that have permanent residence in these woods. The first, and
+                generally considered the most powerful, is that of
+                <qv uri="ekeithmar">Ekeithmar</qv>, the <e>Hunting Tree</e>.
+                The animosity between the Animal Powers and the
+                <qv uri="troll-gods">Troll Gods</qv> means that the thunderous
+                noises and broken carnage that is sometimes found is put down
+                to battles between Ekeithmar and the trolls.
+            </para>
+            <para>
+                The other is <qv uri="blesot">Blesot</qv>, the <e>White Marked</e>,
+                which can take the form of a lion, bear or stag. She is said to
+                hunt the lower forests and is most likely to be encountered by
+                humans.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+
