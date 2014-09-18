@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Sytnellir</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="sytnellir">Sytnellir</subject>
+
+            <category>Hills</category>>
+
+            <topic uri="tanwall">Tanwall</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+    <!-- Sytnr (Moaning) Hellir (Cave) -->
+    <body>
+        <sect1>
+            <title>Sytnellir</title>
+
+            <para>
+                The <e>Moaning Caves</e> as they are called are found on the
+                northern coast of Tanwall, about halfway between
+                <qv uri="nordstat">Nordstat</qv> and <qv uri="vilksberr">Vilksberr</qv>
+                in <qv uri="vagruth-bay">Vagruth Bay</qv>.
+            </para>
+            <para>
+                The caves are impossible to reach by boat at high tide, but at low
+                tide there is enough room to sail a small boat through the entrance
+                and into the first of the great 'halls'. Carven pillars flank the
+                sides of the cave, and worn, but obviously unnatural, tunnels lead
+                further under land.
+            </para>
+            <para>
+                The waters can be treacherous, and only experienced navigators have
+                much hope of getting a boat much further into the cave system. However,
+                few are willing to return to the place, for it is said to be haunted
+                by the spirits of the <qv uri="elders">Elders</qv> who constructed
+                them.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+
