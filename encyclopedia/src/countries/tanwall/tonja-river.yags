@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Tonja River</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="tonja-river">Tonja River</subject>
+
+            <category>Rivers</category>>
+
+            <topic uri="tanwall">Tanwall</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Tonja River</title>
+
+            <para>
+                A river in northern Tanwall that runs from the
+                <qv uri="troll-hills">Troll Hills</qv> down to the
+                <qv uri="bjorn-bay">Bay of Bjorn</qv> near the town of
+                <qv uri="nordstat">Nordstat</qv>.
+            </para>
+            <para>
+                The upper reaches of the river are considered dangerous,
+                both because of the geography which leads to sudden rapids
+                and falls, but also because of the Trolls which hunt along
+                its upper banks.
+            </para>
+            <para>
+                Down river, it is considered a good source of fresh water
+                fish, and several small farmsteads can be found along it,
+                even deep within the <qv uri="thokaholt">Thokaholt</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

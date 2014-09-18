@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Nordstat</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="nordstat">Nordstat</subject>
+
+            <category>Towns</category>>
+
+            <topic uri="tanwall">Tanwall</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Nordstat</title>
+
+            <para>
+                Located on the north coast of <qv uri="tanwall">Tanwall</qv>,
+                <e>Nordstat</e> is a castle that towers above the cliffs of
+                the <qv uri="sea-mists">Sea of Mists</qv>. Outside its walls
+                is a town of some one thousand people. The castle is about
+                half a kilometre from the mouth of the
+                <qv uri="tonja-river">River Tonja</qv>, since the ground
+                nearer the river was not suitable for castle building.
+            </para>
+            <para>
+                Surrounded on all sides by the thick woods of
+                <qv uri="thokaholt">Thokaholt</qv>, the castle and town is
+                relatively independent of the rest of Tanwall.
+            </para>
+            <para>
+                Nordstat claims dominion of the land within a league or so
+                of the castle, as well as the small islands that lay off
+                the coast.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

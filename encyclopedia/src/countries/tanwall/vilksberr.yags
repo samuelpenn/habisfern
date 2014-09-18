@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Vilksberr</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="vilksberr">Vilksberr</subject>
+
+            <category>Towns</category>>
+
+            <topic uri="tanwall">Tanwall</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Vilksberr</title>
+
+            <para>
+                <e>Vilksberr</e> is the largest town in <qv uri="tanwall">Tanwall</qv>,
+                though is not considered to be the capital due to the fractured nature
+                of the country. It has a population of about 2,500 to 3,000, varying
+                according to the season and quality of trade.
+            </para>
+            <para>
+                Located on the coast at the mouth of the <qv uri="illra-river">Illra River</qv>,
+                it's major claim to fame is shipbuilding.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
