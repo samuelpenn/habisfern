@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Svalmyrr</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="svalmyrr">Svalmyrr</subject>
+
+            <category>Swamps</category>>
+
+            <topic uri="tanwall">Tanwall</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+    <!-- Swallow Swamp -->
+    <body>
+        <sect1>
+            <title>Svalmyrr</title>
+
+            <para>
+                The <qv uri="illra-river">Illra River</qv> is fed from a region
+                of swampland known as <e>Svalmyrr</e>. It is about four leagues
+                north to south, and is itself fed by three principle rivers from
+                the south and west.
+            </para>
+            <para>
+                The swamp consists of many small lakes, connected by rivers or
+                waterlogged ground that is difficult to traverse by either boat
+                or foot. Most people go around Svalmyrr, though there are said
+                to be some things that live within it which are not quite human.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
