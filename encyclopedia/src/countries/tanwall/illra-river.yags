@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Illra River</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="illra-river">Illra River</subject>
+
+            <category>Rivers</category>>
+
+            <topic uri="tanwall">Tanwall</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Illra River</title>
+
+            <para>
+                A river in northern Tanwall that empties into the
+                <qv uri="sea-mists">Sea of Mists</qv> at the town of
+                <qv uri="vilksberr">Vilksberr</qv>.
+            </para>
+            <para>
+                The river is considered to start in the
+                <qv uri="svalmyrr">Svalmyrr Swamp</qv>, and is thought to
+                carry unpleasant things from that area down to the sea.
+                Strange bodies are occasionally found washed up on the
+                river banks, and in summer foul smells can sometimes emanate
+                from it.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
