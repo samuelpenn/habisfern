@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Feikinhath</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="feikinhath">Feikinhath</subject>
+
+            <category>Hills</category>>
+
+            <topic uri="tanwall">Tanwall</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Feikinhath</title>
+
+            <para>
+                Hills in western <qv uri="tanwall">Tanwall</qv> just west of
+                <qv uri="kildhof">Kildhof</qv>. Surrounded by heavy forest,
+                they are populated by only a small number of small farmsteads.
+            </para>
+            <para>
+                Known as the <e>Cursed Hills</e>, some of the higher cliffs
+                are home to various flights of cursed bird women. They are
+                said to be the descendants of witches that took on some of the
+                <qv uri="animal-powers">Animal Powers</qv> and lost about
+                three hundred years ago. They generally keep away from human
+                settlements, but defend territory they consider to be their
+                own with great ferocity. They are generally known as
+                <qv uri="harpies">Harpies</qv>.
+            </para>
+            <para>
+                Occasionally they will abduct young boys for use of mates,
+                though it is not known what they do with them long term.
+            </para>
+            <para>
+                A few gemstones have been found in the western part of the
+                hills, which has recently encouraged miners to start exploring
+                there in the hope of finding wealth.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+
