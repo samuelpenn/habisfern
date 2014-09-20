@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Vagruth Bay</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="vagruth-bay">Vagruth Bay</subject>
+
+            <category>Seas</category>>
+
+            <topic uri="tanwall">Tanwall</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Vagruth Bay</title>
+
+            <para>
+                A wide bay on the northern coast of <qv uri="tanwall">Tanwall</qv>.
+                The coastline is mostly high cliffs, with heavy forest right up
+                to the edge.
+            </para>
+            <para>
+                The western side of the bay provides good shelter against storms,
+                but there are no beaches to land a boat. The eastern side has a
+                few small coves, including <qv uri="onjangr">Onjangr</qv> which
+                is the only coastal settlement in the bay.
+            </para>
+            <para>
+            <para>
+                There are a number of marine caves within the bay, including that
+                of the <qv uri="sytnellir">Moaning Caves</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
