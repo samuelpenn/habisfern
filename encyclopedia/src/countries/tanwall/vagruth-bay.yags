@@ -42,7 +42,7 @@
             <topic uri="euressa">Euressa</topic>
         </topics>
     </header>
-
+    <!-- Battle Bay -->
     <body>
         <sect1>
             <title>Vagruth Bay</title>
@@ -59,9 +59,10 @@
                 is the only coastal settlement in the bay.
             </para>
             <para>
-            <para>
                 There are a number of marine caves within the bay, including that
-                of the <qv uri="sytnellir">Moaning Caves</qv>.
+                of the <qv uri="sytnellir">Moaning Caves</qv>. At low tide, several
+                sunken wrecks can be see in the waters, remnants of a great sea
+                battle that occurred here in 1173.
             </para>
         </sect1>
     </body>
