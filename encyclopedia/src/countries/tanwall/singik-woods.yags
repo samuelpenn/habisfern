@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Singik Woods</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="singik-woods">Singik Woods</subject>
+
+            <category>Woods</category>>
+
+            <topic uri="tanwall">Tanwall</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+    <!-- Swallow Swamp -->
+    <body>
+        <sect1>
+            <title>The Singik Woods</title>
+
+            <para>
+                The <e>Singing Woods</e> is a small region of woodland that is
+                known for its singing trees. The entire region is heavily
+                influenced by the fey, and people generally leave the place
+                along for fear of the enchantment that is laid upon those who
+                spend too long in the place.
+            </para>
+            <para>
+                The songs are heard when the wind blows through the trees. When
+                the wind is gentle, it is a soft lullaby that draws people in
+                and sends them into a timeless sleep from which they never awake.
+                During strong winds, the singing can became a terrible chant
+                that drives those that hear it insane.
+            </para>
+            <para>
+                It is not known whether it is the trees themselves, or the spirits
+                that live in the woods, that are the source of the singing.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
