@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Draugar</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="draugar">Draugar</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="undead">Undead</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Draugar</title>
+
+            <para>
+                Draugar are a form of undead that are created by necromantic magic.
+                As such, they have no will of their own, and are little more than
+                an corpse animated by the magic of the necromancer. They carry out
+                instructions without question, and have no fear or thoughts of
+                self preservation.
+            </para>
+            <para>
+                This makes a draugr very different from <qv uri="wights">Wights</qv>,
+                which are driven by the same soul which inhabited the body during
+                life. Draugar are sometimes created in great numbers from a recent
+                battlefield, and though such armies can be incapable of tactical
+                planning or careful thought, they can be terrifying to behold,
+                especially since killing a body that is already dead is difficult.
+            </para>
+            <para>
+                Note that Draugar is the plural of Draugr.
+            </para>
+            <sect2>
+                <title>Physical Form</title>
+                <para>
+                    Draugar can take the form of anything from a fresh corpse to an
+                    old skeleton. The latter are harder for a necromancer to animate,
+                    and they have a tendency to fall apart, but they can often be in
+                    more plentiful supply.
+                </para>
+                <para>
+                    Killing a Draugr requires the dismemberment of the body, or
+                    destruction of the torso. They do not use their eyes to see, but
+                    are instead controlled by the inhabiting spirit.
+                </para>
+            </sect2>
+            <sect2>
+                <title>Conflicted Draugar</title>
+                <para>
+                    Since a draugr is often created using a fresh corpse, it is
+                    possible that it still possesses the soul that it had in life.
+                    In this situation, the Draugr may become <e>conflicted</e>,
+                    with its old soul trying to gain back control of its body. If
+                    it succeeds, then it may become a <qv uri="wights">wight</qv>.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+
