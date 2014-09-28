@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Fossbridge</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="fossbridge">Fossbridge</subject>
+
+            <category>Castles</category>>
+
+            <topic uri="aidan-shire">Aidan Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Fossbridge</title>
+
+            <para>
+                There is a bridge on the <qv uri="river-kyle">River Kyle</qv> called
+                <e>Fossbridge</e>, but the name is normally used to refer to the castle
+                of the same name that sits at the east end of that bridge.
+            </para>
+            <para>
+                The castle is a stone walled keep, and exacts a toll from those wishing
+                to either cross the bridge or move down the river. There is a town of
+                about 1,200 people here, mostly outside the walls of the castle on the
+                east bank of the river.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

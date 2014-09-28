@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Stoblin</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="stoblin">Stoblin</subject>
+
+            <category>Towns</category>>
+
+            <topic uri="aidan-shire">Aidan Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Stoblin</title>
+
+            <para>
+                The town of <e>Stoblin</e> sits on the <qv uri="river-kyle">River Kyle</qv>
+                at the southern edge of <qv uri="stanly-heath">Stanly Heath</qv>. With a
+                population of about two thousand, it is not a major town, but sees a
+                reasonable amount of trade both up and down the river.
+            </para>
+            <para>
+                The heathland to the north is lightly populated, and roads are little better
+                than poor trails. A lot of lumber is milled from the woods to the south.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
