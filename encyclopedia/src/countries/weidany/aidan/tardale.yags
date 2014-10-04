@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Mordale</title>
+        <title>Tardale</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -30,11 +30,10 @@
         <style name="module"/>
 
         <references>
-            <see uri="derynbryn">Derynbryn</see>
         </references>
 
         <topics>
-            <subject uri="mordale">Mordale</subject>
+            <subject uri="tardale">Tardale</subject>
 
             <category>Places</category>>
 
@@ -47,20 +46,15 @@
 
     <body>
         <sect1>
-            <title>Mordale</title>
+            <title>Tardale</title>
 
             <para>
-                A valley in eastern Aidan that has been cut by the
-                <qv uri="river-kyle">River Kyle</qv>. The river is still quite young
-                in the valley, and cuts through it in a relatively straight line.
+                A valley in eastern Aidan that has been gouged out of the
+                surrounding hills. It is a fertile region, and is heavily
+                populated with about a dozen small villages.
             </para>
             <para>
-                Most of the valley is heavily cultivated, with wooded hills surrounding
-                it to the east and west. The eastern woods especially are populated
-                by outlaws and brigands, who live on the borders of Weidany and Nailand.
-                The woods themselves can be quite dangerous, but it isn't too often
-                that brigands venture down into the valley itself. More often, they
-                are content to hit travellers further south.
+                The southern end of the valley is narrow and slightly marshy.
             </para>
         </sect1>
     </body>
