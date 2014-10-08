@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>White Wall</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="white-wall">White Wall</subject>
+
+            <category>Mountains</category>>
+
+            <topic uri="sarse">Sarse</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>White Wall</title>
+
+            <para>
+                The <e>White Wall</e> is a glacier on the northern borders
+                of <qv uri="sarse">Sarse</qv>, that stretches down from the
+                <qv uri="withrican-mountains">Withrican Mountains</qv>.
+            </para>
+            <para>
+                The glaciers are about a kilometre thick, and tower above
+                the plains beneath them, which are littered with broken
+                ice and pools of melt water. Though the glacier advances in
+                winter, more of it carves off during the summer so it is
+                slowly retreating by about 10 metres a year.
+            </para>
+            <para>
+                In 1217, a set of ruins were uncovered by the glacier's
+                retreat, and more ruins are thought to be hidden beneath
+                the ice.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
