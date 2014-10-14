@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Deep Ghoul</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="deep-ghoul">Deep Ghoul</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="elders">Elders</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Deep Ghoul</title>
+
+            <para>
+                <e>Deep Ghouls</e> are a type of <qv uri="ghoul">Ghoul</qv> which is
+                found deep underground, normally within Elder ruins. Like other
+                Ghouls, they are infected by a fungal disease which consumes their
+                body and turns them insane, but they have some specific characteristics
+                that mark them out as different from the standard variety.
+            </para>
+
+            <para>
+                Deep ghouls are blind, and rely on sound and scent to move around,
+                locate food and avoid danger. They have large ears and nostrils,
+                but their eyes are white and completely blind. They tend to be small
+                and wiry, generally about 150cm tall.
+            </para>
+
+            <para>
+                The skin of a deep ghoul is hard, sometimes forming plates of
+                silicate material that is effectively armour. Given that they dwell
+                in a climatically stable environment, they do not wear clothing of
+                any type.
+            </para>
+
+            <sect2>
+                <title>Society</title>
+                <para>
+                    Deep ghoul society tends to be more stable than that of their
+                    surface dwelling cousins, and the disease seems to affect them
+                    slower. Brood queens are more common, leading to larger populations
+                    that live off vermin and fungal deposits found in the deep caves
+                    where they dwell.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+
