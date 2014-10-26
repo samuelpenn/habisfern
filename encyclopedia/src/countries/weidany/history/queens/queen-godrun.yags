@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Godrun, Queen of Weidany</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="queen-godrun">Queen Godrun</subject>
+
+            <category>Kings</category>>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Queen Godrun</title>
+
+            <para>
+                The ninth Queen of Weidany who reigned from 1213 to 1225, she was
+                the first daughter of <qv uri="queen-frythrun">Queen Frythrun</qv>,
+                born in 1166. She was trained by her mother to be Queen from the
+                day she was born, but had to wait 47 years before she could take
+                the throne.
+            </para>
+            <para>
+                Godrun was a conservative ruler, who didn't like to upset people.
+                It is possibly for this reason that <qv uri="cadwold">Cadwold</qv>
+                tried to claim land from the kingdom a few years after she took
+                the throne. She refuses to send for several months, insisting that
+                the local shire forces can deal with the problem. Though she is
+                eventually proven right, it is thought to have been the wrong
+                decision.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
