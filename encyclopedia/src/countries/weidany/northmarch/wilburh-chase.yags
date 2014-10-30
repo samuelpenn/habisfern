@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Wilburh Chase</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="wilburh-chase">Wilburh Chase</subject>
+
+            <category>Forest</category>>
+
+            <topic uri="northmarch-shire">Northmarch Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Wilburh Chase</title>
+
+            <para>
+                Wilburh Chase is a region of woods and hills on the western borders
+                of <qv uri="northmarch">Northmarch Shire</qv>, surrounding
+                <qv uri="berch-valley">Berch Valley</qv>. It is mostly lightly wooded,
+                and crossed with plenty of tracks and game trails which makes
+                traversing it relatively simple. Most of the dangerous beasts have
+                been hunted to extinction within the region, and now it is mostly
+                deer and boars which can be found here.
+            </para>
+            <para>
+                The whole region is some sixty odd kilometres across, stretching across
+                the border into <qv uri="cadwold">Cadwold</qv>. Hunting is permitted in
+                the Chase with a license, which are sold at the beginning of the year
+                for a cost of five shillings to any free man who wants one.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
