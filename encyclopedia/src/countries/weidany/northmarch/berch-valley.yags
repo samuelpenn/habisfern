@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Berch Valley</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="berch-valley">Berch Valley</subject>
+
+            <category>Geography</category>>
+
+            <topic uri="northmarch-shire">Northmarch Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Berch Valley</title>
+
+            <para>
+                Berch Valley is a fertile region on the western edge of
+                <qv uri="northmarch">Northmarch Shire</qv> through which runs
+                the <qv uri="bren-river">Bren River</qv>. It is a wide, open
+                valley surrounded by the hills and woods of
+                <qv uri="wilburh-wilburh">Hilda Chase</qv>.
+            </para>
+            <para>
+                It is dominated by the two towns of <qv uri="brenwood">Brenwood</qv>
+                and <qv uri="dalewood">Dalewood</qv>, but the whole region has
+                a high density of populous villages.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
