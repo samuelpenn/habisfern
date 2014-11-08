@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml"
+         xmlns:y="http://yagsbook.sourceforge.net/xml/yags">
+    <header>
+        <title>Tulthin Merchants</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="tulthon-empire">Tulthon Empire</see>
+        </references>
+
+        <topics>
+            <subject uri="tulthin-merchants">Tulthin Merchants</subject>
+
+            <category>People</category>>
+
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="gyla">Gyla</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Tulthin Merchants</title>
+
+            <para>
+                The <qv uri="tulthon-empire">Tulthon Empire</qv> is recognised
+                all along the western coast of <qv uri="gyla">Gyla</qv> and
+                even up into <qv uri="euressa">Euressa</qv> as one of the
+                greatest trading nations on Eorthe. Their ships trade goods,
+                culture and news across all latitudes of the world. They are
+                excellent navigators and tough negotiators.
+            </para>
+            <para>
+                A few ships reach as far north as <qv uri="weidany">Weidany</qv>
+                and <qv uri="bryteland">Bryteland</qv>, and they have a permanent
+                enclave in <qv uri="stowell">Stowell</qv> near the docks where
+                they or their representatives can be found.
+            </para>
+            <para>
+                In the north, they stand out because of their dark skin and
+                brightly coloured clothes. Some consider them a soft target,
+                but they will always seek vengeance on barbarian northerners
+                who harm any of their kin.
+            </para>
+            <para>
+                In most places where they do regular business, including Weidany,
+                they have agreed special laws to protect themselves and their
+                businesses. By threatening to stop all trade with a country,
+                they can force an agreement to laws that forbids the country's
+                own legal system from punishing any of them if they commit
+                crimes, instead handing over law breakers to their own guild
+                houses for punishment (which is often lax). Where this system is
+                often abused, they are greatly disliked by the locals, even
+                whilst their goods are eagerly sought after.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
