@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Mam Du</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="mam-du">Mam Du</subject>
+
+            <category>Legends</category>>
+
+            <topic uri="aidan-shire">Aidan Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <!-- Mam Du = Black Mother (Welsh) -->
+
+    <body>
+        <sect1>
+            <title>Mam Du</title>
+
+            <para>
+                Weidanic lore speaks of the <e>Black Mother</e>, a dragon called
+                <e>Mam Du</e> by those she hunted. Believed to have lived in the
+                third or fourth century after the Betrayal, she is described as
+                being not particularly large for her kind, but cruel and clever.
+            </para>
+            <para>
+                She was slain by the <qv uri="alwyn-half-faced">Alwyn the Half-Faced</qv>,
+                atop the ridge that is now called <qv uri="alwyns-crib">Alwyn's Crib</qv>
+                using a spear forged in the flames of <qv uri="ogratarn">Ogratarn</qv>.
+            </para>
+            <para>
+                She is meant to have amounted a large hoard of gold and silver, which
+                is said to still exist in the forests and hills north of Alwyn's Crib.
+                It has never been found, though the occasional discovery of old
+                coins in the deep woods can sometimes encourage people to risk
+                their lives looking for it.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
