@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Alwyn's Crib</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="alwyns-crib">Alwyns Crib</subject>
+
+            <category>Places</category>>
+
+            <topic uri="aidan-shire">Aidan Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <!-- Crib = Ridge (Welsh) -->
+
+    <body>
+        <sect1>
+            <title>Alwyn's Crib</title>
+
+            <para>
+                A ridge of broken stone that juts above the
+                <qv uri="mordale">Mordale Valley</qv> in Aidan. It runs for
+                about three leagues, and ranges from two hundred to four
+                hundred metres in height along most of its length. To the
+                north west, it slopes gently down to a flat heath of land
+                known as <qv uri="powldrain">Powldrain</qv>. To the southeast,
+                it drops quickly down to the valley floor in a series of
+                jagged cliffs and scree slopes.
+            </para>
+            <para>
+                Legend says that the Weidanic hero Alwyn fought and defeated
+                the dragon <qv uri="mam-du">Mam Du</qv> atop these cliffs. The
+                dragon is said to have had an as yet undiscoverd hoard of treasures
+                somewhere in the hills to the north.
+            </para>
+            <para>
+                There are a number of Elder ruins behind the Crib, some of
+                which are inhabited by a wizard.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
