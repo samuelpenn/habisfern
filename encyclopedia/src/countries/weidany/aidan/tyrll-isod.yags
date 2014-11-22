@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Tyrll Isod</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="tyrll-isod">Tyrll Isod</subject>
+
+            <category>Caves</category>>
+
+            <topic uri="aidan-shire">Aidan Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <!-- Tyrll Isod = Dark Below -->
+
+    <body>
+        <sect1>
+            <title>Tyrll Isod</title>
+
+            <para>
+                There are a number of ancient cave systems on the top of
+                <qv uri="alwyns-crib">Alwyn's Crib</qv>, the most notable of which
+                is <e>Tyrll Isod</e>, the <e>Dark Below</e>. It was once inhabited
+                by the <qv uri="elders">Elders</qv>, but has long since been vacated
+                by that race.
+            </para>
+            <para>
+                The entrance to the caves is found about twenty metres from the top
+                of the cliffs, and requires a climb down from the top of the ridge
+                to get there. A climb directly from the valley below is possible but
+                much harder. The cave is an opening about two metres wide and about
+                five tall, and winds some twenty metres into the cliffs before
+                opening out and starting to drop down. Several climbs are required
+                before Elder ruins are reached.
+            </para>
+            <para>
+                At least four layers to the ancient dwelling have been discovered,
+                the third of which is known as <qv uri="ogratarn">Ogratarn</qv>.
+                Lit by a river of fire, it is populated by
+                <qv uri="deep-ghouls">Deep Ghouls</qv> who make exploration quite
+                dangerous.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
