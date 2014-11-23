@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Ogratarn</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="tyrll-isod">Tyrll Isod</subject>
+
+            <category>Caves</category>>
+
+            <topic uri="aidan-shire">Aidan Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <!-- Ogofau Tan = Fire Caves -->
+
+    <body>
+        <sect1>
+            <title>Ogratarn</title>
+
+            <para>
+                The <e>Fire Caves</e> of <qv uri="tyrll-isod">Tyrll Isod</qv> are
+                part of an Elder subterranean settlement that dates to the time
+                of the Ice. The third cavern, which is some five hundred metres
+                in length, is filled with the stone buildings common to such a
+                complex, and has the advantage of being dimly lit by a river of
+                lava which flows across the cavern.
+            </para>
+            <para>
+                Though many of the larger structures have long since collapsed,
+                there are a number of tall towers and ceiling balconies which
+                hint at the original grandeur of this place. The most impressive
+                building is the <e>Old Forge</e>, which straddles the lava and
+                was presumably once used by Elder blacksmiths.
+            </para>
+            <para>
+                The inhabitants of the place now are
+                <qv uri="deep-ghouls">Deep Ghouls</qv>, which makes exploration
+                difficult. Every few years, some new treasures are located here,
+                which encourages continued exploration of the place, but most
+                of worth has already been scavenged.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
