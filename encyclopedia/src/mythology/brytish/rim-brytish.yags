@@ -36,7 +36,7 @@
         <topics>
             <subject uri="rim-brytish">Rim</subject>
 
-            <category>Gods</category>>>
+            <category>Gods</category>
 
             <topic uri="brytish-mythology">Brytish Mythology</topic>
             <topic uri="bryteland">Bryteland</topic>
@@ -61,14 +61,12 @@
                 shame are sent to the City of the Dead, to spend their
                 time in squalor.
             </para>
-
             <para>
                 People who do not die in battle have to make their own
                 way to the Hall of the Dead. It is a long and
                 difficult path, but there are many opportunities for
                 the soul to prove its worth.
             </para>
-
             <para>
                 Rim is depicted as either a gaunt warrior or a 
                 faceless figure in black robes. Visions of him are
@@ -77,7 +75,6 @@
                 Voltan might, he is very keen on claiming those who
                 have been marked out for death.
             </para>
-            
             <para>
                 As the guardian and watcher he stands at the gates to
                 the Halls of the Dead, ensuring that only the dead may
@@ -91,11 +88,48 @@
                 <title>Cults and Worshippers</title>
 
                 <para>
-                    There are two cults of Rim, the Watchmen who pledge
-                    themselves to guard against the Ice and the Animal
-                    Powers, and the Ebony Horsemen who are a death
-                    cult not popular in Bryteland.
+                    There are two cults of Rim in Bryteland, the Watchmen
+                    who pledge themselves to guard against the Ice and the
+                    Animal Powers, and the Ebony Horsemen who are a death
+                    cult not popular amongst civilised folk.
                 </para>
+                <sect3>
+                    <title>Vektere Brotherhood</title>
+                    <para>
+                        The Vektere Brotherhood, also known as the Watchmen,
+                        are a religion cult devoted to the worship of both Rim
+                        and humanity. They are a secretive order that only allows
+                        others to join once they have proven their worth to
+                        a member in high standing.
+                    </para>
+                    <para>
+                        Though the Vektere have a high reputation, they do not
+                        normally announce themselves, and prefer to work against
+                        their foes without naming themselves. Often they will
+                        aid or encourage others to fight against threats.
+                    </para>
+                    <para>
+                        When a group of Vektere do ride out under the banner of the
+                        lidless eye, it is because a grave danger threatens all.
+                    </para>
+                </sect3>
+                <sect3>
+                    <title>Ebony Horsemen</title>
+                    <para>
+                        Whilst the <e>Vektere</e> hide themselves out of choice,
+                        the <e>Ebony Horsemen</e> hide themselves because people
+                        hate and fear them. They are outlawed in most parts of
+                        Bryteland.
+                    </para>
+                </sect3>
+                <sect3>
+                    <title>Soroy</title>
+                    <para>
+                        In <qv uri="soroy">Soroy</qv> Rim is viewed as the guardian
+                        of the underworld, the past and the future. His priests are
+                        consulted as oracles, and officiate at funerals.
+                    </para>
+                </sect3>
             </sect2>
 
             <sect2>
