@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Wenvia</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="wenvia">Wenvia</subject>
+
+            <category>Places</category>
+
+            <topic uri="wenvia">Wenvia</topic>
+            <topic uri="eorthe">Eorthe</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Wenvia</title>
+
+            <para>
+                Wenvia consists of a number of large islands that straddle the
+                equator west of <qv uri="gyla">Gyla</qv> and directly to the
+                south of <qv uri="euressa">Euressa</qv>. They are mostly tropical,
+                with the mainland covered in thick rainforest. To the west is
+                the <qv uri="great-ocean">Great Ocean</qv>, to its north the
+                <qv uri="novissimum-sea">Novissimum Sea</qv> divides it from
+                Euressa, and the east is bounded by the <qv uri="medium-sea">
+                Medium Sea</qv>.
+            </para>
+            <para>
+                Legends have it that the only surviving kingdom of the the
+                <qv uri="elders">Elders</qv> can be found in the deep forests
+                of Wenvia. Few have managed to penetrate far into its interior
+                however.
+            </para>
+            <para>
+                Though Wenvia is populated by human tribesmen, they are limited
+                to the coastal regions.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
