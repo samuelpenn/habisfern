@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="672.71062"
-     inkscape:cy="491.54587"
+     inkscape:cx="611.23017"
+     inkscape:cy="491.52957"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1195"
-     inkscape:window-height="787"
-     inkscape:window-x="890"
-     inkscape:window-y="386"
+     inkscape:window-width="1546"
+     inkscape:window-height="946"
+     inkscape:window-x="596"
+     inkscape:window-y="81"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -1525,14 +1525,14 @@ kmo6KKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/9k=
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="777.14288"
-       y="276.23734"
+       x="797.85718"
+       y="261.95163"
        id="text2997"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2999"
-         x="777.14288"
-         y="276.23734">Gyla</tspan></text>
+         x="797.85718"
+         y="261.95163">Gyla</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1635,16 +1635,16 @@ kmo6KKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/9k=
          y="225.26218">Gyla</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:6px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="693.19092"
-       y="-331.18423"
+       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="708.8219"
+       y="-333.86813"
        id="text3086"
        sodipodi:linespacing="125%"
        transform="matrix(0.69990457,0.71423637,-0.71423637,0.69990457,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3088"
-         x="693.19092"
-         y="-331.18423">Sea of Mists</tspan></text>
+         x="708.8219"
+         y="-333.86813">Fumi Sea</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1667,5 +1667,131 @@ kmo6KKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/9k=
          id="tspan3115"
          x="641.57312"
          y="303.9205">Wenvia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="782.14288"
+       y="275.88019"
+       id="text3117"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3119"
+         x="782.14288"
+         y="275.88019">Quathor Desert</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="877.5"
+       y="283.38019"
+       id="text3121"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3123"
+         x="877.5"
+         y="283.38019">Kalika Desert</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="747.66333"
+       y="-437.01315"
+       id="text3125"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.67541897,0.73743421,-0.73743421,0.67541897,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3127"
+         x="747.66333"
+         y="-437.01315">Elkrythos Mountains</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="874.64288"
+       y="305.16592"
+       id="text3129"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3131"
+         x="874.64288"
+         y="305.16592">Gorgosian Sea</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="667.76263"
+       y="458.17551"
+       id="text3133"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.95313309,-0.30255133,0.30255133,0.95313309,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3135"
+         x="667.76263"
+         y="458.17551">Baruntal Plains</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="793.25964"
+       y="-197.05789"
+       id="text3137"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.88856579,0.4587492,-0.4587492,0.88856579,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3139"
+         x="793.25964"
+         y="-197.05789">World Spine Mountains</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="717.85718"
+       y="303.73737"
+       id="text3141"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3143"
+         x="717.85718"
+         y="303.73737">Tulthon Empire</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="670.08282"
+       y="30.059006"
+       id="text3145"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.9448542,0.32749128,-0.32749128,0.9448542,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3147"
+         x="670.08282"
+         y="30.059006">Novissimum Sea</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="674.64282"
+       y="277.30878"
+       id="text3149"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3151"
+         x="674.64282"
+         y="277.30878">Medium Sea</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="517.14282"
+       y="296.95163"
+       id="text3153"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3155"
+         x="517.14282"
+         y="296.95163">The Great Ocean</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="717.89343"
+       y="-299.0116"
+       id="text3157"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.6854889,0.72808308,-0.72808308,0.6854889,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3159"
+         x="717.89343"
+         y="-299.0116">Ieiunium Sea</tspan></text>
   </g>
 </svg>
