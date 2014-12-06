@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Soroy</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="soroy">Soroy</subject>
+
+            <category>Islands</category>>
+
+            <topic uri="eorthe">Eorthe</topic>
+        </topics>
+    </header>
+
+    <!-- South Island - Norwegian -->
+    <body>
+        <sect1>
+            <title>Soroy Island</title>
+
+            <para>
+                Far to the south of <qv uri="bryteland">Bryteland</qv> is the
+                island known as Soroy. It was discovered in the 8th century
+                by the viking <qv uri="alvilda-navigator">Alvilda the Navigator</qv>,
+                who sailed almost two thousand kilometres across the open seas
+                after being defeated in a sea battle at the
+                <qv uri="hethland-isles">Hethland Isles</qv>. The finding was
+                quite by chance, since her damaged fleet was blown off course
+                in several storms, but she had enough skill to land, set up a
+                camp and then navigate back home seven years later.
+            </para>
+            <para>
+                The north of the island was already inhabited by small primitve
+                tribes, who were initially traded with and then attacked and wiped
+                out when it was realised they didn't pose much of a threat. Many
+                of the local women were taken as wives by the Brytelanders, and
+                today the population of the island is a mix of Brytish-Soroy
+                descendants who tend towards darker skin.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
