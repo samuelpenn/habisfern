@@ -35,7 +35,7 @@
         <topics>
             <subject uri="brytish-mythology">Brytish Mythology</subject>
 
-            <category>Legends</category>>>
+            <category>Legends</category>
 
             <topic uri="brytish-mythology">Brytish Mythology</topic>
             <topic uri="bryteland">Bryteland</topic>
@@ -50,10 +50,11 @@
 
             <para>
                 The mythology of the Brytish people has similar roots to
-                that of the Rornic, though has changed over the generations.
-                Most notable are the additions of the World Dragons, similar
-                in power to Iss. They are like gods to the gods, raw primal
-                forces of nature which may be bound, but never defeated.
+                that of the <qv uri="rornic-mythology">Rornic</qv>, though has
+                changed over the generations. Most notable are the additions
+                of the World Dragons, similar in power to <qv uri="iss">Iss</qv>.
+                They are like gods to the gods, raw primal forces of nature which
+                may be bound, but never defeated.
             </para>
 
             <para>
@@ -85,11 +86,12 @@
                 breath of fire forced Iss back to the distant north, to
                 cower in fear against the fire. Freed from her ice prison,
                 Jorda mates with Jortooth, and gives birth to three Primal
-                Lords, who are Othalking of the Sky and Winds, Uvangar of
-                the Deep Seas, and Jorthik of the Earth. Jorthik though is
-                deprived from having dominion of all that he considers his,
-                because his father also dwells in the earth, so Jorthik
-                fights his father, but is defeated, and his body is torn
+                Lords, who are <qv uri="othalking">Othalking</qv> of the
+                Sky and Winds, <qv uri="uvangar">Uvangar</qv> of
+                the Deep Seas, and <qv uri="jorthik">Jorthik</qv> of the Earth.
+                Jorthik though is deprived from having dominion of all that he
+                considers his, because his father also dwells in the earth, so
+                Jorthik fights his father, but is defeated, and his body is torn
                 apart.
             </para>
 
@@ -97,13 +99,17 @@
                 Distressed at the death of her son, Jorda breaths life back
                 into the bloody ruins of his body. From his brains comes
                 Voltan who is gifted with poetry and law. From his heart
-                comes Freeja, who loves and cares for others. From his
-                blood comes Igia, who fills the rivers of the land and
+                comes <qv uri="freeja">Freeja</qv>, who loves and cares for
+                others. From his blood comes <qv uri="igia">Igia</qv>, who
+                fills the rivers of the land and
                 flows down into the sea which becomes her domain. From the
-                ribs of Jorthik springs Alfhan, who makes himself as the
-                trees which cover the land. Walgi the wolf goddess is born
-                from his teeth. Finally from one of his eyes comes Rim,
-                who is guardian and watcher of both the living and the dead.
+                ribs of Jorthik springs <qv uri="alfhan">Alfhan</qv>, who
+                makes himself as the
+                trees which cover the land. <qv uri="walgi-brytish">Walgi</qv>
+                the wolf goddess is born
+                from his teeth. Finally from one of his eyes comes
+                <qv uri="rim-brytish">Rim</qv>, who is guardian and watcher
+                of both the living and the dead.
             </para>
 
             <sect2>
@@ -114,7 +120,8 @@
                     dominion over the gods. He considers all beneath him
                     to be his, including the seas, and Igia who dwells
                     within the waves. He kidnaps her, and takes her up to
-                    his sky kingdom Thalling. Her brothers rebel, and led
+                    his sky kingdom <qv uri="thalling">Thalling</qv>.
+                    Her brothers rebel, and led
                     by Voltan they make a raid on Thalling, freeing Igia
                     and fleeing with her back to the sea. Othalking is
                     furious at this, and follows after the gods to take
@@ -140,8 +147,8 @@
                 <para>
                     Igia goes back to the sea, and spends the winter of
                     each year in the deep depths with Uvangar. It is
-                    during this first winter that she has a son, Hojan,
-                    son of Othalking.
+                    during this first winter that she has a son,
+                    <qv uri="hojan">Hojan</qv>, son of Othalking.
                 </para>
             </sect2>
         </sect1>

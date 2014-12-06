@@ -36,7 +36,7 @@
         <topics>
             <subject uri="hojan">Hojan</subject>
 
-            <category>Gods</category>>>
+            <category>Gods</category>
 
             <topic uri="brytish-mythology">Brytish Mythology</topic>
             <topic uri="bryteland">Bryteland</topic>
@@ -55,11 +55,17 @@
                 creation of the world. His parents are Igia and
                 Uvangar.
             </para>
-
             <para>
                 Hojan is the breeze from the sea. He is a young
                 and fickle god, considered a trickster and joker
                 by the Brytish.
+            </para>
+            <para>
+                Hojan is only a minor god in Bryteland, hardly worshipped
+                at all except by some sailors. In <qv uri="soroy">Soroy</qv>
+                though he is considered far more important, and is considered
+                to be the god that led <qv uri="alvilda-navigator">Alvilda the
+                Navigator</qv> to that isle.
             </para>
         </sect1>
     </body>

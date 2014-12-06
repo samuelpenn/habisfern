@@ -36,7 +36,7 @@
         <topics>
             <subject uri="igia">Igia</subject>
 
-            <category>Gods</category>>>
+            <category>Gods</category>
             <topic uri="brytish-mythology">Brytish Mythology</topic>
             <topic uri="bryteland">Bryteland</topic>
             <topic uri="habisfern">Habisfern</topic>
@@ -82,6 +82,16 @@
                 passage when it is asked for.
             </para>
 
+            <sect2>
+                <title>Soroy</title>
+                <para>
+                    In the deep south, in the Brytish colony on
+                    <qv uri="soroy">Soroy</qv>, Igia is considered to
+                    be the head of the pantheon. Descended from sailors
+                    rather than warriors, the people of Soroy consider
+                    the sea to be the source of all that is important.
+                </para>
+            </sect2>
         </sect1>
     </body>
 </article>
