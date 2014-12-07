@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Tulthon Empire</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="tulthon-empire">Tulthon Empire</subject>
+
+            <category>Places</category>
+
+            <topic uri="gyla">gyla</topic>
+            <topic uri="eorthe">Eorthe</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Tulthon Empire</title>
+
+            <para>
+                The Tulthon Empire stretches across the south western arm of
+                <qv uri="gyla">Gyla</qv>, and it's influence reaches right
+                across to <qv uri="euressa">Euressa</qv>.
+            </para>
+            <para>
+                Founded some five hundred years ago in the city of
+                <qv uri="tulth">Tulth</qv> by a family of rich merchants, it
+                grew rapidly in power through a mixture of trade and military
+                might.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
