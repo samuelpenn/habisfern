@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Sea of Smoke</title>
+        <title>Fumi Sea</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -33,7 +33,7 @@
         </references>
 
         <topics>
-            <subject uri="sea-smoke">Sea of Smoke</subject>
+            <subject uri="fumi-sea">Fumi Sea</subject>
 
             <category>Seas</category>
             <topic uri="old-world">Old World</topic>
@@ -42,12 +42,12 @@
 
     <body>
         <sect1>
-            <title>Sea of Smoke</title>
+            <title>Fumi Sea</title>
 
             <para>
                 Off the western coast of the continent of <qv uri="gyla">Gyla</qv>
-                is the <e>Sea of Smoke</e>. It is called many different names by
-                the various cultures, but generally this description is common.
+                is the <e>Fumi Sea</e>. It is called many different names by
+                the various cultures, all of which tend to mean the <e>Sea of Smoke</e>.
             </para>
             <para>
                 For the last few thousand years continuous plumes of smoke have
