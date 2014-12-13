@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Baruntal</title>
+        <title>Medium Sea</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -33,31 +33,29 @@
         </references>
 
         <topics>
-            <subject uri="baruntal">Baruntal</subject>
+            <subject uri="medium-sea">Medium Sea</subject>
 
-            <category>Regions</category>
+            <category>Seas</category>
             <topic uri="old-world">Old World</topic>
         </topics>
     </header>
-    <!-- West Plains, баруун тал -->
+
     <body>
         <sect1>
-            <title>Baruntal</title>
+            <title>The Medium Sea</title>
 
             <para>
-                The <e>Western Plains</e>, that stretches from the eastern shores
-                of the <qv uri="beloye-more">White Sea</qv> to the great lakes
-                in the centre of the continent, from the <qv uri="taiga">Taiga</qv>
-                in the north to the White Wall mountains in the south, is a region
-                that is not owned by any single kingdom or people, but those that
-                live here do share a language and similar cultures.
+                The <e>Medium Sea</e> is so named by the navigators of the
+                <qv uri="tulthon-empire">Tulthon Empire</qv> as the sea which
+                sits at the middle of all the lands. When it was named, they
+                did not know about the <qv uri="great-ocean">Great Ocean</qv>
+                to the west beyond <qv uri="wenvia">Wenvia</qv>, or to the
+                oceans east of <qv uri="gyla">Gyla</qv>.
             </para>
             <para>
-                The central plains are dominated by the Fey, who have destroyed any
-                chance of a united human civilisation here. Merchants and pirates
-                have settled the coast, giants keep to the plains just south of the
-                Taiga, and a human kingdom resides on the western shores of the
-                great lakes.
+                It is a deep sea, devoid of islands or other places to
+                navigate by, and only the Tulthon Empire navigate across it
+                with any degree of regularity or accuracy.
             </para>
         </sect1>
     </body>
