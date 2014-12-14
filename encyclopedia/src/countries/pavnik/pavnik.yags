@@ -35,7 +35,7 @@
         <topics>
             <subject uri="pavnik">Pavnik</subject>
 
-            <category>Kingdoms</category>>
+            <category>Kingdoms</category>
             <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
             <topic uri="pavnik">Pavnik</topic>
             <topic uri="euressa">Euressa</topic>
@@ -45,8 +45,8 @@
     <body>
         <sect1>
             <title>Kingdom of Pavnik</title>
-            
-            <import-map uri="euressa" scale="0">
+
+            <import-map uri="eorthe" scale="0">
                 <area name="pavnik" margin="2"/>
             </import-map>
 
@@ -56,11 +56,21 @@
                 <qv uri="kurbia">Kurbia</qv> in the northeast, down to
                 <qv uri="sarse">Sarse</qv> on the southwestern coast.
             </para>
-
             <para>
                 Pavnik is mostly hilly, open terrain, cut by rivers and some
-                forests in the north. It's capital is Masnov, about twenty
-                leagues west of the Vesik Moors.
+                forests in the north. It's capital is <qv uri="masnov">Masnov</qv>,
+                about twenty leagues west of the <qv uri="vesik-moors">Vesik Moors</qv>.
+            </para>
+            <para>
+                The Kingdom is lightly populated with a few small towns, and a
+                large number of temporary villages. Most people live in wagons,
+                and an extended family or tribe will settle down to farm an area
+                for a year or two before moving on. Their towns are little more
+                than a large collection of wagons that haven't moved for a long
+                time, though in reality permanent constructions would make
+                movement difficult. The outer parts of a town can change over the
+                course of years though, as people join and leave depending on
+                local prosperity.
             </para>
         </sect1>
     </body>
