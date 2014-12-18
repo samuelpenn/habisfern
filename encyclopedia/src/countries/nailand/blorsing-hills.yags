@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Blorsing Hills</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <topics>
+            <subject uri="blorsing-hills">Blorsing Hills</subject>
+
+            <category>Hills</category>>
+
+            <topic uri="nailand">Nailand</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Blorsing Hills</title>
+
+            <para>
+                A region of hills in south eastern Nailand, it was the location
+                of the <qv uri="white-city">White City</qv> during the time of
+                the <qv uri="five-kingdoms">Five Kingdoms</qv>. There is little
+                here now except for the ruins of history.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
