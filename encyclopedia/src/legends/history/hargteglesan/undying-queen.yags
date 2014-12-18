@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Undying Queen</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="five-kingdoms">The Five Kingdoms</see>
+        </references>
+
+        <topics>
+            <subject uri="undying-queen">The Undying Queen</subject>
+
+            <category>Legends</category>
+
+            <topic uri="hargteglesan">Hargteglesan</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Cilhild the Undying Queen</title>
+            <para>
+                The first Queen of the Mountain was Cilhild, a powerful sorceress
+                who conquered the <qv uri="albaeg-white-eyed">White Wyrm</qv> through
+                charms and sorcery rather than force of arms. From the dragon she
+                learnt the secret powers of dragon magic, and became an immortal
+                sorceress and forged the Mountain Realm for those that would follow
+                her. She claimed the dragon Albaeg as her consort, and it is said
+                that the blood of dragons flowed in the veins of her daughter,
+                <qv uri="glass-queen">Glaesa</qv>.
+            </para>
+            <para>
+                Cilhild used her magic to greatly extend her life, claiming to be
+                immortal and challenging the gods for supremacy and power. The
+                priests were banished from her kingdom during this time, and with
+                the power of the dragon at her call, there were none that could
+                stand against her.
+            </para>
+            <para>
+                In time though her daughter grew jealous of her power, and through
+                her own magic imprisoned her below the castle, trapping her in a
+                cave of ice for all time.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
