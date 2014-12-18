@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Albaeg the White Eyed</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="five-kingdoms">The Five Kingdoms</see>
+        </references>
+
+        <topics>
+            <subject uri="albaeg-white-eyed">Albaeg the White Eyed</subject>
+
+            <category>Legends</category>
+
+            <topic uri="hargteglesan">Hargteglesan</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Albaeg the White Eyed</title>
+            <para>
+                The <e>Great White Wyrm</e>, known as Albaeg the White Eyed,
+                was a great dragon that dwelt above the glaciers of the
+                <qv uri="withrican-mountains">Withrican Mountains</qv> in
+                the Realm of Hargteglesan. Legends say that he was the size
+                of a mountain peak, and his breath was the frozen wind that
+                could lay down whole armies.
+            </para>
+            <para>
+                When the People of Rorn came to <qv uri="tarvallah">Tarvallah</qv>,
+                he was a scourge upon them, bringing terror to their homes
+                every winter. Many great heroes tried to slay him, but none
+                ever returned.
+            </para>
+            <para>
+                He was unconquered until <qv uri="undying-queen">Cilhild the Undying Queen</qv>
+                came to the mountains and laid her charms upon him. She called him
+                her consort, though what that entailed is lost to legend. He taught
+                her much magic though, and it was after this that she took the
+                title of <e>Undying</e>.
+            </para>
+            <para>
+                After Cilhild was succeeded by her daughter Glaesa, Albaeg
+                drifted into the sleep of mountains, and after a time was
+                never seen to arise from his caves above <qv uri="diegoldael">Diegoldael</qv>
+                where he is said to still sleep.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
