@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Diegoldael</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="five-kingdoms">The Five Kingdoms</see>
+        </references>
+
+        <topics>
+            <subject uri="diegoldael">Diegoldael</subject>
+
+            <category>Mountains</category>
+
+            <topic uri="hargteglesan">Hargteglesan</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <!-- diegol = hidden; dael = valley -->
+
+    <body>
+        <sect1>
+            <title>Diegoldael</title>
+            <para>
+                The <e>Hidden Valley</e> of <qv uri="hargteglesan">Hargteglesan</qv>
+                was said to be below <qv uri="white-dragon-mountain">White Dragon Mountain</qv>.
+                It was a narrow valley of thick woods and warm lakes amongst the cold
+                glacier filled mountains. The enchanted valley was home to an Elf King,
+                known only as the <e>King of Dieogoldael</e>. He had the form of a huge
+                tree that stood at the high end of the valley, where the woods merged
+                into the <qv uri="dreamlands">Dreamlands</qv>.
+            </para>
+            <para>
+                The <qv uri="albaeg-white-eyed">White Wyrm</qv> was said to dwell in caves
+                above the valley, though by the time of its destruction he had fallen into
+                a long sleep and was not disturbed. The Elf King was burnt, and the valley
+                torn up, by the armies of <qv uri="sorfa">Sorfa</qv> sometime around the
+                <qv uri="battle-two-glaciers">Battle of the Two Glaciers</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

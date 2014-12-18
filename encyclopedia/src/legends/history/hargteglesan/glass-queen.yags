@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Glass Queen</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="five-kingdoms">The Five Kingdoms</see>
+        </references>
+
+        <topics>
+            <subject uri="glass-queen">The Glass Queen</subject>
+
+            <category>Legends</category>
+
+            <topic uri="hargteglesan">Hargteglesan</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Glaesa, the Glass Queen</title>
+
+            <para>
+                Daughter of the immortal sorceress <qv uri="undying-queen">Cilhild</qv>,
+                Glaesa was said to have the blood of dragons. She was the only daughter
+                of Cilhild, and was taught the secrets of magic whilst being raised in her
+                mother's court. There was little love in the relationship between
+                mother and daughter, with Glaesa used as a pawn in the Queen's power
+                games amongst the court. Glaesa had several daughters by the lords
+                of the court whilst her mother was in power - the fathers being
+                her mother's currently favoured lord.
+            </para>
+            <para>
+                She lived under her mother's power until she was fifty, though her
+                appearance was said to remain as that of someone half her age. She
+                grew jealous of her mother, and hated her for not showing any signs
+                of dying soon. So she span a trap of cunning magic, and with it was
+                able to imprison her mother beneath the <qv uri="glasburfen">Glass Citadel</qv>
+            </para>
+            <para>
+                Glaesa's rule was no less cruel than her mother's, though she was a shrewd
+                negotiator and diplomat, and unlike her mother was able to forge strong
+                alliances with the other Kingdoms. She welcomed some of the priests back
+                into the realm, especially those of Rorn.
+            </para>
+            <para>
+                After she was betrayed by the <qv uri="white-city">White City</qv>,
+                she closed the Kingdom to everyone from the outside, and retreated
+                into the Glass Citadel to nurse her wounds. She died some years later,
+                and her remaining daughters fell to in-fighting, resulting in the
+                rise to power of one of the nobles of the Kingdom who was to become
+                known as the <qv uri="deofcyne">Black King</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

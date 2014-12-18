@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Glasburfen</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="five-kingdoms">The Five Kingdoms</see>
+        </references>
+
+        <topics>
+            <subject uri="glasburfen">Glasburfen</subject>
+
+            <category>Cities</category>
+
+            <topic uri="hargteglesan">Hargteglesan</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Glasburfen</title>
+            <para>
+                The <e>Glass Citadel</e>, known as Glasburfen, was originally built
+                by <qv uri="undying-queen">Cilhild the Undying</qv>, and was later
+                expanded greatly by her daughter <qv uri="glass-queen">Glaesa</qv>.
+                It was built atop <qv uri="scur-cleaver">Scur Cleaver</qv>, and
+                overlooks the two giant glaciers that flow beneath it.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

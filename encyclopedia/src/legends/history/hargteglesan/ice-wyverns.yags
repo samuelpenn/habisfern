@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Ice Wyverns</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="five-kingdoms">The Five Kingdoms</see>
+        </references>
+
+        <topics>
+            <subject uri="white-dragon-mountain">White Dragon Mountain</subject>
+
+            <category>Legends</category>
+
+            <topic uri="hargteglesan">Hargteglesan</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Ice Wyverns</title>
+            <para>
+                In the caves and ledges of <e>White Dragon Mountain</e> once lived
+                the Ice Wyverns. These were wyverns who had adapted themselves to
+                the cold climate of the high mountains. They were said to be larger
+                than others of their kind, and more viscous.
+            </para>
+            <para>
+                Some were trained by the <qv uri="undying-queen">Undying Queen</qv>
+                for use as war animals, and even mounts, but their use declined
+                after <qv uri="glass-queen">Queen Glaesa</qv> took the throne.
+                Today they exist only in rumours and legends.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

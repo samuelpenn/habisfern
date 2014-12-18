@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Scur Cleaver</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="five-kingdoms">The Five Kingdoms</see>
+        </references>
+
+        <topics>
+            <subject uri="white-dragon-mountain">White Dragon Mountain</subject>
+
+            <category>Mountains</category>
+
+            <topic uri="withrican-mountains">Withrican Mountains</topic>
+            <topic uri="hargteglesan">Hargteglesan</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Scur Cleaver</title>
+            <para>
+                A cleaver of rock in the <qv uri="withrican-mountains">Withrican Mountains</qv>,
+                which splits the great glacier that flows down from
+                <qv uri="white-dragon-mountains">White Dragon Mountain</qv>.
+                During the time of the <qv uri="five-kingdoms">Five Kingdoms</qv>, the
+                great fortress of <qv uri="glasburfen">Glasburfen</qv> sat atop it.
+                Today, there is little left of the glass fortress save for some old
+                ruins and buried bones.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
