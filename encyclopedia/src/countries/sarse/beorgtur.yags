@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Beorgtur</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="five-kingdoms">The Five Kingdoms</see>
+        </references>
+
+        <topics>
+            <subject uri="beorgtur">Beorgtur</subject>
+
+            <category>Cities</category>
+
+            <topic uri="hargteglesan">Hargteglesan</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+    <!-- beorg = mountain,hill,narrow; tur = tower fortress -->
+    <body>
+        <sect1>
+            <title>Beorgtur</title>
+
+            <para>
+                At the foot of the Mountain Realm was <e>Beorgtur</ev>, a
+                great city that was the gateway to the kingdom. It was mostly
+                a trading station, but was destroyed just before the
+                <qv uri="battle-two-glaciers">Battle of the Two Glaciers</qv>
+                by the forces of <qv uri="sorfa">King Sorfa</qv>.
+            </para>
+            <para>
+                It exists today as a small town in <qv uri="sarse">Sarse</qv>,
+                with a population of about a thousand. The ruins of the old
+                city are far larger than the modern city.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

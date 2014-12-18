@@ -35,7 +35,7 @@
         <topics>
             <subject uri="sarse">Sarse</subject>
 
-            <category>Countries</category>>
+            <category>Countries</category>
 
             <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
             <topic uri="sarse">Sarse</topic>
@@ -76,7 +76,9 @@
             <para>
                 The bulk of the land was probably the <qv uri="iron-kingdom">Iron
                 Kingdom</qv> and <qv uri="drasodor">Drasodor</qv>, though records
-                no longer exist from this time.
+                no longer exist from this time. The Ice Kingdom of
+                <qv uri="hargteglesan">Hargteglesan</qv> was in the mountains
+                to the north.
             </para>
             <sect2>
                 <title>Trade and Communication</title>
