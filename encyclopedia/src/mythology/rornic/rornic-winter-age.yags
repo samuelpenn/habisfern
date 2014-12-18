@@ -39,7 +39,7 @@
         <topics>
             <subject uri="rornic-mythology">Rornic Mythology</subject>
 
-            <category>Legends</category>>>
+            <category>Legends</category>
 
             <topic uri="rornic-mythology">Rornic Mythology</topic>
             <topic uri="weidany">Weidany</topic>
@@ -86,7 +86,7 @@
                 <para>
                     Hreth betrays him in a great battle, and leaves evidence
                     pointing to his mother. It is only after he has slain
-                    Enrith for her apparent trachery, that he learns the
+                    Enrith for her apparent treachery, that he learns the
                     truth, and Hreth has already fled north to Snaw's
                     citadel. So Erol gathers together a group of warriors
                     to go after her.
@@ -95,7 +95,7 @@
                 <para>
                     Erol and most of his companions are slain before they
                     can bring Hreth to justice. They do manage to free
-                    <qv uri="pel">Perl</qv>, and discover that Hreth is
+                    <qv uri="pel">Pel</qv>, and discover that Hreth is
                     his daughter, by <qv uri="gruaga">Gruaga</qv>.
                 </para>
             </sect2>

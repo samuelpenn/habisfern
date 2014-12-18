@@ -35,7 +35,7 @@
         <topics>
             <subject uri="rornic-mythology">Rornic Mythology</subject>
 
-            <category>Legends</category>>>
+            <category>Legends</category>
 
             <topic uri="rornic-mythology">Rornic Mythology</topic>
             <topic uri="weidany">Weidany</topic>
@@ -52,7 +52,8 @@
                 A time when <qv uri="rorn">Rorn</qv> was slain by his
                 brother <qv uri="haltan">Haltan</qv>. That act led to much
                 slaughter and bloodshed amongst Men, and ultimately led to
-                the blighting of <qv uri="tarvallah">Tarvallah</qv>.
+                the blighting of <qv uri="tarvallah">Tarvallah</qv> and the
+                fall of the <qv uri="five-kingdoms">Five Kingdoms</qv>.
             </para>
         </sect1>
 

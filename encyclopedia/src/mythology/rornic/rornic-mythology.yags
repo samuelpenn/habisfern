@@ -35,7 +35,7 @@
         <topics>
             <subject uri="rornic-mythology">Rornic Mythology</subject>
 
-            <category>Legends</category>>>
+            <category>Legends</category>
 
             <topic uri="rornic-mythology">Rornic Mythology</topic>
             <topic uri="weidany">Weidany</topic>
@@ -99,11 +99,15 @@
                 </para>
 
                 <para>
-                    <see uri="rornic-winter-age">The Age of Winter</see>.
+                    <see uri="rornic-winter-age">The Age of Winter</see>. The
+                    fall of <qv uri="ideria">Ideria</qv> and the time of the
+                    <qv uri="five-kingdoms">Five Kingdoms</qv>. It ends with
+                    the <qv uri="rornic-betrayal">Betrayal</qv>.
                 </para>
 
                 <para>
                     <see uri="rornic-balanced-age">The Age of Balance</see>.
+                    The current age.
                 </para>
             </sect2>
         </sect1>
