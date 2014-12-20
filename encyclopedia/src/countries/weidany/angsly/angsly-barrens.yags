@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Angsly Shire</title>
+        <title>Angsly Barrens</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license type="Yags">
-            <year>2003</year>
+            <year>2014</year>
             <holder>Samuel Penn</holder>
             <text>
                 This document can be redistributed and/or modified
@@ -35,9 +35,9 @@
         </references>
 
         <topics>
-            <subject uri="angsly-shire">Angsly</subject>
+            <subject uri="angsly-barrens">Angsly Barrens</subject>
 
-            <category>Shires</category>
+            <category>Hills</category>
 
             <topic uri="angsly-shire">Angsly Shire</topic>
             <topic uri="weidany">Weidany</topic>
@@ -48,18 +48,14 @@
 
     <body>
         <sect1>
-            <title>Angsly</title>
+            <title>Angsly Barrens</title>
 
             <para>
-                Shire bordering on <qv uri="tuffin-wood">Tuffin Wood</qv>
-                in Weidany. The shire town is <qv uri="stanminster">
-                Stanminster</qv>.
-            </para>
-
-            <para>
-                The shire is similar geographically to the old Kingdom of
-                Angsly. It is a region of uplands that rises about the woodlands
-                below.
+                The <e>Barrens</e> is a region of desolate moorlands that runs
+                through central Angsly. There is little habitation here since
+                the land is both boggy and infertile. There are numerous stone
+                cairns throughout the Barrens however, most of which date back
+                to the time of the <qv uri="angsly-kingdom">Kingdom of Angsly</qv>.
             </para>
         </sect1>
     </body>
