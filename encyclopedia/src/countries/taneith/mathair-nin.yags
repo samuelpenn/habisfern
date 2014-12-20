@@ -2,10 +2,10 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Heart of the Goddess</title>
+        <title>Mathair Nin</title>
         <tagline>Habisfern</tagline>
 
-        <slugline>Isle of the Goddess</slugline>
+        <slugline/>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -33,9 +33,9 @@
         </references>
 
         <topics>
-            <subject uri="heart-of-goddess">Heart of the Goddess</subject>
+            <subject uri="mathair-nin">Mathair Nin</subject>
 
-            <category>Mythology</category>
+            <category>Places</category>
 
             <topic uri="taneith">Taneith</topic>
             <topic uri="euressa">Euressa</topic>
@@ -45,19 +45,23 @@
 
     <body>
         <sect1>
-            <title>Heart of the Goddess</title>
+            <title>Mathair Nin</title>
 
             <para>
-                The Isle of Taneith is considerably warmer than the lands
-                around it, and this warmth is most noticeable in the centre
-                of the isle. It is said that the warmth comes from the
-                Heart of the Goddess, which dwells beneath the island.
+                At the centre of the <qv uri="taneith">Isle of Taneith</qv> is
+                <e>Mathair Nin</e>, the <e>Mother Ash</e>. It is a huge tree that
+                stands on an isle in the middle of a warm lake.
             </para>
             <para>
-                The warmth of the <e>Heart</e> is said to be connected to
-                <qv uri="mathair-nin">Mathair Nin</qv>, the <e>Mother Ash</e>,
-                and it is because of this connection that the Isle was
-                protected during the Great Ice.
+                The tree stands about one hundred metres tall, with huge branches
+                that span over fifty metres across. It is covered in thick foliage
+                all year round. At noon, the wind in its branches is said to sing
+                with a beautiful female voice.
+            </para>
+            <para>
+                Mathair Nin is part of the <qv uri="world-tree">World Tree</qv>,
+                one of the few places in this world where there is a physical
+                connection between here and the other worlds.
             </para>
         </sect1>
     </body>
