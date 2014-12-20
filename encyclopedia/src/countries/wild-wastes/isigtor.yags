@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Wild Wastes</title>
+        <title>Isigtor</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -33,9 +33,9 @@
         </references>
 
         <topics>
-            <subject uri="wild-wastes">Wild Wastes</subject>
+            <subject uri="isigtor">Isigtor</subject>
 
-            <category>Hills</category>
+            <category>Mountains</category>
 
             <topic uri="wild-wastes">Wild Wastes</topic>
             <topic uri="habisfern">Habisfern</topic>
@@ -45,24 +45,20 @@
 
     <body>
         <sect1>
-            <title>The Wild Wastes</title>
+            <title>Isigtor</title>
             <para>
-                North of <qv uri="weidany">Weidany</qv> are the hills and
-                mountains known collectively as the <e>Wild Wastes</e>. Swept
-                by fierce storms, and dominated by the
-                <qv uri="isigtor">Isigtor</qv>, it is a desolate region
-                avoided by most civilised folk.
+                Standing at the centre of the <qv uri="wild-wastes">Wild Wastes</qv>,
+                Isigtor is a group of bitterly cold mountains which are covered in
+                almost continuous storms. Though the whole of the Wild Wastes are
+                known to be home to spirits of ice and dreams, the worst and most
+                powerful of them dwell on the slopes of Isigtor.
             </para>
             <para>
-                Most of the terrain is blasted moorland, cut by sharp rocky
-                outcrops and broken cliffs (of which the <qv uri="grey-cliffs">
-                Grey Cliffs</qv> are the most famous), with little in the way
-                of tree cover or open water.
-            </para>
-            <para>
-                The dreamlands have a big influence in the Wild Wastes, and there
-                are many ways into them here. The power of the Ice is also felt
-                in this place, and spirits in thrall to the Ice are common.
+                Several glaciers flow down from the mountain, and the rivers that
+                flow from their base are icy cold. The mountain rocks are tall,
+                dark and bare of vegetation, with steep cliffs and jagged ridges
+                making climbing the slopes a challenge for even the most skilled
+                of climbers.
             </para>
         </sect1>
     </body>
