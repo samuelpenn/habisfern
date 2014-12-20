@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>World Tree</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="world-tree">The World Tree</subject>
+
+            <category>Legends</category>
+            <topic uri="rornic-mythology">Rornic Mythology</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The World Tree</title>
+
+            <para>
+                The <e>World Tree</e> spans everything that is, connecting
+                the worlds above and below with the middle world. Where it
+                connects with the middle world it manifests as a tree of
+                enermous size, whose roots go deep into the earth and branches
+                reach skyward. Such trees are always covered in thick green
+                leaves, and the land around tends to be of temperate climate
+                regardless of the location.
+            </para>
+            <para>
+                Two known locations of the <e>World Tree</e> are in
+                <qv uri="taneith">Taneith</qv> and <qv uri="tarvallah">Tarvallah</qv>.
+                The tree in Tarvallah was destroyed on the death of
+                <qv uri="rorn">Rorn</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
