@@ -36,7 +36,7 @@
         <topics>
             <subject uri="mirkford">Mirkford</subject>
 
-            <category>Castles</category>>
+            <category>Castles</category>
 
             <topic uri="angsly-shire">Angsly</topic>
             <topic uri="habisfern">Habisfern</topic>
@@ -51,7 +51,10 @@
             <title>Mirkford</title>
 
             <para>
-                A castle in Angsly, overlooking the river Langly.
+                Mirkford is a stone castle belonging to
+                <qv uri="eorl-hardric">Eorl Hardric</qv>. He spends most of
+                his time in <qv uri="stanminster">Stanminster</qv>, and leaves
+                the management of the castle to his son.
             </para>
         </sect1>
 

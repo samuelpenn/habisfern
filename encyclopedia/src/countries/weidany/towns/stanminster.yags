@@ -36,7 +36,7 @@
         <topics>
             <subject uri="stanminster">Stanminster</subject>
 
-            <category>Towns</category>>
+            <category>Towns</category>
 
             <topic uri="angsly-shire">Angsly</topic>
             <topic uri="habisfern">Habisfern</topic>
@@ -52,14 +52,24 @@
 
             <para>
                 A city in the <qv uri="angsly-shire">Shire of Angsly</qv> in
-                Weidany. It is noted for its stone temple to
-                <qv uri="haltan">Haltan</qv>, carved into the side of a
-                hill. It is the shire town of Angsly.
+                Weidany with a population of about four thousand. It is the shire
+                town of Angsly, and the seat of <qv uri="eorl-hardric">Eorl Hardric</qv>.
+                It is protected with wooden walls, with two main gates into the
+                city with a third smaller gate on the northern side which leads to
+                an exterior market - a field where tents and stalls are set up
+                on a semi-permanent basis.
+            </para>
+            <para>
+                The largest building in the city is a stone temple to the god
+                <qv uri="haltan">Haltan</qv>, which is carved into the side of a
+                hill. Haltan is the patron god of the city, and several wooden
+                carvings of him can be found at the major intersections in the
+                settlement. The Eorl's manor house stands at the other side of the
+                hill, though the top of the hill is itself bare apart from a small
+                copse of yew trees.
             </para>
         </sect1>
-
     </body>
-
 </article>
 
 
