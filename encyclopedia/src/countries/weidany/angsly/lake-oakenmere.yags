@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Lake Oakenmere</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="lake-oakenmere">Lake Oakenmere</subject>
+
+            <category>Lakes</category>
+
+            <topic uri="angsly-shire">Angsly Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Lake Oakenmere</title>
+
+            <para>
+                A lake about two leagues across in the
+                <qv uri="angsly-shire">Shire of Angsly</qv>. Several rivers
+                feed into it from the <qv uri="angsly-barrens">Barrens</qv>,
+                and the <qv uri="edrin-river">Edrin River</qv> flows out to
+                the south to join the <qv uri="langly-river">River Langly</qv>.
+            </para>
+            <para>
+                The southern shores of the lake are heavily forested, but the
+                nothern shores are home to a dozen small villages that fish on
+                the lake. The largest of these is <qv uri="oakstead">Oakstead</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
