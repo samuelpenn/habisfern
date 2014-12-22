@@ -35,7 +35,7 @@
         <topics>
             <subject uri="langly-river">Langly River</subject>
 
-            <category>Rivers</category>>
+            <category>Rivers</category>
 
             <topic uri="langly-shire">Langly Shire</topic>
             <topic uri="merrik-shire">Merrik Shire</topic>
@@ -57,7 +57,12 @@
                 It carries much traffic from Aidan, Northmarch and
                 Strathby down to the coast at Tealmouth (it joins the
                 <qv uri="teal-river">Teal River</qv> soon after
-                intering Northwood Shire.
+                entering <qv uri="northwood-shire">Northwood Shire</qv>.
+            </para>
+            <para>
+                The origin of the river is considered to be in the woods of
+                <qv uri="cadwold">Cadwold</qv> where it pours from fissures
+                beneath some ancient burial mounds at the base of the hills.
             </para>
         </sect1>
     </body>
