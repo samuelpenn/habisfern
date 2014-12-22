@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Ealdorman Eadric</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="oswald-house">House of Oswald</see>
+        </references>
+
+        <topics>
+            <subject uri="ealdorman-eadric">Ealdorman Eadric</subject>
+
+            <category>Nobles</category>
+
+            <topic uri="angsly-shire">Angsly</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+
+    </header>
+
+    <body>
+        <sect1>
+            <title>Ealdorman Eadric of Oswald</title>
+
+            <para>
+                Eadric is the Ealdorman of the <qv uri="oswald-house">House of Oswald</qv>
+                in the <qv uri="weidany">Kingdom of Weidany</qv>. He is the head of the
+                house, and also lord of the <qv uri="stanminster">city of Stanminster</qv>.
+                In his 70s, he is still fit and healthy and has a sharp mind.
+            </para>
+            <para>
+                Though he trained as a warrior in his younger years, he has also studied
+                the magic arts and has some skill at magic, notably of Air. His wife
+                <qv uri="wilburg-grey-lady">Lady Wilburg</qv>, also known as the
+                <e>Grey Lady</e>, is also a sorceress, though a far more capable one that
+                her husband. Her speciality is spirit magic, and it is said she can see
+                directly into the hearts of men.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+

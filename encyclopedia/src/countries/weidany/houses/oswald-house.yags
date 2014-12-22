@@ -41,7 +41,7 @@
         <topics>
             <subject uri="oswald-house">Oswald, Noble House</subject>
 
-            <category>Nobles</category>>
+            <category>Nobles</category>
 
             <topic uri="weidany">Weidany</topic>
             <topic uri="habisfern">Habisfern</topic>
@@ -64,8 +64,9 @@
                 Its central family is quite secretive in its ambitions,
                 goals and actions, and tends to stay away from a lot of
                 the political manoeuvring in the royal court. The head
-                of the House, Ealdorman Eadric is reputed to be a wizard,
-                as well as a capable warrior and noble.
+                of the House, <qv uri="ealdorman-eadric">Ealdorman Eadric</qv>
+                is reputed to be a wizard, as well as a capable warrior and
+                noble.
             </para>
 
             <sect2>
