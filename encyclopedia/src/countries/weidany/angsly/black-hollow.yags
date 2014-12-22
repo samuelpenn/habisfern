@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Black Hollow</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="black-hollow">Black Hollow</subject>
+
+            <category>Towns</category>
+
+            <topic uri="angsly-shire">Angsly</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+
+    </header>
+
+    <body>
+        <sect1>
+            <title>Black Hollow</title>
+
+            <para>
+                Black Hollow is a small town on the edge of the
+                <qv uri="angsly-barrows">Angsly Barrows</qv> with a population of
+                about 1,200. Located in the clef between two hills, it was once the
+                site of a tangled copse of trees which hid the settlement from view
+                (and sunlight). The last of the copse was cleared decades ago though,
+                and the town no longer lives up to its name.
+            </para>
+            <para>
+                As well as being the market town for the surrounding farms and villages
+                in the fields to the south, the few farmsteads in the <e>Barrens</e>
+                consider Black Hollow to be their local market.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+
