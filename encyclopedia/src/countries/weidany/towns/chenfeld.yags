@@ -36,7 +36,7 @@
         <topics>
             <subject uri="chenfeld">Chenfeld</subject>
 
-            <category>Towns</category>>
+            <category>Towns</category>
 
             <topic uri="northmarch-shire">Northmarch</topic>
             <topic uri="habisfern">Habisfern</topic>
@@ -63,9 +63,10 @@
                 its food.
             </para>
             <para>
-                The most notable buildings are those of the castle, and the
-                temples to Haltan and Neya. The two temples sit opposite
-                each other across a pool considered sacred to the gods.
+                The most notable buildings are those of the castle, and the temples
+                to <qv uri="haltan">Haltan</qv> and <qv uri="neya">Neya</qv>. The
+                two temples sit opposite each other across a pool considered sacred
+                to the gods.
             </para>
         </sect1>
     </body>
