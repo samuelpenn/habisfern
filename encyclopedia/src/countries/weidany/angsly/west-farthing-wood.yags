@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>West Farthing Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="west-farthing-wood">West Farthing Wood</subject>
+
+            <category>Woods</category>
+
+            <topic uri="angsly-shire">Angsly</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+
+    </header>
+
+    <body>
+        <sect1>
+            <title>West Farthing Wood</title>
+
+            <para>
+                A wood in the west of <qv uri="angsly-shire">Angsly</qv>. They
+                were once part of a larger woodland, but have been cut back
+                as human settlements have encroached upon them.
+            </para>
+            <para>
+                The woods here are full of red deer, and considered to be the
+                property of the lord of <qv uri="mirkford">Mirkford</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+
