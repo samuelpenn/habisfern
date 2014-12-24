@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Harnsey</title>
+        <title>Paendley</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -33,7 +33,7 @@
         </references>
 
         <topics>
-            <subject uri="harnsey">Harnsey</subject>
+            <subject uri="paendley">Paendley</subject>
 
             <category>Towns</category>
 
@@ -42,18 +42,23 @@
             <topic uri="weidany">Weidany</topic>
             <topic uri="euressa">Euressa</topic>
         </topics>
-
     </header>
 
     <body>
         <sect1>
-            <title>Harnsey</title>
+            <title>Paendley</title>
 
             <para>
-                A couple of leagues southwest of <qv uri="stanminster">Stanminster</qv>
-                is the market town of <e>Harnsey</e>, with a population of 900. It is
-                on the road that leads from <qv uri="stanminster">Stanminster</qv> to
-                <qv uri="holbury">Holbury</qv>.
+                Paendley is a town of about 650 people on the south eastern edge
+                of the <qv uri="angsly-east-hidings">East Hidings</qv>, near the
+                <qv uri="foxdales-ridge">Foxdales</qv>. It is a poor town that
+                is badly managed, many of its buildings being in need of repair.
+            </para>
+            <para>
+                The townsfolk have a reputation for laziness and a generally bad
+                attitude towards strangers. Legends say that a curse was laid
+                upon the town fifty years ago by a woman who was mistreated by
+                the folk here when she came looking for aid.
             </para>
         </sect1>
     </body>
