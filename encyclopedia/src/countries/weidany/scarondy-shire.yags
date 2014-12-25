@@ -36,14 +36,13 @@
         <topics>
             <subject uri="scarondy-shire">Scarondy Shire</subject>
 
-            <category>Shires</category>>
+            <category>Shires</category>
 
             <topic uri="scarondy-shire">Scarondy Shire</topic>
             <topic uri="habisfern">Habisfern</topic>
             <topic uri="weidany">Weidany</topic>
             <topic uri="euressa">Euressa</topic>
         </topics>
-
     </header>
 
     <body>
@@ -53,14 +52,23 @@
             <para>
                 Scarondy is a large shire in the north of Weidany, occupying
                 many of the lands originally claimed by the Druids of
-                <qv uri="danuch">Danuch</qv>. The lands were cursed by the
-                Druids, and abandoned, so Scarondy didn't waste much time
-                claiming them for its own.
+                <qv uri="danuch">Danuch</qv>. There was a schism amongst the
+                Druids in the 10th century, and the Arch Druid cursed the lands
+                in southern Danuch in 965, blighting the woods and afflicting the
+                people with a plague. The lands were abandoned, and the powers of
+                those who opposed the Arch Druid were broken.
             </para>
-
+            <para>
+                Nobles in <qv uri="weidany">Weidant</qv> were quick to take advantage
+                of the situation, and laid claim to the lands within a few decades.
+                There was little opposition, except from the land itself which was
+                still suffering the blight of the Druids.
+            </para>
             <para>
                 Though one of the largest shires, Scarondy has quite a low
-                population.
+                population, with a density only a fraction of that in the rest of
+                Weidany. It is possible to travel leagues seeing nothing but
+                wilderness and ancient abandoned villages.
             </para>
         </sect1>
 
