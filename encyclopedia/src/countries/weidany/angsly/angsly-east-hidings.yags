@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Angsly East Hidings</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="angsly-west-hidings">West Hidings</see>
+        </references>
+
+        <topics>
+            <subject uri="angsly-shire">Angsly Shire</subject>
+
+            <category>Places</category>
+
+            <topic uri="angsly-shire">Angsly Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Angsly East Hidings</title>
+
+            <para>
+                The <e>Hidings</e> is a region of dense farmland in central
+                <qv uri="angsly-shire">Angsly</qv>, which is divided into eastern
+                and western halves. <e>East Hidings</e> is dominated by
+                <qv uri="stanminster">Stanminster</qv>, and has a higher population
+                density and better quality of land.
+            </para>
+            <para>
+                The borders between farms tends to consist of orchards which are
+                almost all owned by the <qv uri="oswald-house">House of Oswald</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

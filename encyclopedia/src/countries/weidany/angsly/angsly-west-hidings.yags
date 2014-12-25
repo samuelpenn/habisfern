@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Angsly West Hidings</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="angsly-east-hidings">East Hidings</see>
+        </references>
+
+        <topics>
+            <subject uri="angsly-shire">Angsly Shire</subject>
+
+            <category>Places</category>
+
+            <topic uri="angsly-shire">Angsly Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Angsly West Hidings</title>
+
+            <para>
+                The <e>Hidings</e> is a region of dense farmland in central
+                <qv uri="angsly-shire">Angsly</qv>, which is divided into eastern
+                and western halves. <e>West Hidings</e> is dominated by
+                <qv uri="mirkford">Mirkford</qv>, and has lower quality soil than
+                the east. The north rises up to the <qv uri="angsly-barrens">Barrens</qv>,
+                and the landscape is cut by numerous small streams.
+            </para>
+            <para>
+                There are few trees in the <e>West Hidings</e>, with a bigger proportion
+                of the land given over to pasture.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
