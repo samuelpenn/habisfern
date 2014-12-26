@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Lady's Bog</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="ladys-bog">Lady's Bog</subject>
+
+            <category>Marshes</category>
+
+            <topic uri="angsly-shire">Angsly Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Lady's Bog</title>
+
+            <para>
+                A bowl-like depression in eastern <qv uri="angsly">Angsly</qv>
+                which has formed a bog about a league across. The ground is
+                sodden all year round, though there is little open water. Near
+                the centre of the depression is a small copse of trees where
+                dwells <e>The Brown Lady</e>, a faerie creature that claims
+                ownership of the region.
+            </para>
+            <para>
+                She often appears as a middle aged woman with dark hair and mottled
+                skin. She is normally naked, but covered in mud, dirt or even growing
+                grasses that hides much of her skin. She has been known to provide
+                aid in the form of healing during the summer, but in winter months is
+                is more often than not cruel and capricious, taking the form of the
+                bog itself to hunt and slay those who trespass on her land.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
