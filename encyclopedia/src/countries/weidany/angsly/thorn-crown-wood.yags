@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Thorn Crown Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="thorn-crown-wood">Thorn Crown Wood</subject>
+
+            <category>Woods</category>
+
+            <topic uri="angsly-shire">Angsly Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Thorn Crown Wood</title>
+
+            <para>
+                East of the <qv uri="foxdales">Foxdales</qv> in <qv uri="angsly">Angsly</qv>
+                is <e>Thorn Crown Wood</e>, a thick forest that stands on a rise overlooking
+                the <qv uri="langly-river">Langly  River</qv>. From the south and east it
+                stands some couple of hundred metres above the rest of the landscape.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
