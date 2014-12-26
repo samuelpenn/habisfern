@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Foxdales</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="foxdales">Foxdales</subject>
+
+            <category>Hills</category>
+
+            <topic uri="angsly-shire">Angsly Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Foxdales</title>
+
+            <para>
+                The <e>Foxdales</e> are a ridge of hills that mark the eastern
+                edge of the <qv uri="angsly-east-hidings">Hidings</qv>. It's a
+                granite ridge almost a kilometre high in places, consisting of
+                tall cliffs and scree filled steep sided gulleys. Travel across
+                it is difficult, and requires climbing rather than simply walking.
+            </para>
+            <para>
+                There are a few gentler valleys in the northern parts of the
+                Foxdales, where they are lower compared to the surrounding
+                terrain. Goats and smaller animals (including foxes) are common
+                in the north, though in the south there are at least two nests
+                of <qv uri="wyverns">Wyverns</qv> in the higher cliffs.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
