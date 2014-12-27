@@ -48,11 +48,11 @@
             <title>Astrology</title>
 
             <para>
-                The night sky of Eorthe is filled with both stars and wanderers.
-                The stars are fixed in place against the heavens, though the
-                heavens themselves rotate around Eorthe once a day. The
-                brightest stars form patterns in the sky, which are imprints
-                left by the gods to mark events in the lifetime of the world.
+                The night sky of <qv uri="eorthe">Eorthe</qv> is filled with both
+                stars and wanderers. The stars are fixed in place against the heavens,
+                though the heavens themselves rotate around Eorthe once a day. The
+                brightest stars form patterns in the sky, which are imprints left
+                by the gods to mark events in the lifetime of the world.
             </para>
             <para>
                 The wanderers are stars which are not fixed, but moved about
@@ -74,6 +74,21 @@
                     These two wanderers are said to be twins who court the
                     Sun, trying to win him with their brightness and beauty.
                 </para>
+                <para>
+                    The brightest of the stars is the <qv uri="gem-star">Gem Star</qv>,
+                    which shines with a blue-white light. It moves backwards sometimes
+                    in the sky, and moves across the sky faster than the dimmer
+                    wanderers.
+                 </para>
+                 <para>
+                    The <qv uri="old-man">Old Man</qv> is a bright star, though it's
+                    light is less harsh than that of the Gem.
+                 </para>
+                 <para>
+                    The <qv uri="flock-star">Flock</qv> is a broken star made up of
+                    many parts. It is quite dim, but to a keen eyed star gazer many
+                    spots of light can be seen around it.
+                 </para>
             </sect2>
             <sect2>
                 <title>Important Stars</title>
