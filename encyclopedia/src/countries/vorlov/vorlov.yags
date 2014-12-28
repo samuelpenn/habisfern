@@ -37,7 +37,7 @@
         <topics>
             <subject uri="vorlov">Vorlov</subject>
 
-            <category>Countries</category>>
+            <category>Countries</category>
 
             <topic uri="euressa">Euressa</topic>
             <topic uri="northern-kingdoms">Northern Kingdoms</topic>
@@ -54,12 +54,22 @@
             </import-map>
 
             <para>
-                Vorlov is a highly mountainous peninsula in the far
-                north east of Euressa. It has little in the way of
-                organised kingdoms, though a small number of settlements
-                are found there. Much of the region is covered in ice,
-                and its people are distrusted since it is said that they
-                have given their allegience to the Powers of the Ice.
+                <e>Vorlov</e> is the barrier between <qv uri="euressa">Euressa</qv>
+                and northern <qv uri="gyla">Gyla</qv>. Much of the land consists of
+                the <qv uri="vorlov-mountains">Vorlov Mountains</qv>, known also as
+                <e>Ice Wall</e> in the <qv uri="northern-kingdoms">Northern Kingdoms</qv>.
+            </para>
+            <para>
+                The humans that live on the south side of the mountains are highly
+                independent families that have no desire to live under the rule of
+                Kings or Lords. For the most part they keep to themselves, though some
+                of them take to raiding. Many are worshippers of <qv uri="retha">Retha</qv>
+                the Ice Maiden or <qv uri="ort">Ort</qv> in his guise of independent
+                wanderer.
+            </para>
+            <para>
+                On the northern side of the mountains dwell those who have made
+                promises to the Ice. Those that are not dead command those who are.
             </para>
         </sect1>
     </body>
