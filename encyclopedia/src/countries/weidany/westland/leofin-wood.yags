@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Leofin Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="leofin-wood">Leofin Wood</subject>
+
+            <category>Woods</category>
+
+            <topic uri="westland-shire">Westland Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Leofin Wood</title>
+
+            <para>
+                A small dense woodland in Westland Shire on the floodplain of the
+                <qv uri="grenwid-river">Grenwid River</qv>. The wood is haunted by
+                several fey spirits that bless the trees there with great growth
+                and beauty. Venturing into the woods with intent to harm them or the
+                creatures within is likely to bring the ire of the spirits down
+                upon you. However, it is believed that the fertility of the region
+                will bless those that try to conceive within the woods during the
+                summer days, and it is not uncommon for childless couples to go
+                into the woods for sex.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
