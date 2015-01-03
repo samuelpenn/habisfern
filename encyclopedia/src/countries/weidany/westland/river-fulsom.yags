@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Hemmy River</title>
+        <title>River Fulsom</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license type="Yags">
-            <year>2004</year>
+            <year>2015</year>
             <holder>Samuel Penn</holder>
             <text>
                 This document can be redistributed and/or modified
@@ -33,7 +33,7 @@
         </references>
 
         <topics>
-            <subject uri="hemmy-river">Hemmy River</subject>
+            <subject uri="river-fulsom">River Fulsom</subject>
 
             <category>Rivers</category>
 
@@ -46,20 +46,13 @@
 
     <body>
         <sect1>
-            <title>Hemmy River</title>
+            <title>River Fulsom</title>
 
             <para>
-                River in <qv uri="westland-shire">Westland</qv> which
-                empties into Stowell Bay at <qv uri="stowell">Stowell</qv>.
-                It is fed from the <qv uri="inling-river">Inling
-                River</qv>, as well as other minor tributaries.
-            </para>
-
-            <para>
-                It is a deep and wide river, and difficult to cross.
-                A major crossing point is at
-                <qv uri="hemmysford">Hemmysford</qv>, where a great
-                stone bridge has been constructed.
+                A tributary of the <qv uri="hemmy-river">Hemmy River</qv>, it joins the
+                larger river just upstream of <qv uri="leofin-wood">Leofin Wood</qv>.
+                It's source is in the highlands of the
+                <qv uri="ashfold-forest">Ashfold Forest</qv>.
             </para>
         </sect1>
     </body>
