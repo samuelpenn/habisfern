@@ -35,7 +35,7 @@
         <topics>
             <subject uri="talmoth-shire">Talmoth Shire</subject>
 
-            <category>Kingdoms</category>>
+            <category>Kingdoms</category>
             <topic uri="talmoth-shire">Talmoth Shire</topic>
             <topic uri="weidany">Weidany</topic>
             <topic uri="habisfern">Habisfern</topic>
@@ -46,7 +46,7 @@
     <body>
         <sect1>
             <title>Kingdom of Talmoth</title>
-            
+
             <para>
                 The Kingdom of Talmoth was one of the precursor kingdoms 
                 that existed before Weidany had been united under a 
@@ -59,7 +59,7 @@
                 Talmoth was famed for its great shire horses and had one 
                 of the few mounted armies. The use of horse in combat 
                 gradually reduced over time however, as the identity of 
-                the original tribes was absorbed into the Rornic culutre 
+                the original tribes was absorbed into the Rornic culture
                 that replaced it after the conquests.
             </para>
         </sect1>

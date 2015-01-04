@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Heath Castle</title>
+        <title>Ashfold Forest</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license type="Yags">
-            <year>2004</year>
+            <year>2015</year>
             <holder>Samuel Penn</holder>
             <text>
                 This document can be redistributed and/or modified
@@ -33,33 +33,33 @@
         </references>
 
         <topics>
-            <subject uri="heath-castle">Heath Castle</subject>
+            <subject uri="ashfold-forest">Ashfold Forest</subject>
 
-            <category>Castles</category>
+            <category>Woods</category>
+
             <topic uri="talmoth-shire">Talmoth Shire</topic>
             <topic uri="weidany">Weidany</topic>
-            <topic uri="habisfern">Euressa</topic>
             <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
         </topics>
     </header>
 
     <body>
         <sect1>
-            <title>Heath Castle</title>
+            <title>Ashfold Forest</title>
 
             <para>
-                Heath castle was originally built in the sixth century, 
-                though has been rebuilt many times in the intervening 
-                centuries. The current castle is a sprawling stone 
-                construction along the western edge of the original hill fort.
+                Ashfold Forest covers the western end of the
+                <qv uri="talmoth-hills">Talmoth Hills</qv>, spilling out of
+                <qv uri="talmoth-shire">Talmoth</qv> into the plains of
+                <qv uri="westland-shire">Westland</qv>. As it's name suggests, it
+                consists primarily of ash trees, but has a mixture of other types
+                as well.
             </para>
-
             <para>
-                The town that has grown up around it is tightly packed 
-                onto the hill top. The streets are narrow, twisted and 
-                generally short. There used to be a stone wall which 
-                surrounded the town, but this was outgrown a couple of 
-                centuries back, and is now in a state of disrepair.
+                The upper parts of the forest cover the hills of Talmoth, and are
+                filled with bears, cave lions and wolves. Deer and boar are more
+                common in the lower reaches, as are human hunters and travellers.
             </para>
         </sect1>
     </body>
