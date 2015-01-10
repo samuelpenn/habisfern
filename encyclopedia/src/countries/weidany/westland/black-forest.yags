@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Black Forest</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="black-forest">Black Forest</subject>
+
+            <category>Woods</category>
+
+            <topic uri="westland-shire">Westland Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Black Forest</title>
+
+            <para>
+                The <e>Black Forest</e> is the name given to the southern edge of the
+                forests of <qv uri="merkia-shire">Merkia</qv>. Those of Merkia itself
+                have no special name of the thick woods that cover the western coast,
+                for them everywhere is forest so it needed no special name. These days
+                the term <e>Black Forest</e> is sometimes applied to all of it, though
+                different parts may have their own names.
+            </para>
+            <para>
+                For the <e>Black Forest</e> itself, the land is relatively flat but
+                high enough to be devoid of swamps. There is a gradual shift from
+                light woodland to thick forest as it progresses north along the coast,
+                just as the likelihood of finding population goes down. There are a
+                few settlements on the civilised side of the
+                <qv uri="river-dywell">River Dywell</qv>.
+            </para>
+            <para>
+                It is thought that the name of the forest comes from a misunderstanding
+                of a Weidanic name meaning obscure, which can also been black or dark.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

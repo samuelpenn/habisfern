@@ -36,7 +36,7 @@
         <topics>
             <subject uri="merkia">Merkia</subject>
 
-            <category>Countries</category>>
+            <category>Countries</category>
 
             <topic uri="merkia">Merkia</topic>
             <topic uri="weidany">Weidany</topic>
@@ -68,9 +68,9 @@
 
             <para>
                 It is the greatest threat to the new Kingdom since its
-                inception. However, though much territory is intially lost,
+                inception. However, though much territory is initially lost,
                 the discipline and greater organisation of the Kingdom's
-                armies eventuall turns the tied, and in 1057, a truce is
+                armies eventually turns the tide, and in 1057, a truce is
                 signed wherein the country of Merkia becomes part of the
                 Kingdom. It is split into two shires - that of
                 <qv uri="merkia-shire">Merkia</qv> and
@@ -135,7 +135,6 @@
             </sect2>
         </sect1>
     </body>
-
 </article>
 
 
