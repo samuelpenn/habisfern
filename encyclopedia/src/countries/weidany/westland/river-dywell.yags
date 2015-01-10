@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>River Dywell</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="river-dywell">River Dywell</subject>
+
+            <category>Rivers</category>
+
+            <topic uri="westland-shire">Westland Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <!-- Dywell: black, dark, obscure (Weidanic) -->
+
+    <body>
+        <sect1>
+            <title>River Dywell</title>
+
+            <para>
+                A river in the <qv uri="black-forest">Black Forest</qv> that often marks
+                the boundary between civilised (to the southeast) and uncivilised (to the
+                northwest) parts of the forest.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
