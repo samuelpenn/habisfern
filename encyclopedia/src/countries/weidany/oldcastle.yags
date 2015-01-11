@@ -28,7 +28,7 @@
         </license>
 
         <style name="module"/>
-        
+
         <campaign>
             <date>731, Spring</date>
         </campaign>
@@ -39,7 +39,7 @@
         <topics>
             <subject uri="oldcastle">Old Castle</subject>
 
-            <category>Ruins</category>>
+            <category>Ruins</category>
 
             <topic uri="merkia-shire">Merkia Shire</topic>
             <topic uri="weidany">Weidany</topic>
@@ -51,14 +51,13 @@
     <body>
         <sect1>
             <title>Old Castle</title>
-            
+
             <para>
                 Hidden in the western parts of the 
-                <qv uri="trollwatch">Troll Watch</qv> are
+                <qv uri="troll-watch">Troll Watch</qv> are
                 the ruins of an old hill fort, built during the 
                 migration wars.
             </para>
-            
             <para>
                 The fort is a hundred metres across at its widest
                 point, and the top of its walls are about fifty
@@ -67,22 +66,20 @@
                 the hill walls, though numerous gaps in their length
                 reduce the defensive capability considerably.
             </para>
-            
             <para>
                 A stone keep stands on the top of the hill, and this
                 is still in reasonable condition.
             </para>
-            
+
             <sect2>
                 <title>Inhabitants</title>
-                
+
                 <para>
                     A small group of outlaws currently have residence
                     here. They are left alone by the Kingdom, since
                     there are far worse things living in the Troll
                     Watch than this lot, who mostly keep to themselves.
                 </para>
-                
                 <para>
                     Penda the Mouse is in charge. A small, wiry man
                     who's appearance gave him his name. He is a

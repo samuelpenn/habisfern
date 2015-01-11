@@ -37,7 +37,7 @@
         <topics>
             <subject uri="merrik-shire">Merrik Shire</subject>
 
-            <category>Shires</category>>
+            <category>Shires</category>
 
             <topic uri="merrik-shire">Merrik Shire</topic>
             <topic uri="habisfern">Habisfern</topic>
@@ -60,7 +60,6 @@
                 three kingdoms of Merrik, Angsley and Perrin which
                 finally led to the formation of the Kingdom of Weidany.
             </para>
-
             <para>
                 The shire capital is <qv uri="abbyton">Abbyton</qv>, which
                 is the seat of power of Ealdorman Madog, head of the
@@ -68,14 +67,12 @@
                 descended from the old Kings of Merrik, and nobles of
                 this blood line are well represented within the shire.
             </para>
-
             <para>
-                The shire lands are bordered by the <qv uri="trollwatch">
-                Troll Watch</qv> and <qv uri="entwood">Entwood</qv> in the
+                The shire lands are bordered by the <qv uri="troll-watch">
+                Troll Watch</qv> and <qv uri="ent-wood">Entwood</qv> in the
                 south and west (the Teal River is the official border), and
                 the Meecham Wood to the north.
             </para>
-
             <para>
                 The central highlands are fertile and well populated,
                 with small farms and hamlets being the norm. Manors
@@ -85,7 +82,6 @@
                 though are rarely serious.
             </para>
         </sect1>
-
     </body>
 
 </article>

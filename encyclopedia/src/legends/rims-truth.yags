@@ -34,7 +34,7 @@
         <topics>
             <subject uri="rims-truth">Rim's Truth</subject>
 
-            <category>Arms</category>>
+            <category>Arms</category>
 
             <topic uri="habisfern">Habisfern</topic>
         </topics>
@@ -56,7 +56,7 @@
                 Butcher, a warrior thegn who lived in Northwood during the
                 previous century. He was an infamous warrior, noted for his
                 refusal to ever accept a surrender. The shield,
-                <e>Strong Arm</e>, was lost in the <qv uri="trollwatch">
+                <e>Strong Arm</e>, was lost in the <qv uri="troll-watch">
                 Troll Watch</qv> while Cerodorn was hunting trolls. It has
                 not been seen since, and it is believed destroyed.
             </para>

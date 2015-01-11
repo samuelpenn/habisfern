@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Ent Wood</title>
+        <title>Troll Watch</title>
         <tagline>Habisfern</tagline>
 
         <slugline></slugline>
@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license type="Yags">
-            <year>2003</year>
+            <year>2002</year>
             <holder>Samuel Penn</holder>
             <text>
                 This document can be redistributed and/or modified
@@ -28,22 +28,19 @@
         </license>
 
         <style name="module"/>
-        
+
         <campaign>
             <date>731, Spring</date>
         </campaign>
 
         <references>
-            <see uri="ents">Ents</see>
-            <see uri="trollwatch">Troll Watch</see>
         </references>
 
         <topics>
-            <subject uri="entwood">Ent Wood</subject>
+            <subject uri="troll-watch">Troll Watch</subject>
 
             <category>Woods</category>
 
-            <topic uri="merrik-shire">Merrik Shire</topic>
             <topic uri="merkia-shire">Merkia Shire</topic>
             <topic uri="weidany">Weidany</topic>
             <topic uri="euressa">Euressa</topic>
@@ -53,28 +50,29 @@
 
     <body>
         <sect1>
-            <title>The Ent Wood</title>
+            <title>The Troll Watch</title>
 
             <para>
-                The Ent Wood is home to the <qv uri="ents">Ents</qv>. Ent is
-                an old word meaning <e>giant</e>, and the race who live here
-                are giants of men, some up to three metres in height. The
-                Ents consider these woods their home, and no one of the race
-                of man have tried to take it away from them in living memory.
+                Stretched along the eastern side of the shire of Merkia
+                is a region of thick woodland known as the Troll Watch.
+                It is said by some that the place is named so, since any
+                who travel within it must always watch for trolls. Others
+                say that it is the trolls that watch mankind, reporting
+                back to a king of trolls deep in the woods.
+            </para>
+            <para>
+                In any case, trolls are common. They occasionally raid
+                beyond the woods, but for the most part prefer the
+                darkness of the woods. Several forays into the woods to
+                hunt down and wipe out the trolls have been made, but
+                all have met with disaster. It may be that there is a 
+                controlling mind behind the actions of the trolls, for
+                if seriously threatened, they begin to act together
+                for the defence of their home.
             </para>
 
             <para>
-                The woods are thick and unexplored by man, though it is
-                thought to be lacking in the presence of elfs and other fey
-                creatures. There is a single major human settlement here,
-                called <qv uri="enting">Enting</qv>, but beyond that even
-                woodsmen and outlaws tend to stay away.
-            </para>
-
-            <para>
-                The Ent Wood borders onto the <qv uri="trollwatch">Troll
-                Watch</qv>, though few trolls venture into the Ent Wood,
-                for they are not wanted.
+                The most common trolls here are the hairy kind.
             </para>
         </sect1>
     </body>

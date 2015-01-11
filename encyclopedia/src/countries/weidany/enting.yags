@@ -40,7 +40,7 @@
         <topics>
             <subject uri="enting">Enting</subject>
 
-            <category>Towns</category>>
+            <category>Towns</category>
 
             <topic uri="merkia-shire">Merkia Shire</topic>
             <topic uri="weidany">Weidany</topic>
@@ -54,7 +54,7 @@
             <title>Enting</title>
 
             <para>
-                A small town in the <qv uri="entwood">Ent Wood</qv>, with
+                A small town in the <qv uri="ent-wood">Ent Wood</qv>, with
                 a population of about 300. A few Ents dwell here as well,
                 though mostly on a temporary basis.
             </para>

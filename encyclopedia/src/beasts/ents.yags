@@ -31,13 +31,13 @@
 
         <references>
             <see uri="ent-stones">Ent Stones</see>
-            <see uri="entwood">Ent Wood</see>
+            <see uri="ent-wood">Ent Wood</see>
         </references>
 
         <topics>
             <subject uri="ents">Ents</subject>
 
-            <category>Races</category>>
+            <category>Races</category>
 
             <topic uri="habisfern">Habisfern</topic>
         </topics>
@@ -54,7 +54,6 @@
                 up to two and a half metres in height, with a build
                 to match.
             </para>
-            
             <para>
                 If given a cause to fight, they are fearsome warriors,
                 and took part in the wars between the fledgling Kingdom
@@ -63,7 +62,6 @@
                 between the Kingdom and the Ents has been very cool
                 since then.
             </para>
-            
             <para>
                 Most consider them to be untrustworthy and dangerous, and
                 they have been known to raid human villages when the
@@ -71,7 +69,6 @@
             </para>
         </sect1>
     </body>
-
 </article>
 
 
