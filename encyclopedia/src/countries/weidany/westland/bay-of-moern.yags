@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Bay of Moern</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="bay-of-moern">Bay of Moern</subject>
+
+            <category>Seas</category>
+
+            <topic uri="westland-shire">Westland Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Bay of Moern</title>
+
+            <para>
+                Named for the sea god <qv uri="moern">Moern</qv>, the bay is over
+                ten leagues across, and has a number of smaller bays along its
+                shores and a couple of major rivers empty into it.
+            </para>
+            <para>
+                The two major towns of <qv uri="stowell">Stowell</qv> and
+                <qv uri="ornmouth">Ornmouth</qv> control the bay, and it is the
+                main trade hub for overseas trade for the Kingdom.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
