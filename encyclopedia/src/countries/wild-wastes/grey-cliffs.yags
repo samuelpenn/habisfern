@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Grey Cliffs</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="grey-cliffs">Grey Cliffs</subject>
+
+            <category>Hills</category>
+
+            <topic uri="wild-wastes">Wild Wastes</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Grey Cliffs</title>
+            <para>
+                Located in the <qv uri="wild-wastes">Wild Wastes</qv>, the Grey Cliffs are
+                a long line of steep cliffs that range from two hundred to five hundred metres
+                in height. The rock face is fragile and crumbling, making climbing them
+                dangerous, and even walking along their base can lead to being crushed by
+                falling stone.
+            </para>
+            <para>
+                It is thought that the cliffs are receding by as much as a metre a year in
+                places, leaving behind a wasteland of broken rock.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
