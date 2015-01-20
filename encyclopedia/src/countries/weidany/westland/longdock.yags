@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Longdock</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="longdock">Longdock</subject>
+
+            <category>Towns</category>>
+
+            <topic uri="westland-shire">Westland</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Longdock</title>
+
+            <para>
+                At the mouth of the <qv uri="river-dywell">River Dywell</qv> in the
+                <qv uri="black-forest">Black Forest</qv>, Longdock is a small town
+                with a population of about 1,200. With good access to the sea, and
+                a good supply of quality wood, Longdock is known for its shipbuilding.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+

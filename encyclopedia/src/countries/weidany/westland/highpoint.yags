@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Highpoint</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="highpoint">Highpoint</subject>
+
+            <category>Towns</category>>
+
+            <topic uri="westland-shire">Westland</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Highpoint</title>
+
+            <para>
+                Highpoint is a town of 900 people set ontop of cliffs overlooking
+                the <qv uri="bay-of-moern">Bay of Moern</qv>. With cliffs bordering
+                three sides of the town, it is a highly defensible headland that
+                used to include a natural bridge that jutted out over the bay where
+                a small keep was located. The bridge collapsed back in the late 11th
+                century, leaving just a stump, and the keep has fallen into disuse.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+
