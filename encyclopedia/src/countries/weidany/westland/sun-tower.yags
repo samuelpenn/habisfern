@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Sun Tower</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="sun-tower">Sun Tower</subject>
+
+            <category>Temples</category>>
+
+            <topic uri="westland-shire">Westland</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Sun Tower</title>
+
+            <para>
+                Located about three leagues east of <qv uri="stowell">Stowell</qv>,
+                the <e>Sun Tower</e> is one of the few temples dedicated to the god
+                <qv uri="bis">Bis</qv>. The tower is of stone, about twelve metres
+                tall with a glass domed top that focuses the light of the sun into
+                the room beneath. The floor of the room is covered in symbols, and
+                the position of the sun marks out hints about the future.
+           </para>
+           <para>
+                The priests here are all male - warriors who guard the tower against
+                anyone else entering. Within the room at the top is kept the one
+                woman who is permitted within the tower - a young girl known as the
+                Speaker, who represents <qv uri="gyltith">Gyltith the Sorrowful</qv>.
+                The High Priest is the only one who speaks with her, and interprets
+                her visions for those outside.
+           </para>
+        </sect1>
+    </body>
+</article>
+
+
+
