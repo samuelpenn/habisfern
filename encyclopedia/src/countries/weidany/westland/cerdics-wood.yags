@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Cerdic's Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="cerdics-wood">Cerdic's Wood</subject>
+
+            <category>Woods</category>
+
+            <topic uri="westland-shire">Westland Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Cerdic's Wood</title>
+
+            <para>
+                Part of the <qv uri="black-forest">Black Forest</qv> where it
+                borders on <qv uri="merkia-shire">Merkia</qv>, <e>Cerdic's Wood</e>
+                covers a once inhabited region of low ground south of the
+                <qv uri="bleesdale">Bleesdale Hills</qv>. Within the woods are
+                the ruined remains of a small town of rotting long houses whose
+                name has long since been forgotten.
+            </para>
+            <para>
+                In 1163, an outlaw by the name of Cerdic moved here with his band
+                of brigands and followers. He was a cultist of <qv uri="meam">Meam</qv>,
+                and said to have incredibly charismatic. He was also sadistic and
+                violent, and caused considerable terror to the settlements outside
+                of the woods. There were a few attempts to dislodge him, but his
+                cult was too well defended to ever wipe out completely. A few
+                'successful' raids against them culled their numbers, but never
+                dislodged them.
+            </para>
+            <para>
+                In 1181 Cerdic is said to have died, possibly by his own hand, and his
+                cult fell apart in bickering and violence. However, his spirit is said
+                to live on, as a wraith dwelling amongst the old ruins.
+            </para>
+            <para>
+                In 1226 there were signs of new inhabitants in the ruins, and now
+                there is a new cult of the god of hate and anger. This time, it is
+                led by two sisters - Wilhild and Wilburg - both said to be mad,
+                depraved and incredibly violent. They are feared by the few dozen
+                followers that they control, and viscious and sadistic attacks on
+                nearby villages have begun again.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
