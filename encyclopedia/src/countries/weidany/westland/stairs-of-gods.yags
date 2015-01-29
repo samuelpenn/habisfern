@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Stairs of the Gods</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="stairs-of-gods">Stairs of the Gods</subject>
+
+            <category>Temples</category>>
+
+            <topic uri="westland-shire">Westland</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Stairs of the Gods</title>
+
+            <para>
+                Considered to be a holy place dedicated to their god by the priests
+                of <qv uri="haltan">Haltan</qv>, the <e>Stairs of the Gods</e> is
+                an ancient monument that consists of thirteen 'steps', each about
+                one metre taller than the one before it and about half a metre
+                apart. Each step is a pillar of rock about a metre on a side, with
+                the tallest being about twelve metres in height above the ground.
+            </para>
+            <para>
+                Some distance from the stairs is a small hamlet which is dominated
+                by the priests and their families. The priests, which form the
+                <qv uri="order-of-rocks">Order of the Rocks</qv>, forbid anyone
+                other than themselves from climbing the stairs. They say that they
+                were placed there by Haltan when he needed to look over the
+                nearby hills. Now, the stairs allow you to look far further.
+            </para>
+            <para>
+                Climbing the stairs to the top on a clear, moonless, night allows
+                you to see visions of a gigantic stone city which are said to aid
+                in moral choices. The city that is seen differs from season to
+                season, being older and more ruined in the winter than in the
+                summer. Sometimes, it is possible to step from the top stair into
+                the buildings nearby which probably exist in the
+                <qv uri="dreamlands">Dreamlands</qv>.
+            </para>
+            <para>
+                The journey can only be made during the new moon, and the return
+                journey must be made during the same moon in a subsequent year.
+                Time in this dream is said to flow differently though, and the
+                year can pass in but a month during the dream. Those who step
+                through during different moons will never meet.
+            </para>
+            <para>
+                Long ago, the stairs were used as a form of banishment, but such
+                practise has not been carried out for over a hundred years.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+
