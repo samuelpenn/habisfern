@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Blaberen Wood</title>
+        <title>River Shard</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -33,9 +33,9 @@
         </references>
 
         <topics>
-            <subject uri="blaberen-wood">Blaberen Wood</subject>
+            <subject uri="river-shard">River Shard</subject>
 
-            <category>Woods</category>
+            <category>Rivers</category>
 
             <topic uri="westland-shire">Westland Shire</topic>
             <topic uri="weidany">Weidany</topic>
@@ -46,20 +46,14 @@
 
     <body>
         <sect1>
-            <title>Blaberen Wood</title>
+            <title>River Shard</title>
 
             <para>
-                A small area of woodland that grows on the southern slopes of
-                <qv uri="westing-moor">Westing Moor</qv> in <qv uri="westland-shire">Westland</qv>.
-                It is made up of areas of heath encircled by trees mostly of birch and beech.
-                A few small farmsteads can be found within the woods, and deer and boar are
-                often hunted here.
-            </para>
-            <para>
-                In the hours before dawn, during the autumn, it is claimed that unintelligible
-                voices can be heard whispering amongst the treetops. Local tales say that they
-                are the voices of women who vanished into the woods hundreds of years ago, who
-                are still trying to find their way home.
+                A tributary of the <qv uri="hemmy-river">Hemmy River</qv>, it flows out
+                of the eastern hills of <qv uri="westing-moor">Westing Moor</qv> and
+                joins the larger river in a series of waterfalls. A set of stairs have
+                been carved into the cliffs here, to allow portage of small boats
+                from one river to the other.
             </para>
         </sect1>
     </body>
