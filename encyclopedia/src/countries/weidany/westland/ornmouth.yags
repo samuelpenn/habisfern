@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Hemmysford</title>
+        <title>Ornmouth</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -34,9 +34,9 @@
         </references>
 
         <topics>
-            <subject uri="hemmysford">Hemmysford</subject>
+            <subject uri="ornmouth">Ornmouth</subject>
 
-            <category>Towns</category>>
+            <category>Towns</category>
 
             <topic uri="westland-shire">Westland</topic>
             <topic uri="habisfern">Habisfern</topic>
@@ -48,33 +48,15 @@
 
     <body>
         <sect1>
-            <title>Hemmysford</title>
+            <title>Ornmouth</title>
 
             <para>
-                Town in the shire of Westland in Weidany on the river
-                Hemmy, about ten leagues from the capital of
-                <qv uri="stowell">Stowell</qv>. It was the site of the first
-                major battle between the Brytelanders and the Kingdom of
-                Westland in 912, when King Offa of Westland was defeated.
-                It was eventually retaken later that year.
-            </para>
-
-            <para>
-                A lot of trade between Stowell and the northwest of the
-                Kingdom goes through Hemmysford.
-            </para>
-
-            <para>
-                Hemmysford is the only major crossing point on the
-                <qv uri="hemmy-river">Hemmy River</qv>, and a stone
-                bridge was built here in 1140 by Entish builders. It
-                is a white stone bridge with two arches, and wide enough
-                for three carts side by side.
+                Town in the shire of Westland in Weidany. Located at the mouth of the
+                <qv uri="river-orn">River Orn</qv>, it has a good harbour and does a
+                lot of shipbuilding.
             </para>
         </sect1>
-
     </body>
-
 </article>
 
 

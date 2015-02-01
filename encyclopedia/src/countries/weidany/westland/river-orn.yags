@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Ornmouth</title>
+        <title>River Orn</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license type="Yags">
-            <year>2003</year>
+            <year>2015</year>
             <holder>Samuel Penn</holder>
             <text>
                 This document can be redistributed and/or modified
@@ -27,39 +27,40 @@
             </text>
         </license>
 
-
         <style name="module"/>
 
         <references>
         </references>
 
         <topics>
-            <subject uri="ornmouth">Ornmouth</subject>
+            <subject uri="river-orn">River Orn</subject>
 
-            <category>Towns</category>>
+            <category>Rivers</category>
 
-            <topic uri="westland-shire">Westland</topic>
-            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="westland-shire">Westland Shire</topic>
             <topic uri="weidany">Weidany</topic>
             <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
         </topics>
-
     </header>
 
     <body>
         <sect1>
-            <title>Ornmouth</title>
+            <title>River Orn</title>
 
             <para>
-                Town in the shire of Westland in Weidany. Located at the
-                mouth of the river Orn, it has a good harbour and does a
-                lot of shipbuilding.
+                Terminating at <qv uri="ornmouth">Ornmouth</qv>, the River Orn
+                starts up in the <qv uri="talmoth-hills">Talmoth Hills</qv>.
+                The <e>Upper Orn</e> is a narrow, fast flowing river that is
+                difficult to navigate, flowing through the woods and forests
+                of eastern <qv uri="westland-shire">Westland</qv>.
+            </para>
+            <para>
+                Soon after it leaves the woods, it broadens out and becomes
+                more navigable, and is known as the <e>Lower Orn</e>.
             </para>
         </sect1>
-
     </body>
-
 </article>
-
 
 
