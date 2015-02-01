@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Blaberen Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="blaberen-wood">Blaberen Wood</subject>
+
+            <category>Woods</category>
+
+            <topic uri="westland-shire">Westland Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Blaberen Wood</title>
+
+            <para>
+                A small area of woodland that grows on the southern slopes of
+                <qv uri="gorst-moor">Gorst Moor</qv> in <qv uri="westland-shire">Westland</qv>.
+                It is made up of areas of heath encircled by trees mostly of birch and beech.
+                A few small farmsteads can be found within the woods, and deer and boar are
+                often hunted here.
+            </para>
+            <para>
+                In the hours before dawn, during the autumn, it is claimed that unintelligible
+                voices can be heard whispering amongst the treetops. Local tales say that they
+                are the voices of women who vanished into the woods hundreds of years ago, who
+                are still trying to find their way home.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
