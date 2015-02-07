@@ -39,7 +39,7 @@
         <topics>
             <subject uri="rornic-mythology">Rornic Mythology</subject>
 
-            <category>Legends</category>>>
+            <category>Legends</category>
 
             <topic uri="rornic-mythology">Rornic Mythology</topic>
             <topic uri="weidany">Weidany</topic>
@@ -65,32 +65,36 @@
                 <para>
                     After a while, as the numbers of men grew, so they
                     started to think of building places to live, and so
-                    they built for themselves many cities, of which Logreth,
-                    Ideria and Ubra were the greatest.
+                    they built for themselves many cities, of which
+                    <qv uri="logreth">Logreth</qv>,
+                    <qv uri="ideria">Ideria</qv> and
+                    <qv uri="ubra">Ubra</qv> were the greatest.
                 </para>
 
                 <para>
                     The people of Logreth live on the coast in the far east
-                    of the world, and build great temples to Moern. With his
+                    of the world, and build great temples to
+                    <qv uri="moern">Moern</qv>. With his
                     aid, they become great sailors.
                 </para>
 
                 <para>
-                    The people of Ideria follow the ways of Reas, and build
+                    The people of Ideria follow the ways of
+                    <qv uri="reas">Reas</qv>, and build
                     a beautiful city of open spaces, with with gardens and
                     music, surrounded by buildings of great beauty.
                 </para>
 
                 <para>
-                    The greatest of the cities is Ubra, whose people
-                    dedicate their city to Haltan. They form many laws,
+                    The greatest of the cities is Ubra, whose people dedicate their
+                    city to <qv uri="haltan">Haltan</qv>. They form many laws,
                     and have great places of learning, sprawling markets
                     and houses of men stretching from horizon to horizon.
                 </para>
 
                 <para>
-                    Not all of mankind live within cities though. Some deem
-                    to follow the ways of Rorn, and take to exploring the
+                    Not all of mankind live within cities though. Some deem to follow
+                    the ways of <qv uri="rorn">Rorn</qv>, and take to exploring the
                     world. Rorn himself takes up to dwelling with the Moon
                     and the Sun, from where he can watch the entire world.
                 </para>
@@ -199,9 +203,7 @@
                 </para>
             </sect2>
         </sect1>
-
     </body>
-
 </article>
 
 
