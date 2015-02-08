@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Ideria</title>
+        <title>Logreth</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license type="Yags">
-            <year>2004</year>
+            <year>2015</year>
             <holder>Samuel Penn</holder>
             <text>
                 This document can be redistributed and/or modified
@@ -33,7 +33,7 @@
         </references>
 
         <topics>
-            <subject uri="ideria">Ideria</subject>
+            <subject uri="logreth">Logreth</subject>
 
             <category>Cities</category>
             <topic uri="old-world">Old World</topic>
@@ -42,23 +42,20 @@
 
     <body>
         <sect1>
-            <title>Ideria</title>
+            <title>Logreth</title>
 
             <para>
-                At the end of the <qv uri="rornic-summer-age">Age of Summer</qv>,
-                <e>Ideria</e> was the most beautiful of the great cities of humanity,
-                before the coming of the Ice. It stood at the gateway to the northern
-                plains, its great white walls stretching for three leagues.
+                <e>Logreth</e> was one of the Great Cities of humanity at the end of
+                the <qv uri="rornic-summer-age">Age of Summer</qv>. It stood on the
+                eastern shore of <qv uri="gyla">Gyla</qv>, looking out across the
+                ocean. The people of Logreth dedicated their worship to the sea god
+                <qv uri="moern">Moern</qv>, and they ruled the seas all along the
+                eastern coast of the <qv uri="old-world">Old World</qv>.
             </para>
             <para>
-                It was the site of the great temple dedicated to <qv uri="rorn">Rorn</qv>,
-                known as the <qv uri="temple-of-moon">Temple of the Moon</qv>, which had
-                been blessed with his presence for many centuries.
-            </para>
-            <para>
-                When the Ice came though, it did not stop at Ideria.
-                Rorn was distracted, and acted too late to prevent the
-                fall of his great city, which vanished beneath the glaciers.
+                With the coming of the <qv uri="ice">Ice</qv>, and the invasion of the
+                <qv uri="frost-giants">Frost Giants</qv>, all contact with Logreth was
+                lost, and the city was assumed to have been destroyed.
             </para>
         </sect1>
     </body>
