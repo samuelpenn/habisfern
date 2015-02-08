@@ -2,10 +2,10 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Brokki</title>
+        <title>Frost Giants</title>
         <tagline>Habisfern</tagline>
 
-        <slugline>King of the Ice Giants</slugline>
+        <slugline/>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license type="Yags">
-            <year>2004</year>
+            <year>2015</year>
             <holder>Samuel Penn</holder>
             <text>
                 This document can be redistributed and/or modified
@@ -30,18 +30,16 @@
         <style name="module"/>
 
         <references>
-            <see uri="frost-giants">Frost Giants</see>
+            <see uri="brokki">Brokki</see>
             <see uri="isgebind">Isgebind</see>
         </references>
 
         <topics>
-            <subject uri="brokki">Brokki</subject>
+            <subject uri="frost-giants">Frost Giants</subject>
 
-            <category>Gods</category>
+            <category>Legends</category>
 
-            <topic uri="daegian">Daegian</topic>
             <topic uri="rornic-mythology">Rornic Mythology</topic>
-            <topic uri="weidany">Weidany</topic>
             <topic uri="habisfern">Habisfern</topic>
             <topic uri="euressa">Euressa</topic>
         </topics>
@@ -49,25 +47,28 @@
 
     <body>
         <sect1>
-            <title>Brokki</title>
+            <title>Frost Giants</title>
 
             <para>
-                Brokki was the King of the <qv uri="frost-giants">Frost Giants</qv>
-                in Rornic Mythology. He lives in a great castle at the north of the world
-                fashioned out of the skull of <qv uri="iss">Iss</qv>, which is known as
-                <qv uri="isgebind">Isgebind</qv>
+                At the end of the <qv uri="rornic-summer-age">Age of Summer</qv>,
+                the <e>Frost Giants</e> came down from the North to do battle with
+                mankind. Their king was <qv uri="brokki">Brokki</qv>, who was the
+                largest and strongest of them. Three times as tall as a man, they
+                were formidable foes who were skilled at warfare and crafting.
             </para>
             <para>
-                He is a king, craftsman and warrior, famed for his great
-                strength. He is also the enemy of the gods, and aligned
-                with the Powers of the <qv uri="ice">Ice</qv>.
+                The strongest of them rode the <qv uri="ice-wyrms">Ice Wyrms</qv>,
+                or commanded armies of <qv uri="frost-wights">Frost Wights</qv>
+                which were hurled against the cities of humanity in unstoppable
+                waves of bloodshed.
             </para>
             <para>
-                In the middle world, the <qv uri="ents">Ents</qv> are said
-                to be his servants.
+                The great fortress <qv uri="isgebind">Isegebind</qv> is the home of
+                the <e>Frost Giants</e>.
             </para>
         </sect1>
     </body>
 </article>
+
 
 

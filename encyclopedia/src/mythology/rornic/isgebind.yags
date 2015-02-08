@@ -2,10 +2,10 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Brokki</title>
+        <title>Isgebind</title>
         <tagline>Habisfern</tagline>
 
-        <slugline>King of the Ice Giants</slugline>
+        <slugline/>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license type="Yags">
-            <year>2004</year>
+            <year>2015</year>
             <holder>Samuel Penn</holder>
             <text>
                 This document can be redistributed and/or modified
@@ -30,44 +30,36 @@
         <style name="module"/>
 
         <references>
+            <see uri="brokki">Brokki</see>
             <see uri="frost-giants">Frost Giants</see>
-            <see uri="isgebind">Isgebind</see>
         </references>
 
         <topics>
-            <subject uri="brokki">Brokki</subject>
+            <subject uri="isgebind">Isgebind</subject>
 
-            <category>Gods</category>
+            <category>Legends</category>
 
-            <topic uri="daegian">Daegian</topic>
             <topic uri="rornic-mythology">Rornic Mythology</topic>
-            <topic uri="weidany">Weidany</topic>
             <topic uri="habisfern">Habisfern</topic>
             <topic uri="euressa">Euressa</topic>
         </topics>
     </header>
 
+    <!-- Isgebind - Fetters of ice -->
     <body>
         <sect1>
-            <title>Brokki</title>
+            <title>Isgebind</title>
 
             <para>
-                Brokki was the King of the <qv uri="frost-giants">Frost Giants</qv>
-                in Rornic Mythology. He lives in a great castle at the north of the world
-                fashioned out of the skull of <qv uri="iss">Iss</qv>, which is known as
-                <qv uri="isgebind">Isgebind</qv>
-            </para>
-            <para>
-                He is a king, craftsman and warrior, famed for his great
-                strength. He is also the enemy of the gods, and aligned
-                with the Powers of the <qv uri="ice">Ice</qv>.
-            </para>
-            <para>
-                In the middle world, the <qv uri="ents">Ents</qv> are said
-                to be his servants.
+                Fashioned from the huge skull of <qv uri="iss">Iss</qv>, the fortress
+                of the <qv uri="frost-giants">Frost Giants</qv> at the north of the
+                world is known as <qv uri="isgebind">Isgebind</qv>. Ruled by their
+                king <qv uri="brokki">Brokki</qv>, the majority of the Frost Giants
+                dwell here, planning their conquest of the southern lands.
             </para>
         </sect1>
     </body>
 </article>
+
 
 
