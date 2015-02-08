@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license type="Yags">
-            <year>2013</year>
+            <year>2015</year>
             <holder>Samuel Penn</holder>
             <text>
                 This document can be redistributed and/or modified
@@ -32,7 +32,6 @@
         <references>
             <see uri="under-earth">Under Earth</see>
             <see uri="undead">Undead</see>
-            <see uri="frost-wights">Frost Wights</see>
         </references>
 
         <topics>
@@ -47,21 +46,19 @@
 
     <body>
         <sect1>
-            <title>Wights</title>
+            <title>Frost Wights</title>
 
             <para>
-                A wight is a wilful undead. They are corpses which still
-                possess a living soul. Like wraiths, they are often full
-                of hatred for the living. They require warm blood to
-                continue their existence, so tend to be found on the
-                edges of civilisation, where victims are plentiful but
-                there are few able to organise themselves to hunt them
-                down.
+                Like <qv uri="wights">Wights</qv>, <e>Frost Wights</e> are the
+                animated dead corpses of spirits that have returned to do harm
+                to the living. They were originally created by the
+                <qv uri="frost-giants">Frost Giants</qv> from the corpses of men
+                who were slain in the first battles against the <qv uri="ice">Ice</qv>.
             </para>
             <para>
-                It is said that those killed by a wight will rise as a
-                wight themselves the following night, so any so afflicted
-                are generally burnt as quickly as possible.
+                They are still found in the far north, or around glaciers where they
+                come down from the mountains. They have a hatred of all things that
+                are warm and living, and their touch can freeze blood.
             </para>
         </sect1>
     </body>
