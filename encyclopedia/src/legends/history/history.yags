@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>History</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <references>
+            <see uri="ice">Ice</see>
+            <see uri="ancients">Ancients</see>
+            <see uri="precursors">Precursors</see>
+        </references>
+
+        <topics>
+            <subject uri="history">History</subject>
+
+            <category>Legends</category>
+
+            <topic uri="eorthe">Eorthe</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>History</title>
+
+            <para>
+                The world of <qv uri="eorthe">Eorthe</qv> is old, and civilisations have
+                existed for at least ten thousand years across its surface. The first of
+                these are known as the <qv uri="precursors">Precursor Civilisations</qv>,
+                though little is actually known about them except for some ruins that
+                have been left behind, and a few stories that survive in myths and
+                legends.
+            </para>
+            <para>
+                After them came the <qv uri="ancients">Ancients</qv>, who were the first
+                of the civilisations of humanity. They too fell, but stories of them
+                are somewhat more numerous and reliable.
+            </para>
+            <para>
+                The dates given here are estimates based on what has been gleaned from
+                various mythologies, written records and evidence that has been found in
+                the ruins of some of these old civilisations.
+            </para>
+
+            <sect2>
+                <title>A Chronological History</title>
+
+                <sect3>
+                    <title>Pre-Mythology</title>
+
+                    <para>
+                        Before the last great expansion of the <qv uri="ice">Ice</qv>
+                        ten thousand years ago, a number of civilisations flourished
+                        across <qv uri="eorthe">Eorthe</qv>. Most of these were of the
+                        <qv uri="elders">Elders</qv>, which were known as the
+                        <qv uri="serpent-kingdoms">Serpent Kingdoms</qv>.
+                    </para>
+                    <para>
+                        There may have been a few human civilisations at this time as
+                        well, though how independent they were of the Elders is not
+                        known.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Five to Ten Thousand Years Ago</title>
+
+                    <para>
+                        Ten thousand years ago the Ice began its rapid expansion from
+                        the poles. As the extreme northern and southern regions froze,
+                        so the equatorial and tropical regions underwent a great
+                        drying, and massive deserts were formed. This ended most of the
+                        <qv uri="precursor">Precursor</qv> civilisations, or at least
+                        drove them into decline.
+                    </para>
+                    <para>
+                        This period lasted about five thousand years.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Up to Five Thousand Years Ago</title>
+
+                    <para>
+                        Founding of the Old Kingdoms.
+                    </para>
+
+                    <sect4>
+                        <title>3,000 years Ago: The Old Kingdoms</title>
+
+                        <para>
+                            The Old Kingdoms were founded about three thousand years
+                            ago and rapidly grew to dominate northern
+                            <qv uri="gyla">Gyla</qv>.
+                        </para>
+                    </sect4>
+
+                    <sect4>
+                        <title>2,100 Years Ago: The Five Kingdoms</title>
+
+                        <para>
+                            The <qv uri="five-kingdoms">Five Kingdoms</qv> were founded
+                            around 800 years before the Betrayal. In the years before
+                            that, the People of Rorn fled from the ruins of the
+                            <qv uri="old-kingdoms">Old Kingdoms</qv> and crossed the
+                            <qv uri="road-sorrows">Road of Sorrows</qv>.
+                        </para>
+                    </sect4>
+                </sect3>
+                <sect3>
+                    <title>Up to Two Thousand Years Ago</title>
+
+                    <para>
+                        The fall of <qv uri="ideria">Ideria</qv>.
+                    </para>
+
+                    <sect4>
+                        <title>1,300 Years Ago: Betrayal</title>
+
+                        <para>
+                            This date marks the time of the
+                            <qv uri="rornic-betrayal">Betrayal</qv>, when the god
+                            <qv uri="rorn">Rorn</qv> was killed and the
+                            <qv uri="five-kingdoms">Five Kingdoms</qv> fell.
+                        </para>
+                        <para>
+                            The Ice was already in retreat at this point, but its
+                            melting rapidly increased, especially in
+                            <qv uri="euressa">Euressa</qv>, leading to mass migrations
+                            across the peninsula. The land between Euressa and the Old
+                            World flooded at this time, making a permanent break between
+                            the two cultures.
+                        </para>
+                        <para>
+                            In <e>Euressa</e>, this is the considered the start of modern
+                            history, for there is a continuity of culture that makes it
+                            easy to find records for any time from here on.
+                        </para>
+                    </sect4>
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+
+</article>
+
+
