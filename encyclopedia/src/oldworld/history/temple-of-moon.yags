@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Temple of the Moon</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="ideria">Ideria</subject>
+
+            <category>Temples</category>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Temple of the Moon</title>
+
+            <para>
+                The tallest building in the great city of Ideria was the
+                <e>Temple of the Moon</e>, a huge tower that served as both a
+                guard tower against the <qv uri="ice">Ice</qv> and a temple to the
+                moon god <qv uri="rorn">Rorn</qv>. After the fall of Ideria, and the
+                migration of the people to the <qv uri="white-city">White City</qv>
+                in <qv uri="tarvallah">Tarvalah</qv>, it was rebuilt on a smaller
+                scale as the <qv uri="temple-white-moon">Temple of the White Moon</qv>.
+            </para>
+            <para>
+                The Temple of the Moon was the centre of power for the Priests of
+                Rorn, and it was said that Rorn himself dwelt there at times, in the
+                great dome that was at the top of the tower.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
