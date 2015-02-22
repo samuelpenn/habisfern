@@ -32,12 +32,13 @@
 
         <references>
             <see uri="noble-houses-weidany">Noble Houses of Weidany</see>
+            <see uri="beldan-caewlin">Beldan of Depping Castle</see>
         </references>
 
         <topics>
             <subject uri="caewlin-house">Caewlin, Noble House</subject>
 
-            <category>Nobles</category>>
+            <category>Nobles</category>
 
             <topic uri="weidany">Weidany</topic>
             <topic uri="habisfern">Habisfern</topic>
@@ -97,7 +98,8 @@
                     <title>Current Household</title>
 
                     <para>
-                        The current head of the House is Hereric, a sixty
+                        The current head of the House is the Ealdorman
+                        <qv uri="ealdorman-hereric-caewlin">Hereric</qv>, a sixty
                         year old man with an intimidating personality. Even
                         without his position and birth right, he would
                         have been powerful at court.
