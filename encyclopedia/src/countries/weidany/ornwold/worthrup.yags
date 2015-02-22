@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>River Kyle</title>
+        <title>Worthrup</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license type="Yags">
-            <year>2013</year>
+            <year>2015</year>
             <holder>Samuel Penn</holder>
             <text>
                 This document can be redistributed and/or modified
@@ -30,14 +30,12 @@
         <style name="module"/>
 
         <references>
-            <see uri="ornwold-shire">Ornwold Shire</see>
         </references>
 
         <topics>
-            <subject uri="river-kyle">River Kyle</subject>
+            <subject uri="worthrup">Worthrup</subject>
 
-            <category>Rivers</category>
-
+            <category>Towns</category>
             <topic uri="ornwold-shire">Ornwold Shire</topic>
             <topic uri="weidany">Weidany</topic>
             <topic uri="euressa">Euressa</topic>
@@ -47,14 +45,15 @@
 
     <body>
         <sect1>
-            <title>River Kyle</title>
+            <title>Worthrup</title>
 
             <para>
-                The river Kyle starts in <qv uri="nailand">Nailand</qv>, runs down through
-                <qv uri="aidan-shire">Aidan</qv>, <qv uri="halecester-shire">Halecester</qv>,
-                <qv uri="lanuch-shire">Lanuch</qv> and <qv uri="hain-shire">Hain</qv> before
-                reaching <qv uri="ornwold-shire">Ornwold</qv>. It is the longest river in
-                the Kingdom.
+                <e>Worthrup</e> is a small town near the western coast of
+                <qv uri="ornwold-shire">Ornwold</qv>. It is a market town of just
+                over a thousand people that sits atop a small rise that has a clear
+                view of the surrounding farm land. There used to be a keep here, but
+                it was burnt down a few centuries back and now only a burnt shell
+                remains in the middle of the market square.
             </para>
         </sect1>
     </body>
