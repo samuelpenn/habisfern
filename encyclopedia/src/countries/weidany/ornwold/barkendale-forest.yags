@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Barkendale Forest</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="barkendale-forest">Barkendale Forest</subject>
+
+            <category>Forests</category>
+
+            <topic uri="ornwold-shire">Ornwold Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Barkendale Forest</title>
+
+            <para>
+                The woods in northern Ornwold are known as <e>Barkendale Forest</e>, and
+                cover a large stretch of land about fifteen leagues across. They are
+                mostly wild lands, though are heavily hunted by nobles and poachers alike
+                and are nominally under the domain of the <qv uri="caewlin-house">House of
+                Caewlin</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
