@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Horned Necromancer</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="horn-wood">Horn Wood</subject>
+
+            <category>Legends</category>
+
+            <topic uri="ornwold-shire">Ornwold Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Horned Necromancer</title>
+
+            <para>
+                The <e>Horned Necromancer</e> is a form of fey spirit that dwells in the
+                <qv uri="horn-wood">Horn Wood</qv>. Stories say that she is a tall shadowy
+                figure about two metres tall, with huge antlers from which hang the skulls
+                of her victims.
+            </para>
+            <para>
+                The <e>Necromancer</e> stalks the woods along with the spirits of her
+                previous victims, and announces her presence with a spirit breaking howl
+                that echoes for kilometres through the trees at night. Few who hear her
+                are able to stay their ground, and end up fleeing into a trap of dead
+                spirits.
+            </para>
+            <para>
+                Her origins are not known, but she seems to consider the woods to be her
+                own and greatly dislikes any visitors. Stories of her go back at least a
+                thousand years, though she has not always been as inimical to people as
+                she is now. The most ancient stories tell of her taking lovers, and even
+                helping those who had become lost in her domain. Now though, she is
+                considered to be an evil blight to be avoided at all costs.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

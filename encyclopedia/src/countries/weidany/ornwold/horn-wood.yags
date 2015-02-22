@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Horn Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="horn-wood">Horn Wood</subject>
+
+            <category>Forests</category>
+
+            <topic uri="ornwold-shire">Ornwold Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Horn Wood</title>
+
+            <para>
+                On the borders of <qv uri="ornwold-shire">Ornwold</qv> and
+                <qv uri="hain-shire">Hain</qv> is the <e>Horn Wood</e>, a region of
+                thick forest which merges into the surrounding woodlands.
+            </para>
+            <para>
+                The <e>Horn Wood</e> is generally considered to be off limits for both
+                hunting and travel, for it is presided over by the fey spirit known as
+                the <qv uri="horned-necromancer">Horned Necromancer</qv>.
+            </para>
+            <para>
+                Though dire creatures are the biggest threat during the day, at night
+                the woods are haunted by the spirits of those who have died here.
+                The only safe path through these woods is considered to be via the
+                <qv uri="river-kyle">River Kyle</qv>, though even mooring on the
+                river bank overnight can be a risky proposition.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

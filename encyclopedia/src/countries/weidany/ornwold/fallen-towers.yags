@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Fallen Towers</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="horn-wood">Horn Wood</subject>
+
+            <category>Ruins</category>
+
+            <topic uri="ornwold-shire">Ornwold Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Fallen Towers</title>
+
+            <para>
+                The <e>Fallen Towers</e> is an ancient ruin found in the dark wilds
+                known as the <qv uri="horn-wood">Horn Wood</qv>, on the border of
+                <qv uri="ornwold-shire">Ornwold</qv> and <qv uri="hain-shire">Hain</qv>.
+                Two large towers used to stand here, but now their broken stones lay
+                on the ground covered by vegetation. The ruins of smaller buildings
+                surround the broken towers, and rumours say that further ruins can
+                be found beneath ground.
+            </para>
+            <para>
+                Though these ruins are generally safe from the haunts of the
+                <qv uri="horned-necromancer">Horned Necromancer</qv>, they have their
+                own dangers in the form of <qv uri="ghoul">ghouls</qv> that skulk
+                beneath the ruins during the day.
+            </para>
+            <para>
+                The ruins are probably <qv uri="elders">Elder</qv> in origin, but there
+                is not enough left on the surface to know for sure.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
