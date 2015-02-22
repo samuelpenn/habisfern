@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Bears</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="bears">Bears</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="animals">Animals</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Bears</title>
+
+            <para>
+                Bears are commonly found across much of <qv uri="euressa">Euressa</qv>,
+                and come in a number of different varieties.
+            </para>
+
+            <sect2>
+                <title>Cave Bears</title>
+
+                <para>
+                    Cave Bears are quite rare, though thought to have been far more common
+                    before the last incursions of the <qv uri="ice">Ice</qv>. They are found
+                    in hilly or mountainous terrain, and tend to be larger than other bears,
+                    taller than a man even when on all fours.
+                </para>
+                <para>
+                    They are highly territorial, and females can be very aggressive when their
+                    young are present, but they mostly eat plants and avoid humans unless they
+                    feel threatened.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Dire Bears</title>
+
+                <para>
+                    Dire Bears are the largest type of bear, and are also the most aggressive.
+                    Standing over three metres tall at the shoulder, they are partially fey,
+                    existing out of the fears and nightmares of humans. They will generally
+                    attack on sight, and sometimes hunt humans over long distances.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+
