@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Oak Crest Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="oak-crest-wood">Oak Crest Wood</subject>
+
+            <category>Forests</category>
+
+            <topic uri="ornwold-shire">Ornwold Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Oak Crest Wood</title>
+
+            <para>
+                The central parts of <qv uri="ornwold-shire">Ornwold</qv> are covered in
+                woods and forest, collectively known as <e>Oak Crest Wood</e>. The bulk
+                of the shire's population lives south west of these woods, though there
+                are numerous small villages and farmsteads to be found in clearings
+                throughout them.
+            </para>
+            <para>
+                The woods contain both the <qv uri="oaken-crest-hills">Oaken Crest Hills</qv>
+                and the <qv uri="sollen-fen">Sollen Fens</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

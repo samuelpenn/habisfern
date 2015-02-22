@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Oaken Crest Heights</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="oaken-crest-heights">Oaken Crest Heights</subject>
+
+            <category>Hills</category>
+
+            <topic uri="ornwold-shire">Ornwold Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Oaken Crest Heights</title>
+
+            <para>
+                The region of uplands within <qv uri="oak-crest-woods">Oak Crest Woods</qv>
+                which gives these woods their name. This area is a mixture of rough hills
+                and flat plateaus mostly covered in mixed trees.
+            </para>
+            <para>
+                The <e>Heights</e> are known to be the home of several
+                <qv uri="bears">Cave Bears</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
