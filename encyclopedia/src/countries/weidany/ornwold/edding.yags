@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Edding</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="edding">Edding</subject>
+
+            <category>Towns</category>
+            <topic uri="ornwold-shire">Ornwold Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Edding</title>
+
+            <para>
+                <e>Edding</e> is a small town near the <qv uri="river-kyle">River Kyle</qv>
+                in <qv uri="ornwold-shire">Ornwold</qv>. The land around is known as
+                <qv uri="sollen-fen">Sollen Fen</qv>. The town is built on one of the
+                many dry islands within the Fen, about a kilometre from the river but
+                connected to it by artificially widened waterways.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
