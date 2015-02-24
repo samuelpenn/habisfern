@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Leddington</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="leddington">Leddington</subject>
+
+            <category>Towns</category>
+
+            <topic uri="ornwold-shire">Ornwold Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Leddington</title>
+
+            <para>
+                The large town of <e>Leddington</e> is on the banks of the
+                <qv uri="river-kyle">River Kyle</qv> north of
+                <qv uri="oak-crest-wood">Oak Crest Wood</qv>. It has a population of
+                about two thousand and is noted for its production of high quality
+                tapestries and clothing. Other quality craftsmen can be found here,
+                but the majority work in cloth.
+            </para>
+
+            <para>
+                The town centre is dominated by two shrines, one to <qv uri="pel">Pel</qv>
+                and one to <qv uri="reas">Reas</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
