@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Tallby</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="tallby">Tallby</subject>
+
+            <category>Towns</category>
+
+            <topic uri="ornwold-shire">Ornwold Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Tallby</title>
+
+            <para>
+                In eastern <qv uri="ornwold-shire">Ornwold</qv> is the town of Tallby, with
+                a population of about 1,600. It is run by <qv uri="leofstan-caewlin">Leofstan</qv>
+                of the House of Caewlin, son-in-law of <qv uri="beldan-caewlin">Beldan</qv> of
+                <qv uri="depping-castle">Depping Castle</qv>. Most people view him as a thug
+                who bleeds the common people through taxation.
+            </para>
+            <para>
+                His wife, <qv uri="hilda-caewlin">Hilda Caewlin</qv>, is considered to be at
+                least as bad as her husband, regularly abusing the slaves and servants in
+                their household, as well as anyone else who gets in her way. Because of their
+                close relationship with Beldan, few are willing to stand up to them.
+            </para>
+            <para>
+                Over the last decade the town has taken on the nature of its rulers, and
+                Tallby now has a reputation as being a place for criminals and thugs to
+                congregate. As long as they don't bother Thegn Leofstan, he doesn't care
+                and isn't above paying them to put down those who do.
+            </para>
+            <para>
+                Tallby has a thriving slave market, probably the biggest in the surrounding
+                shires.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
