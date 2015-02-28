@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Hengeclif Barrows</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="ornwold-shire">Ornwold Shire</see>
+        </references>
+
+        <topics>
+            <subject uri="hengeclif-barrows">Hengeclif Barrows</subject>
+
+            <category>Barrows</category>
+
+            <topic uri="ornwold-shire">Ornwold Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Hengeclif Barrows</title>
+
+            <para>
+                The <e>Hengeclif Barrows</e> are on the headland between the
+                <qv uri="ornwold-bay">Ornwold Bay</qv> and <qv uri="tyeby-bay">Tyeby Bay</qv>.
+                Much of the headland is cliffs, but the <e>Barrows</e> run for about
+                half a league where the hundred metre high cliffs overhang the rocks below.
+            </para>
+            <para>
+                The barrows themselves are located at the top of the cliffs, but their
+                entrances are in the cliff face itself, facing out to see, and about ten
+                metres below the cliff top. The only way into (or out of) them is either
+                from over the top of the cliffs, or up from below.
+            </para>
+            <para>
+                On some nights, an unearthly glow can be seen coming from the barrows.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
