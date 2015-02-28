@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Drakes</title>
+        <title>Forest Drakes</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license type="Yags">
-            <year>2003</year>
+            <year>2015</year>
             <holder>Samuel Penn</holder>
             <text>
                 This document can be redistributed and/or modified
@@ -45,13 +45,19 @@
 
     <body>
         <sect1>
-            <title>Drakes</title>
+            <title>Forest Drakes</title>
 
             <para>
-                Drakes are relatives of Dragons and Wyrms. Like the
-                former, they are winged and often capable of breathing
-                fire. They are, on the whole, similar in size to Wyrms, and
-                generally only found in wild mountainous regions.
+                <e>Forest Drakes</e> are dragon-like creatures that are normally
+                found in forests. They often lack wings, and tend to be smaller than
+                their mountain counterparts. However, they often have the ability to
+                breath fire.
+            </para>
+            <para>
+                They are about as intelligent as a human, though this can vary quite
+                widely, with some being quite simple minded. They hunt large animals
+                for food, and aren't about tracking down and eating humans when they
+                can.
             </para>
         </sect1>
     </body>
