@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Middleham</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="middleham">Middleham</subject>
+
+            <category>Towns</category>
+
+            <topic uri="ornwold-shire">Ornwold Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Middleham</title>
+
+            <para>
+                <e>Middleham</e> is a small market town on the eastern edge of
+                <qv uri="blenredin-plain">Blenredin Plain</qv> in Ornwold. It has
+                a population of around 1,300.
+            </para>
+            <para>
+                Though the town is part of the manor of
+                <qv uri="thegn-urwen-middleham">Thegn Urwen</qv>, it's commonly
+                known that the real authority is the sorceress
+                <qv uri="aeronwen-green">Aeronwen the Green</qv>, widely considered
+                to be one of the most powerful rune wizards in the Kingdom. She
+                spends her time seeing to the health of the town and surrounding
+                lands, which are incredibly fertile and beautiful, with flowers
+                blooming all year round.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
