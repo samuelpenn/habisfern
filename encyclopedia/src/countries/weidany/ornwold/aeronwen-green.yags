@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Aerowen the Green</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="aerowen-green">Aerowen the Green</subject>
+
+            <category>Wizards</category>
+
+            <topic uri="ornwold-shire">Ornwold Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Aerowen the Green</title>
+
+            <para>
+                <e>Aerowen the Green</e> is an Earth sorceress who dwells in the town of
+                <qv uri="middleham">Middleham</qv>, in the
+                <qv uri="weidany">Kingdom of Weidany</qv>. She is a tall, thin woman with
+                grey hair and sharp features. She is pregnant, and has been so for the
+                last ten years.
+            </para>
+            <para>
+                Unofficially, she runs the town of <qv uri="middleham">Middleham</qv>, for
+                the thegn <qv uri="thegn-urwen-middleham">Urwen</qv> would not dare go
+                against her. Though she is generally pleasant, she is only so when people
+                agree with her.
+            </para>
+            <para>
+                She came to the town of Middleham in 1216, and settled in a house near
+                the outskirts of the city. Then, she kept mostly to herself, though people
+                noticed that the flowers and trees nearby were in full bloom most of the
+                year. She was pregnant at the time, but showed no sign of giving birth.
+            </para>
+            <para>
+                Eleven years ago, in 1219, a <qv uri="middleham-wyrm">wyrm</qv> came out of
+                <qv uri="blenredin-plain">Blenredin Plain</qv>, and began spewing its poison
+                over the lands around Middleham. When it attacked the town, scattering
+                and slaying the defenders wherever it went, Aerowen stepped in. Her magics
+                forced it back, but she was unable to slay it. That night, she gave birth
+                to a <qv uri="familiars">monstrosity</qv> that grew quickly in size, until
+                its shadowy form towered over her. With it, she confronted the wyrm a
+                second time and defeated it, though her familiar was destroyed.
+            </para>
+            <para>
+                Both fearful of and grateful towards her, the town gave her a better house
+                near the centre of town, and honoured her with gifts. Before they knew it
+                though, the had pretty much taken charge and there were none who would
+                speak against her. Within a year, she was pregnant again, and has remained
+                so since then.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
