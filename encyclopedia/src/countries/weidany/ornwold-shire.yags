@@ -67,6 +67,20 @@
                 <qv uri="river-orn">River Orn</qv> is actually not in
                 this shire. It's unclear what the connection is.
             </para>
+
+            <sect2>
+                <title>Geography</title>
+
+                <para>
+                    The shire is divided into four <e>farthings</e>, known as
+                    <qv uri="ornwold-west-farthing">West Farthing</qv>,
+                    <qv uri="ornwold-east-farthing">East Farthing</qv>,
+                    <qv uri="ornwold-old-farthing">Old Farthing</qv> and
+                    <qv uri="ornwold-kyle-farthing">Kyle Farthing</qv>. These represent
+                    the most populated parts of the shire, most of the rest is forest
+                    or at least unbroken woodlands.
+                </para>
+            </sect2>
         </sect1>
     </body>
 

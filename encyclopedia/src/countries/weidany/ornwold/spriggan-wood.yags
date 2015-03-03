@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Spriggan Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="spriggan-wood">Spriggan Wood</subject>
+
+            <category>Forests</category>
+
+            <topic uri="ornwold-shire">Ornwold Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Spriggan Wood</title>
+
+            <para>
+                <e>Spriggan Wood</e> is the name given to the south east part of
+                <qv uri="oak-crest-wood">Oak Crest Wood</qv> in the shire of
+                <qv uri="ornwold-shire">Ornwold</qv>. It divides
+                <qv uri="ornwold-east-farthing">East Farthing</qv> from the rest
+                of the shire, with the only real path through being the
+                <qv uri="old-spriggan-road">Old Spriggan Road</qv>
+            </para>
+            <para>
+                The road is haunted by wraiths, and considered too dangerous to travel
+                at night, though it is safe during the day. The woods are pretty much
+                considered to be north of the road, and everything south of the road
+                is <qv uri="renwold-forest">Renwold Forest</qv>.
+            </para>
+            <para>
+                Spriggan Wood itself has a number of old barrows within it, and they used
+                to be guarded by fey creatures known as <qv uri="spriggans">Spriggans</qv>.
+                A Spriggan hasn't been reported seen in the woods for some twenty years
+                however, so whether there are any left is a matter of debate.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
