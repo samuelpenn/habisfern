@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Old Spriggan Road</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="spriggan-wood">Spriggan Wood</subject>
+
+            <category>Roads</category>
+
+            <topic uri="ornwold-shire">Ornwold Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Old Spriggan Road</title>
+
+            <para>
+                The road that runs from <qv uri="tallby">Tallby</qv> to
+                <qv uri="beechend">Beechend</qv> is about thirteen leagues in length,
+                but really only the three leagues that runs through
+                <qv uri="sprigganw-wood">Spriggan Wood</qv> is known as
+                <e>Old Spriggan Road</e>.
+            </para>
+            <para>
+                It is said, a long time ago, that <qv uri="spriggans">Spriggans</qv> used
+                to waylay travellers on the road, demanding goods or even hostages to allow
+                travel through 'their' woods. That has not happened for a long time though,
+                and now the fear is of wraiths that haunt the road in memory of an incident
+                that happened over 150 years ago.
+            </para>
+            <para>
+                In 1174, a group of slaves were massacred in the woods near the road by
+                their captors. Some of them rose up as <qv uri="wraiths">wraiths</qv> and
+                <qv uri="wights">wights</qv> to seek revenge against their murderers,
+                though vengeance was never obtained. Over the years, the wights have
+                either been slain or found rest in their own way. Today, only the
+                wraiths remain, but they are by far the worst since they cannot be slain
+                without either great magic or holy blessings.
+            </para>
+            <para>
+                The wraiths sometimes haunt the road at night, slaying any travellers
+                that they find. For this reason, only the most brave or foolhardy travel
+                the woods after sunset, the rest taking refuge at the inns either end
+                of the road, either at <qv uri="east-spriggan-rest">East Spriggan Rest</qv>
+                in the east, or <qv uri="ashby-down">Ashby Down</qv> in the west.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
