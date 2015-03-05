@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Westland, Kingdom</title>
+        <title>Hafwen</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license type="Yags">
-            <year>2013</year>
+            <year>2015</year>
             <holder>Samuel Penn</holder>
             <text>
                 This document can be redistributed and/or modified
@@ -35,7 +35,7 @@
         </references>
 
         <topics>
-            <subject uri="westland-kingdom">Kingdom of Westland</subject>
+            <subject uri="hafwen-kingdom">Hafwen</subject>
 
             <category>Kingdoms</category>
 
@@ -45,16 +45,16 @@
         </topics>
     </header>
 
+    <!-- Hafwen: Summer Blessed -->
+
     <body>
         <sect1>
-            <title>Kingdom of Westland</title>
+            <title>Hafwen</title>
 
             <para>
-                The Kingdom of <qv uri="aeddan">King Aeddan</qv>, Westland was
-                the largest and most powerful of the Weidanic kingdoms at the
-                time of the Rornic invasion. It was also the first target of
-                the Rornish when they decided they wanted to settle, and so it
-                was the first to fall.
+                <e>Hafwen</e> was a Weidanic kingdom that existed in the 6th and early
+                seventh century in the region that is now <qv uri="ornwold-shire">Ornwold</qv>
+                and <qv uri="emrend-shire">Emrend</qv>.
             </para>
         </sect1>
     </body>
