@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Moarn Hills</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="moarn-hills">Moarn Hills</subject>
+
+            <category>Hills</category>
+
+            <topic uri="hain-shire">Hain Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Moarn Hills</title>
+
+            <para>
+                The <e>Moarn Hills</e>, located deep in the <qv uri="hain-wood">Hain Wood</qv>,
+                is a region of high foothills verging on mountains. They are inaccessible to
+                all but the best climbers in many places.
+            </para>
+            <para>
+                The southern plateau is inhabited by <qv uri="ents">Ents</qv> at the fortress
+                of <qv uri="caer-goron">Caer Goron</qv>. They consider the hills to be
+                their own, and do not treat humans who trespass here with much respect.
+            </para>
+            <para>
+                With the exception of the land around <e>Caer Goron</e>, the hills are
+                covered in thick forest. Caves can be found along some of the eastern
+                cliffs, though there is little living within them at the moment.
+            </para>
+            <para>
+                The start of the <qv uri="river-devrin">River Devrin</qv> can be found on the
+                western side of the Moarn Hills, where it flows out of fissures above
+                a gully known as <qv uri="dagra-cliffs">Dagra Cliffs</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Dagra Cliffs</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="moarn-hills">Moarn Hills</subject>
+
+            <category>Hills</category>
+
+            <topic uri="hain-shire">Hain Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <!-- Welsh: Clwf Dagrau - Wound of Tears -->
+
+    <body>
+        <sect1>
+            <title>Dagra Cliffs</title>
+
+            <para>
+                The source of the <qv uri="river-devrin">River Devrin</qv> can be found
+                at the <e>Cliffs of Dagra</e>. This is actually a long gully, where
+                ground water flows out of various fissures in the rock. The name comes
+                from the old Weidanic name of Clwf Dagrau - the <e>Wounds of Tears</e>,
+                and got mistranslated as Cliffs of Dagra by the Rornic settlers.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
