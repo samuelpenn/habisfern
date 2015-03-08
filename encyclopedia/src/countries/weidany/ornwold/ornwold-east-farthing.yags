@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>East Farthing</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="ornwold-shire">Ornwold Shire</subject>
+
+            <category>Places</category>
+
+            <topic uri="ornwold-shire">Ornwold Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>East Farthing, Ornwold</title>
+
+            <para>
+                The <e>East Farthing</e> of Ornwold covers the cleared region dominated
+                by <qv uri="tallby">Tallby</qv>. It is probably the poorest part of the
+                shire, though there are a few amongst the nobility who have no problems
+                keeping hold of their wealth.
+            </para>
+            <para>
+                The region was hit by a famine in the last decade of the 12th century,
+                as disease ravaged the fields of the region. Though thirty years have
+                passed, the generation that grew up during those years are noticeably
+                shorter and less fit than those from elsewhere in the kingdom. The
+                failure of crops also led to many families being forced into servitude
+                or even slavery due to inability to pay taxes or find food, and the
+                proportion of free men in East Farthing is lower than in the rest of
+                the shire.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
