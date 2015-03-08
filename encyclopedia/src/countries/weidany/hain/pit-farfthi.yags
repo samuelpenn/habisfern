@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Pit of Farfthi</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="pit-farfthi">Pit of Farfthi</subject>
+
+            <category>Hills</category>
+
+            <topic uri="hain-shire">Hain Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Pit of Farfthi</title>
+
+            <para>
+                In the woods in southern Hain, is a circular depression known as the
+                <e>Pit of Farfthi</e>, said to have been created long along when the
+                great fire dragon <qv uri="farfthi">Farfthi</qv> fell to earth and
+                stayed for a while.
+            </para>
+            <para>
+                It is a pit just under a kilometre across and about a hundred metres
+                deep. Much of the bottom is filled with water, with the exception of
+                an island in the middle. No rivers go into or out of the Pit however.
+                The walls of the pit are about fifty metres about the level of the
+                surrounding land, and almost perfectly circular. Only a few trees
+                grow on this raised area, leaving barren earth and rock to tower
+                over the surrounding forest.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
