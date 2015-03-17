@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Makria Norto</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="makria-norto">Makria Norto</subject>
+
+            <category>Places</category>
+            <topic uri="eorthe">Eorthe</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Makria Norto</title>
+
+            <para>
+                Far to the south of <qv uri="gyla">Gyla</qv> and the
+                <qv uri="great-ocean">Great Ocean</qv> are the icy wastes of the
+                southern continent, known to the <qv uri="orlassi">Orlassi</qv>
+                as Makria Norto.
+            </para>
+            <para>
+                The land is considered to be unexplored to the people of
+                <qv uri="gyla">Gyla</qv>, though there are some human groups that
+                are known to live along its edge. None are known to have built a
+                civilisation of any worth however. Even those of the
+                <qv uri="zinkya-peninsula">Zinyak Peninsula</qv> keep far to the
+                north of the southern wastelands, and consider the region to be
+                of no worth.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

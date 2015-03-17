@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Makrino Vorra</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="makrino-vorra">Makrino Vorra</subject>
+
+            <category>Places</category>
+            <topic uri="eorthe">Eorthe</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Makrino Vorra</title>
+
+            <para>
+                The <e>Far North</e>, named by the <qv uri="orlassi">Orlassi</qv> as
+                <e>Makrino Vorra</e> is the frozen wasteland that caps the north of the
+                world. It is impossible to traverse, and considered the home of Powers
+                that hold a great hatred of humanity.
+            </para>
+            <para>
+                There are some unreliable stories that a great ring of mountains seals
+                the furthest reaches of Makrino Vorra from the rest of the world.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
