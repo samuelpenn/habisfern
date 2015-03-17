@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="738.66048"
-     inkscape:cy="395.287"
+     inkscape:zoom="5.6"
+     inkscape:cx="762.73045"
+     inkscape:cy="434.99021"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1671"
      inkscape:window-height="1019"
-     inkscape:window-x="617"
-     inkscape:window-y="54"
+     inkscape:window-x="293"
+     inkscape:window-y="222"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -359,5 +359,16 @@
          id="tspan3055"
          x="874.28699"
          y="390.28854">Habanna</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="797.32141"
+       y="246.23734"
+       id="text3036"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3038"
+         x="797.32141"
+         y="246.23734">Orlas</tspan></text>
   </g>
 </svg>
