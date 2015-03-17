@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Orlas</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="orlas">Orlas</subject>
+
+            <category>Places</category>
+
+            <topic uri="gyla">gyla</topic>
+            <topic uri="eorthe">Eorthe</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Orlas</title>
+
+            <para>
+                <e>Orlas</e> is a country that is at the northern end of the
+                <qv uri="elkrythos-mountains">Elkrythos Mountains</qv>, spread across
+                the plains north of the <qv uri="quathor-desert">Quathor Desert</qv>.
+                It was first unified into a single Kingdom about two thousand years
+                ago, and has undergone several collapses and rebuildings in that
+                time. Throughout this period though the culture and language of
+                the <qv uri="orlassi">Orlassi</qv> people has remained more or less
+                constant.
+            </para>
+            <para>
+                Orlas is considered (at least by the <e>Orlassi</e>) to be the most
+                civilised of the nations on <qv uri="gyla">Gyla</qv>, and in its
+                long history has collected together a vast wealth of knowledge
+                on which the histories of those nations descended from the
+                <qv uri="old-world">Old World</qv> is based.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
