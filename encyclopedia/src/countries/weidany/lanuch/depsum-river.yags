@@ -38,6 +38,7 @@
             <category>Rivers</category>>
 
             <topic uri="habisfern">Habisfern</topic>
+            <topic uri="lanuch-shire">Lanuch Shire</qv>
             <topic uri="weidany">Weidany</topic>
             <topic uri="euressa">Euressa</topic>
         </topics>
@@ -48,24 +49,10 @@
             <title>Depsum River</title>
 
             <para>
-                The Depsum begins in the central highlands to the north
-                east of the Kingdom. From there, it runs through Aidan,
-                Hale, Lanuch, Hain and Ornworld where it meets the sea
-                at the town of <qv uri="depping">Depping</qv>
-            </para>
-
-            <para>
-                By the time it has reached Lanuch it is about 50m wide,
-                and fordable at only a few points. There is a bridge
-                at <qv uri="hartford">Hartford</qv>, and several ferries
-                at other points.
-            </para>
-
-            <para>
-                By the time it reaches Depping, it is over a hunred metres
-                across, and unfordable for most of its length in Ornworld.
-                The only way to cross is by ferry, and several villages
-                have built up around popular ferry points.
+                The <e>Depsum</e> is a river in <qv uri="lanuch-shire">Lanuch</qv>
+                that is a tributary of the <qv uri="river-kyle">River Kyle</qv>.
+                It joins the Kyle about a league south of
+                <qv uri="hartford">Hartford</qv>.
             </para>
         </sect1>
     </body>
