@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Renwold Forest</title>
+        <title>West Farthing</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -33,9 +33,9 @@
         </references>
 
         <topics>
-            <subject uri="renwold-forest">Renwold Forest</subject>
+            <subject uri="ornwold-shire">Ornwold Shire</subject>
 
-            <category>Forests</category>
+            <category>Places</category>
 
             <topic uri="ornwold-shire">Ornwold Shire</topic>
             <topic uri="weidany">Weidany</topic>
@@ -46,17 +46,17 @@
 
     <body>
         <sect1>
-            <title>Renwold Forest</title>
+            <title>West Farthing, Ornwold</title>
 
             <para>
-                <e>Renwold Forest</e> covers much of southern <qv uri="ornwold-shire">Ornwold</qv>,
-                and is a mixture of light woodland and heavy forest. The southern tip of the
-                headland rises up to over two hundred metres in places. The northern parts of
-                the forest make up <qv uri="ornwold-old-farthing">Old Farthing</qv>.
+                The <e>West Farthing</e> of Ornwold is the most populated of the
+                four farthings, and includes the towns of <qv uri="worthrup">Worthrup</qv>,
+                <qv uri="middleham">Middleham</qv> and <qv uri="depping-castle">Depping</qv>.
+                It is mostly cleared farmland, with little in the way of forestland.
             </para>
             <para>
-                The thicker parts of the deep forest are home to some
-                <qv uri="forest-drakes">Forest Drakes</qv>.
+                As well as being the most populated, it is also the richest of the
+                farthings, and pretty much controls the entire shire.
             </para>
         </sect1>
     </body>

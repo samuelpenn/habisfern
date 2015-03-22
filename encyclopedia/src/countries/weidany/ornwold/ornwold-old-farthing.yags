@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Renwold Forest</title>
+        <title>Old Farthing</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -33,9 +33,9 @@
         </references>
 
         <topics>
-            <subject uri="renwold-forest">Renwold Forest</subject>
+            <subject uri="ornwold-shire">Ornwold Shire</subject>
 
-            <category>Forests</category>
+            <category>Places</category>
 
             <topic uri="ornwold-shire">Ornwold Shire</topic>
             <topic uri="weidany">Weidany</topic>
@@ -46,17 +46,19 @@
 
     <body>
         <sect1>
-            <title>Renwold Forest</title>
+            <title>Old Farthing, Ornwold</title>
 
             <para>
-                <e>Renwold Forest</e> covers much of southern <qv uri="ornwold-shire">Ornwold</qv>,
-                and is a mixture of light woodland and heavy forest. The southern tip of the
-                headland rises up to over two hundred metres in places. The northern parts of
-                the forest make up <qv uri="ornwold-old-farthing">Old Farthing</qv>.
+                The <e>Old Farthing</e> of Ornwold is that land between
+                <qv uri="oak-crest-wood">Oak Crest Wood</qv> and
+                <qv uri="renwold-forest">Renwold Forest</qv>. It is lightly
+                populated, being made up of small cleared regions within
+                the woodland of the central shire.
             </para>
             <para>
-                The thicker parts of the deep forest are home to some
-                <qv uri="forest-drakes">Forest Drakes</qv>.
+                As an administrative district, it doesn't bring in much in
+                the way of taxes, and often gets forgotten or subsumed into
+                the other farthings.
             </para>
         </sect1>
     </body>
