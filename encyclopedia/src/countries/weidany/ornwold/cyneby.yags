@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Cyneby</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="cyneby">Cyneby</subject>
+
+            <category>Towns</category>
+
+            <topic uri="ornwold-shire">Ornwold Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Cyneby</title>
+
+            <para>
+                The small town of <e>Cyneby</e> is located at the edge of the
+                farmland near <qv uri="bottom-wood">Bottom Wood</qv>, serving as a
+                market town for settlements up to
+                <qv uri="blenredin-plain">Blenredin Plain</qv>. It has a population
+                of about 1,100.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
