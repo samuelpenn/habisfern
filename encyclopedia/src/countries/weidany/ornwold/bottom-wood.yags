@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Bottom Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="bottom-wood">Bottom Wood</subject>
+
+            <category>Forests</category>
+
+            <topic uri="ornwold-shire">Ornwold Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Bottom Wood</title>
+
+            <para>
+                <e>Bottom Wood</e> is a small region of low woodland in western
+                <qv uri="ornwold-shire">Ornwold</qv>. It was used as a hunting
+                ground by the nobility, but in the last decade a series of mishaps
+                have caused people to start avoiding the place. No-one has mentioned
+                specifics, but it is said that a darkness is growing at the heart
+                of the wood.
+            </para>
+            <para>
+                Though several warbands have gone in to investigate, they have
+                found nothing of note.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
