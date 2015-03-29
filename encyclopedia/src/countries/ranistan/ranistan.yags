@@ -35,9 +35,10 @@
         <topics>
             <subject uri="ranistan">Ranistan</subject>
 
-            <category>Kingdoms</category>>
-            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <category>Kingdoms</category>
+
             <topic uri="ranistan">Ranistan</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
             <topic uri="euressa">Euressa</topic>
         </topics>
     </header>
@@ -45,20 +46,26 @@
     <body>
         <sect1>
             <title>Ranistan</title>
-            
+
             <import-map uri="euressa" scale="0">
                 <area name="ranistan" margin="2"/>
             </import-map>
 
             <para>
-                Ranistan is a Kingdom in eastern Euressa. Its northern border
-                is defined by the Minsky Hills. The rest of the land
-                consists of low hills and thick woods.
+                Ranistan is a Kingdom in eastern Euressa. Its northern border is defined
+                by the <qv uri="minsky-hills">Minsky Hills</qv>, and it stretches down
+                to the southern coast of <qv uri="euressa">Euressa</qv>. Most of the land
+                consists of low hills and thick woods, with a low level of population.
             </para>
-
             <para>
-                The principle religion is that of the Fire God
-                <qv uri="habrog">Habrog</qv>.
+                The country is made up of a number of small kingdoms, united only by the
+                cult of the fire god <qv uri="habrog">Habrog</qv>. The cult is no less
+                brutal than their god is, and the life of the kingdoms is often violent
+                and short.
+            </para>
+            <para>
+                In the last hundred years though a small number of free towns have been
+                colonised from the <qv uri="tulthon-empire">Tulthon Empire</qv>.
             </para>
         </sect1>
     </body>

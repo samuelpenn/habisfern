@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Minsky Hills</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="minksy-hills">Minsky Hills</subject>
+
+            <category>Hills</category>
+
+            <topic uri="ranistan">Ranistan</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Minsky Hills</title>
+
+            <para>
+                The <e>Minsky Hills</e> are a range of foothills and low mountains
+                in northern <qv uri="ranistan">Ranistan</qv>. The hills are home to
+                various human tribes who follow the
+                <qv uri="three-mothers">Three Mothers</qv>. They are occasionally
+                hunted by the cult of <qv uri="habrog">Habrog</qv>, but they have
+                superb knowledge of the hills and have successfully fought off any
+                attempts to drive them out.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
