@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Isle of Soon</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="isle-soon">Isle of Soon</subject>
+
+            <category>Islands</category>>
+
+            <topic uri="roligness">Roligness</topic>
+            <topic uri="taneith">Taneith</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Isle of Soon</title>
+
+            <para>
+                The <e>Isle of Soon</e> is off the western coast of <e>Taneith</e>,
+                and is one of the isles shielding <qv uri="rolig-bay">Rolig Bay</qv>
+                from the storms of the <qv uri="white-sea">White Sea</qv>.
+            </para>
+            <para>
+                The eastern shores of the island are heavily populated with farms
+                and villages, all dominated by the trade town of
+                <qv uri="nalstath">Nalstath</qv>. The western coast is both less
+                populated and less fertile, the hills only inhabitants often being
+                sheep or goats which are used to the rain and winds which sometimes
+                batter the isle.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
