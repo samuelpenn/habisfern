@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Nalstath</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="bryteland">Bryteland</see>
+        </references>
+
+        <topics>
+            <subject uri="nalstath">Nalstath</subject>
+
+            <category>Towns</category>
+
+            <topic uri="roligness">Roligness</topic>
+            <topic uri="taneith">Taneith</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Nalstath</title>
+
+            <para>
+                Nalstath is a large <qv uri="bryteland">Brytish</qv> town on the
+                <qv uri="isle-soon">Isle of Soon</qv> in <qv uri="taneith">Taneith</qv>.
+                The region had been a frequent target of raids by vikings up until
+                two hundred years ago when <qv uri="gauker-vigason">Gauker Vigason</qv>
+                decided to winter in Nalstath rather than return back to Bryteland.
+            </para>
+            <para>
+                The following year, he was joined by more of his men, and they used
+                the small town as a base for further raids around the north western
+                coast of Taneith. He married a local woman, and claimed both the
+                town and the <e>Isle of Soon</e> as his own.
+            </para>
+            <para>
+                Today the town has a population of about 4,000, and is the capital of
+                a thriving Brytish colony on the west coast of Taneith known as
+                <qv uri="roligness">Roligness</qv>. It is a major trading port, though
+                is hampered in growth due to its location on the small island rather
+                than being on the mainland.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

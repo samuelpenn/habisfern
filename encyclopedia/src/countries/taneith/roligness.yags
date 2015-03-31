@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Roligness</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline></slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="bryteland">Bryteland</see>
+        </references>
+
+        <topics>
+            <subject uri="roligness">Roligness</subject>
+
+            <category>Countries</category>
+
+            <topic uri="roligness">Roligness</topic>
+            <topic uri="taneith">Taneith</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Roligness</title>
+
+            <para>
+                The region claimed by the Brytish on the western coast of <e>Taneith</e>
+                is known as <e>Roligness</e>. Originally <qv uri="nalstath">Nalstath</qv>
+                was claimed permanently by <qv uri="gauker-vigason">Gauker Vigason</qv>,
+                but others soon followed as it became clear that settling farmland was
+                easier and less riskier than the yearling raiding.
+            </para>
+            <para>
+                The region has no single ruler, but is made up of highly independent
+                farmers and warriors as well as a number of free towns ruled by jarls.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
