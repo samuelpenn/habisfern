@@ -37,7 +37,7 @@
         <topics>
             <subject uri="old-kingdoms">Old Kingdoms</subject>
 
-            <category>Kingdoms</category>>
+            <category>Kingdoms</category>
 
             <topic uri="gyla">Gyla</topic>
             <topic uri="old-world">Old World</topic>
@@ -52,7 +52,8 @@
                 The kingdoms of humanity in the north of <qv uri="gyla">Gyla</qv>
                 some three thousand years ago were dominated by three main cities,
                 those of <qv uri="logreth">Logreth</qv>, <qv uri="ubra">Ubra</qv>
-                and <qv uri="ideria">Ideria</qv>.
+                and <qv uri="ideria">Ideria</qv>. These are now known as the
+                <e>Old Kingdoms</qv>
             </para>
             <para>
                 These cities featured heavily in the creation myths of the the
@@ -61,7 +62,8 @@
             </para>
             <para>
                 These kingdoms collapsed about two to three thousand years ago,
-                as its cities were swallowed by the <qv uri="ice">Ice</qv>.
+                as its cities were swallowed first by the <qv uri="ice">Ice</qv>,
+                and later by the hordes of the <qv uri="blood-god">Blood God</qv>.
             </para>
             <para>
                 After the retreat of the Ice, the <qv uri="urbrannen-city">City of Urbrannen</qv>
