@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Lytelwer</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="lytelwer">Lytelwer</subject>
+
+            <category>Towns</category>
+
+            <topic uri="hain-shire">Hain Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Lytelwer</title>
+
+            <para>
+                <e>Lytelwer</e> is a small town in eastern <e>Hain Shire</e>, in the
+                middle of cleared farmland in <qv uri="hain-wood">Hain Wood</qv>.
+                It has a population of about 1,500 and is ruled by Thegn Hild of
+                Lytelwer. She has close ties to the Swords of Neya that are based
+                here, and has a reputation for being a stern, uncompromising woman.
+            </para>
+            <para>
+                The town is located near to a shallow marsh, which used to be a lake
+                several generations back. Each generation claims that the marsh was
+                bigger in their day, and it is believed that it will have completely
+                dried up within a hundred years.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
