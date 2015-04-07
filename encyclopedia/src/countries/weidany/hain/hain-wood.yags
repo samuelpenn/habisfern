@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Hain Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="hain-wood">Hain Wood</subject>
+
+            <category>Forests</category>
+
+            <topic uri="hain-shire">Hain Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Hain Wood</title>
+
+            <para>
+                The <e>Hain Wood</e> is the name given to the stretch of forest
+                that spans <qv uri="hain-shire">Hain Shire</qv> and
+                <qv uri="emrend-shire">Emrend Shire</qv>. Though the northern
+                parts have started to be populated, the southern parts of the
+                forest have been almost completely unexplored for the last
+                couple of centuries.
+            </para>
+            <para>
+                Legend says that in the 8th century, the woods were ruled by the
+                King known as <qv uri="king-eriont">Eriont</qv>, from his castle
+                of black oak. He was an elf-king of sorts, half human and married
+                to the human sorceress <qv uri="crentyll">Crentyll</qv> who was
+                said to have skin the colour of night. The half-elven kingdom is
+                gone now, reclaimed by the forest, but rumours still linger of
+                magics deep in the woods.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
