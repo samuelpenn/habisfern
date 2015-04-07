@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Chardon Hills</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="chardon-hills">Chardon Hills</subject>
+
+            <category>Hills</category>
+
+            <topic uri="hain-shire">Hain Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Chardon Hills</title>
+
+            <para>
+                The <e>Chardon Hills</e> are found on the border with
+                <qv uri="ornwold-shire">Ornwold shire</qv>. They are a region of
+                low grassy hills which are now mostly used for the grazing of
+                sheep. There are no large settlements here, but numerous small
+                farmsteads that form a close-knit community of families.
+            </para>
+            <para>
+                Some of the families are said to be too close, and the people here
+                have a reputation of being somewhat inbred who don't take to
+                strangers that well.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
