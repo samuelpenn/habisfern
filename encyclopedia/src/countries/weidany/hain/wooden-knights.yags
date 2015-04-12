@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Wooden Knights</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="hain-wood">Hain Wood</subject>
+
+            <category>Legends</category>
+
+            <topic uri="hain-shire">Hain Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Wooden Knights</title>
+
+            <para>
+                The <e>Wooden Knights</e> of <qv uri="king-eriont">King Eriont</qv>
+                were thought to be <qv uri="faerie">Fey</qv> creatures that rode out
+                from <qv uri="castle-black-oak">Castle Black Oak</qv> to conquer the
+                lands around Hain Wood during the 7th and 8th centuries.
+            </para>
+            <para>
+                They were faceless knights, their features obscured completely by
+                their helms. Their arms and armour were of dark wood, though it
+                was as tough and sharp as steel.
+            </para>
+            <para>
+                Some of the knights were named, and stories exist to this day about
+                them. The most famous were Brynmor, Cadwalader, Cledwyn and Llywelyn,
+                as well as Rhiannon who was the only female Wooden Knight.
+            </para>
+            <sect2>
+                <title>Modern Day</title>
+                <para>
+                    There is the occasional story of a wooden knight being sighted
+                    in the woods, especially near Castle Black Oak, though since
+                    few go there the stories are few, and often not very reliable.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+
