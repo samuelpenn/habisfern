@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Eriont, King of Hain Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="hain-wood">Hain Wood</subject>
+
+            <category>Legends</category>
+
+            <topic uri="hain-shire">Hain Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>King Eriont of Hain Wood</title>
+
+            <para>
+                The region of Hain Wood was once heavily populated by the
+                <qv uri="weidanic">Weidanic</qv> tribes that first colonised the
+                region after their flight from <qv uri="tarvallah">Tarvallah</qv>.
+                Several kingdoms co-existed, with a mix of conflict and co-operation
+                in equal measure.
+            </para>
+            <para>
+                One of the local Kings, Aneirin son of Bleddyn, married a woman of
+                the woods, a beautiful woman of few words named Eirwen. King Aneirin
+                came across her whilst hunting in the woods one winter, where he said
+                she was standing in the snow having recently stepped out of a river.
+                Her skin was pale with white hair, and did not seem to notice that
+                it was the middle of winter. The king was taken by her beauty, and
+                immediately took her as his wife.
+            </para>
+            <para>
+                Eirwen gave him one child, a son named Eriont, who was dark haired
+                like his father. Though few approved of the King's marriage to Eirwen,
+                and considered her a witch of the <qv uri="ice">Ice</qv>, or at least
+                a <qv uri="faerie">Fey</qv>, the King stayed true to her until his
+                death. Eriont was mistrusted by most in the kingdom, and he showed
+                more interest in the woods than in the people around him at court.
+                After the death of his father he and his mother left, leaving behind
+                a brief battle for the succession.
+            </para>
+            <para>
+                About a decade later rumours began of a strange new fortification deep
+                in the wood, seemingly grown out of oak trees. It's master called
+                himself King Eriont, and he was served by knights in wooden armour,
+                who carried wooden swords that could cut steel.
+            </para>
+            <para>
+                The influence of King Eriont spread through the land, his knights
+                going forth from his <qv uri="castle-black-oak">Castle of Black Oak</qv>
+                to battle those who opposed him, which were mainly knights and kings
+                who claimed the land he saw as his own. Where his knights held control,
+                the woods grew tall and thick.
+            </para>
+            <para>
+                In the early 8th century, the sorceress <qv uri="crentyll">Crentyll</qv>
+                came in search of King Eriont. She had black skin, and was said to
+                come from a land far to the south. She brought with her many books which
+                she said contained the knowledge of her people. They married, and she
+                added her magical might to his fey powers.
+            </para>
+            <para>
+                They had sons and daughters, but they seemed to retreat from the world
+                and the wooden knights were seen less often. The woods around the
+                Castle of Black Oak became thicker and darker, and by the ninth century
+                the influence of the King faded from the lands around.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
