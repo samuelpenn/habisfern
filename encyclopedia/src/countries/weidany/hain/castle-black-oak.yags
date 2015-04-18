@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Castle Black Oak</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="hain-wood">Hain Wood</subject>
+
+            <category>Ruins</category>
+
+            <topic uri="hain-shire">Hain Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Castle Black Oak</title>
+
+            <para>
+                Once the dwelling place of <qv uri="king-eriont">King Eriont</qv>
+                back in the 8th century, <e>Castle Black Oak</e> is now a semi-mythical
+                place deep in <qv uri="hain-wood">Hain Wood</qv>. The woods about are
+                now thick and mostly unexplored, with unusual beasts said to lurk
+                there ready to prey on anyone foolhardy enough to try to make their
+                way through them.
+            </para>
+            <para>
+                Surrounding the castle itself is said to be a tangled maze of trees
+                and thorns a league round, filled with traps, pits and beasts. The
+                castle itself is made of black wood as hard as iron, looking more
+                like a natural formation and something built by humans.
+            </para>
+            <para>
+                How much of the castle lays in the <qv uri="dreamlands">Dreamlands</qv>
+                and how much in this world is not known, but a few stories that are
+                told by those who claim to have seen it say that it is a huge, sprawling
+                city filled with the echoes of past times. It is guarded by the
+                <qv uri="wooden-knights">Wooden Knights</qv> still, but whether the
+                stories that <qv uri="king-eriont">King Eriont</qv> and
+                <qv uri="crentyll">Lady Crentyll</qv> still hold court there are true
+                is not known.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
