@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Woodhurst</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="woodhurst">Woodhurst</subject>
+
+            <category>Towns</category>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Woodhurst</title>
+
+            <para>
+                <e>Woodhurst</e> is a town of about one thousand people in western
+                <qv uri="estwed-shire">Estwed</qv>. It is a market town set amongst
+                many farming villages in a cleared region known as
+                <qv uri="broadale">Broadale</qv>.
+            </para>
+            <para>
+                Woodhurst sits on the <qv uri="salt-road">Salt Road</qv>, and is the
+                westernmost of the settlements in Estwed that do so. There are slave
+                markets here, for slaves brought in from the rest of the Kingdom,
+                though such are favoured less than slaves from the east, who are
+                smaller and better suited to working the mines.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
