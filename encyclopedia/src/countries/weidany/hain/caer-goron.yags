@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Caer Goron</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="caer-goron">Caer Goron</subject>
+
+            <category>Keeps</category>
+
+            <topic uri="hain-shire">Hain Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Caer Goron</title>
+
+            <para>
+                The southern plateau of the <qv uri="moarn-hills">Moarn Hills</qv> is the
+                location of a settlement of <qv uri="ents">Ents</qv> called <e>Caer Goron</e>
+                by the locals. It's a highly defensive, well fortified stone keep that is
+                home to about three hundred Ents. Several other small settlements can be
+                found to the north of Caer Goron, which are used as watch posts by the
+                Ents.
+            </para>
+            <para>
+                The keep subsists on hunting in the forests around the hills, and a limited
+                amount of farming along the top. The fertility of the plateau isn't great,
+                but it's good enough to keep them going. Some of the Ents hire themselves
+                out as mercenaries to the nearby human settlements, which brings in enough
+                income to allow them to trade for goods they can't make themselves.
+            </para>
+            <para>
+                The current king of Caer Goron is King Gonnor, who has held the title for
+                at least the last sixty years. His third wife, Elsodd, is much younger
+                than he has and has born him two children in the last few years, which is
+                a high rate of childbirth for the normally slow to breed Ents.
+            </para>
+            <para>
+                Despite the use of mercenaries and the odd bit of trading, the relationship
+                between the Ents and humans in the region is strained, and both have been
+                known to raid each other's settlements. Generally the Ents are doing better
+                at this than the humans are, but they are far fewer in numbers. They tend
+                to be very distrustful of any strangers who approach their land, and are
+                just as likely to kill strangers as they are to demand that they leave.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
