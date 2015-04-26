@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Water Elemental</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>An elemental spirit of the water.</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="elemental">Elemental</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="faerie">Faeries</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Water Elemental</title>
+
+            <para>
+                Water elementals can be formed from rivers, lakes or the sea, and tend to
+                be limited in size according to the source of water they are formed from.
+                Some form naturally, especially from rivers or pools near to the
+                <qv uri="dreamlands">Dreamlands</qv>.
+            </para>
+            <para>
+                In physical form a water elemental is amorphous, appearing as an ever
+                churning pseudopod of water that must normally remain connected to its
+                source at all times. They rarely venture far from water, and flow back
+                rapidly after the magic that formed them ends.
+            </para>
+            <para>
+                Sometimes a water elemental can inhabit the body of a creature, an
+                action that allows it to break its connection to its watery source.
+                Such waters appear as drowned men or beasts, with water flowing from
+                their mouths and being continuously sucked up through their skin.
+                The most powerful wizards can create small armies of these, and such
+                can be terrifying to behold.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

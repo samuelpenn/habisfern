@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Air Elemental</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>An elemental spirit of the air.</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="elemental">Elemental</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="faerie">Faeries</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Air Elemental</title>
+
+            <para>
+                Air elementals are normally formed out of storm clouds, since calm
+                air rarely has the energy required to form an elemental. Air elementals
+                are huge creatures - the largest being hundreds of metres across. They
+                can be made only in open spaces, and must remain connected to the sky
+                at all times. They look something like an inverse tornado - a whirling
+                column of air the tail of which touches the clouds.
+            </para>
+            <para>
+                Elementals of the air are the least likely to form spontaneously. Only
+                a powerful wizard of air can generally create them, though they may
+                sometimes be formed by fey creatures, especially those with an affinity
+                for storms.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

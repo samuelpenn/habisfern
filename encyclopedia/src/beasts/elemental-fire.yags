@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Fire Elemental</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>An elemental spirit of the air.</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="elemental">Elemental</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="faerie">Faeries</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Fire Elemental</title>
+
+            <para>
+                Fire elementals can be created from a source of fire. Doing so normally
+                animates the entire fire, causing it to take the form of a pillar of
+                fire that can move across or through combustible material. They have
+                a cunning often lacked by other elementals, as well as a level of
+                aggression matched only by <qv uri="elemental-air">air elementals</qv>.
+            </para>
+            <para>
+                Fire elementals can normally be created anywhere there is a fire, and
+                since any wizard capable of creating one can also create their own fire,
+                this makes them easy to create and summon. They are also easy to
+                protect against, since they cannot easily cross bare earth or rock since
+                it does not combust. Though they can possess the body of a living creature,
+                such possession only lasts as long as the body itself does - normally
+                they are consumed in the fire within minutes.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
