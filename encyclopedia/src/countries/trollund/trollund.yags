@@ -39,7 +39,7 @@
         <topics>
             <subject uri="trollund">Trollund</subject>
 
-            <category>Countries</category>>
+            <category>Countries</category>
 
             <topic uri="northern-kingdoms">Northern Kingdoms</topic>
             <topic uri="trollund">Trollund</topic>
@@ -53,10 +53,10 @@
 
             <para>
                 Trollund is a region of desolate wasteland south of
-                <qv uri="urazen">Urazen</qv>. It is mostly moorland, marsh
-                and tangled woodland. To the south and east, the land rises
-                into the Withrican Mountains, whilst to the west, it is
-                absorbed into the Hruul forest.
+                <qv uri="urazen">Urazen</qv>. It is mostly moorland, marsh and
+                tangled woodland. To the south and east, the land rises into the
+                <qv uri="withrican-mountains">Withrican Mountains, whilst to the
+                west, it is absorbed into the <qv uri="hruul-forest">Hruul Forest</qv>.
             </para>
 
             <para>

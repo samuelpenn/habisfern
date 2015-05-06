@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Trollheim</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="troll-gods">Troll Gods</see>
+        </references>
+
+        <topics>
+            <subject uri="trollheim">Trollheim</subject>
+
+            <category>Castles</category>
+
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+            <topic uri="trollund">Trollund</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Trollheim</title>
+
+            <para>
+                <e>Trollheim</e> is a great stone fortification in the
+                <qv uri="schroffbergs">Scroffbergs</qv> near the middle of
+                <qv uri="trollund">Trollund</qv>. The fortification is partly
+                natural and partly constructed, though the exact proportions
+                of each is not known. The entire edifice towers over fifty
+                metres above the surrounding hills, but also descends much
+                lower beneath them.
+            </para>
+            <para>
+                The population of Trollheim is largely <qv uri="troll">Troll</qv>,
+                and is the only known settlement of its type. Even other places
+                where <qv uri="white-trolls">White Trolls</qv> are present,
+                they normally form small tribes that live either in woods or
+                caves. An actual constructed settlement is unique.
+            </para>
+            <para>
+                It is thought that the total troll population numbers more than a
+                thousand of the creatures, a large number of them thought to be
+                <e>White Trolls</ev>. There are rumours that Trollheim is
+                commanded by a <qv uri="troll-god">Troll God</qv> that dwells
+                deep beneath the surface, but this has never been verified.
+            </para>
+            <para>
+                Living amongst the trolls here are <qv uri="troll-sworn">Troll Sworn</qv>,
+                humans who either work with, or serve the trolls. Many of them here
+                are actually slaves, and they could number in the thousands.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

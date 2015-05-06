@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Scroffbergs</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="withrican-mountains">Withrican Mountains</see>
+        </references>
+
+        <topics>
+            <subject uri="scroffbergs">Scroffbergs</subject>
+
+            <category>Hills</category>
+
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+            <topic uri="trollund">Trollund</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Scroffbergs</title>
+
+            <para>
+                The <e>Scroffbergs</e> are a region of high moorland in
+                south eastern <e>Trollund</e>, and also the location of the
+                infamous <qv uri="trollheim">Trollheim</qv>. The upper hills
+                are cold and barren, especially where they merge into the
+                foothills of the <qv uri="withrican-mountains">Withricans</qv>.
+            </para>
+            <para>
+                Rumours persist that these lands are home to dark creatures such
+                as <qv uri="wraiths">wraiths</qv>, <qv uri="wights">wights</qv>
+                and various spawn of <qv uri="meam">Meam</qv> - as well as the
+                more usual <qv uri="trolls">trolls</qv> and their servants.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
