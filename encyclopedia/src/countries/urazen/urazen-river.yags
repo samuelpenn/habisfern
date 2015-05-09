@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Urazen River</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="falthy-sea">Falthy Sea</see>
+            <see uri="flatriskaz-marsh">Flatriskaz Marsh</see>
+        </references>
+
+        <topics>
+            <subject uri="urazen-river">Urazen River</subject>
+
+            <category>Rivers</category>
+
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+            <topic uri="urazen">Urazen</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Urazen River</title>
+
+            <para>
+                The largest river in <qv uri="urazen">Urazen</qv>, it is considered
+                to start in the <qv uri="flatriskaz-marsh">Flatriskaz Marsh</qv>, and
+                flows down to the <qv uri="falthy-sea">Falthy Sea</qv> at
+                <qv uri="murngard">Murngard</qv>.
+            </para>
+            <para>
+                A large amount of trade flows along its length, and a number of major
+                cities and towns can be found on its banks.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
