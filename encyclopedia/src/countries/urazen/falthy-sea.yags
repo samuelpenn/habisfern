@@ -39,7 +39,7 @@
         <topics>
             <subject uri="falthy-sea">Falthy Sea</subject>
 
-            <category>Seas</category>>
+            <category>Seas</category>
 
             <topic uri="euressa">Euressa</topic>
             <topic uri="northern-kingdoms">Northern Kingdoms</topic>
@@ -49,7 +49,7 @@
     <body>
         <sect1>
             <title>Falthy Sea</title>
-            
+
             <para>
                 Sea to the north of Euressa, its shores bordering on
                 Urazen, Salov, Niemstarg and Vorlov. It is a cold sea,

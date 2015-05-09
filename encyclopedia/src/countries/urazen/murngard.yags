@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Murngard</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="falthy-sea">Falthy Sea</see>
+        </references>
+
+        <topics>
+            <subject uri="murngard">Murngard</subject>
+
+            <category>Cities</category>
+
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+            <topic uri="urazen">Urazen</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Murngard</title>
+
+            <para>
+                <e>Murngard</e> is the capital city of <qv uri="urazen">Urazen</qv>,
+                and is found on the mouth of the <qv uri="urazen-river">Urazen River</qv>.
+                With a population of about four thousand it is one of the largest
+                settlements in the country, though it is not the most powerful. It's
+                claim to being the capital is only due to it being the royal seat,
+                and the current king has neither the power nor inclination to extend
+                his influence much beyond the city itself.
+            </para>
+            <para>
+                The city has a mixture of very wealthy courtiers living amongst the
+                abject poverty of most of the rest of the inhabitants. There is no
+                real delineation between one area and the next - poverty, riches,
+                crime and law can be found all in the same street.
+            </para>
+            <sect2>
+                <title>Politics</title>
+                <para>
+                    The current king is King Alberich who spends most of his time in
+                    his harem at the top of the <e>Purple Tower</e>. He leaves his wife
+                    Svanhildr run things, but her incompetence is legendary, and it is
+                    a mixture of court officials who manage the day to day running
+                    of the city. When Svanhildr does get involved, it is normally to
+                    the detriment of everyone involved.
+                </para>
+                <para>
+                    The reason the two are left to run the kingdom is that those that
+                    are most likely to replace them are those that already effectively
+                    have power, but with a large amount of deniability. A weak and
+                    ineffective royalty suits everyone just fine. This fact is widely
+                    known, and often complained about on the streets when another layer
+                    of corruption causes trouble for those at the bottom of the social
+                    pile.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+

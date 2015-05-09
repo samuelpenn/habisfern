@@ -39,7 +39,7 @@
         <topics>
             <subject uri="urazen">Urazen</subject>
 
-            <category>Countries</category>>
+            <category>Countries</category>
 
             <topic uri="euressa">Euressa</topic>
             <topic uri="northern-kingdoms">Northern Kingdoms</topic>
@@ -60,7 +60,6 @@
                 also borders onto <qv uri="trollund">Trollund</qv>, a savage
                 wilderness which is home to <qv uri="trolls">Trolls</qv>.
             </para>
-            
             <para>
                 Urazen is a poor country, but heavily populated. It's people
                 are generally dour and highly suspicious of strangers. The
