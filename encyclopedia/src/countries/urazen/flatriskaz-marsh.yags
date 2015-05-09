@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Flatriskaz Marsh</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="flatriskaz-marsh">Flatriskaz Marsh</subject>
+
+            <category>Marshes</category>
+
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+            <topic uri="urazen">Urazen</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Flatriskaz Marsh</title>
+
+            <para>
+                About fifteen leagues long, and three to five leagues wide in most
+                places, <e>Flatriskaz</e> is a marsh in southern Urazen. It is known
+                for its general extreme flatness and lack of features - it is pretty
+                much a lake that has been filled in with mud, leaving a mixture of
+                wet grassland and shallow water for most of its area.
+            </para>
+            <para>
+                The only exception is <qv uri="schreien-lake">Schreien Lake</qv>,
+                which is a single body of water a few metres deep at most, and
+                named for the occasional screams that are heard from within it.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
