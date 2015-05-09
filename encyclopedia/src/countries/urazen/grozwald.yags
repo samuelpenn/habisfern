@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Grozwald Forest</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="groswald">Groswald Forest</subject>
+
+            <category>Woods</category>
+
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="northern-kingdoms">Northern Kingdoms</topic>
+            <topic uri="urazen">Urazen</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Grozwald Forest</title>
+
+            <para>
+                The <e>Great Forest</e> as it is sometimes called, covers much of
+                eastern Urazen. It is a mixture of woodland, thick forest and some
+                meadows where it has been cleared for human habitation, but with the
+                exception of the foothills of the <qv uri="withrican-mountains">Withricans</qv>,
+                it is amongst the least populated regions of the country.
+            </para>
+            <para>
+                As well as being low in population, it is extremely lacking in any form
+                of law and order. There is no-one to enforce civilisation here, and with
+                the exception of a few exceptional bandit kings it is a land of independent
+                farmers and outlaws.
+            </para>
+            <para>
+                A darkness lurks in the deep recesses of the forest however, one which
+                is entirely inhuman in nature. It is now clear whether it is some left
+                over remnant of the Elders, something related to the Troll Gods, or some
+                aspect of the Dreamlands, but when it makes its presence felt madness
+                and vile sadism soon follows. A few cults have risen up to try to either
+                understand, control or protect against the darkness, but none last long.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
