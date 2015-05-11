@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Stencmor Swamp</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="stencmor">Stencmor Swamp</subject>
+
+            <category>Marches</category>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Stencmor Swamp</title>
+
+            <para>
+                Also called <e>the stinking swamp</e>, Stencmor is a large area
+                of forested wetland in <qv uri="estwed-shire">Estwed</qv>. The first
+                humans to encounter the region - the Weidanic tribes who were fleeing
+                Rornic slavery - never mentioned these swamps, so it is thought that
+                they are possibly relatively recent, less than a thousand years old.
+            </para>
+            <para>
+                Their name comes from the stench of dead vegetation that pervades the
+                region, making it extremely unpleasant for human habitation. The
+                situation is not helped by the presence of the <qv uri="wyrms">wyrms</qv>
+                that inhabit the area, poisoning the waters and preying on those that
+                venture into the swamp's depths. The greatest of all of these, said to
+                be the mother of them, is <qv uri="aeternes">Aeternes</qv>, who dwells
+                near the ruins of <qv uri="asiganburg">Asiganburg</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
