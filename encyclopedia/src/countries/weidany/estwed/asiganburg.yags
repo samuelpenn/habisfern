@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Asiganburg</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="asiganburg">Asiganburg</subject>
+
+            <category>Ruins</category>
+
+            <topic uri="stencmor">Stencmor Swamp</topic>
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Asiganburg</title>
+
+            <para>
+                The <e>Sinking City</e> as it is sometimes known is a set of
+                <qv uri="elder">Elder</qv> ruins in <qv uri="stencmor">Stencmor Swamp</qv>.
+                As with many ancient sites of the Elders, the bulk of the ruins are beneath
+                the ground, but here the city has been sinking into the swamp and so the
+                lower levels of the ruins are completely flooded.
+            </para>
+            <para>
+                Originally set on a hill, the ruins still stand somewhat above the
+                rest of the swamp, and until a couple of hundred years ago they were
+                home to a small army of outlaws that made use of the high defensibility
+                of the area. Given the unpleasantness of the swamp itself, few would
+                bother to approach them here, and the ruined walls made for a decent
+                hill fort that had both good visibility and also offered much protection
+                from attack.
+            </para>
+            <para>
+                Towards the mid 11th century, the great wyrm <qv uri="aeternes">Aeternes</qv>
+                decided to make the place her home, and the humans here were routed or
+                killed. It is believed that the spirits of some still haunt the region,
+                enslaved to the will of the wyrm.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
