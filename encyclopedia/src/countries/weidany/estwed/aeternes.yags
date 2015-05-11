@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Aeternes</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="asiganburg">Asiganburg</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="stencmor">Stencmor Swamp</topic>
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Aeternes</title>
+
+            <para>
+                Aeternes the Poisoner is a great <qv uri="wyrms">Wyrm</qv> that has
+                dwelled in the ruins of <qv uri="asiganburg">Asiganburg</qv> for
+                almost two hundred years. It is believed that she came to the ruined
+                city to birth a number of children that now hunt he entire of the
+                <qv uri="stencmor">Stencmor</qv>.
+            </para>
+            <para>
+                She is meant to be highly intelligent, and capable of speech, though
+                utterly evil in intent. She does not willingly allow those she captures
+                to leave, instead enjoying forcing to work as her slaves. Her slaves
+                are few, but over the years she has directed changes to the ruins in
+                order to better suit her purposes. However, what she eventually plans
+                is not known.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
