@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Low Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="low-wood">The Low Wood</subject>
+
+            <category>Marshes</category>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Low Wood</title>
+
+            <para>
+                The <e>Low Wood</e> is the southernmost of Estwed's swamps. There's
+                no obvious delineation between the woods around and the swamp itself -
+                the land simply sinks lower, and becomes gradually soggier, until
+                there is a significant amount of standing water and forest paths give
+                way to waterways.
+            </para>
+            <para>
+                The <e>Low Wood</e> is free of the <qv uri="wyrms">wyrms</qv> which
+                plague <qv uri="stencmoor">Stencmoor</qv>, and is actually reasonably
+                pleasant in nature. There are few large predators here, and the waterways
+                are rich in fish, so there are a number of small settlements to be found
+                around the swamp. The largest settlement here is
+                <qv uri="sodden-manor">Sodden Manor</qv> where the self-styled
+                <e>Lord of the Swamp</e> dwells.
+            </para>
+            <para>
+                The eastern edge of the swamp gives way to the
+                <qv uri="rawmerc-woods">Rawmerc Woods</qv>, and from there the land
+                rises up and drys out before reaching the plateau of
+                <qv uri="nailand">Nailand</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
