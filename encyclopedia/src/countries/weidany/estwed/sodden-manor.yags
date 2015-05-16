@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Sodden Manor</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="sodden-manor">Sodden Manor</subject>
+
+            <category>Towns</category>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Sodden Manor</title>
+
+            <para>
+                In the midst of the <qv uri="low-wood">Low Wood</qv> is the small town
+                of <e>Sodden Manor</e>. The settlement is built around a hill fort that
+                commands a strategic view of the swamp. The town has a population of
+                around 700.
+            </para>
+            <para>
+                The master of <e>Sodden Manor</e> is Belwulf Ironfist, the self-styled
+                <e>Lord of the Swamp</e>. He claims ownership of all the swamps of the
+                <e>Low Wood</e>, though in practise maybe half of it pays any attention
+                to him. His only real power is to set taxes at the town market, but since
+                most of the settlements within several leagues do business here, and the
+                only boat builders of any note (others seem to run into unfortunate
+                setbacks until they get the message) are also here, it gives him a
+                reasonable authority.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
