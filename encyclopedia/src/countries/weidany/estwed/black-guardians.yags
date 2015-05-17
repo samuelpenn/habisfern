@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Crumbling Cliffs</title>
+        <title>Black Guardians</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -33,9 +33,9 @@
         </references>
 
         <topics>
-            <subject uri="crumbling-cliffs">The Crumbling Cliffs</subject>
+            <subject uri="black-guardians">Black Guardians</subject>
 
-            <category>Hills</category>
+            <category>Mountains</category>
 
             <topic uri="estwed-shire">Estwed Shire</topic>
             <topic uri="weidany">Weidany</topic>
@@ -46,18 +46,18 @@
 
     <body>
         <sect1>
-            <title>The Crumbling Cliffs</title>
+            <title>The Black Guardians</title>
 
             <para>
-                The cliffs of the <qv uri="nailand">Nailand Plateau</qv> that encircle the
-                northern parts of <e>Estwed</e> average about three hundred metres in height,
-                and consist of an almost vertical drop except at their tops where the last
-                few tens of metres becomes almost rounded.
+                The Black Guardians are a set of mountains that rise up from the
+                <qv uri="crumbling-cliffs">Crumbling Cliffs</qv> in northern
+                <qv uri="estwed-shire">Estwed</qv>. They consist of five distinct
+                peaks, which in times past were considered to be stone giants or
+                dragons set to watch over the lands below.
             </para>
             <para>
-                The base of the cliffs are littered with scree, and travellers will witness
-                some form of rockfall on an almost daily basis here, especially in the early
-                spring when melting ice helps to split the rock.
+                In at least one of the peaks sleeps an actual <qv uri="dragons">dragon</qv>,
+                though it has not stirred for many centuries.
             </para>
         </sect1>
     </body>
