@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Crumbling Cliffs</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="crumbling-cliffs">The Crumbling Cliffs</subject>
+
+            <category>Places</category>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Crumbling Cliffs</title>
+
+            <para>
+                The cliffs of the <qv uri="nailand">Nailand Plateau</qv> that encircle the
+                northern parts of <e>Estwed</e> average about three hundred metres in height,
+                and consist of an almost vertical drop except at their tops where the last
+                few tens of metres becomes almost rounded.
+            </para>
+            <para>
+                The base of the cliffs are littered with scree, and travellers will witness
+                some form of rockfall on an almost daily basis here, especially in the early
+                spring when melting ice helps to split the rock.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
