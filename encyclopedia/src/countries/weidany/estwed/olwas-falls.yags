@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Olwa's Falls</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="olwas-falls">Olwa's Falls</subject>
+
+            <category>Places</category>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="nailand">Nailand</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Olwa's Falls</title>
+
+            <para>
+                When the <qv uri="weidanic">Weidanic</qv> people crossed Nailand, they
+                encountered the western edge of the plateau at a great waterfall on the
+                <qv uri="sattvana-river">Sattvana River</qv>. One of their priests at
+                the time, a woman named Olwa, fell to her death whilst trying to find a
+                way down, and the falls were named in her memory. There is some debate
+                as to whether the place should be <e>Olwa's Falls</e> or <e>Olwa's Fall</e>.
+            </para>
+            <para>
+                The cliffs are about 220m tall at this point, and there is a small lake
+                at the bottom of the falls which empties ultimately into
+                <qv uri="stencmor">Stencmor</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
