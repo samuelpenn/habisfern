@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Sattvana River</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <topics>
+            <subject uri="Sattvana River">Sattvana River</subject>
+
+            <category>Rivers</category>>
+
+            <topic uri="nailand">Nailand</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Sattvana River</title>
+
+            <para>
+                The <e>Sattvana River</e>, or the <e>River of Blessed Truth</e>,
+                runs from the <qv uri="maytal-hills">Maytal Hills</qv> in the central
+                plateau of <qv uri="nailand">Nailand</qv> to the cliffs at
+                <qv uri="olwas-falls">Olwas Falls</qv>, and then into
+                <qv uri="stencmor">Stencmor Swamp</qv> in <qv uri="estwed-shire">Estwed</qv>.
+                Though it is physically the same river, it is only called the Sattvana
+                above the <e>falls</e>. In Estwed, it is given the name of the
+                <qv uri="blue-river">Blue River</qv>.
+            </para>
+            <para>
+                There are a number of small fishing settlements on the river, which
+                double as ferry points for except for a few leagues near its source
+                the river is not fordable.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
