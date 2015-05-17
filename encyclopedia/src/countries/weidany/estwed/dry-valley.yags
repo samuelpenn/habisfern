@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Dry Valley</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="dry-valley">The Dry Valley</subject>
+
+            <category>Places</category>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Dry Valley</title>
+
+            <para>
+                One of the easiest routes from the <qv uri="nailand">Nailand Plateau</qv>
+                down into <qv uri="weidany">Weidany</qv>, the <e>Dry Valley</e> is a gully
+                several hundred metres wide that cuts down through the cliffs. It was once
+                cut by the <qv uri="barnya-river">Barnya River</qv>, but that now drops
+                into a sink hole several kilometres from the valley and continues its flow
+                underground, bypassing the valley entirely.
+            </para>
+            <para>
+                The <e>Dry Valley</e> descends to the <qv uri="rawmerc-woods">Rawmerc Woods</qv>,
+                and was once a pilgrimage route for the <qv uri="shortfolk">Shortfolk</qv>
+                to their holy burial grounds until the region was populated by the
+                <qv uri="weidany">Kingdom of Weidany</qv>.
+            </para>
+            <para>
+                Along its length, there are several caves carved into the rock walls of the
+                valley which were made as shrines by the <e>Shortfolk</e>. They are generally
+                left alone and rarely used for their original purpose.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
