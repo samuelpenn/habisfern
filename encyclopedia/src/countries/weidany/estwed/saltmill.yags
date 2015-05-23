@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Saltmill</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="saltmill">Saltmill</subject>
+
+            <category>Towns</category>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Saltmill</title>
+
+            <para>
+                <e>Saltmill</e> is a small town of about eight hundred people in southern
+                <qv uri="estwed-shire">Estwed</qv>. It's principle export is salt, mined
+                from the hills beneath the town. Like many of the salt mining settlements
+                in <e>Estwed</e>, it makes heavy use of slaves and law and order is enforced
+                though the continual threat of violence.
+            </para>
+            <para>
+                Saltmill also has a burgeoning service industry, in the form of sex slaves
+                (almost, but not all, women). The three brothels are frequented by workers
+                and mercenaries from the surrounding settlements. The original slaves were
+                women captured after the crack down on the cult of <qv uri="asabeth">Asabeth</qv>,
+                and since then they have been purchased from slave markets or simply taken
+                by the slavers from smaller settlements that can't defend themselves.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
