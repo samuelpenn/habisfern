@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Whitewood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="whitewood">Whitewood</subject>
+
+            <category>Towns</category>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Whitewood</title>
+
+            <para>
+                <e>Whitewood</e> is a run down town in southern Estwed with a population
+                of just over 500. Until about twenty years ago it was one of the salt
+                mining towns, but its mines become depleted and the main purpose of the
+                town was lost. It has gradually lost prominence, money and people over
+                the last two decades, and is now somewhat poverty stricken. The last
+                attempts to find more deposits left a lot of the landscape around
+                devastated, and the quality of the land has suffered.
+            </para>
+            <para>
+                Some years ago the local lord freed all the town's slaves, on the basis
+                that he would no longer have to feed or look after them, making Whitewood
+                one of the few large settlements in Estwed that doesn't make heavy use of
+                slavery.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
