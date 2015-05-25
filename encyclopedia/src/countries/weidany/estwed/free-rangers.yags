@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Free Rangers</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="free-rangers">The Free Rangers</subject>
+
+            <category>People</category>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Free Rangers</title>
+
+            <para>
+                The <e>Free Rangers</e> are a group of outlaws that dwell in various
+                parts of southern <qv uri="estwed-shire">Estwed</qv>. Their exact
+                numbers are not known, but estimates range from a few dozen to a couple
+                of hundred. There is no single person that controls all the rangers,
+                but instead they are made up of several smaller clans which claim to
+                have a similar purpose and who will occasionally come to each others
+                aid.
+            </para>
+            <para>
+                The rangers are made up of escaped slaves, convicts and those that claim
+                to want to free people from the tyranny of slavery. The degree to which
+                their actions are driven from their declared moral aims though is often
+                questioned, and many outside of the group claim that they simply use this
+                as an excuse for murder and theft. Though some of their actions are
+                directed towards slave owning lords, or at the mining operations that
+                make such heavy use of slaves, just as many harm those unrelated to such
+                operations.
+            </para>
+            <para>
+                The rangers have no fixed settlements in the woods of Estwed, but move
+                around on a regular basis to help avoid detection. Several attempts have
+                been made to hunt them down over the years, but all have met with only
+                limited success.
+            </para>
+            <para>
+                The <e>Rangers</e> were formed in 1188 by a group of slaves that had
+                escaped from <qv uri="emming">Emming</qv>, and they have grown in numbers
+                since then.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
