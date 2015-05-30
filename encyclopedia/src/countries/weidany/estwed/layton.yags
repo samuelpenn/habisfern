@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Layton</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="layton">Layton</subject>
+
+            <category>Towns</category>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Layton</title>
+
+            <para>
+                The small town of <e>Layton</e> has a population of about 700, and
+                is the principle market town of the <e>Layson Valley</e> area of
+                <qv uri="estwed-shire">Estwed</qv>. The lord is thegn Emhild of the
+                <qv uri="erwin-house">House of Erwin</qv>, a woman in her fifties
+                who has a good reputation in the Valley. She is a capable
+                administrator, and the town has prospered under her rule for the
+                last two decades.
+            </para>
+            <para>
+                Excess crops are generally sold on to <qv uri="woodhurst">Woodhurst</qv>
+                or <qv uri="lytelwer">Lytelwer</qv>.
+            </para>
+            <para>
+                The town has a small stone shrine to <qv uri="haltan">Haltan</qv>,
+                and a couple of priests look after the shrine on a permanent basis.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
