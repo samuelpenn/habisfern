@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Tarwell</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="tarwell">Tarwell</subject>
+
+            <category>Towns</category>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Tarwell</title>
+
+            <para>
+                <e>Tarwell</e> is a small town with a population of 500 at the south
+                end of the <e>Layson Valley</e>. At some point it may have been named
+                for tar deposits that are thought to have been nearby, but no such
+                deposits have been mentioned in the last couple of centuries.
+            </para>
+            <para>
+                The town now makes its livelihood from farming, and is also the site
+                of a small guardhouse for patrols that are responsible for the woods
+                between here and <qv uri="whitewood">Whitewood</qv>. Several bandit
+                groups operate in the area, including the
+                <qv uri="free-rangers">Free Rangers</qv> and a pack of wereboars
+                that cause trouble on a monthly basis.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
