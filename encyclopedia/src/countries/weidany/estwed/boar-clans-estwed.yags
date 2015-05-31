@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Boar Clans of Estwed</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="boar-clans-estwed">Boar Clans of Estwed</subject>
+
+            <category>People</category>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Boar Clans of Estwed</title>
+
+            <para>
+                The forests of southern <e>Estwed</e> are home to a number of outlaw
+                groups, but the most distinctive are those of the were boars. There
+                are about half a dozen different clans, each laying claim to a particular
+                area and each ruled by a 'grandfather' who keeps control.
+            </para>
+            <para>
+                Each clan consists of anything from a dozen to three dozen members,
+                and tend to be very aggressive in defending their territory. Membership
+                is defined by 'bloodline' those infected with the curse of lycanthropy
+                by one clan are forced to join that clan. The bloodlines are enforced by
+                all the clans, and any boars that try to join another (or who runaway)
+                will be hunted down and killed by all.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
