@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Emming</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="emming">Emming</subject>
+
+            <category>Towns</category>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Emming</title>
+
+            <para>
+                <e>Emming</e> is a small town with a population of about 1,000. Ruled
+                by Lord Gulstorf the Toothless, it is a reasonably prosperous salt
+                mining town. The town is most famous for its slave revolt of 1188, when
+                several members of the nobility were slain. Though there was a period
+                of extreme abusiveness towards the remaining slaves in the years that
+                followed, things have pretty much returned to normal now.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
