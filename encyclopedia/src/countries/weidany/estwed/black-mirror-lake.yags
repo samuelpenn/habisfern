@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Black Mirror Lake</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="black-mirror-lake">Black Mirror Lake</subject>
+
+            <category>Lakes</category>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Black Mirror Lake</title>
+
+            <para>
+                In southern Estwed is a dark pool of water known as
+                <e>Black Mirror Lake</e>. About two hundred metres in length,
+                it is surrounded by low hills, with a single stream feeding
+                into it. The water of the lake is covered by a thin film of
+                some oily substance which gives it a dark, mirror-like sheen.
+                The layer is viscous enough such that the lake's surface seems
+                completely still except in high winds.
+            </para>
+            <para>
+                Nothing natural lives in the lake, and swimming in it (let
+                alone drinking from it) can lead to sickness and in a few cases
+                even death. Rumours claim that a many tentacled beast lives
+                within the lake, and that on rainy nights it may leave the lake
+                and roam the surrounding hills looking for victims to consume.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
