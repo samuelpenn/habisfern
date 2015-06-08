@@ -36,7 +36,7 @@
         <topics>
             <subject uri="walgi">Walgi</subject>
 
-            <category>Gods</category>>>
+            <category>Gods</category>
 
             <topic uri="daegian">Daegian</topic>
             <topic uri="rornic-mythology">Rornic Mythology</topic>
@@ -77,10 +77,10 @@
                 <para>
                     Walgi has a particular hatred of the offspring of Meam,
                     and her cultists seek out and slay any of them that they
-                    find. There does not appear to have been any particular
-                    event that sparked this hatred, so it is probably simply
-                    a distaste for the unnatural corruption of such beasts
-                    that upset the natural order of the wild.
+                    find. She has never forgiven him for what he did to her
+                    favourite companion <qv uri="beltha">Beltha</qv>, the
+                    she wolf that birthed <qv uri="wulsoxa">Wulsoxa</qv>, the
+                    Mother of Werewolves after being raped by Meam.
                 </para>
             </sect2>
         </sect1>

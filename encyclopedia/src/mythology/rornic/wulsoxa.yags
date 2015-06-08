@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Wulsoxa</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="meam">Meam</subject>
+
+            <category>Legends</category>
+
+            <topic uri="meam-daughters">Daughters of Meam</topic>
+            <topic uri="rornic-mythology">Rornic Mythology</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Wulsoxa</title>
+
+            <para>
+                One of the daughters of <qv uri="meam">Meam</qv>, Wulsoxa is
+                considered the mother of all <qv uri="werewolves">Werewolves</qv>.
+                Her mother was the great she-wolf <qv uri="beltha">Beltha</qv>,
+                one of the favoured of <qv uri="walgi">Walgi</qv>.
+            </para>
+            <para>
+                Meam had been hunting in the forests which Walgi considered her
+                home, slaying beasts for both food and leisure. When Walgi heard
+                of this, she and her pack hunted him down and tried to slay him,
+                but only managed in driving him off. Walgi herself managed to
+                lay a heavy wound upon his face, giving him a scar to this day.
+            </para>
+            <para>
+                Fleeing to safety, Meam wanted revenge, but feared fighting Walgi
+                directly. So he lay a cunning trap for one of her companions -
+                the great wolf mother Beltha. Setting a trial for her to follow,
+                she thought that she could come upon Meam in his lair and slay
+                him herself, but she was captured and imprisoned in a place where
+                her goddess could not find her. Meam tortured and raped her,
+                sending her ears and tail back to Walgi in order to mock her.
+            </para>
+            <para>
+                By the time Beltha was discovered, she was already dead, her body
+                ripped open by the birthing of a terrible monster. That monster
+                was Wulsoxa, a half-woman half-wolf creature that was said to be
+                beautiful when no-one saw her, but who took on a terrifying
+                appearance when she was seen.
+            </para>
+            <para>
+                Tormented by pain, and the rejection of all who saw her, she
+                became an outcast like her father, and sought to give pain and
+                suffering to others as she suffered herself. She herself was
+                raped by her father, and her children became the first of the
+                <qv uri="werewolves">Werewolves</qv>. As such she is known as
+                the <e>Mother of Werewolves</e>.
+            </para>
+        </sect1>
+
+    </body>
+
+</article>
+
+
+

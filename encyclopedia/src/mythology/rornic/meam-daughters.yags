@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Daughters of Meam</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>The Beast God</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="meam">Meam</subject>
+
+            <category>Gods</category>
+
+            <topic uri="rornic-mythology">Rornic Mythology</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Daughters of Meam</title>
+
+            <para>
+                The <e>Daughters of Meam</e> are creatures that were fathered
+                by Meam, the product of rape and hatred. Like their father, they
+                have a hatred of those that are accepted by others, and seek to
+                cause as much pain and suffering as they can.
+            </para>
+            <para>
+                <qv uri="wulsoxa">Wulsoxa</qv> is the Mother of Werewolves.
+            </para>
+            <para>
+                <qv uri="moersin">Moersin</qv> is the Mother of Wereboars.
+            </para>
+            <para>
+                <qv uri="beramor">Beramor</qv> is the Mother of Werebears.
+            </para>
+            <para>
+                <qv uri="angith">Angith</qv> is the Dark Mother, born of
+                trolls.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+

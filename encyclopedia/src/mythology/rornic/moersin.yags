@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Moersin</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="meam">Meam</subject>
+
+            <category>Legends</category>
+
+            <topic uri="meam-daughters">Daughters of Meam</topic>
+            <topic uri="rornic-mythology">Rornic Mythology</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Moersin</title>
+
+            <para>
+                One of the daughters of <qv uri="meam">Meam</qv>, Moersin was the
+                result of the rape of <qv uri="alvswin">Alvswin</qv>, the great boar
+                of the Northern Woods. Alvswin was said to have been a perfect
+                boar, as large as a house and with hide that no spear could pierce.
+            </para>
+            <para>
+                Meam and his children had been hunting the boars of her wood, and
+                eventually it came to a great battle between her and Meam. The God of
+                Outcasts one, gravely injuring her and raping her on the battlefield.
+                She survived, and eventually gave birth to <e>Moersin</e>, who was
+                disfigured and ugly. The birth almost killed Alvswin, but she survived,
+                but from then on hid from the world for her wounds had left her but
+                a poor reflection of her former self.
+            </para>
+            <para>
+                Moersin took on the role of Queen of the Boars, but was forced to
+                bully and kill them into following her. Eventually she was left alone,
+                and she took to hunting and killing humans. Those she killed came back
+                the following morning as boars, able to take human form only when the
+                moon was not in the sky.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
+
