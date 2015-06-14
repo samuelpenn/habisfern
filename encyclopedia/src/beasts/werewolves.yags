@@ -30,6 +30,8 @@
         <style name="module"/>
 
         <references>
+            <see uri="werebears">Werebears</see>
+            <see uri="wereboars">Wereboars</see>
         </references>
 
         <topics>

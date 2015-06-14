@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Wereboars</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="werebears">Werebears</see>
+            <see uri="werewolves">Werewolves</see>
+        </references>
+
+        <topics>
+            <subject uri="wereboars">Wereboars</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Wereboars</title>
+
+            <para>
+                Wereboars are shapechanging humans cursed to take the form of
+                boars whilst the Moon is in the sky. Unlike werewolves, who are
+                cursed to change only during the full Moon, wereboars spend a
+                much longer period of time in animal form.
+            </para>
+            <para>
+                <e>Wereboars</e> are said to be the descendants of
+                <qv uri="moersin">Moersin</qv>, one of the bestial daughters of
+                the god <qv uri="meam">Meam</qv>. They are violent, territorial
+                and prone to raiding human settlements whenever the mood takes
+                them. Of all the cursed shapechangers, they are the least
+                civilised.
+            </para>
+            <sect2>
+                <title>Passing on the Curse</title>
+                <para>
+                    Wereboars form family groups aligned by blood, with 'descendants'
+                    subservient to those that brought them into the fold. Being
+                    mortally wounded by a wereboar is likely to spread the curse,
+                    with the victim slipping into a fevered coma rather than dying,
+                    then waking to perform a crazed blood letting.
+                </para>
+                <para>
+                    In order to maintain control of the group, wereboars try to claim
+                    their victims before they turn, in order to prevent a cascade of
+                    new victims which may upset their already fragile society.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+
