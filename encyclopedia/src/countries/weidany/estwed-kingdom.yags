@@ -35,7 +35,7 @@
         <topics>
             <subject uri="estwed-shire">Estwed</subject>
 
-            <category>Kingdoms</category>>
+            <category>Kingdoms</category>
 
             <topic uri="estwed-shire">Estwed Shire</topic>
             <topic uri="weidany">Weidany</topic>
@@ -107,7 +107,7 @@
             <para>
                 Surprisingly, Estwed has no desire to expand its own lands.
                 It is only in 841, when the warrior women attack and defeat
-                the Brytish invasion force which is terrorising the rest of
+                the invasion of Shortfolk which is terrorising the rest of
                 the region, that they actually venture beyond their borders.
                 A payment of gold is extracted from the Brytish, and it is
                 forced into <qv uri="emrend-shire">Emrend</qv>.
@@ -123,7 +123,7 @@
             </para>
 
             <para>
-                In 880, the Crimson Blades lead a raiding force into Aiden,
+                In 880, the Crimson Blades lead a raiding force into Aidan,
                 which is highly successfull. Wealth is obtained, and the
                 distraction is enough to enable her to put off the problems
                 within the heartlands of the Kingdom. Again though, the
@@ -145,9 +145,16 @@
             </para>
 
             <para>
-                In the summer of 889, King Peada is crowned king, and the
-                Kingdom shrinks back to something approximating its
-                original borders.
+                In the summer of 889, King Peada is crowned king. He is forced
+                by practicality to sign agreements with his neighbours that
+                shrink the Kingdom of Estwed back to something close to its
+                original borders of more than a decade ago.
+            </para>
+            <para>
+                The power and influence of <e>Estwed</e> shrinks over time,
+                until the last king swears allegiance to Queen Aelfthryth
+                in 1029, and the Kingdom of Estwed becomes a shire of the
+                Kingdom of Weidany.
             </para>
         </sect1>
     </body>
