@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Earl of Norvic</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="earldom-withnorl">Earldom of Withnorl</subject>
+
+            <category>Nobles</category>
+
+            <topic uri="earldom-withnorl">Earldom of Withnorl</topic>
+            <topic uri="sarse">Sarse</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Earl of Norvic</title>
+
+            <para>
+                The <e>Earl of Norvic</e> is the title given to the ruler of the
+                <qv uri="earldom-withnorl">Earldom of Withnorl</qv>. The disparity
+                in the title to the region comes from the time of
+                <qv uri="earl-ricehard">Earl Ricehard</qv> of <qv uri="norvic">Norvic</qv>.
+            </para>
+            <para>
+                Though Ricehard was the son of <qv uri="garrick-marton">Garrick of Marton</qv>,
+                the Earl of Withnorl, he governed the city of Norvic in his own name,
+                and (he considered) entirely due to his own competence. Though he was
+                more than happy to inherit his father's lands when he died, he preferred
+                to keep his own title. Even as he expanded the extent of the Earldom
+                around the <qv uri="sord-gulf">Sord Gulf</qv>, he considered himself
+                primarily the ruler of the city which had been his home.
+            </para>
+            <para>
+                His own son, <qv uri="wyrtgeorn-elder">Wyrtgeon the Elder</qv>, carried
+                on the tradition, and is still known as the Earl of Norvic.
+            </para>
+            <sect2>
+                <title>Authority</title>
+                <para>
+                    The Earl has absolute authority within his domain, and despite the
+                    actual title does not owe allegiance to anyone. Those directly under
+                    his authority are given the title of <e>thegn</e>, and they answer
+                    directly to the Earl.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+
