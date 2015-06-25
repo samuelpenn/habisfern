@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Blue River</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="blue-river">Blue River</subject>
+
+            <category>Rivers</category>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="nailand">Nailand</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Blue River</title>
+
+            <para>
+                The <e>Blue River</e> is the name given to the river that flows from
+                <qv uri="olwas-falls">Olwa's Falls</qv> by the people of Estwed. It
+                terminates somewhere in the <qv uri="stencmor">Stencmor</qv>, merging
+                with the many pools and waterways that make up that.
+            </para>
+            <para>
+                Above the falls, it is known as the <qv uri="sattvana-river">Sattvana</qv>
+                by the <qv uri="shortfolk">Shortfolk</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
