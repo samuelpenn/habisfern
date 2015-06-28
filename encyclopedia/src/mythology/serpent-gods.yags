@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Serpent Gods</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="precursor">Precursor</see>
+            <see uri="elders">Elders</see>
+        </references>
+
+        <topics>
+            <subject uri="serpent-gods">Serpent Gods</subject>
+
+            <category>Legends</category>
+
+            <topic uri="gyla">Gyla</topic>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Serpent Gods</title>
+
+            <para>
+                The ancient <qv uri="serpent-kingdoms">Serpent Kingdoms</qv> were
+                the greatest empires of the <qv uri="elders">Elders</qv> and is
+                believed to have been based around the worship of their dark gods.
+            </para>
+            <para>
+                Little information exists about these gods, though drawings on
+                ancient monuments show huge snake-like beings being worshipped
+                by hordes of their follows. Such beings demanded the sacrifice of
+                slaves, and the total obedience of their servants. A few hints
+                of their nature survived into the <qv uri="druids-elders">Druidic</qv>
+                religions of humanity.
+            </para>
+            <para>
+                Some tales tell of cults still existing deep beneath the ground,
+                in the ancient cities where some Elders still live. There is no
+                strong evidence for this however.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

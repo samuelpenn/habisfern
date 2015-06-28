@@ -32,12 +32,13 @@
         <references>
             <see uri="precursor">Precursor</see>
             <see uri="elders">Elders</see>
+            <see uri="serpent-gods">Serpent Gods</see>
         </references>
 
         <topics>
             <subject uri="serpent-kingdoms">Serpent Kingdoms</subject>
 
-            <category>Kingdoms</category>>
+            <category>Kingdoms</category>
 
             <topic uri="gyla">Gyla</topic>
             <topic uri="old-world">Old World</topic>
