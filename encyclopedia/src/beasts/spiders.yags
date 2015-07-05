@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Spiders</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="spiders">Spiders</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Spiders</title>
+
+            <para>
+                Spiders of all shapes and sizes can be found in most places
+                on Eorthe, but the ones of greater interest are the giant kind,
+                found in only a few places. <qv uri="attercop-wood">Attercop Wood</qv>
+                in <qv uri="weidany">Weidany</qv> is one of the most famous places
+                they can be found, but not the only.
+            </para>
+            <para>
+                Giant spiders are around a metre across (including their legs),
+                and subsist by hunting prey rather than using webs. Web using spiders
+                of smaller varieties are often found near giant spider lairs, and
+                webs may be thick and give the impression that they belong to the
+                giant spiders.
+            </para>
+            <para>
+                They have a virulent venom which can paralyse a human adult within
+                minutes. Their usual tactic is to drop down out of the trees, deliver
+                a bite, and then retreat off to wait for the poison to take effect.
+                They normally prey on smaller creatures though - wild pigs being a
+                favoured food - but have been known to attack horses or bears when
+                they are hungry enough.
+            </para>
+            <para>
+                Giant Spiders are about as clever as a dog, fear fire and normally
+                hunt either alone or in packs of two to five.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

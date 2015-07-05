@@ -35,7 +35,7 @@
         <topics>
             <subject uri="attercop-wood">Attercop Wood</subject>
 
-            <category>Woods</category>>
+            <category>Woods</category>
             <topic uri="northwood-shire">Northwood Shire</topic>
             <topic uri="weidany">Weidany</topic>
             <topic uri="habisfern">Habisfern</topic>
@@ -57,17 +57,18 @@
             </para>
 
             <para>
-                The woods are the hunting groups of a species of giant 
-                spider. Up to a metre across, they are tree dwellers, 
+                The woods are the hunting groups of a species of
+                <qv uri="spiders">giant spider</qv>. Up to a metre across,
+                they are tree dwellers,
                 hunting by laying in wait for prey and  pouncing from 
                 above when they get within range. The spiders do not use 
-                webs, but do make use of a virulent poison that rapidly 
-                incapasitates prey.
+                webs, but do make use of a virulent venom that rapidly
+                incapacitates prey.
             </para>
 
             <para>
                 The typical tactic is to bite, then retreat and wait for 
-                the poison to take effect. The spiders fear fire, and 
+                the venom to take effect. The spiders fear fire, and
                 tend to be wary of anything that puts up a fight.
             </para>
 
