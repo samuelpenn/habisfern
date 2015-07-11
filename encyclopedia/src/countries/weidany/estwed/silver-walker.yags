@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Silver Walker</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="silver-walker">Silver Walker</subject>
+
+            <category>Legends</category>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Silver Walker</title>
+
+            <para>
+                Somewhere in central <e>Estwed</e> is a semi-mythical creature
+                known as the <e>Silver Walker</e>. It is said to appear only on
+                nights of the full moon, when it forms itself from the shadows
+                of the trees cast by the moon. Those that claim to have seen it
+                say that it is larger than the trees, and that it strides through
+                the forests as if hunting for something.
+            </para>
+            <para>
+                Many consider the creature to be a myth, and though the odd large
+                footprint has been seen, it is rarely seen my more than a single
+                person at a time, and even then they are often known to be drunks
+                or madmen.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
