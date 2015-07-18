@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Dead Born</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="undead">Undead</see>
+        </references>
+
+        <topics>
+            <subject uri="wights">Wights</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="undead">Undead</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Dead Born</title>
+
+            <para>
+                <e>Dead Born</e> are rare, and often considered to be a myth.
+                They are babies born already undead, said to be the result
+                of rape by a <qv uri="wight">wight</qv> - itself an event said
+                to be a myth.
+            </para>
+            <para>
+                Dead born do not grow or age, but are stronger than a normal
+                baby and capable of walking under their own power. They are said
+                to be possessed by the spirit of either their father or mother
+                (depending on the teller of the story), and in the latter case
+                the mother never survives child birth. Given the violent and
+                cannibalistic tendencies of <e>Dead Born</e>, they are often
+                killed soon after child birth as well. Those born to a mother
+                that lived alone may haunt the place of their birth for many
+                years afterwards.
+            </para>
+            <para>
+                The myth is prevalent enough in <qv uri="merkia">Merkia</qv> that
+                stillborn are burnt as quickly as possible, in case the corpse
+                is possessed by the spirit of another.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
