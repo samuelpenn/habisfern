@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Shadow of Eiluned</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="shadow-eiluned">Shadow of Eiluned</subject>
+
+            <category>Legends</category>
+
+            <topic uri="merkia">Merkia</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Shadow of Eiluned</title>
+
+            <para>
+                <e>Eiluned</e> was said to be one of a small number of warriors
+                of <qv uri="merkia">Merkia</qv> from the 11th century that ever
+                had a name known by the Rornic. She was a fearsome leader of
+                raiders that specialised in night raids deep into Weidany,
+                killing men, women and children with equal cruelty.
+            </para>
+            <para>
+                When the Merkian hordes vanished in 1057, she vanished with them.
+            </para>
+            <para>
+                In the following two centuries though a number of shadowy figures
+                have been spotted in the woods of Merkia, often around the ruins
+                of the old villages that lay empty and abandoned after the war
+                finished. The <e>Shadow of Eiluned</e> is the most popular spirit
+                that travellers have claimed to have seen. They say she appears
+                as a dark, shadowy spirit that hovers at the edge of the firelight
+                at night, and that her appearance heralds the death of one or
+                more of those who see her the following day.
+            </para>
+            <para>
+                There have been some reports of her being accompanied by a horde
+                of warriors, but such stories are rarely believed.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
