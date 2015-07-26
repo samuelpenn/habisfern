@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Wood Ghosts</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="land-wight">Land Wight</see>
+        </references>
+
+        <topics>
+            <subject uri="wood-ghosts">Wood Ghosts</subject>
+
+            <category>Legends</category>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Wood Ghosts</title>
+
+            <para>
+                When the <qv uri="druids">Druids</qv> had their power in
+                Weidany, before the coming of the Rornic people, they had the
+                power to wake the trees of the woods to use as guardians and
+                in some cases armies to use against their enemies. Now that
+                the power of the Druids has been broken, such woken trees are
+                rare, but it is said that in some cases their spirits can
+                still linger in a dormant state.
+            </para>
+            <para>
+                When such a tree is felled by human hand, the ghost of these
+                trees can be awakened and released into the world. They are
+                are form of <qv uri="land-wight">Land Wight</qv>, in that they
+                haunt a particular place, but due to the nature of their
+                creation they are less wise and somewhat more insane.
+            </para>
+            <para>
+                The nature of these woken ghosts can take on the form of a
+                woman or man, clad in dead leaves and often dripping sap
+                from a wound which represents the cut made on their tree.
+            </para>
+            <para>
+                The nature of the ghost can vary greatly, but is often tied to
+                the type of tree that was felled. The ghosts of oak trees can
+                be large and imposing, but tend to appear more in the dreams of
+                those around rather than as physical apparitions.
+            </para>
+            <para>
+                Willow ghosts haunt at the edge of vision, and are said to follow
+                their slayer wherever they go, causing harm to those around them
+                rather than to those responsible themselves.
+            </para>
+            <para>
+                The ghost of birch trees are said to be the most deadly, for they
+                seek nothing less than the death of their killer. They can move
+                only in the dark, and cannot cross a wooden threshold, but their
+                touch can cause death.
+            </para>
+            <para>
+                Destroying such spirits often requires the burning of every part
+                of the tree that they came from. If the wood has been cut up
+                and taken elsewhere, this can be difficult to do.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
