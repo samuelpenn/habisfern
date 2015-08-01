@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Mergen Peaks</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="mergen-peaks">Mergen Peaks</subject>
+
+            <category>Mountains</category>>
+
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="lanuch-shire">Lanuch Shire</qv>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Mergen Peaks</title>
+
+            <para>
+                The <e>Mergen Peaks</e> stretch for some twenty leagues across
+                the western border of <qv uri="lanuch-shire">Lanuch Shire</qv>.
+                They are a region of hills and low mountains, split into two
+                regions of highlands in the southwest and northeast. Between these
+                actual mountains are lower hills which are easily traversable.
+            </para>
+            <para>
+                Though the high peaks are difficult to cross, most the region is
+                quite accessible via valleys and mountain paths. There are a
+                number of independent farmsteads in the region that mostly deny
+                allegiance to anyone, least of all the shire. Occasional skirmishes
+                between tax collectors and such independent farmers happens when
+                takings have been low, but for the most part they are left alone.
+            </para>
+            <para>
+                There are a number of shrines to <qv uri="bis">Bis</qv> up in the
+                Peaks, and he is a common god amongst the people here.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
