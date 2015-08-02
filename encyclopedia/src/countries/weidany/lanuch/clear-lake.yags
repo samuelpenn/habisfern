@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Clear lake</title>
+        <title>Clear Lake</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -35,7 +35,7 @@
         <topics>
             <subject uri="clear-lake">Clear Lake</subject>
 
-            <category>Lakes</category>>
+            <category>Lakes</category>
 
             <topic uri="habisfern">Habisfern</topic>
             <topic uri="lanuch-shire">Lanuch Shire</qv>

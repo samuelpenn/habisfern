@@ -2,10 +2,10 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Depsum River</title>
+        <title>Eskal River</title>
         <tagline>Habisfern</tagline>
 
-        <slugline>Considered to be the largest river in Weidany.</slugline>
+        <slugline/>
 
         <author>
             <fullname>Samuel Penn</fullname>
@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license type="Yags">
-            <year>2005</year>
+            <year>2015</year>
             <holder>Samuel Penn</holder>
             <text>
                 This document can be redistributed and/or modified
@@ -33,7 +33,7 @@
         </references>
 
         <topics>
-            <subject uri="depsum-river">Depsum River</subject>
+            <subject uri="eskal-river">Eskal River</subject>
 
             <category>Rivers</category>
 
@@ -46,13 +46,15 @@
 
     <body>
         <sect1>
-            <title>Depsum River</title>
+            <title>Eskal River</title>
 
             <para>
-                The <e>Depsum</e> is a river in <qv uri="lanuch-shire">Lanuch</qv>
-                that is a tributary of the <qv uri="river-kyle">River Kyle</qv>.
-                It joins the Kyle about a league south of
-                <qv uri="hartford">Hartford</qv>.
+                The <e>Easkal River</e> flows out of <qv uri="clear-lake">Clear Lake</qv>
+                in the <qv uri="mergen-peaks">Peaks</qv>, and flows south east down to
+                the <qv uri="depsum-river">Depsum River</qv>. Within about a league of the
+                lake, the river's waters are clear and pretty much empty of life. The
+                further from the lake you get, the greater the number and diversity of
+                fish and water plants.
             </para>
         </sect1>
     </body>
