@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Clear lake</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="clear-lake">Clear Lake</subject>
+
+            <category>Lakes</category>>
+
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="lanuch-shire">Lanuch Shire</qv>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Clear Lake</title>
+
+            <para>
+                <e>Clear Lake</e> is found on the east side of the
+                <qv uri="mergen-peaks">Peaks</qv>, and is fed by a multitude
+                of small streams, and emptied by the
+                <qv uri="eskal-river">Eskal River</qv>.
+            </para>
+            <para>
+                The lake gets its name from the clarity of the waters, for even the
+                bottom of the lake is visible at times. There are few fish in the lake
+                though, and little grows along the shores. Where the waters empty into
+                the <e>Eskal</e>, the river is also clear along its upper stretch.
+            </para>
+            <para>
+                It is said that a spirit dwells in the lake, and that she drains the
+                life out of those that drink from her waters. Though some have risked
+                the waters and survived, it is said that long term drinking of its
+                waters will result in death.
+            </para>
+            <para>
+                The spirit is named <e>Glahlora</e>, who wipes away the memories of
+                past deeds, and with them the life of those she embraces.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
