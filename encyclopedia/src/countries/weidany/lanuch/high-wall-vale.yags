@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>High Wall Vale</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="mergen-peaks">Mergen Peaks</subject>
+
+            <category>Mountains</category>
+
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="lanuch-shire">Lanuch Shire</qv>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>High Wall Vale</title>
+
+            <para>
+                Cutting into the eastern side of the <e>Mergen Peaks</e> is
+                <e>High Wall Vale</e>, a steep sided valley that runs for about
+                a league into the higher mountains. In places the valley is
+                only half a kilometre across, but the walls are nearly vertical
+                on both sides, rising up two to three hundred metres above the
+                bottom of the valley.
+            </para>
+            <para>
+                A single narrow river runs down the middle of the vale, fed by
+                a number of waterfalls. The valley floor is rocky with patches
+                of grass barely suitable for grazing.
+            </para>
+            <para>
+                The far end of the vale ends in a series of giant stone shelves
+                of fractured stone, four in all, which rise up towards the
+                mountain peaks. On the third shelf is
+                <qv uri="grey-stone-keep">Grey Stone Keep</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
