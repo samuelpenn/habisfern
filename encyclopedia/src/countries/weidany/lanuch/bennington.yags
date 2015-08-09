@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Bennington</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="bennington">Bennington</subject>
+
+            <category>Towns</category>
+
+            <topic uri="lanuch-shire">Lanuch Shire</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Bennington</title>
+
+            <para>
+                <e>Bennington</e> is a small town of some 1,500 people on the
+                <qv uri="brinny-river">Brinny River</qv> at the point where the
+                river ceases to become navigable. It is a market town, both
+                selling to locals and to merchants who ship goods down river.
+            </para>
+            <para>
+                Bennington is built on top of some ancient ruins, with many of
+                the old stones having been re-purposed for newer buildings.
+                It is thought that it was originally an Elder keep, but except
+                for the weir that still sits across the river it is difficult
+                to determine what the original nature of the ruins were.
+            </para>
+            <para>
+                The town is managed by a merchant's Council consisting of three
+                powerful traders. Both the town, and the land immediately around
+                it, were purchased from the Queen back in 1104, and the Council
+                views itself as independent of the Kingdom, in theory if not in
+                practise. They still pay taxes to the shire however.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
