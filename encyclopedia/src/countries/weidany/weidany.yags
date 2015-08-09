@@ -55,7 +55,7 @@
         <topics>
             <subject uri="weidany">Weidany</subject>
 
-            <category>Kingdoms</category>>
+            <category>Kingdoms</category>
 
             <topic uri="weidany">Weidany</topic>
             <topic uri="euressa">Euressa</topic>
@@ -193,7 +193,7 @@
 
                         <item target="+0" value="Geneat.">
                             The geneat are the upper classes of the ceorl,
-                            fully independant.
+                            fully independent.
                         </item>
                         <item target="+1" value="Craftsman."/>
                         <item target="+2" value="Priest."/>
@@ -204,7 +204,7 @@
                         </item>
                         <item target="+4" value="Landed noble.">
                             A noble who owns at least a manor worth of land.
-                            The title is not heriditary, and can be stripped
+                            The title is not hereditary, and can be stripped
                             at any time.
                         </item>
                         <item target="+5" value="High noble."/>
