@@ -35,8 +35,8 @@
         <topics>
             <subject uri="cerdicsfield">Cerdicsfield</subject>
 
-            <category>Towns</category>>
-            
+            <category>Towns</category>
+
             <topic uri="lanuch-shire">Lanuch Shire</topic>
             <topic uri="habisfern">Habisfern</topic>
             <topic uri="weidany">Weidany</topic>
@@ -54,29 +54,29 @@
                 are being held on the first day of every week.
             </para>
 
-			<sect2>
-				<title>First Appearance</title>
+            <sect2>
+                <title>First Appearance</title>
 
-				<para>
-					Lanuch sits atop a low hill, with a wooden palisade
-					running around it and a dozen stone guard towers
-					standing six metres tall.
-				</para>
+                <para>
+                    Lanuch sits atop a low hill, with a wooden palisade
+                    running around it and a dozen stone guard towers
+                    standing six metres tall.
+                </para>
 
-				<para>
-					The streets are narrow, twisting around buildings
-					which have been erected seemingly at random. Sewers
-					run through the middle of streets, and out into
-					marshy ground around the base of the hill.
-			    </para>
+                <para>
+                    The streets are narrow, twisting around buildings
+                    which have been erected seemingly at random. Sewers
+                    run through the middle of streets, and out into
+                    marshy ground around the base of the hill.
+                </para>
 
                 <para>
                     On market day, the tents and stalls of traders are
                     set up outside South Gate, and a semi-permanent
-					cluster of buildings for tax collectors, guards,
-					merchants and craftsmen can be found here.
-				</para>
-			</sect2>
+                    cluster of buildings for tax collectors, guards,
+                    merchants and craftsmen can be found here.
+                </para>
+            </sect2>
         </sect1>
     </body>
 </article>
