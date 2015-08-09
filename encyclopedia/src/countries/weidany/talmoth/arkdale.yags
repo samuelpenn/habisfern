@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Arkdale</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="arcdale">Arkdale</subject>
+
+            <category>Towns</category>
+
+            <topic uri="talmoth-shire">Talmoth Shire</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Arkdale</title>
+
+            <para>
+                <e>Arkdale</e> is a small town of some 400 people on the
+                <qv uri="brinny-river">Brinny River</qv> in
+                <qv uri="arken-woods">Arken Woods</qv>.
+            </para>
+            <para>
+                The town consists of numerous buildings stretched along
+                the banks of the river, connected by several narrow
+                bridges. Farmland stretches back away from the river on
+                both sides.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
