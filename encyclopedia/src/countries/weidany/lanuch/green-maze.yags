@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Green Maze</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="green-maze">Green Maze</subject>
+
+            <category>Temples</category>
+
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="lanuch-shire">Lanuch Shire</qv>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Green Maze</title>
+
+            <para>
+                The <e>Green Maze</e> was grown during the 10th century by priests
+                of <qv uri="yagma">Yagma</qv>, and over the decades since then has
+                grown in size and complexity. What started as a holy shrine to the
+                <e>Earth Mother</e>, has become a sprawling blight that has
+                engulfed the landscape. At its widest, it is over a kilometre
+                across.
+            </para>
+            <para>
+                The original village where the shrine was first begun has long
+                since been engulfed by the maze of thorn bushes, some of which have
+                grown up to form dark tunnels rather than simple passages. The deeper
+                places stretch into the <qv uri="dreamlands">Dreamlands</qv>, and
+                even where they don't dark fey lurk.
+            </para>
+            <para>
+                An actual shrine, the fourth so far, exists outside of the entrance
+                where priests of Yagma now reside. Even that is threatened with
+                being overgrown within the next decade or so.
+            </para>
+
+            <sect2>
+                <title>Usage</title>
+
+                <para>
+                    The priests of Yagma here use the <e>Maze</e> as a test for new
+                    initiates. It is a local tradition, rather than being common
+                    to all initiates of Yagma, but it carries with it a certain
+                    level of honour.
+                </para>
+                <para>
+                    An initiate is expected to survive three nights in the maze,
+                    and to return with one of the purple flowers found in the
+                    <e>Dreamlands</e> here known as the <e>Rose of Misgemynd</e>,
+                    which is said to give dreams of the future.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+
