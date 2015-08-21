@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Stonefang</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="stonefang">Stonefang</subject>
+
+            <category>Places</category>
+
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="lanuch-shire">Lanuch Shire</qv>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Stonefang</title>
+
+            <para>
+                <e>Stonefang</e> is a monument in the <qv uri="mergen-peaks">Mergen Peaks</qv>
+                that dates back to at least the time of the druids. It is a large carved serpents
+                head that juts out from the cliffs, concealing a cave that runs deep into the
+                mountain.
+            </para>
+            <para>
+                The throat of the head is about 3m tall and 4m wide, and the largest fangs are
+                almost a metre tall. Though the head is easy to stand in, getting to it is a
+                different matter, for there are no paths that lead to it. Instead, the easiest
+                way to it is generally considered to be climbing up to the ledges about 50m
+                above the head, then climb down by rope to the mouth.
+            </para>
+            <para>
+                The mouth leads to three tunnels, one of which leads down a considerable
+                distance to a set of undead invested subterranean ruins. The other two routes
+                lead to a smaller set of caverns and rooms which are normally unoccupied
+                except by the occasional <qv uri="wyverns">wyvern</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
