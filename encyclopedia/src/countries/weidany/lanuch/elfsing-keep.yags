@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Elfsing Keep</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="elfsing-keep">Elfsing Keep</subject>
+
+            <category>Castles</category>
+
+            <topic uri="lanuch-shire">Lanuch Shire</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Elfsing Keep</title>
+
+            <para>
+                <e>Elfsing</e> is a stone keep surrounded by a circular wall
+                in the <qv uri="windham-woods">Windham Woods</qv>. The site
+                dates back to the time of the Druids, but the current keep
+                finished construction in 1156.
+            </para>
+            <para>
+                The original site had been taken over a couple of centuries ago
+                by an <qv uri="elf-king">Elf King</qv>, who was slain in 1148
+                by mercenaries working for <qv uri="erwin-house">House Erwin</qv>.
+                They cleared the region of faerie influence and opened the way
+                for the construction of the existing keep.
+            </para>
+            <para>
+                The keep was used as a base to clear outlaws from Windham Woods
+                until 1201, when faerie activity returned and sought vengeance
+                on those that lived there. After two years of terror, a night
+                in the winter of 1203 saw the death of all members of the keep.
+            </para>
+            <para>
+                In 1224 the keep was reclaimed, and has seen permanent habitation
+                by humans since 1227. Hauntings are reported in the woods
+                surrounding the keep, but the keep itself seems to be safe in
+                the hands of Thegn Wilbor and his wife the
+                <qv uri="fire-witch-elfsing">fire witch Idonea</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
