@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Windham Woods</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="windham-woods">Windham Woods</subject>
+
+            <category>Woods</category>
+
+            <topic uri="lanuch-shire">Lanuch Shire</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Windham Woods</title>
+
+            <para>
+                <e>Windham Woods</e> is a region of heavy forest in northern
+                Lanuch, stretching across the border into
+                <qv uri="halecester-shire">Halecester</qv>. The border region
+                is heavily contested, and though Lanuch lakes to claim the
+                entire forest as its own for taxing purposes, the presence of
+                <qv uri="dorching-castle">Dorching</qv> a mere league from
+                prime logging land makes the enforcement of this difficult.
+                Currently the official border ends a league inside the woods.
+            </para>
+            <para>
+                The wood itself is thick and dense, especially up in the
+                central hills which are considered all but impenetrable to
+                mortals. Faerie dwell here though, and many parts of the
+                lowlands are considered haunted by fey spirits.
+            </para>
+            <para>
+                <qv uri="elfsing-keep">Elfsing Keep</qv> is one bastion against
+                the fey, and a number of small farmsteads can be found between
+                it and the <qv uri="depsum-river">Depsum River</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
