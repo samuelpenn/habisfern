@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Kyle Valley</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="kyle-valley">Kyle Valley</subject>
+
+            <category>Places</category>
+
+            <topic uri="lanuch-shire">Lanuch Shire</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Kyle Valley</title>
+
+            <para>
+                The name given to the region of flat, fertile lands that
+                surround the <qv uri="kyle-river">Kyle River</qv> in
+                Lanuch. Though technically the lands south of Lanuch
+                are also part of the 'Kyle Valley', the term is rarely used
+                to refer to anywhere outside of Lanuch.
+            </para>
+            <para>
+                Apart from <qv uri="hyton-downs">Hyton Downs</qv>, the land
+                is very flat and covered in farms, and runs from the north east
+                to the south west. On the western side, it is bordered by
+                <qv uri="windham-woods">Windham Woods</qv> and the
+                <qv uri="aching-forest">Aching Forest</qv>. On the east, it
+                is the highlands of the <qv uri="tenwood">Tenwood</qv> that
+                mark its limits.
+            </para>
+            <para>
+                The principle towns are <qv uri="burchester">Burchester</qv>
+                in the north, <qv uri="aldersrock">Aldersrock</qv>,
+                and <qv uri="cerdicsfield">Cerdicsfield</qv> in the south.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
