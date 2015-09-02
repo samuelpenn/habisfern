@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Aching Forest</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="aching-forest">Aching Forest</subject>
+
+            <category>Woods</category>
+
+            <topic uri="lanuch-shire">Lanuch Shire</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Aching Forest</title>
+
+            <para>
+                The <e>Aching Forest</e> in Lanuch is a thick, tangled woodland
+                known for being home to oversized and very aggressive boars. At
+                various points it has also been home to <qv uri="wereboats">Wereboars</qv>,
+                but it is currently believed to be clear of these.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
