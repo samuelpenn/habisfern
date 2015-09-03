@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>The Tenwood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="tenwood">The Tenwood</subject>
+
+            <category>Woods</category>
+
+            <topic uri="lanuch-shire">Lanuch Shire</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Tenwood</title>
+
+            <para>
+                The <e>Tenwood</e> marks the eastern border of the
+                <qv uri="kyle-valley">Kyle Valley</qv>, and the
+                western border of <qv uri="estwed-shire">Estwed</qv>.
+                It mostly consists of lightly wooded hills. It is
+                populated with small farmsteads in small clearings,
+                and is relatively civilised with a low number of
+                outlaws or creatures inimical to humans.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
