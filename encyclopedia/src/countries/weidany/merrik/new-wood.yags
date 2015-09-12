@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>New Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="new-wood">New Wood</subject>
+
+            <category>Woods</category>
+
+            <topic uri="merrik-shire">Merrik Shire</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+
+    </header>
+
+    <body>
+        <sect1>
+            <title>New Wood</title>
+
+            <para>
+                The <e>New Wood</e> in central <qv uri="merrik-shire">Merrik</qv>,
+                was once part of <qv uri="meecham-wood">Meecham Wood</qv>, but
+                heavy deforestation over the past centuries has cleared a path
+                through the dark wilderness and split <e>New Wood</e> into its
+                own distinct region.
+            </para>
+            <para>
+                Like its parent, it's trees grow thick and tall, but it is
+                considered a more civilised place having been cut off from the
+                reach of the spirits that lurk in <e>Meecham Wood</e>.
+            </para>
+        </sect1>
+    </body>
+
+</article>
+
+
+
