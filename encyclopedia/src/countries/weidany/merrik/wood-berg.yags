@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Wood Berg</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="wood-berg">Wood berg</subject>
+
+            <category>Woods</category>
+
+            <topic uri="merrik-shire">Merrik Shire</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+
+    </header>
+
+    <body>
+        <sect1>
+            <title>Wood Berg</title>
+
+            <para>
+                Once part of <qv uri="meecham-wood">Meecham Wood</qv>, but now
+                standing alone after the clearing of woodland, <e>Wood Berg</e>
+                is what remains of the old forest that covered the high central
+                hills of <qv uri="merrik-shire">Merrick Shire</qv>. For the
+                most part Wood Berg is safe for human travel, though it is a
+                thick and twisted forest.
+            </para>
+            <para>
+                During the long nights of winter, one particular valley within
+                Wood Berg known as its Black Heart awakens, and fey spirits of
+                nature go forth to seek out human souls to take back and
+                enslave. There is thought to be a gateway to the
+                <qv uri="dreamlands">Dreamlands</qv> within the Black Heart,
+                somewhere which represents everything that is terrible and
+                inhuman about the fey.
+            </para>
+        </sect1>
+    </body>
+
+</article>
+
+
+
