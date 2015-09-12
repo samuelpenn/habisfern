@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Meecham Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="meecham-wood">Meecham Wood</subject>
+
+            <category>Woods</category>
+
+            <topic uri="merrik-shire">Merrik Shire</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+
+    </header>
+
+    <body>
+        <sect1>
+            <title>Meecham Wood</title>
+
+            <para>
+                <e>Meecham Wood</e> stretches across the northern parts of
+                <qv uri="merrik-shire">Merrik Shire</qv>, it is a thick,
+                tangled forest of old oaks, beech, ash and other trees. Where
+                it pushes up against the <qv "teal-river">Teal River</qv>,
+                it forms a wall of almost impenetrable darkness, and it is
+                considered extremely unlucky to try to land a boat on that
+                side of the river.
+            </para>
+            <para>
+                Within the Wood lurks several forest spirits which vie for
+                domination of the region. In the far west is the vaguely
+                anthropomorphic <qv uri="lady-meecham">Lady Meecham</qv>,
+                whose spirits prey along the bank of the Teal River.
+            </para>
+            <para>
+                The central region is dominated by the gigantic elemental spirit
+                <qv uri="oak-strider">Oak Strider</qv>, who is the most hateful
+                of humans. In the east is the <qv uri="black-reaper">Black Reaper</qv>
+                who is the most dangerous, for he is the only one that leaves
+                the woods to hunt those outside of his domain. He is drawn by
+                death, and can sometimes be seen on nights following multiple
+                deaths.
+            </para>
+        </sect1>
+    </body>
+
+</article>
+
+
+
