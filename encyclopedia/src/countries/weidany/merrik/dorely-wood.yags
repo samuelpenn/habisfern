@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Dorely Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="dorely-wood">Dorely Wood</subject>
+
+            <category>Woods</category>
+
+            <topic uri="merrik-shire">Merrik Shire</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+
+    </header>
+
+    <body>
+        <sect1>
+            <title>Dorely Wood</title>
+
+            <para>
+                <e>Dorely Wood</e> covers the area of land between the Teal and
+                Langly rivers in Merrik Shire. Across the Langly River it becomes
+                the <qv uri="ent-wood">Ent Wood</qv>, and across the Teal River it
+                becomes the <qv uri="troll-wood">Troll Wood</qv>. Dorely Wood is
+                very much human territory though, and used mostly by the nobles of
+                House Erwin for hunting.
+            </para>
+        </sect1>
+    </body>
+
+</article>
+
+
+
