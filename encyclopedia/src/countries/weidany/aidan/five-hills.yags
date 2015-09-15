@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Five Hills</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="middleholt">Middleholt</subject>
+
+            <category>Places</category>>
+
+            <topic uri="aidan-shire">Aidan Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Five Hills</title>
+
+            <para>
+                The <e>Five Hills</e> are located deep in the <e>Middleholt</e>.
+                Covered in thick forest, five (or six, depending on how they are
+                counted) prominent hills surround a bowl shaped depression
+                about five hundred metres across. Little light penetrates to the
+                surface of the depression except in the depths of winter when the
+                tree cover is bare.
+            </para>
+            <para>
+                During the time of the Kingdom of Aidan, newborns were brought
+                here and left to the fey spirits that were said to dwell beneath the
+                ground. The spirits fed on the blood of the infants, and in return
+                for the feast they would grant the wishes of the parents. In the
+                years since, the place has grown dark and foul, and few now dare to
+                go there - even those that would sacrifice their child for their
+                desires.
+            </para>
+            <para>
+                The fey now sometimes roam the region on the darkest nights, looking
+                for the blood of newborns now that they are no longer brought to
+                them. If children or expectant mothers go missing in the region,
+                then the fey of the <e>Five Hills</e> are generally blamed.
+            </para>
+            <para>
+                Supposedly, it was the wishes of the mother that were answered.
+                Fathers, or others, who took sacrifices there would often find their
+                wishes perverted.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
