@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Waters</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="tardale">Tardale</subject>
+
+            <category>Marshes</category>>
+
+            <topic uri="aidan-shire">Aidan Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Waters</title>
+
+            <para>
+                A region of marshes and small lakes at the mouth of the
+                <qv uri="tardale">Tardale Valley</qv>. There are thirteen large
+                open stretches of water here, though the largest is barely a
+                kilometre in length and a couple of hundred metres in width.
+                None are more than a couple of metres deep, and their shores
+                vary greatly with the seasons, merging gradually with the land
+                rather than having a definite shoreline.
+            </para>
+            <para>
+                <e>The Waters</e> are a great place for fishing, and a number of
+                small hamlets can be found, all built on stilts and near to the
+                best fishing grounds.
+            </para>
+            <para>
+                There are many trails through the region, but not all are safe and
+                without a local guide it is easy to end up walking into marsh,
+                especially in the mornings when mist lays heavily on the ground.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
