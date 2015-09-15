@@ -36,7 +36,7 @@
         <topics>
             <subject uri="red-rock-keep">Red Rock Keep</subject>
 
-            <category>Warriors</category>>
+            <category>Warriors</category>
 
             <topic uri="aidan-shire">Aidan Shire</topic>
             <topic uri="weidany">Weidany</topic>
@@ -50,10 +50,10 @@
             <title>Black Hearts</title>
 
             <para>
-                Officially they are the <e>Houseguard of Gwern</e>, but
-                everyone calls them the <e>Black Hearts</e>. Based at
-                Red Rock Castle, they generally number a few dozen and
-                are the elite bodyguards of the House.
+                Officially the <qv uri="gwern-house">Houseguard of Gwern</qv>, they
+                are more commonly known as them the <e>Black Hearts</e>. Based at
+                <qv uri="red-rock-keep">Red Rock Keep</qv>, they generally number
+                a few dozen and are the elite bodyguards of the House.
             </para>
             <para>
                 They date back to the time of the Kingdom of Aidan, and
