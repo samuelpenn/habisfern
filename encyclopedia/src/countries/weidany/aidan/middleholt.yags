@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Middleholt</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2013</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="middleholt">Middleholt</subject>
+
+            <category>Woods</category>>
+
+            <topic uri="aidan-shire">Aidan Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Middleholt</title>
+
+            <para>
+                <e>Middleholt</e> is a region of hilly woodland in the shire of Aidan.
+                It drains into the <qv uri="tardale">Tardale</qv> forming the
+                not-quite-lake known as the <qv uri="tardale-waters">Waters</qv>.
+                The hills are steep, cut with deep gulleys and high cliffs. Travel
+                across the <e>Middleholt</e> is difficult, and it mostly acts as a
+                blocker between <qv uri="mordale">Mordale</e> and the
+                <qv uri="eastlings">Eastlings</qv> to the west.
+            </para>
+            <para>
+                The woods are moderately peaceful, being full of deer, boar and other
+                animals which are hunted by the locals. There is one area known as the
+                <qv uri="five-hills">Five Hills</qv> which has a bad reputation though.
+                In times past, unwanted babies were taken there as an offering to the
+                fey. The fey gave luck and aid in return. Only dark spirits lurk there
+                now though, though whether they are of the souls taken there to die,
+                or the fey spirits or preyed on them, is not known.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
