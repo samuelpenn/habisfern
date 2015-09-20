@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Far Reach</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="far-reach">Far Reach</subject>
+
+            <category>Towns</category>
+
+            <topic uri="wild-wastes">Wild Wastes</topic>
+            <topic uri="habisfern">Habisfern</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Far Reach</title>
+            <para>
+                <e>Far Reach</e> is a small town with a population of about 600, located
+                in the <qv uri="wild-wastes">Wild Wastes</qv>. It is made up of outlaws
+                and those of an independent frame of mind, who wanted to keep as far from
+                civilisation as they could. It is a desolate place, nestled into a valley
+                which can barely sustain the small population. Nevertheless, it is the
+                largest settlement in the <e>Wild Wastes</e>.
+            </para>
+            <para>
+                There is no single ruler, instead all adults come together to meet and
+                discuss issues that need a decision that affects the entire town. However,
+                there can be a considerable amount of bullying, threats and strong arming
+                of decisions depending on who is affected.
+        </sect1>
+    </body>
+</article>
+
+
