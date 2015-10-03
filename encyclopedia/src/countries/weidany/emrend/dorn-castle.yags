@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Dorn Castle</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="dorn-castle">Dorn Castle</subject>
+
+            <category>Castles</category>>
+
+            <topic uri="emrend-shire">Emrend Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Dorn Castle</title>
+
+            <para>
+                <e>Dorn Castle</e> is a small settlement and castle near the
+                coast of Emrend Shire. It has good views to the west along
+                <qv uri="renwold-forest">Renwold Forest</qv>, and used to be
+                a lookout for raiders coming round the coast from the north.
+                Today, the castle's defences have been sacrificed in favour of
+                comfort and easy access to the village, which has a population
+                of some 300.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
