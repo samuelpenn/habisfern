@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>River Fellun</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="river-fellun">River Fellun</subject>
+
+            <category>Rivers</category>>
+
+            <topic uri="emrend-shire">Emrend Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>River Fellun</title>
+
+            <para>
+                A small river that runs down from out of the
+                <qv uri="blue-crest-hills">Blue Crest Hills</qv>, through the
+                <qv uri="black-night-woods">Black Night Woods</qv> and joins the
+                <qv uri="river-gilt">River Gilt</qv> three leagues from its
+                mouth.
+            </para>
+            <para>
+                The river is the only sensible path through the Black Night Woods,
+                and even this twists and turns between the thick trees. Much of it
+                is in shade, for the dark canopy stretches out over most of the
+                river, but when the sun is high enough the middle of the river can
+                be illuminated to a reasonable degree.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
