@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Tenton Bay</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="tenton-bay">Tenton Bay</subject>
+
+            <category>Ruins</category>>
+
+            <topic uri="emrend-shire">Emrend Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Tenton Bay</title>
+
+            <para>
+                <e>Tenton Bay</e> was an important town that overlooked a natural
+                harbour in southern <qv uri="emrend-shire">Emrend</qv>. During the
+                winter of 1173 it was repeatedly attacked by undead coming out of both
+                <qv uri="gillith-wood">Gillith Wood</q> and the sea itself. By the
+                time relief arrived for the battered town, everyone in it was dead.
+            </para>
+            <para>
+                The relief force itself was driven off over the following nights, and
+                the town was eventually left as a deserted ruin.
+            </para>
+            <para>
+                Since that time no-one has inhabited the town, and even the dead have
+                returned to wherever it was they came from. The reason for the attacks
+                are unknown, especially since the villages less than a league from the
+                town were left unharmed.
+            </para>
+            <para>
+                A few brave souls have tried staying in the town, but they either leave
+                after a few nights, reporting unnatural noises and bad dreams, or are
+                never seen again.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
