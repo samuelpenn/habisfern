@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Dorching Castle</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="dorching-castle">Dorching Castle</subject>
+
+            <category>Castles</category>>
+
+            <topic uri="halecester-shire">Halecester Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Dorching Castle</title>
+
+            <para>
+                <e>Dorching Castle</e> on the <qv uri="kyle-river">Kyle River</qv>
+                in <e>Halecester</e> is a large stone fortification that dates
+                back over four hundred years. It consists of the <e>Old Castle</e>,
+                which makes up the northern fortification atop <e>Dorching Hill</e>,
+                and the <e>Low Castle</e> which was built about 80 years ago. The
+                Low Castle is in much better repair, and is about twice the size
+                compared to the Old Castle.
+            </para>
+            <para>
+                There is a small town of some 500 people that live just outside the
+                walls of the castle and on the other side of the river. A stone
+                bridges arcs across the river, giving a clearance of almost 10
+                metres to boats that sail underneath. It is often considered to be
+                the most impressive bridge on the river, if not in the entire Kingdom.
+            </para>
+            <para>
+                The castle is the main garrison for the shire's forces, and they
+                patrol most of the farmland in southern Halecester.
+            </para>
+        </sect1>
+    </body>
+
+</article>
+
+
