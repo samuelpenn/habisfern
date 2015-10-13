@@ -30,7 +30,6 @@
         <style name="module"/>
 
         <references>
-            <see uri="dryad">Dryad</see>
             <see uri="faerie">Faerie</see>
             <see uri="goblin">Goblin</see>
         </references>
@@ -50,23 +49,24 @@
             <title>Elf</title>
 
             <para>
-                Spirits of the wood, elfs are elemental faeries 
-                found occasionally in wild lands.
+                <e>Elves</e> are a form of <qv uri="faerie">faerie</qv>, specifically
+                a tree spirit which normally dwells in the land of men (rather than
+                in the <qv uri="dreamlands">Dreamlands</qv>. They are often found in
+                the deepest part of woods, far from human habitation, though a few
+                live alongside human settlements.
             </para>
-
             <para>
-                An elf is normally about man sized, their body 
-                crafted of branches and leaves. They do not have 
-                individual consciousness, but instead are 
-                animated by a much more powerful fey, generally 
-                an Elf King or Queen.
+                An elf is normally about the size and shape of a man, though their
+                bodies are crafted from branches and leaves, appearing as a crude
+                mockery of a human. They do not have individual consciousness, but
+                are instead animated by a much more powerful fey, one known as an
+                <qv uri="elf-queen">Elf Queen</qv> or <qv uri="elf-king">Elf King</qv>.
             </para>
-
             <para>
-                An elf king is a large tree, partially animated 
-                by a powerful elemental spirit. It relies on the 
-                elf warriors to defend it, or act as eyes and 
-                ears in other parts of the wood.
+                Elves acts as the eyes, ears and guards of their kings and queens.
+                When stationary, they are difficult to tell apart from a typical
+                bush or small tree, and if destroyed their spirit can easily move
+                to a new 'host'.
             </para>
 
             <para>

@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Elf King</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="faerie">Faerie</see>
+            <see uri="goblin">Goblin</see>
+        </references>
+
+        <topics>
+            <subject uri="elf">Elf</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="faerie">Faeries</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Elf King</title>
+
+            <para>
+                An <e>Elf King</e> is a powerful <qv uri="faerie">faerie spirit</qv>
+                that inhabits a giant tree, such as an oak, birch or ash. The type of
+                the tree often determines the nature of the spirit, and the tree
+                itself is always much greater in size and appearance that other trees
+                in the area.
+            </para>
+            <para>
+                Elf Kings are slow of thought, but take take the long view. They have
+                knowledge of a wide area of land, though their understanding of humans
+                often appears to be limited.
+            </para>
+
+            <sect2>
+                <title>Oak Kings</title>
+
+                <para>
+                    Elf Kings that dwell in Oak trees are often the guardians of
+                    portals to the <qv uri="dreamlands">Dreamlands</qv>.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+
