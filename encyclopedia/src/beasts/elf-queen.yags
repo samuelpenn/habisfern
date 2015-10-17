@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Elf Queen</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="spirit">Spirits</see>
+            <see uri="elf-king">Elf King</see>
+            <see uri="goblin">Goblin</see>
+        </references>
+
+        <topics>
+            <subject uri="elf">Elf</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="spirit">Spirits</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Elf Queen</title>
+
+            <para>
+                An <e>Elf Queen</e> is a powerful nature <qv uri="spirit">spirit</qv>
+                similar to an <qv uri="elf-king">Elf King</qv>. Whereas the kings
+                inhabit trees, the queens tend to take their own shape which often
+                resembles that of a human woman. Some may be indistinguishable from a
+                human, others may have obvious characteristics that mark them as
+                being something else - green or bark-like skin, leaves for hair or
+                feet that merge into the ground as she walks.
+            </para>
+            <para>
+                Elven kings and queens are rarely found together, and when they are they
+                may be at odds with each other.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

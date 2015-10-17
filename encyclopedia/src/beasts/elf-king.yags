@@ -31,6 +31,7 @@
 
         <references>
             <see uri="faerie">Faerie</see>
+            <see uri="elf-queen">Elf Queen</see>
             <see uri="goblin">Goblin</see>
         </references>
 
@@ -39,7 +40,7 @@
 
             <category>Beasts</category>
 
-            <topic uri="faerie">Faeries</topic>
+            <topic uri="spirit">Spirits</topic>
             <topic uri="habisfern">Habisfern</topic>
         </topics>
     </header>
@@ -49,7 +50,7 @@
             <title>Elf King</title>
 
             <para>
-                An <e>Elf King</e> is a powerful <qv uri="faerie">faerie spirit</qv>
+                An <e>Elf King</e> is a powerful <qv uri="spirit">nature spirit</qv>
                 that inhabits a giant tree, such as an oak, birch or ash. The type of
                 the tree often determines the nature of the spirit, and the tree
                 itself is always much greater in size and appearance that other trees
@@ -60,13 +61,69 @@
                 knowledge of a wide area of land, though their understanding of humans
                 often appears to be limited.
             </para>
+            <para>
+                They are rarely able to communicate directly with humans, but sometimes
+                speak through animals. They may possess a stag or bear as their speaker,
+                or rarely form a link with a particular human that has forsaken
+                civilisation.
+            </para>
 
             <sect2>
                 <title>Oak Kings</title>
 
                 <para>
-                    Elf Kings that dwell in Oak trees are often the guardians of
-                    portals to the <qv uri="dreamlands">Dreamlands</qv>.
+                    The Kings of oak trees are huge, powerful and vengeful. They are
+                    the great guardians of their forest. They have the greatest number
+                    of elves protecting their land, and are most likely to make use of
+                    animals to spy on those that might do them harm.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Hawthorn Kings</title>
+
+                <para>
+                    Elf Kings that dwell in Hawthorn trees are often the guardians of
+                    portals to the <qv uri="dreamlands">Dreamlands</qv>. Such trees
+                    are huge, and may be part of the portal or stand near to it.
+                    The relationship between a Hawthorn and the Dreamlands is one
+                    reason elves are often thought of as being fey.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Hazel Kings</title>
+
+                <para>
+                    The spirits that dwell in Hazel trees are fertility spirits, and
+                    can often be identified by the verdant growth around them. Nuts
+                    from a Hazel King can be a dangerously powerful aphrodisiac, and
+                    woman that eat of them can become pregnant.
+                </para>
+                <para>
+                    In some places, Hazel Kings take human women as their wives, and
+                    these wives protect and guard the king against those that would
+                    do him harm. It is said that bearing the child of such a king
+                    not only results in a magically gifted child, but also grants
+                    strength and vitality to the mother.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Willow Kings</title>
+
+                <para>
+                    Willow Kings are are most dangerous of all the Elf Kings, for
+                    their nature is cruel and cunning. Though oaks can be raised to
+                    anger by those that harm their forests, willows will seek to do
+                    harm simply because they can.
+                </para>
+                <para>
+                    Though most Elf Kings are fixed in place, willows are the most
+                    likely to be able to get up and move from place to place. They
+                    may attempt to smother someone who shelters under their limbs,
+                    or drag them to a nearby lake or river to drown. They may also
+                    follow people over a long distance.
                 </para>
             </sect2>
         </sect1>

@@ -30,7 +30,6 @@
         <style name="module"/>
 
         <references>
-            <see uri="faerie">Faerie</see>
             <see uri="goblin">Goblin</see>
         </references>
 
@@ -39,7 +38,7 @@
 
             <category>Beasts</category>
 
-            <topic uri="faerie">Faeries</topic>
+            <topic uri="spirit">Spirits</topic>
             <topic uri="habisfern">Habisfern</topic>
         </topics>
     </header>
@@ -49,17 +48,24 @@
             <title>Elf</title>
 
             <para>
-                <e>Elves</e> are a form of <qv uri="faerie">faerie</qv>, specifically
-                a tree spirit which normally dwells in the land of men (rather than
-                in the <qv uri="dreamlands">Dreamlands</qv>. They are often found in
-                the deepest part of woods, far from human habitation, though a few
-                live alongside human settlements.
+                <e>Elves</e> are a form of wood <qv uri="spirit">spirit</qv>, generally
+                found in the deepest part of woods, far from human habitation, though a
+                few live alongside human settlements where the relationship may be either
+                protective or strained, depending on circumstances.
+            </para>
+            <para>
+                Though they have similarities to faeries, and are sometimes considered
+                to be a kind of <qv uri="faerie">faerie</qv>, elves are not really
+                faeries. They are a part of nature, and though they can be common where
+                the borders with the <qv uri="dreamlands">Dreamlands</qv> is thin,
+                they are not of that place. Whilst the fey are a figment of the dreams
+                of humans, elves are figment of the dreams of nature.
             </para>
             <para>
                 An elf is normally about the size and shape of a man, though their
                 bodies are crafted from branches and leaves, appearing as a crude
                 mockery of a human. They do not have individual consciousness, but
-                are instead animated by a much more powerful fey, one known as an
+                are instead animated by a much more powerful spirit, one known as an
                 <qv uri="elf-queen">Elf Queen</qv> or <qv uri="elf-king">Elf King</qv>.
             </para>
             <para>
@@ -68,28 +74,6 @@
                 bush or small tree, and if destroyed their spirit can easily move
                 to a new 'host'.
             </para>
-
-            <para>
-                An elf queen takes on human flesh, that of a 
-                young woman. Their abilities are similar to the 
-                Kings, though there are sometimes many living in 
-                a group.
-            </para>
-
-            <para>
-                The goals of elfs are difficult to fathom. Some 
-                are made at least partly from the minds of men, 
-                in which case they may have human goals and 
-                desires, seeking to follow up on things which 
-                happened in their life.
-            </para>
-
-            <para>
-                Others are fully fey, with no concept of human 
-                morality. They generally seek peace and solitude, 
-                and dislike being disturbed.
-            </para>
-
         </sect1>
     </body>
 </article>
