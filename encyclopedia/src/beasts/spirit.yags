@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Spirit</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="goblin">Goblin</see>
+            <see uri="elf">Elf</see>
+        </references>
+
+        <topics>
+            <subject uri="spirit">Spirit</subject>
+
+            <category>Beasts</category>
+
+            <topic uri="spirit">Spirits</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Spirits</title>
+
+            <para>
+                Spirits dwell in middle earth, but are not bound to a single
+                physical form. They cannot physically harm people and animals
+                unless they take a body, which may be that of an animal or
+                person, or even a plant or rock.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
