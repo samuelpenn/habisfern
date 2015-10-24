@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Aethas</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="aethas">Aethas</subject>
+
+            <category>Cities</category>
+
+            <topic uri="orlas">Orlas</topic>
+            <topic uri="gyla">gyla</topic>
+            <topic uri="eorthe">Eorthe</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Aethas</title>
+
+            <para>
+                The <e>City of Aethas</e> was the second great city of the
+                <qv uri="orlas">Kingdom of Orlas</qv> and rose to prominence during
+                the <qv uri="orlas-second-kingdom">Second Kingdom</qv>, becoming
+                capital of <qv uri="imperial-orthas">Imperial Orthas</qv> at the
+                start of the <qv uri="orlas-third-kingdom">Third Kingdom</qv>.
+            </para>
+            <para>
+                <e>Aethas</e> is the current capital of Orlas, and has a population
+                of around fifty thousand.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
