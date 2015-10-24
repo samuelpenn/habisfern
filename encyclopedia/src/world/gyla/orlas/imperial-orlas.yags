@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Imperial Orlas</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="orlas">Orlas</subject>
+
+            <category>Places</category>
+
+            <topic uri="gyla">gyla</topic>
+            <topic uri="eorthe">Eorthe</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Imperial Orlas</title>
+
+            <para>
+                In 603 OR, the <qv uri="orlas-third-kingdom">Kingdom of Orlas</qv>
+                declared itself an Empire, and with the aid of its sorcerers claimed
+                control of most of southern <qv uri="gyla">Gyla</qv>. The city of
+                <qv uri="aethas">Aethas</qv> was a truly cosmopolitan heart of the
+                Empire, and claimed to have a million people at its height.
+            </para>
+            <para>
+                During this period the language and culture of Orlas was spread far
+                and wide, and became the standard of learning and civilisation to
+                which everyone aspired.
+            </para>
+            <para>
+                Its strength was its downfall. The sorcerers that enabled the growth
+                of the Empire, and which ensured its continuation, began to see
+                themselves as rulers rather than servants, and they eventually
+                enacted a coup in which the royal family, and anyone associated with
+                them, were assassinated.
+            </para>
+            <para>
+                The desires of the sorcerers was different to the desires of the
+                Empire however, and coupled with paranoia and assassinations within
+                their own ranks the Empire began to fall apart. Imperial Orlas
+                officially ended in 1,550 OR with the formation of the
+                <qv uri="orlas-council-elders">Council of Elders</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
