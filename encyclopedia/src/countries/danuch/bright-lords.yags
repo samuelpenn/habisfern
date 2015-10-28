@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Bright Lords</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline>The grey wall</slugline>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="glas-caer">Glas Caer</subject>
+
+            <category>Legends</category>
+
+            <topic uri="danuch">Danuch</topic>
+            <topic uri="tanwall">Tanwall</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Bright Lords</title>
+
+            <para>
+                The <e>Bright Lords</e> of the northern hills of Danuch are
+                <qv uri="wights">powerful wights</qv> in the service of the Powers
+                that effectively rule there. They lead bands of wights in wars
+                against each other, and also against the living that have settled
+                close to the hills.
+            </para>
+            <para>
+                They are thought to be ancient heroes who once fought against the
+                <qv uri="ice">Ice</qv>, but who have long since been claimed by
+                the Powers of the Grey Wall. They wear armour of silver and white
+                cloaks, carrying shining swords and spears. To those that do not
+                know of them, they look nothing like the undead - for at a distance
+                they appear shining examples of perfection, either mortal lords or
+                possibly fey. Up close however, their black eyes and pale skin
+                betrays their nature. They do not speak, and have no fear of death,
+                but instead have a hatred of life.
+            </para>
+            <para>
+                Of the Powers that they serve, very little is known. They dwell in
+                the highest hills, and rarely take physical form, instead
+                manifesting with bodies of storm and snow.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
