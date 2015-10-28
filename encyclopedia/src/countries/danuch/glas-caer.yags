@@ -46,13 +46,13 @@
 
     <body>
         <sect1>
-            <title>Glas Gaer</title>
+            <title>Glas Caer</title>
 
             <para>
-                The border between <qv uri="tanwall">Tanwall</qv>
-                and <qv uri="cancha">Cancha</qv> is defined by the
-                ridge of hills known as Doraida. The hills run
-                south of Cancha along the western border of
+                The border between <qv uri="tanwall">Tanwall</qv> and
+                <qv uri="cancha">Cancha</qv> is defined by the ridge of
+                hills known as <qv uri="doraida-hills">Doraida</qv>.
+                The hills run south of Cancha along the western border of
                 <qv uri="danuch">Danuch</qv>, and here they are
                 called Glas Caer, the Grey Wall.
             </para>
@@ -61,7 +61,7 @@
                 A mixture of heathland and rocky foothills, they are
                 often shrouded in mist, especially in the early 
                 morning. Though the northern hills are home to
-                Wyrvern and similar beasts, Glas Caer is noted for
+                wyverns and similar beasts, <e>Glas Caer</e> is noted for
                 a very different form of danger.
             </para>
 
@@ -74,18 +74,18 @@
                 do the bidding of these Powers. The dead keep to
                 the hills, stalking travellers who try to cross
                 their domain. It is thought that they protect
-                some ancient artifact of great importance to the
+                some ancient artefact of great importance to the
                 Ice, but no-one has found out what it is.
             </para>
 
             <para>
-                The Ice claimed dead are commanded by the Bright 
-                Lords, ancient heroes who have themselves been
-                claimed by the Ice. They wear armour of silver
-                and white cloaks, carrying shining swords or
-                spears. They are beautiful and terrible in
+                The Ice claimed dead are commanded by the
+                <qv uri="bright-lords">Bright Lords</qv>, ancient heroes
+                who have themselves been claimed by the Ice. They wear
+                armour of silver and white cloaks, carrying shining swords
+                or spears. They are beautiful and terrible in
                 their perfection, everything that is to be
-                expected from a servent of the Ice.
+                expected from a servant of the Ice.
             </para>
         </sect1>
     </body>
