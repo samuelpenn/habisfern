@@ -36,7 +36,7 @@
         <topics>
             <subject uri="strathby-shire">Strathby Shire</subject>
 
-            <category>Shires</category>>
+            <category>Shires</category>
 
             <topic uri="strathby-shire">Strathby Shire</topic>
             <topic uri="weidany">Weidany</topic>
@@ -48,21 +48,21 @@
     <body>
         <sect1>
             <title>The Shire of Strathby</title>
-                        
+
             <para>
-                Much of the war against Cadwold is currently being
-                managed from Strathby Shire. Its people have the distinct
-                combination of being both rough troublemakers and
-                fiercely loyal to the Queen. A large proportion of
-                the populace has had militia training, even the
-                women know how to use a spear.
+                Much of the war against <qv uri="cadwold">Cadwold</qv> is
+                currently being managed from Strathby Shire. Its people have
+                the distinct combination of being both rough troublemakers and
+                fiercely loyal to the Queen. A large proportion of the populace
+                has had militia training, and even many of the women have had
+                considerable training with the spear.
             </para>
 
             <para>
                 The shire reeve is Jonulf Blackmane, a fierce warrior
                 who would like to personally oversee the war against
                 Cadwold, but is not permitted to. He is based at the
-                shire town of Seaxton.
+                shire town of <qv uri="seaxton">Seaxton</qv>.
             </para>
         </sect1>
     </body>
