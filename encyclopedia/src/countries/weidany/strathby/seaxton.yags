@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Seaxton</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="seaxton">Seaxton</subject>
+
+            <category>Towns</category>
+
+            <topic uri="strathby-shire">Strathby Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Seaxton</title>
+
+            <para>
+                <e>Seaxton</e> is the shire town of <e>Strathby</e>. With a
+                permanent population of 4,000, it is smaller than
+                <qv uri="fulsbridge">Fulsbridge</qv>, but currently its size
+                has swelled to over six thousand with soldiers stationed here.
+                Jonulf Blackmane runs the town, and the shire, and his main
+                objective is to be allowed to fight in the war with
+                <qv uri="cadwold">Cadwold</e>.
+            </para>
+            <para>
+                The town itself is particularly dangerous at the moment, for not
+                only is it full of bored soldiers looking for entertainment, but
+                the population is strongly divided on the issue of the war. Their
+                natural inclination is to support their Queen, and a large number
+                of them are profiteering greatly from the influx of soldiers.
+                Others see the newcomers as troublemakers who don't care what they
+                break because they'll be gone in a few weeks or months. Pitched
+                battles on the streets aren't uncommon, which only adds to the
+                stress.
+            </para>
+            <para>
+                Before the coming of the war, the town was the main market town
+                of the northern Strathby plains, and commerce flowed from the
+                town down the <qv uri="river-yordis">River Yordis</qv> towards
+                the coast.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
