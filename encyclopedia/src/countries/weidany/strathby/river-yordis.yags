@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>River Yordis</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="northmarch-shire">Northmarch Shire</see>
+            <see uri="aidan-shire">Aidan Shire</see>
+            <see uri="northmarch-shire">Northmarch Shire</see>
+        </references>
+
+        <topics>
+            <subject uri="river-yordis">River Yordis</subject>
+
+            <category>Rivers</category>
+
+            <topic uri="strathby-shire">Strathby Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>River Yordis</title>
+
+            <para>
+                A river than runs from the <qv uri="inchling-hills">Inchling Hills</qv>
+                down to the <qv uri="river-langly">River Langly</qv>. It is neither
+                particularly wide nor fast flowing, but provides a consistent flow all
+                year around.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
