@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>River Strath</title>
+        <title>Aberswych</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license type="Yags">
-            <year>2013</year>
+            <year>2015</year>
             <holder>Samuel Penn</holder>
             <text>
                 This document can be redistributed and/or modified
@@ -30,15 +30,12 @@
         <style name="module"/>
 
         <references>
-            <see uri="northmarch-shire">Northmarch Shire</see>
-            <see uri="aidan-shire">Aidan Shire</see>
-            <see uri="northmarch-shire">Northmarch Shire</see>
         </references>
 
         <topics>
-            <subject uri="river-strath">River Strath</subject>
+            <subject uri="aberswych">Aberswych</subject>
 
-            <category>Rivers</category>
+            <category>Towns</category>
 
             <topic uri="strathby-shire">Strathby Shire</topic>
             <topic uri="weidany">Weidany</topic>
@@ -49,22 +46,20 @@
 
     <body>
         <sect1>
-            <title>River Strath</title>
+            <title>Aberswych</title>
 
             <para>
-                The River Strath begins in the western uplands of Aidan,
-                defining the border between Aidan and Cadwold, then runs
-                south into Northmarch and through Strathby, until it
-                joins with the <qv uri="river-langly">River Langly</qv>
-                at the borders with Anglsy and Talmoth.
+                <e>Aberswych</e> is a small town in Strathby shire on the
+                <qv uri="river-strath">River Strath</qv>. Sitting at the north
+                eastern edge of the <qv uri="old-green-wood">Old Green Wood</qv>,
+                Aberswych has a population of about 1,500.
             </para>
             <para>
-                It runs through a lot of fertile farmland, and is one of
-                the most important rivers in the north. It is wide and
-                deep along much of its length, and barge traffic is
-                common south of Aidan. Ferries are the most common means
-                of crossing it, being present every four or five leagues
-                in the most civilised areas.
+                Originally it was a stone fort on the eastern bank of the Strath,
+                a watchtower that overlooked plains to the northeast. It has since
+                grown into an important market town, and a place for barges to
+                pause at and take on supplies before following the Strath downstream
+                through the Old Green Wood.
             </para>
         </sect1>
     </body>
