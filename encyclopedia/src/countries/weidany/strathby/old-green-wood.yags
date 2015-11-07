@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Old Green Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="old-green-wood">Old Green Wood</subject>
+
+            <category>Woods</category>
+
+            <topic uri="strathby-shire">Strathby Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Old Green Wood</title>
+
+            <para>
+                The <e>Old Green Wood</e> is the name given to the expanse of
+                woodland that covers most of central <e>Strathby</e>. Apart from
+                a few areas of dense forest, it is mostly open woodland, and is
+                lightly populated by small villages and farmsteads.
+            </para>
+            <para>
+                The central portions between the <qv uri="river-strath">Strath</qv>
+                and <qv uri="river-yordis">Yordis</qv> rivers consist of high
+                hills, partially covered by woodland. The bare central portions
+                are known as the <qv uri="brundun-cliffs">Brundun Cliffs</qv> and
+                are populated by cave bears and mountain lions.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
