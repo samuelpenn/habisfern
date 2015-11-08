@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Millwall</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="millwall">Millwall</subject>
+
+            <category>Towns</category>
+
+            <topic uri="strathby-shire">Strathby Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Millwall</title>
+
+            <para>
+                A small town in the <qv uri="mergen-peaks">Mergen Peaks</qv>,
+                <e>Millwall</e> has a population of about 800. The town is
+                relatively secluded, with access to it protected by the
+                <qv uri="windham-woods">Windham Woods</qv> on one side and the
+                spine of the <e>Peaks</e> on the other. It also only barely
+                falls under the jurisdiction of Strathby Shire, so is as close
+                to being an independent town as it's possible to be, without
+                actually being one.
+            </para>
+            <para>
+                The town is ruled by the thegn Craxwen, a middle aged man with
+                a cruel streak and a well developed sense of entitlement. He
+                has a small band of hearth guards who enforce his will in the
+                town, and the lord and his men pretty much do what they will.
+            </para>
+            <para>
+                The townsfolk are mostly farmers, with a large number of them
+                being slaves or gebur, and the majority are kotsetla, with
+                only a few geneat. The geneat are provided benefits by
+                Thegn Craxwen to persuade them to help enforce the status quo.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
