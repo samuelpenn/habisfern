@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Brundun Cliffs</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="old-green-wood">Old Green Wood</subject>
+
+            <category>Hills</category>
+
+            <topic uri="strathby-shire">Strathby Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Brundun Cliffs</title>
+
+            <para>
+                Part of the <qv uri="old-green-wood">Old Green Wood</qv>, the
+                <e>Brundun Cliffs</e> is a region of uplands about three leagues
+                long. Their upper slopes are bare of both tree and grass, showing
+                just a brownish rock that gives the region its name.
+            </para>
+            <para>
+                The most common fauna are probably goats, but there are also
+                mountain lions and cave bears in the region as well, which use
+                the lower slopes as their main hunting grounds.
+            </para>
+            <para>
+                There is at least one cave system under the cliffs, with at least
+                four entrances on the lower slopes. The caves are particularly
+                difficult to navigate, and thought to be empty.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
