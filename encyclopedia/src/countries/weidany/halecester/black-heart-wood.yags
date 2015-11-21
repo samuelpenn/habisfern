@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Black Heart Wood</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="black-heart-wood">Black Heart Wood</subject>
+
+            <category>Woods</category>>
+
+            <topic uri="halecester-shire">Halecester Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Black Heart Wood</title>
+
+            <para>
+                <e>Black Heart Wood</e> is the name given to an inner portion
+                of the <qv uri="green-wilds">Green Wilds</qv> within the shire
+                of <qv uri="halecester-shire">Halecester</qv>. A few generations
+                ago it was known as the <e>White Wood</e>, probably named for the
+                silver birch which are common to the area.
+            </para>
+            <para>
+                In 1143, a cult of <qv uri="tharos">Tharos</qv> moved into the area
+                and began a serious of murders, kidnappings and sacrifices. In
+                <qv uri="felton">Felton</qv>, that winter was known as the
+                <e>Bloody Winter</e>, when over twenty people were kidnapped and
+                ritually sacrificed.
+            </para>
+            <para>
+                The following spring a group of soldiers tracked the cult down
+                to the White Wood, but they were too late. The sacrifices had
+                woken something dark and bloody in the wilderness, and it had
+                already slaughtered those that had brought it here. Only one of
+                the soldiers returned to tell of the tale, speaking of a great
+                monstrosity of black tentacles that tore up everyone within its
+                grasp.
+            </para>
+            <para>
+                Afterwards the trees in the region blackened and died, and animals
+                fled from the terror within. Though the trees eventually returned,
+                they grew dark and twisted, and strange dark things still haunt
+                the woods. Occasionally some here a calling that draws them into
+                the woods, either never to be seen again, or returning filled
+                with a bloody madness.
+            </para>
+        </sect1>
+    </body>
+
+</article>
+
+
