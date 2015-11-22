@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Green Wilds</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="green-wilds">Green Wilds</subject>
+
+            <category>Woods</category>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+      </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Green Wilds</title>
+
+            <para>
+                The <e>Green Wilds</e> is a stretch of woodland running from
+                northern <qv uri="estwed-shire">Estwed</qv> through into
+                <qv uri="aidan-shire">Aidan</qv> and beyond to
+                <qv uri="blackmoor">Blackmoor</qv> in <qv uri="nailand">Nailand</qv>.
+            </para>
+            <para>
+                Though it is a mostly contiguous stretch of woodland, different
+                parts have their own local names, and it varies from thick forest
+                to cleared meadows, though the majority is light woodland.
+                Originally the entire region was thick forest, and considered to
+                be unexplored wilderness, but over the last few centuries it has
+                started to become settled and cleared, and is now mostly tamed.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
