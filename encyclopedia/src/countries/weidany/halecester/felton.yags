@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Felton</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="felton">Felton</subject>
+
+            <category>Towns</category>>
+
+            <topic uri="halecester-shire">Halecester Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Felton</title>
+
+            <para>
+                Felton is a small town located in one of the cleared valleys in
+                the <qv uri="green-wilds">Green Wilds</qv> in Halecester. It has
+                a population of about 1,500, and is currently run by three women
+                of <qv uri="hrulgar-house">House Hrulgar</qv> who also control
+                much of the land around the town.
+            </para>
+        </sect1>
+    </body>
+
+</article>
+
+
