@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Feannag Morair</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="feannag-morair">Feannag Morair</subject>
+
+            <category>Legends</category>
+
+            <topic uri="white-peninsula">White Peninsula</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Feannag Morair</title>
+
+            <para>
+                The <e>Feannag Morair</e>, or <e>Crow Lord</e>, is a an
+                <qv uri="animal-power">animal spirit</qv> that dwells in the
+                pine forests of the <e>White Peninsula</e>. He is said to be the
+                most powerful of the spirits in the north, and does not take
+                kindly to the intrusion of humans into his domains.
+            </para>
+            <para>
+                In appearance, he can take the form of a giant crow, or of a flock
+                of crows that can blacken the sky. When roused to anger, he can
+                strip the flesh from an army or village in minutes. Locals know
+                that when a large flock of crows is seen, to stay indoors and not
+                do anything to invoke his wrath.
+            </para>
+            <para>
+                Legends say that one man has managed to tame Feannag Morair. A bard
+                that lived centuries ago used his music to soothe the <e>Lord</e>,
+                and bound from him a promise not to harm him or his bloodline in
+                return for a favour that the bard did for him. Today, the line of
+                Oenghus Dubh is said to have special protection from the
+                Crow Lord, as long as the favour continues to be paid. Who the
+                current members of the family are is not common knowledge, and
+                neither is the nature of the favour that must be performed.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
