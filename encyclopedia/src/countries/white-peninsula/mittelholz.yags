@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Mittelholz</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="mittelholz">Mittelholz</subject>
+
+            <category>Hills</category>
+
+            <topic uri="white-peninsula">White Peninsula</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Mittelholz</title>
+
+            <para>
+                The <e>Mittelholz</e> is a valley that cuts through the
+                <qv uri="kiefbergs">Kiefbergs</qv>, allowing relatively easy access
+                between <qv uri="herzon">Herzon</qv> and the <e>White Peninsula</e>.
+                The valley is wooded, and it is still several hundred metres above
+                sea level, but it is lower than, and clearer than, the surrounding
+                hills.
+            </para>
+            <para>
+                The trees here are a mix of deciduous types, including a fair
+                proportion of oak and birch, marking the land as different from the
+                hills around. And though the land is geographically easy to cross,
+                during the summer months it is the hunting ground for a great beast
+                of indeterminate nature. The best is named the <e>Summer Shadow</e>,
+                for it is said to sleep during the rest of the year. It is described
+                as being dark in nature, it being unclear whether it is a physical
+                beast or a spirit of some kind. It is larger than a horse, sometimes
+                much larger, and feline in its shape and movements.
+            </para>
+            <para>
+                It is said to be especially fond of horses, and so travellers in
+                these parts will normally go on foot during the summer in order to
+                avoid attracting its attention.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
