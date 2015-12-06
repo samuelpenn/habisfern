@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Loch Morgart</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="loch-morgart">Loch Morgart</subject>
+
+            <category>Lakes</category>
+
+            <topic uri="white-peninsula">White Peninsula</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <!-- Gaelic: Big Enclosure -->
+
+    <body>
+        <sect1>
+            <title>Loch Morgart</title>
+
+            <para>
+                <e>Loch Morgart</e> is a large lake sitting within a ring of mountains
+                in the centre of the <qv uri="white-peninsula">White Peninsula</qv>.
+                <e>Morgart</e> is also the name given to the area as a whole, including
+                the ring of mountains and the low laying valley in which the Loch
+                sits.
+            </para>
+            <para>
+                The lands around the north end of the Loch are desolate hills, whilst
+                the southern shores are wooded. It is considered a holy place by many
+                of the tribes that dwell around the area, and in the north there is
+                <qv uri="fior-cnoc">Fior Cnoc</qv>, where tribes of humans and giants
+                meet once every four years to trade and make agreements.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
