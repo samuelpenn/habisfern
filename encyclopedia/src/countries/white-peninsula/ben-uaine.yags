@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Ben Uaine</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="ben-uaine">Ben Uaine</subject>
+
+            <category>Mountains</category>
+
+            <topic uri="white-peninsula">White Peninsula</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Ben Uaine</title>
+
+            <para>
+                The <e>Green Mountain</e> as it is known is the southern most of the
+                three main peaks of <qv uri="loch-morgart">Morgart</qv>. Standing just
+                over two kilometres in height, its slopes are covered in forest up to
+                about half of that (a bit lower on the east and north, a bit higher
+                on the south and west slopes).
+            </para>
+            <para>
+                The western slopes are inhabited by a few small farms, subsisting mostly
+                on goat and sheep.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

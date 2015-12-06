@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Ben Ard</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="ben-ard">Ben Ard</subject>
+
+            <category>Mountains</category>
+
+            <topic uri="white-peninsula">White Peninsula</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Ben Ard</title>
+
+            <para>
+                The highest of the three main peaks of <qv uri="loch-morgart">Morgart</qv>,
+                Ben Ard, is over four kilometres tall, and stands in the middle of what
+                is also the largest set of peaks around the Loch. The eastern slopes are
+                quite gradual, giving way to foothills before dropping suddenly to the
+                shores of the Loch. The western and southern slopes are steeper.
+            </para>
+            <para>
+                There are a number of what are called <e>Cairns</e> on the southern slopes
+                of these mountains, though this term is a bit of an understatement since
+                they are the ruins of ancient stone fortifications, built it is thought
+                by humans maybe a thousand years ago. The nature of the people who built
+                them, and the reason for them, is not known.
+            </para>
+            <para>
+                Up near the peak of <e>Ben Ard</e> is the cavern known as
+                <e>Bodhrain Corrie</e>, from which echoes occasionally the sound of
+                rock breaking on rock. There is a dragon here, named <e>Morag</e>,
+                who is said to be a great black beast that nests on a bed of gold.
+                None have seen her for a hundred years, but there is a strong feeling
+                in the region that doing anything that might wake her would be a very
+                bad thing.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
