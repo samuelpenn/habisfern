@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Circle Keep</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="halthan-castle">Halthan Castle</see>
+            <see uri="caewlin-house">House Caewlin</see>
+            <see uri="averswood-stones">Averswood Stones</see>
+        </references>
+
+        <topics>
+            <subject uri="circle-keep">Circle Keep</subject>
+
+            <category>Ruins</category>
+
+            <topic uri="hain-shire">Hain Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Circle Keep</title>
+
+            <para>
+                <e>Circle Keep</e> is a set of ruins of a small castle near
+                <qv uri="averswood-stones">Averswood Stones</qv>. The castle
+                was built partially from the outer ring of stones, and for
+                this reason legend has it that it was cursed from the start.
+            </para>
+            <para>
+                Construction was started in 1040 by <e>Osgar of Caewlin</e>,
+                elder brother to <e>Oswulf</e>. For what he saw as his
+                brother's betrayal of their House for supporting the Queen,
+                Osgar had a castle built from which he could fight a war
+                against his brother. There were a series of fatal accidents
+                however, and Osgar himself was killed by a falling stone in
+                1045.
+            </para>
+            <para>
+                Work on the castle carried on for another year, but it was
+                eventually abandoned, and it has remained more or less
+                untouched for the last 200 years.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+

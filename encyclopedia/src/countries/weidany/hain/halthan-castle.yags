@@ -30,12 +30,14 @@
         <style name="module"/>
 
         <references>
+            <see uri="circle-keep">Circle Keep</see>
+            <see uri="caewlin-house">House Caewlin</see>
         </references>
 
         <topics>
             <subject uri="haltan-castle">Halthan Castle</subject>
 
-            <category>Castles</category>
+            <category>Ruins</category>
 
             <topic uri="hain-shire">Hain Shire</topic>
             <topic uri="weidany">Weidany</topic>
