@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Halthan Castle</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="haltan-castle">Halthan Castle</subject>
+
+            <category>Castles</category>
+
+            <topic uri="hain-shire">Hain Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Halthan Castle</title>
+
+            <para>
+                The castle was originally built around 1030 by the thegn
+                <e>Oswulf of Caewlin</e>, who had been granted land by
+                <qv uri="queen-aelfthryth">Queen Aelfryth</qv> for his defence
+                of her during the civil wars that followed her ascension to
+                the throne. Notably, he fought against members of his own
+                family, and was ostracised by them for doing so.
+            </para>
+            <para>
+                There were several skirmishes with others of his family,
+                especially his older brother <e>Osgar</e> who tried to build
+                <qv uri="circle-keep">Circle Keep</qv> in order to rival
+                Oswulf. Osgar died in 1045, in one of the many accidents that
+                halted the construction of the keep, and Oswulf was able to
+                stabilise the land.
+            </para>
+            <para>
+                The castle stayed in his family's hands for the next sixty
+                years, until 1107 when the old feud started up again between
+                his grandson and a distant relation. The feud escalates into
+                bloody warfare, which ends with the siege of Halthan Castle.
+                Aid is requested from <qv uri="queen-godhild">Queen Godhild</qv>,
+                who sends troops to help lift the siege, but by the time they
+                arrive the castle has been breeched, and the occupants burned.
+                The Queen's sister, Werdrun, orders a revenge attack on the
+                besiegers, who are either killed or flee.
+            </para>
+            <!-- Werdrun probably had relationship with current castle owner -->
+            <para>
+                The castle was left deserted for years after this, and the
+                stone was stolen and used to build cottages in nearby villages.
+                Today, there is not much left standing, and it is mostly deserted.
+            </para>
+            <para>
+                However, sometimes at night fires are seen burning in the castle,
+                though there are no signs of them in the morning. Some people
+                claim to have seen shapes moving against the fire light, as if
+                they were camped there, but such sightings are rare. Local legend
+                says that it is haunted by the wraiths of those that died here.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
