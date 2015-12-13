@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Fior Cnoc</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="fior-cnoc">Fior Cnoc</subject>
+
+            <category>Places</category>
+
+            <topic uri="white-peninsula">White Peninsula</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Fior Cnoc</title>
+
+            <para>
+                <e>Fior Cnoc</e> is a place about half a league north of
+                <qv uri="loch-morgart">Loch Morgart</qv>. The central point is a
+                large, flat topped, hill about two hundred metres across, though
+                the name refers not to the actual hill itself (despite meaning
+                <e>True Hill</e>) but the place on top of the hill.
+            </para>
+            <para>
+                Every four years tribes of giants and humans come here to trade,
+                socialise and generally make agreements and alliances. The last
+                meeting was in 1229, the next is due in 1233. The festivities
+                officially begin on the night of the longest day, and finish
+                five nights later, though the first people will tend to begin
+                arriving up to five days before then.
+            </para>
+            <para>
+                A single fallen stone marks the centre of the festivities, and
+                it is over this stone that alliances are sworn. Fighting is
+                forbidden during the festival, though anyone behaving in a way
+                that is considered sufficiently unsociable will be outlawed
+                until the next Festival of Fior Cnoc.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
