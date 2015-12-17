@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Goath Bard</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="goath-bard">Goath Bard</subject>
+
+            <category>People</category>
+
+            <topic uri="white-peninsula">White Peninsula</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Goath Bard</title>
+
+            <para>
+                The <e>Goath Bard</e> are a tribe of <qv uri="ents">Ents</qv>
+                that dwell in the region near the tip of the White Peninsula.
+                Their name means the <e>Wind Poets</e>, and they have a
+                reputation of normally being the most peaceful of the various
+                tribes in the region - both amongst humans and giants.
+            </para>
+            <para>
+                However, when roused to war they can be the most bloodthirsty
+                and vindictive. When they feel that they have been wronged,
+                and that warfare is the only option, they do not stop until
+                their enemy has been eradicated. The last time this happened
+                was about 40 years ago, in 1191, when humans from the clan of
+                Mac Gabhan stole the heart stone of their greatest poet,
+                thinking it would grant them power over him. They were wiped
+                out to the last man, woman and child.
+            </para>
+            <para>
+                The <e>Goath Bard</e> currently act as guardians of
+                <qv uri="fior-cnoc">Fior Cnoc</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
