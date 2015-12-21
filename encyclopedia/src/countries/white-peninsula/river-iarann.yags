@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>River Iarann</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2002</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="river-iarann">River Iarann</subject>
+
+            <category>Rivers</category>
+
+            <topic uri="white-peninsula">White Peninsula</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>River Iarann</title>
+
+            <para>
+                The <e>Iarann</e> runs from <qv uri="loch-morgart">Loch Morgart</qv> in
+                the central mountains of the <qv uri="white-peninsula">White Peninsula</qv>
+                down to <qv uri="loch-clooth">Loch Clooth</qv> and from there to the
+                coast.
+            </para>
+            <para>
+                The name means <e>Iron River</e>, and is named for the numerous iron
+                mines that used to run along its length at the base of
+                <qv uri="donne-druim">Donne Druim</qv>. Five hundred years ago, these
+                mines looked like they were going to turn the region into a major
+                exporter of high quality iron, but the within a couple of centuries most
+                of the mines were exhausted, and now only a few remain, digging up iron
+                ore for local use.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
