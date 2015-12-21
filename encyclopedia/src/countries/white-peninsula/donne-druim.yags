@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Donne Druim</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="donne-druim">Donne Druim</subject>
+
+            <category>Mountains</category>
+
+            <topic uri="white-peninsula">White Peninsula</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+    <!-- Brown Ridge -->
+    <body>
+        <sect1>
+            <title>Donne Druim</title>
+
+            <para>
+                <e>Donne Druim</e> is a ridge that runs through the northern
+                part of the <e>White Peninsula</e>. It is about six leagues
+                long, and a couple of leagues wide, consisting of tall bare
+                hills surrounded by wooded hills.
+            </para>
+            <para>
+                It is claimed by the <qv uri="comhlan-nathair">Comhlan de na Nathair</qv>,
+                a band of <qv uri="ents">Ents</qv> that control from here to the
+                western woods.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
