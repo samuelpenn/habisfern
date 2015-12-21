@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>River Iarann</title>
+        <title>Loch Calmach</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -33,9 +33,9 @@
         </references>
 
         <topics>
-            <subject uri="river-iarann">River Iarann</subject>
+            <subject uri="loch-calmach">Loch Calmach</subject>
 
-            <category>Rivers</category>
+            <category>Lakes</category>
 
             <topic uri="white-peninsula">White Peninsula</topic>
             <topic uri="euressa">Euressa</topic>
@@ -43,24 +43,21 @@
         </topics>
     </header>
 
+    <!-- Gaelic: Big Enclosure -->
+
     <body>
         <sect1>
-            <title>River Iarann</title>
+            <title>Loch Calmach</title>
 
             <para>
-                The <e>Iarann</e> runs from <qv uri="loch-morgart">Loch Morgart</qv> in
-                the central mountains of the <qv uri="white-peninsula">White Peninsula</qv>
-                down to <qv uri="loch-calmach">Loch Calmach</qv> and from there to the
-                coast.
+                <e>Loch Calmach</e> is a large lake in northern White Peninsula, mainly
+                fed by the <qv uri="river-iarann">River Iarann</qv>. There are a number
+                of small human settlements on the shores of the Loch, the largest of
+                which is <qv uri="badanard">Badanard</qv> on the northern shore.
             </para>
             <para>
-                The name means <e>Iron River</e>, and is named for the numerous iron
-                mines that used to run along its length at the base of
-                <qv uri="donne-druim">Donne Druim</qv>. Five hundred years ago, these
-                mines looked like they were going to turn the region into a major
-                exporter of high quality iron, but the within a couple of centuries most
-                of the mines were exhausted, and now only a few remain, digging up iron
-                ore for local use.
+                The loch is known for its particularly clear waters, which also run
+                deep in the southern half.
             </para>
         </sect1>
     </body>
