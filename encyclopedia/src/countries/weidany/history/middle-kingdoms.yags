@@ -37,7 +37,7 @@
         <topics>
             <subject uri="middle-kingdoms">Middle Kingdoms</subject>
 
-            <category>Kingdoms</category>>
+            <category>Kingdoms</category>
 
             <topic uri="weidany">Weidany</topic>
             <topic uri="euressa">Euressa</topic>
@@ -60,6 +60,11 @@
                 In the north, was the <qv uri="white-realm">White Realm</qv>,
                 the land of <qv uri="queen-eirwen">Queen Eirwen</qv>, who was
                 also known as the White Witch.
+            </para>
+            <para>
+                To the south east was <qv uri="hafwen-kindgom">Hafwen</qv>,
+                similar in size to <e>Westland</e> but never as internally
+                strong.
             </para>
             <para>
                 Between them were the Middle Kingdoms, which was not a unified

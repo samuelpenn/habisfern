@@ -57,17 +57,67 @@
                 worshippers of <qv uri="yagma">Yagma</qv>, the Earth Mother, but were
                 slaves of the Rornic people under <qv uri="king-beornmod">King Beornmod</qv>.
             </para>
-            <para>
-                During the bloodshed that resulted from the formation of the
-                <qv uri="five-kingdoms">Five Kingdoms</qv>, the high priestess
-                <qv uri="olwenna-wise">Olwenna the Wise</qv> led an uprising against
-                their Rornic masters. After two years of fighting the slaves gained
-                their freedom, and were allowed to flee west to found a land of their
-                own.
-            </para>
-            <para>
-                The land they founded they named <e>Weidany</e>.
-            </para>
+            <sect2>
+                <title>History</title>
+
+                <sect3>
+                    <title>The Path to Weidany</title>
+                    <para>
+                        During the bloodshed that resulted from the formation of the
+                        <qv uri="five-kingdoms">Five Kingdoms</qv>, the high priestess
+                        <qv uri="olwenna-wise">Olwenna the Wise</qv> led an uprising
+                        against their Rornic masters. After two years of fighting the
+                        slaves gained their freedom, and the majority of them fled
+                        west into unknown lands.
+                    </para>
+                    <para>
+                        Originally many of them settled in the lands now known as
+                        <qv uri="midlaen">Midlaen</qv>, but they themselves soon came
+                        to name this the <qv uri="scunland">Scunland</qv>, the Lands of
+                        Shadow. Many places in the region were haunted, and the spirits
+                        were inimical to humans. Within a decade settlements here had
+                        been abandoned, and the tribes moved further along the coast to
+                        settle finally in the lands now known as Weidany.
+                    </para>
+                    <para>
+                        Other tribes took a more northern route, crossing
+                        <qv uri="nailand">Nailand</qv> and coming down the cliffs into
+                        modern day <qv uri="estwed-shire">Estwed</qv>. These were the
+                        tribes led by Olwenna. At this time Nailand was cold and dry,
+                        and there was little reason to stop here, so the tribes of
+                        Olwenna were the first to reach Weidany.
+                    </para>
+                    <para>
+                        The different routes caused a different split in the groups.
+                        Those who had followed the coast, and taken the paths through
+                        the <qv uri="stone-forest">Stone Forest</qv>, had made contact
+                        with the spirits of the <qv uri="elders">Elders</qv>, and some
+                        of them had taken up worship of these spirits in exchange for
+                        power. There came to be a struggle for influence between the
+                        priestesses of the old goddess <qv uri="yagma">Yagma</qv>, and
+                        the druids of the Elders. Though the former were more numerous
+                        initially, the latter had gained much power, and were able to
+                        exert their influence over the tribes.
+                    </para>
+                </sect3>
+
+                <sect3>
+                    <title>Ancient History</title>
+                    <para>
+                        Writing was very uncommon amongst the tribes, so apart from
+                        a few fragments from oral stories, little is known about the
+                        early cultures of Weidany. It is thought that there were a
+                        number of warring kingdoms, but little is known of the
+                        details.
+                    </para>
+                    <para>
+                        It wasn't until the 4th century that the south organised
+                        itself into the two kingdoms that were eventually to become
+                        <qv uri="westland-kingdom">Westland</qv> and
+                        <qv uri="hafwen-kingdom">Hafwen</qv>.
+                    </para>
+                </sect3>
+            </sect2>
         </sect1>
     </body>
 </article>
