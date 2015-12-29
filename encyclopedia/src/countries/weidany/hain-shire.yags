@@ -49,20 +49,50 @@
             <title>Hain Shire</title>
 
             <para>
-                Hain shire is not particularly big, wealthy or famous, but
-                it is stable, and the folk here take pride in the fact that
-                they have nothing special to be proud of.
+                Hain shire is not particularly big, wealthy or famous, but since
+                the burning of <qv uri="halthan-castle">Halthan Castle</qv> in
+                1111, the shire has been stable with little of great interest
+                happening. The folk here take pride in the fact that they have
+                nothing special to be proud of.
             </para>
-
             <para>
-                The <qv uri="eanwulf-house">House of Eanwulf</qv> has
-                recently started to gain influence within the shire,
-                though the thegns of Hain are resisting in order to keep
-                their independence from any of the major Houses. Some are
-                talking of an alliance with <qv uri="peada-house">Peada</qv>
-                despite the necessary political involvement this will
-                bring.
+                Historically, the nobles of <qv uri="caewlin-house">House Caewlin</qv>
+                have had power in Hain, but a lot of that power was lost with
+                the death of Thegn Heard, grandson of Oswulf who first took control
+                control of the shire. The line of Oswulf had been at odds with the
+                rest of their House since the civil war. He had openly supported the
+                Queen against the nobles that rose up against her, including some of
+                his House. This disagreement flared up again at the beginning of
+                the 12th century, and ended with the intervention of the Queen's
+                sister, Werdrun, who was close friends with Heard.
             </para>
+            <para>
+                Since then the influence of the House of Caewlin has declined, and
+                the Shirereeve has been a direct member of House Aethlfryth. Most
+                of the nobles are now independent, or minor members of the great
+                noble Houses. This has served the stability of the Shire well, with
+                no-one having undue power and therefore the desire to expand it.
+            </para>
+            <para>
+                The <qv uri="eanwulf-house">House of Eanwulf</qv> has recently
+                started to gain influence within the shire though, with several new
+                thegns having allegiances to that House, or even being members of it.
+                It's not a great influence yet, but it's enough to start to unbalance
+                the century of calm. There is talk that some nobles are seeking an
+                alliance with the <qv uri="peada-house">House of Peada</qv>, despite
+                the necessary political involvement this will bring.
+            </para>
+            <sect2>
+                <title>Population</title>
+
+                <para>
+                    The capital of the shire is <qv uri="doring">Doring</qv>, a small
+                    town with a population of about 470. There is a small fortified
+                    manor house here, which in 1225 became the property of thegn
+                    Paega of Caewlin. He is not a particularly notable member of the
+                    House, but has desires to become one.
+                </para>
+            </sect2>
         </sect1>
     </body>
 </article>
