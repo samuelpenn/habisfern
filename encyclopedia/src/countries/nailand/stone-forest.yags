@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Stone Forest</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2015</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="stone-forest">Stone Forest</subject>
+
+            <category>Forests</category>
+
+            <topic uri="nailand">Nailand</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Stone Forest</title>
+
+            <para>
+                When the <qv uri="weidanic">Weidanic</qv> tribes fled west after
+                escaping slavery in the <qv uri="five-kingdoms">Five Kingdoms</qv>, some
+                of them followed the <qv uri="forlorn-coast">Forlorn Coast</qv>, taking
+                the path through the forests of southern <qv uri="nailand">Nailand</qv>.
+                There they came across many great stone artefacts, including statues,
+                oversized ruined buildings and pathways that led nowhere. They named
+                this place <e>Stone Forest</e>, and made their way past it as quickly
+                as they could, for they also encountered the spirits of those that
+                had built these things.
+            </para>
+            <para>
+                That was almost two thousand years ago, and much of what was visible
+                then has been swallowed up by the forest. However, stone constructs
+                can still be located, and in some places they stand as common as
+                trees.
+            </para>
+            <para>
+                Whether spirits still haunt these woods is unknown, for few travel
+                into these parts now. The actual location and extent of the Stone
+                Forest is also unknown, only that it is deeper in than the
+                <qv uri="west-wall">West Wall</qv>, and not as far north as the
+                <qv uri="blood-wood">Blood Wood</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
