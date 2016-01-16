@@ -54,7 +54,6 @@
                 <qv uri="fyrd">Fyrd</qv> - an army raised during times of
                 war to protect the land.
             </para>
-
             <para>
                 Because armies are only raised when needed, the number
                 of professional warriors is quite low. Most freemen know
@@ -62,56 +61,78 @@
                 once a month - enough to know how to form a shield wall
                 for instance.
             </para>
+            <para>
+                To be a true warrior though, it is necessary to dedicate your
+                life to fighting. Those who don't will quickly die on the
+                battlefield.
+            </para>
+
+            <sect2>
+                <title>Types of Warriors</title>
+
+                <para>
+                    Warriors are divided according to their social class. At the
+                    lowest rung you have the <e>Geburs</e>, who are the poorest
+                    of the freemen. They have minimal training, and are generally
+                    only called up to fight when a <e>Great Fyrd</e> is called,
+                    which only happens in the most serious of circumstances.
+                </para>
+                <para>
+                    The <e>Ceorls</e> are classed as those who can provide their
+                    own arms and armour, though it will be little more than some
+                    padded clothing, a shield and a spear. Some may carry swords,
+                    though they are likely to be cheap <e>scramasax</e>.
+                </para>
+                <para>
+                    The <e>Thegns</e> are the landed nobility, and they are
+                    expected to come to battle fully armed and trained. They spend
+                    much of their time practising for war.
+                </para>
+                <sect3>
+                    <title>Geburs</title>
+                    <para>
+                        Geburs are generally armed with spears and slings, and have
+                        the least amount of training. They rarely have armour or
+                        shields, though the richer Kotsetla are generally grouped
+                        in amongst the Geburs and they may have some level of
+                        armour, be it padded clothing or thick leather.
+                    </para>
+                    <para>
+                        They have a minimal amount of training.
+                    </para>
+                </sect3>
+                <sect3>
+                    <title>Ceorls</title>
+                    <para>
+                        Ceorls will have a spear and shield, and most will carry a
+                        scramasax. Some will also know how to use a bow, and may
+                        act as skirmishers in larger battles.
+                    </para>
+                </sect3>
+                <sect3>
+                    <title>Thegns</title>
+                    <para>
+                        Thegns are well equipped and well trained.
+                    </para>
+                </sect3>
+                <sect3>
+                    <title>Mercenaries</title>
+                    <para>
+                        Mercenaries fall outside the normal order of things, because
+                        they tend to come from all levels of society. Most commonly
+                        though they are ceorls, for it is they who have the most
+                        freedom to leave their homes and take up a sword, and also
+                        the least ties to a support structure that removes the need
+                        for them to do so.
+                    </para>
+                    <para>
+                        Some women warriors are also mercenaries, because there are
+                        fewer expectations on gender roles when the normal social
+                        structures are left behind.
+                    </para>
+                </sect3>
+            </sect2>
         </sect1>
-
-        <sect1>
-            <title>Warriors</title>
-
-            <characters role="stock" title="Rornic Warriors">
-                <character name="Ceorl Spearmen">
-                    <description>
-                        <short>Spearmen</short>
-                    </description>
-
-                    <statistics xmlns="http://yagsbook.sourceforge.net/xml/warhammer">
-                        <attributes unit="Spearman" points="4">
-                            <attribute name="m" score="4"/>
-                            <attribute name="ws" score="3"/>
-                            <attribute name="bs" score="3"/>
-                            <attribute name="s" score="3"/>
-                            <attribute name="t" score="3"/>
-                            <attribute name="w" score="1"/>
-                            <attribute name="i" score="3"/>
-                            <attribute name="a" score="1"/>
-                            <attribute name="ld" score="5"/>
-                        </attributes>
-
-                        <special>
-                            <properties>
-                                <shieldwall/>
-                                <warband/>
-                            </properties>
-                        </special>
-
-                        <equipment>
-                            <item name="Throwing spear"/>
-                            <item name="Spear"/>
-                            <item name="Shield"/>
-                        </equipment>
-                    </statistics>
-                </character>
-
-                <character name="Huscurl">
-                </character>
-
-                <character name="Thegn">
-                </character>
-
-                <character name="Geburs">
-                </character>
-            </characters>
-        </sect1>
-
     </body>
 </article>
 
