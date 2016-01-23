@@ -36,7 +36,7 @@
         <topics>
             <subject uri="westland-shire">Westland</subject>
 
-            <category>Shires</category>>
+            <category>Shires</category>
 
             <topic uri="westland-shire">Westland Shire</topic>
             <topic uri="weidany">Weidany</topic>
@@ -51,18 +51,56 @@
 
             <para>
                 The Shire of Westland is a fertile, coastal shire in Weidany
-                and is considered to be the heart of the Kingdom. It is
-                named for the Kingdom of Westland, which until 618 was a
-                great kingdom of the Weidanic people, and one of the last
-                bastions against the encroaching Rornic peoples.
+                around the <qv uri="bay-of-moern">Bay of Moern</qv>, and is
+                considered to be the heart of the Kingdom. It is named for
+                the <qv uri="westland-kingdom">Kingdom of Westland</qv>, which
+                until 618 was a great kingdom of the Weidanic people, and one
+                of the last bastions against the encroaching Rornic peoples.
             </para>
 
             <para>
-                In 618 however, King Aeddan was slain, and Westland came
-                under Rornic control. Though it lost much territory, it was
-                one of the main powers in the region until the formation of
-                the Kingdom of Weidany.
+                In 618 however, its king, <qv uri="aeddan">Aeddan</qv>, was slain,
+                and Westland came under Rornic control. Though it lost much
+                territory, it was one of the main powers in the region until the
+                formation of the Kingdom of Weidany.
             </para>
+
+            <sect2>
+                <title>People</title>
+
+                <para>
+                    The shire capital is <qv uri="stowell">Stowell</qv>, which is
+                    also the capital of the Kingdom. With a population of some
+                    twenty thousand, it is the largest city in the region. Much of
+                    the shire is heavily populated farmland, especially around the
+                    coast and along the <qv uri="hemmy-river">Hemmy River</qv>.
+                </para>
+                <para>
+                    There is about an equal split between Rornic and Weidanic
+                    people, though the culture is very heavily slanted towards the
+                    Rornic gods and way of life. In <e>Lower Westland</e>, even
+                    the village gods tend to focus on Haltan and Neya, rather
+                    than the more usual nature gods found elsewhere.
+                </para>
+            </sect2>
+
+            <sect2>
+                <title>Geography</title>
+
+                <para>
+                    <e>Lower Westland</e> is the region downstream of
+                    <qv uri="hemmysford">Hemmysford</qv> and around the coast.
+                    It is mostly farmland - indeed, one definition is that it
+                    is the farmland in this area. What isn't farmland is mostly
+                    meadows, with the odd small woods or area of low hills.
+                </para>
+                <para>
+                    <e>Upper Westland</e> is north of Hemmysford, and includes
+                    the fringes of <qv uri="ashfold-forest">Ashfold Forest</qv>,
+                    <qv uri="westing-moor">Westing Moor</qv> and the
+                    <qv uri="black-forest">Black Forest</qv>.
+                </para>
+            </sect2>
         </sect1>
     </body>
 </article>
