@@ -35,7 +35,7 @@
         <topics>
             <subject uri="languages">Languages</subject>
 
-            <category>Languages</category>>
+            <category>Languages</category>
 
             <topic uri="languages">Languages</topic>
         </topics>
@@ -85,6 +85,7 @@
                 the other human languages of Euressa. It has several dialects
                 of its own however, and is spoken in the Old World still.
             </para>
+
             <sect2>
                 <title>Scripts</title>
                 <para>
@@ -94,18 +95,28 @@
                     common script used is that of Rornic.
                 </para>
                 <para>
-                    Rornic and Kurbian use a very similar script, with the
-                    latter being a few letters different.
+                    Rornic and Kurbian use similar scripts, which are close
+                    enough to be almost recognisable, but different enough
+                    to be mostly unintelligible.
                 </para>
             </sect2>
+
             <sect2>
-                <title>Ancient Tongues</title>
+                <title>Foreign Tongues</title>
+
                 <para>
-                    There are a few scholars who speak the ancient tongue
-                    of <qv uri="meganan">Meganan</qv>, said to have come from
-                    an ancient empire of the Old World now lost to the shrouds
-                    of time. A few ancient scrolls are still written in this
-                    script, but it is rarely used.
+                    The southern merchants speak <e>Atlosian</e>, the tongue of the
+                    ancient <qv uri="atlos-empire">Atlos Empire</qv>, which is
+                    now used by the <qv uri="tulthon-empire">Tulthon Empire</qv>.
+                    The dark skinned merchants of Tulth bring exotic goods to
+                    the coast of Euressa, and with it their language and customs.
+                </para>
+                <para>
+                    Even rarer than Atlosian is the tongue of <e>Orlassian</e>,
+                    which comes from the ancient kingdom of <qv uri="orlas">Orlas</qv>.
+                    Due to the difficulty of travel between Orlas and Euressa, those
+                    who speak it natively are rare, and it is only used by
+                    scholarly Tulthonian merchants.
                 </para>
             </sect2>
         </sect1>
