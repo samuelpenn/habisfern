@@ -38,7 +38,7 @@
         <topics>
             <subject uri="white-realm">The White Realm</subject>
 
-            <category>Kingdoms</category>>
+            <category>Kingdoms</category>
 
             <topic uri="weidany">Weidany</topic>
             <topic uri="euressa">Euressa</topic>
@@ -53,9 +53,62 @@
             <para>
                 The most northern of the Weidanic kingdoms, it was ruled by
                 Queen Eirwen, also known as the White Witch, for over a hundred
-                years. She was slain by her own daughter in 628, and the White
+                years. She was slain by her own daughter in 637, and the White
                 Realm came to be the <qv uri="aidan-kingdom">Kingdom of Aidan</qv>.
             </para>
+
+            <sect2>
+                <title>The Fall of the White Realm</title>
+
+                <para>
+                    Most of what is known about the <e>White Realm</e> concerns
+                    how it ended. By the 620s many of the Weidanic kingdoms had
+                    began to collapse under the onslaught of the Rornic invaders.
+                    One of those invaders was <qv uri="king-alfgar">Alfgar</qv>,
+                    who took lands on the south western borders of the White Realm.
+                </para>
+                <para>
+                    Eirwen sent her daughter, <qv uri="queen-olwen">Olwen</qv>, to
+                    Alfgar to determine his intentions, and possibly form an
+                    alliance. Olwen was a powerful witch, similar to her mother,
+                    and she beguiled Alfgar with her charms. She also fell for
+                    him though, and ultimately Alfgar forged an alliance with
+                    Olwen rather than Queen Eirwen, and the two married.
+                </para>
+                <para>
+                    There are skirmishes between the forces of Alfgar and those of
+                    the <e>White Realm</e> over the next few years, and during this
+                    time Olwen provides Alfgar with three daughters. Eventually
+                    Queen Eirwen sends messages to her daughter inviting her to
+                    visit, so that she can see her granddaughters, and to put an
+                    end to the conflict.
+                </para>
+                <para>
+                    In the summer of 637 both Alfgar and Olwen, along with their
+                    children, arrive at the halls of Queen Eirwen, where they
+                    are greeted and made welcome. At some point though there is
+                    betrayal, though the details of who betrayed whom are not
+                    known.
+                </para>
+                <para>
+                    At some point, the daughters of Olwen are slain by the
+                    White Witch, their dried husks burnt on the hearth fires
+                    of the hall. The huscurls of Alfgar slay many of Eirwen's
+                    guards, and make an attempt on her life as well, but they
+                    are slain, possibly by magic. By morning, Eirwen is dead
+                    by her daughter's hand.
+                </para>
+                <para>
+                    Other rumours include that Eirwen slept with Alfgar, whilst
+                    taking her daughter's form, and even that it was Olwen that
+                    was slain - that Eirwen used her magic to permanently take
+                    the form of her daughter after the events of that night.
+                </para>
+                <para>
+                    At any rate, Olwen names herself Queen of the White Realm,
+                    and then hands power to her husband.
+                </para>
+            </sect2>
         </sect1>
     </body>
 </article>
