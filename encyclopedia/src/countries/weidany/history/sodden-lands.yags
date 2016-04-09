@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Sodden Lands</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2016</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <topics>
+            <subject uri="sodden-lands">Sodden lands</subject>
+
+            <category>Marshes</category>>
+
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Sodden Lands</title>
+
+            <para>
+                The <e>Sodden Lands</e> was the name given to the region now
+                covered by most of <qv uri="estwed-shire">Estwed</qv>. When
+                the first humans came down from the Nailand Plateau they
+                discovered a land of swamps and marsh, more water than land.
+                At the time, it was a pretty inhospitable place, though a
+                few settlements are started on the small islands of dry
+                ground that were found.
+            </para>
+            <para>
+                It was here that the humans first came across the city of the
+                <qv uri="elders">Elders</qv> at the ruins which are now
+                known as <qv uri="asiganburg">Asiganburg</qv>. At this time
+                though the city was not in ruins, and a few of the Elders
+                still lived there. It became a centre of worship for the
+                humans.
+            </para>
+            <para>
+                As the water receded, and the land shifted, the city collapsed
+                and the Elders left, leaving behind a set of ruins that became
+                a home to bandits and outlaws over the following centuries.
+                This particular part of the Sodden Lands became known as
+                <qv uri="stencmor">Stencmor</qv>, as the long submerged
+                vegetation was exposed to the air and started decomposing.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
