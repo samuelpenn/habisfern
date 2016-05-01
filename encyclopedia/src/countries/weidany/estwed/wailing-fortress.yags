@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Wailing Fortress</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2016</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="wailing-fortress">The Wailing Fortress</subject>
+
+            <category>Ruins</category>
+
+            <topic uri="estwed-shire">Estwed Shire</topic>
+            <topic uri="weidany">Weidany</topic>
+            <topic uri="euressa">Euressa</topic>
+            <topic uri="habisfern">Habisfern</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>The Wailing Fortress</title>
+
+            <para>
+                About half a league north of the <qv uri="dry-valley">Dry Valley</qv>,
+                sitting atop the cliffs, is a small set of stone ruins that were
+                originally built by the <qv uri="shortfolk">Short Folk</qv>. They were
+                said to have been deserted when humans first came past the place, so
+                it is unclear just how old they are, or what their original purpose
+                was.
+            </para>
+            <para>
+                The largest structure is a crumbling tower about ten metres tall, the
+                rest of the buildings, which number about a dozen, are no more than
+                two to three metres high. The remains of a wall encircle the ruins,
+                though this is almost completely broken and can be easily stepped
+                over in all but a few places.
+            </para>
+            <para>
+                There is a definite feeling of unease about the place, especially at
+                night, and those that camp within sight of the ruins are often woken
+                to the sounds of a pain filled ghostly wailing that issues from them.
+                Those that try to stay here overnight often leave within a few hours,
+                and those that don't are found dead in the morning with no marks on
+                them.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
