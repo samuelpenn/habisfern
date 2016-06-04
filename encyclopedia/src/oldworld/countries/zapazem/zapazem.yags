@@ -36,7 +36,7 @@
         <topics>
             <subject uri="zapazem">Zapazem</subject>
 
-            <category>Countries</category>>
+            <category>Countries</category>
 
             <topic uri="zapazem">Zapazem</topic>
             <topic uri="baruntal">Burantal</topic>
@@ -64,6 +64,16 @@
                 King claims it as his own, taxes are rarely successfully collected,
                 and the plainsmen of the north only respect the authority of the
                 kingdom when its soldiers are sitting outside their yurts.
+            </para>
+            <para>
+                Zapazem has little influence to the north, for the tribes in this
+                direction are too wide spread and disorganised to be a good source
+                of income. To the south, influence is greater because the various
+                city states are better organised, and have a greater requirement
+                for trade. Many of them use the coinage minted in
+                <qv uri="damba">Damba</qv> as their base currency, though there is
+                also influence from the <qv uri="tulthon-empire">Tulthon Empire</qv>
+                as well.
             </para>
         </sect1>
     </body>

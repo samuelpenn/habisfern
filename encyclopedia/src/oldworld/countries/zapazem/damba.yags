@@ -35,7 +35,7 @@
         <topics>
             <subject uri="damba">Damba</subject>
 
-            <category>Cities</category>>
+            <category>Cities</category>
 
             <topic uri="zapazem">Zapazem</topic>
             <topic uri="baruntal">Burantal</topic>
@@ -59,6 +59,36 @@
                 by the King of Zapazem, aided by the richest of the merchants
                 who now dwell here.
             </para>
+
+            <sect2>
+                <title>Politics</title>
+                <para>
+                    <qv uri="king-mefodiy-iii">King Mefodiy III</qv> rules Damba from
+                    his iron palace that sits atop the promontory overlooking the
+                    harbour. Anyone of important lives in the buildings around the
+                    palace, where the King can keep a close eye on them. Spying and
+                    intrigue is an important part of what keeps the city running.
+                </para>
+                <para>
+                    According to law, the King wields ultimate power, but in practice
+                    his authority has checks and balances mostly enforced by how the
+                    money flows to his coffers. Trade agreements, bribery and blackmail
+                    are the currency which drive trade, and therefore having control
+                    over these is what keeps King Mefodiy in power.
+                </para>
+
+                <sect3>
+                    <title>Trade</title>
+                    <para>
+                        Trade is seen as an extension of politics, and therefore anyone
+                        who wants to do business in Damba (and to some extent, in
+                        <qv uri="zapazem">Zapazem</qv>) needs to get involved in politics.
+                        Trade comes from the horse tribes to the east, from the farmland
+                        in northern Zapazem, as well as more exotic locations to the
+                        south.
+                    </para>
+                </sect3>
+            </sect2>
         </sect1>
     </body>
 </article>
