@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Solonchaki</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2016</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="solonchaki">Solonchaki</subject>
+
+            <category>Marshes</category>
+
+            <topic uri="zapazem">Zapazem</topic>
+            <topic uri="baruntal">Burantal</topic>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+    <!-- The Salt Marshes. солончаки -->
+    <body>
+        <sect1>
+            <title>Solonchaki</title>
+
+            <para>
+                The <e>Salt Marshes</e> as they are generally known are 30 leagues of
+                salt water wetlands that stretch along the coast of northern Zapazem.
+                Sometimes the name is also given to the countless islands that sit
+                off the coast, but these are more properly are
+                <qv uri="stovostrovki">Stovostrovki</qv>, or <e>the hundred isles</e>.
+            </para>
+            <para>
+                Fishing is the main source of food in the marshes, for they make for
+                good breeding grounds for all kinds of fish that are found in the
+                western sea. The people are generally unfriendly towards strangers,
+                and have a reputation of being willing to murder travellers in the
+                night for their goods.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
