@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Stovostrovki</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2016</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="stovostrovki">Stovostrovki</subject>
+
+            <category>Islands</category>
+
+            <topic uri="zapazem">Zapazem</topic>
+            <topic uri="baruntal">Burantal</topic>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+    <!-- The Hundred Isles. (sto ostrovki) сто островки -->
+    <body>
+        <sect1>
+            <title>Stovostrovki</title>
+
+            <para>
+                The <e>Hundred Isles</e> are a collection of many small islands
+                of the northwestern coast of Zapazem. Many of the islands are
+                only visible at low tide, making the entire region dangerous to
+                navigate for those not suitably prepared.
+            </para>
+            <para>
+                Many of the islands are wetlands, and there is little in the way
+                of good farming land here. Instead, most of the settlements in
+                these islands are fisherman rather than farmers.
+            </para>
+            <para>
+                The further north and west you go, the inhabitants become more
+                independent and unlikely to welcome strangers. Rumours persist
+                that some of them worship inhuman gods that dwell beneath the
+                sea, possibly some offspring of <qv uri="dalvi">Dalvi</qv>.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
