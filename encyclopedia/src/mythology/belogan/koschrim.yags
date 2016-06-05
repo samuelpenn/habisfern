@@ -35,7 +35,8 @@
         <topics>
             <subject uri="koschrim">Koschrim</subject>
 
-            <category>Gods</category>>>
+            <category>Gods</category>
+
             <topic uri="belogan-mythology">Belogan Mythology</topic>
             <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
             <topic uri="euressa">Euressa</topic>
@@ -47,22 +48,38 @@
             <title>Koschrim</title>
 
             <para>
-                Koschrim is Chaos. He is the god of destruction 
-                for the sake of destruction. He is the end of all 
-                things that will swallow the world. Koschrim may 
-                be part of <qv uri="beloga">Beloga</qv>, or may 
-                have come from outside it. At any rate, Koschrim 
-                represents senseless evil and destruction.
+                <e>Koschrim</e> is Chaos personified. He is the god of destruction,
+                annihilation and despair. If <qv uri="beloga">Beloga</qv> was the
+                beginning, then Koschrim is the end. <qv uri="makosh">Makosh</qv>
+                foretold that at the end of time Koschrim would swallow the world,
+                and everything would be undone.
             </para>
-
             <para>
-                There are a few cults that worship Koschrim, but 
-                they are proscribed throughout the Eastern 
-                Kingdoms. They are generally small and 
-                disorganised, and seek to  bring about anarchy 
-                and death wherever possible.
+                The origin of <e>Koschrim</e> is not known for he was not born by
+                any of the other gods, and may be as old as Beloga himself. He was
+                first named during the <qv uri="belogan-great-winter">Great Winter</qv>,
+                when he was called upon by <qv uri="svargi">Svargi</qv> to aid in the
+                battle against the Ice.
+            </para>
+            <para>
+                Though the few cults that worship Koschrim delight in senseless
+                slaughter and destruction, Koschrim is simply an uncaring force of
+                the universe, who does not actively seek the suffering of others.
+                He merely views chaos and disorder as the natural state of things, and
+                seeks to tear things down. If others are destroyed by this, then so
+                be it. This is how things are meant to be - in the end, all things fail
+                and come to an end.
             </para>
 
+            <sect2>
+                <title>Cults of Koschrim</title>
+
+                <para>
+                    Worshippers of Koschrim are rare, but not unheard of. Worship
+                    of him is proscribed in most civilised lands, for his cults
+                    generally seek the destruction of society.
+                </para>
+            </sect2>
         </sect1>
     </body>
 </article>
