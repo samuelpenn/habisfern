@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Chovski</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2014</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="chovski">Chovski</subject>
+
+            <category>Cities</category>
+
+            <topic uri="zapazem">Zapazem</topic>
+            <topic uri="baruntal">Burantal</topic>
+            <topic uri="old-world">Old World</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Chovski</title>
+
+            <para>
+                Chovski is a port city on the western shores of Zapazem, about ten
+                leagues south of <qv uri="damba">Damba</qv>. At one time, Chovski was
+                a major rival to Damba, but about 150 years ago it went into decline
+                following a series of political cleansings enforced by King Ivan,
+                which sent the city into a death spiral of murder and political
+                assassinations from which it has only recently recovered.
+            </para>
+            <para>
+                The city currently has a population of about 20,000.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
