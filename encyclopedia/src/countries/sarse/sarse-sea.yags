@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Sea of Sarse</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2016</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+            <see uri="sarse">Sarse</see>
+        </references>
+
+        <topics>
+            <subject uri="sarse-sea">Sea of Sarse</subject>
+
+            <category>Seas</category>
+
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="sarse">Sarse</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Seas of Sarse</title>
+
+            <para>
+                The <e>Sea of Sarse</e> is defined as the coastal waters between
+                the <qv uri="dragon-sea">Dragon Sea</qv> and the
+                <qv uri="pavnik-peninsula">Pavnik Peninsula</qv>. It is often,
+                especially in the winter months, battered by winds from the
+                south west, which bring warm air up from the tropics.
+            </para>
+            <para>
+                Given the lack of any strong leadership in Sarse, the coastline
+                is home to many pirates and raiders, who think nothing of
+                attacking undefended merchant ships sailing the waters.
+            </para>
+        </sect1>
+    </body>
+</article>
+
+
