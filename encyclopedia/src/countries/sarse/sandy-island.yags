@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+
+<article xmlns="http://yagsbook.sourceforge.net/xml">
+    <header>
+        <title>Sandy Island</title>
+        <tagline>Habisfern</tagline>
+
+        <slugline/>
+
+        <author>
+            <fullname>Samuel Penn</fullname>
+            <email>sam@glendale.org.uk</email>
+        </author>
+
+        <cvsinfo>
+            <version>$Revision$</version>
+            <date>$Date$</date>
+        </cvsinfo>
+
+        <license type="Yags">
+            <year>2016</year>
+            <holder>Samuel Penn</holder>
+            <text>
+                This document can be redistributed and/or modified
+                under the terms of the GNU Public License as published
+                by the Free Software Foundation version 2.
+            </text>
+        </license>
+
+        <style name="module"/>
+
+        <references>
+        </references>
+
+        <topics>
+            <subject uri="sandy-island">Sandy Island</subject>
+
+            <category>Islands</category>>
+
+            <topic uri="sord-gulf">Sord Gulf</topic>
+            <topic uri="sarse">Sarse</topic>
+            <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
+            <topic uri="euressa">Euressa</topic>
+        </topics>
+    </header>
+
+    <body>
+        <sect1>
+            <title>Sandy Island</title>
+
+            <para>
+                Sitting at the end of the <qv uri="sord-gulf">Sord Gulf</qv>,
+                <e>Sandy Island</e> is about six leagues long, and bordered by
+                great beaches which give the island its name. The beaches are
+                extremely shallow, up to several hundred metres from low to
+                high tide in places, and given the tidal range of the Gulf,
+                they are considered particularly dangerous.
+            </para>
+            <para>
+                The central parts of the island are particularly high, with
+                steep ridges and hill sides leading up to the central forests.
+                Other than the beaches, the island is covered in thick
+                deciduous forest, mostly oak, ash and elm. These are home to
+                swarms of bats, that generally nest in the trees on the lower
+                slopes of the island.
+            </para>
+            <sect2>
+                <title>Population</title>
+                <para>
+                    Despite the size of the island, it is only sparsely
+                    inhabited. Various rumours and superstitions about the
+                    place prevent people from wanting to settle here. There
+                    are a couple of small forts along the shore, used by
+                    the <qv uri="earldom-withnorl">Earldom</qv> to provide
+                    early warning against enemies, but apart than that most
+                    settlements are the odd small family farmsteads or
+                    transients who have been there for less than a year.
+                </para>
+            </sect2>
+        </sect1>
+    </body>
+</article>
+
+
