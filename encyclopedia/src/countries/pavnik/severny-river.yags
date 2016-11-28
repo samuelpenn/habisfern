@@ -2,7 +2,7 @@
 
 <article xmlns="http://yagsbook.sourceforge.net/xml">
     <header>
-        <title>Masnov</title>
+        <title>Severny River</title>
         <tagline>Habisfern</tagline>
 
         <slugline/>
@@ -18,7 +18,7 @@
         </cvsinfo>
 
         <license type="Yags">
-            <year>2014</year>
+            <year>2016</year>
             <holder>Samuel Penn</holder>
             <text>
                 This document can be redistributed and/or modified
@@ -33,9 +33,9 @@
         </references>
 
         <topics>
-            <subject uri="masnov">Masnov</subject>
+            <subject uri="severny-river">Severny River</subject>
 
-            <category>Towns</category>
+            <category>Rivers</category>
             <topic uri="eastern-kingdoms">Eastern Kingdoms</topic>
             <topic uri="pavnik">Pavnik</topic>
             <topic uri="euressa">Euressa</topic>
@@ -44,22 +44,13 @@
 
     <body>
         <sect1>
-            <title>Masnov</title>
+            <title>Severny River</title>
 
             <para>
-                Masnov is the capital city of <qv uri="pavnik">Pavnik</qv>, with
-                a population of around six to seven thousand. It is notable in
-                that it has a stone keep and about half the town consists of
-                permanent dwellings inside a wooden palisade. The buildings along
-                the three main roads into the city are also permanent, but the
-                rest of the dwellings are wagons similar to other towns in
-                Pavnik.
-            </para>
-            <para>
-                The city is located in the south of the country, where the
-                majority of the population is. It is close with the border
-                with <qv uri="sarse">Sarse</qv>, sitting on the flood plain
-                of the <qv uri="severny-river">Severny River</qv>.
+                Runs from the <qv uri="withrican-mountains">Mountains</qv>
+                in the north almost directly south to the coast. By the
+                time it reaces the open plains it is a wide, slow flowing
+                river that floods most years.
             </para>
         </sect1>
     </body>
